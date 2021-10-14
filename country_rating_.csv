@@ -1,0 +1,8401 @@
+,Country,Number of Users,Average Rating
+0,Argentina,7,7.57
+1,Australia,36,7.17
+2,Austria,10,7.53
+3,Belarus,2,7.5
+4,Belgium,18,7.55
+5,Bolivia,1,7.0
+6,Brazil,32,7.28
+7,Brunei,1,8.0
+8,Bulgaria,3,5.67
+9,Canada,98,7.21
+10,Chile,9,7.99
+11,China,4,7.1
+12,Colombia,3,7.57
+13,Croatia,1,6.0
+14,Czech Republic,5,7.7
+15,Denmark,8,6.19
+16,England,4,7.5
+17,Estonia,5,7.08
+18,Finland,32,7.32
+19,France,27,6.93
+20,Germany,123,7.58
+21,Greece,17,7.07
+22,Hungary,19,7.31
+23,Iceland,1,6.0
+24,India,1,7.0
+25,Ireland,4,8.0
+26,Israel,5,6.8
+27,Italy,32,7.06
+28,Japan,40,6.99
+29,Latvia,9,6.74
+30,Lithuania,7,7.71
+31,Luxembourg,1,7.0
+32,Malaysia,6,8.08
+33,Mexico,6,8.0
+34,Netherlands,25,7.25
+35,New Zealand,11,6.91
+36,Norway,11,6.77
+37,Philippines,1,9.0
+38,Poland,47,7.43
+39,Portugal,5,6.63
+40,Romania,5,7.8
+41,Russia,11,6.5
+42,Saudi Arabia,1,7.0
+43,Republic of Serbia,5,7.7
+44,Slovakia,1,7.0
+45,South Africa,3,7.33
+46,South Korea,24,7.43
+47,Spain,83,7.58
+48,Sweden,17,7.01
+49,Switzerland,8,7.75
+50,Taiwan,20,7.44
+51,Thailand,6,7.5
+52,Ukraine,3,7.67
+53,USA,463,7.14
+54,Uruguay,1,10.0
+55,Vietnam,1,6.0
+56,Argentina,24,8.12
+57,Australia,110,8.05
+58,Austria,14,8.5
+59,Belarus,2,8.25
+60,Belgium,58,8.33
+61,Bolivia,2,9.0
+62,Brazil,107,8.71
+63,Brunei,1,9.0
+64,Bulgaria,10,8.35
+65,Canada,362,8.31
+66,Chile,15,8.17
+67,China,28,8.23
+68,Colombia,8,8.09
+69,Costa Rica,2,7.5
+70,Croatia,5,8.04
+71,Czech Republic,13,7.65
+72,Denmark,26,7.99
+73,England,16,7.74
+74,Estonia,9,9.17
+75,Finland,42,8.44
+76,France,55,8.59
+77,Germany,212,8.41
+78,Greece,56,8.34
+79,Guatemala,1,9.5
+80,Honduras,1,8.0
+81,Hungary,29,8.46
+82,Iceland,4,8.13
+83,India,3,8.0
+84,Indonesia,8,8.63
+85,Iran,3,7.9
+86,Iraq,1,9.0
+87,Ireland,14,8.3
+88,Israel,15,8.03
+89,Italy,86,7.9
+90,Japan,38,7.43
+91,Latvia,12,8.4
+92,Lebanon,1,7.0
+93,Lithuania,16,8.05
+94,Luxembourg,2,8.0
+95,Macedonia,2,8.5
+96,Malaysia,9,8.33
+97,Mexico,21,8.86
+98,Moldova,2,8.75
+99,Netherlands,48,7.96
+100,New Zealand,28,7.79
+101,Norway,19,8.62
+102,Peru,4,8.63
+103,Philippines,10,8.5
+104,Poland,116,8.43
+105,Portugal,29,8.41
+106,Qatar,2,8.0
+107,Romania,22,8.61
+108,Russia,21,8.88
+109,Saudi Arabia,2,7.5
+110,Republic of Serbia,12,8.98
+111,Slovakia,3,8.98
+112,Slovenia,3,8.67
+113,South Africa,10,8.7
+114,South Korea,25,7.44
+115,Spain,174,8.17
+116,Sri Lanka,1,9.0
+117,Sweden,63,8.1
+118,Switzerland,20,8.02
+119,Taiwan,31,8.06
+120,Thailand,16,8.23
+121,Turkey,2,8.5
+122,Uganda,1,7.0
+123,Ukraine,18,8.17
+124,USA,2023,8.23
+125,Uruguay,3,9.03
+126,Venezuela,2,9.0
+127,Vietnam,3,8.0
+128,Argentina,14,8.65
+129,Australia,51,8.22
+130,Austria,11,8.27
+131,Belarus,2,7.5
+132,Belgium,26,8.59
+133,Bolivia,1,9.0
+134,Brazil,38,8.82
+135,Bulgaria,3,9.33
+136,Canada,132,8.38
+137,Chile,9,8.97
+138,China,18,8.36
+139,Colombia,3,8.17
+140,Croatia,3,8.0
+141,Czech Republic,9,9.11
+142,Denmark,11,7.67
+143,Ecuador,2,8.25
+144,England,11,8.55
+145,Estonia,3,8.83
+146,Finland,11,8.05
+147,France,32,8.65
+148,Germany,109,8.43
+149,Greece,23,8.67
+150,Guatemala,1,7.0
+151,Hungary,13,8.0
+152,Iceland,3,9.0
+153,India,6,8.75
+154,Indonesia,4,8.75
+155,Iran,2,6.5
+156,Ireland,6,9.08
+157,Israel,6,8.8
+158,Italy,48,8.09
+159,Japan,18,7.89
+160,Latvia,6,8.54
+161,Lebanon,1,8.0
+162,Lithuania,7,8.64
+163,Luxembourg,1,7.0
+164,Malaysia,2,8.5
+165,Mexico,9,9.08
+166,Moldova,1,10.0
+167,Netherlands,30,8.3
+168,New Zealand,8,8.15
+169,Norway,9,8.67
+170,Paraguay,1,9.0
+171,Philippines,4,8.75
+172,Poland,65,8.86
+173,Portugal,14,8.56
+174,Qatar,1,7.4
+175,Romania,11,8.87
+176,Russia,11,8.45
+177,Rwanda,1,7.0
+178,Saudi Arabia,1,8.0
+179,Republic of Serbia,9,9.33
+180,Slovakia,4,8.43
+181,Slovenia,3,9.33
+182,South Africa,4,7.95
+183,South Korea,17,7.85
+184,Spain,119,8.48
+185,Sweden,33,7.85
+186,Switzerland,7,8.36
+187,Taiwan,13,8.43
+188,Thailand,9,8.89
+189,Ukraine,11,8.59
+190,USA,688,8.39
+191,Uruguay,1,9.0
+192,Venezuela,1,10.0
+193,Vietnam,2,9.38
+194,Argentina,9,8.47
+195,Australia,43,7.3
+196,Austria,2,9.0
+197,Belarus,2,7.25
+198,Belgium,14,8.1
+199,Bolivia,1,8.0
+200,Brazil,51,8.61
+201,Bulgaria,7,8.0
+202,Canada,100,7.99
+203,Chile,9,8.1
+204,China,19,7.43
+205,Colombia,4,8.75
+206,Croatia,4,7.55
+207,Czech Republic,5,7.22
+208,Denmark,4,6.25
+209,Ecuador,1,9.0
+210,England,2,6.0
+211,Estonia,3,8.53
+212,Finland,9,8.06
+213,France,6,7.67
+214,Germany,50,8.04
+215,Greece,18,8.19
+216,Hungary,4,6.5
+217,Iceland,2,8.5
+218,India,1,10.0
+219,Indonesia,2,8.25
+220,Ireland,6,7.5
+221,Israel,5,6.71
+222,Italy,36,7.65
+223,Japan,2,4.0
+224,Latvia,6,7.8
+225,Lebanon,1,7.0
+226,Lithuania,9,8.33
+227,Macedonia,2,8.5
+228,Malaysia,4,9.28
+229,Mexico,8,6.56
+230,Moldova,1,9.0
+231,Netherlands,9,8.27
+232,New Zealand,8,7.6
+233,Norway,5,7.58
+234,Paraguay,1,8.0
+235,Peru,3,9.0
+236,Philippines,3,9.67
+237,Poland,64,8.21
+238,Portugal,12,8.59
+239,Qatar,1,7.6
+240,Romania,8,7.87
+241,Russia,14,8.0
+242,Republic of Serbia,6,8.33
+243,Slovakia,2,8.0
+244,Slovenia,1,10.0
+245,South Africa,5,7.2
+246,South Korea,7,7.0
+247,Spain,81,8.23
+248,Sweden,21,7.9
+249,Switzerland,4,8.38
+250,Taiwan,9,7.18
+251,Thailand,6,8.0
+252,Turkey,1,8.5
+253,Uganda,1,8.5
+254,Ukraine,4,8.93
+255,USA,430,7.82
+256,Uruguay,2,9.25
+257,Venezuela,1,7.0
+258,Vietnam,3,6.0
+259,Australia,42,7.17
+260,Austria,10,7.8
+261,Belgium,16,7.9
+262,Brazil,19,8.15
+263,Bulgaria,2,8.5
+264,Canada,139,7.69
+265,Chile,5,8.06
+266,China,16,7.91
+267,Colombia,4,9.0
+268,Croatia,2,7.0
+269,Czech Republic,1,5.0
+270,Denmark,12,7.29
+271,Ecuador,1,10.0
+272,England,6,8.0
+273,Estonia,1,10.0
+274,Finland,11,7.68
+275,France,7,6.63
+276,Germany,80,7.48
+277,Greece,12,7.42
+278,Guatemala,1,10.0
+279,Hungary,2,8.1
+280,Iceland,1,8.0
+281,India,3,8.67
+282,Indonesia,2,7.6
+283,Ireland,4,7.38
+284,Israel,4,7.75
+285,Italy,28,7.37
+286,Japan,30,7.83
+287,Latvia,3,7.67
+288,Lithuania,2,7.5
+289,Malaysia,7,7.64
+290,Mexico,6,8.17
+291,Moldova,1,10.0
+292,Netherlands,22,7.81
+293,New Zealand,11,7.18
+294,Norway,13,7.5
+295,Panama,1,8.0
+296,Philippines,4,7.75
+297,Poland,11,7.37
+298,Portugal,6,6.92
+299,Romania,4,8.88
+300,Russia,2,6.5
+301,Saudi Arabia,1,8.0
+302,Republic of Serbia,2,7.5
+303,Slovenia,3,7.67
+304,South Africa,2,7.0
+305,South Korea,37,8.14
+306,Spain,38,7.63
+307,Sweden,20,7.56
+308,Switzerland,5,6.6
+309,Taiwan,11,7.32
+310,Thailand,8,8.19
+311,Ukraine,1,6.0
+312,USA,1254,7.83
+313,Venezuela,3,7.67
+314,Argentina,22,8.91
+315,Australia,98,8.17
+316,Austria,23,9.34
+317,Belarus,1,5.0
+318,Belgium,67,8.4
+319,Bolivia,1,9.0
+320,Brazil,93,8.86
+321,Bulgaria,3,8.67
+322,Canada,373,8.4
+323,Chile,15,8.79
+324,China,32,8.4
+325,Colombia,7,8.77
+326,Croatia,5,9.12
+327,Cyprus,1,8.0
+328,Czech Republic,27,8.5
+329,Denmark,28,8.8
+330,Ecuador,1,10.0
+331,England,23,8.61
+332,Estonia,11,8.2
+333,Finland,39,8.91
+334,France,45,8.67
+335,Germany,231,8.74
+336,Greece,43,8.75
+337,Guatemala,1,9.0
+338,Honduras,1,8.5
+339,Hungary,18,8.56
+340,Iceland,3,8.83
+341,India,3,8.33
+342,Indonesia,8,8.4
+343,Iran,1,8.0
+344,Ireland,11,8.64
+345,Israel,15,8.08
+346,Italy,77,8.34
+347,Japan,32,7.97
+348,Latvia,5,9.0
+349,Lithuania,13,8.88
+350,Luxembourg,3,9.0
+351,Malaysia,11,7.9
+352,Mexico,14,9.31
+353,Mongolia,1,10.0
+354,Netherlands,75,8.37
+355,New Zealand,27,7.99
+356,Norway,20,8.91
+357,Panama,1,9.5
+358,Peru,6,7.83
+359,Philippines,8,8.0
+360,Poland,140,8.42
+361,Portugal,17,8.03
+362,Qatar,1,7.2
+363,Romania,18,8.39
+364,Russia,20,8.28
+365,Republic of Serbia,7,8.89
+366,Slovakia,4,6.78
+367,Slovenia,4,9.0
+368,South Africa,7,8.0
+369,South Korea,37,8.24
+370,Spain,233,8.55
+371,Sweden,65,7.86
+372,Switzerland,19,8.53
+373,Taiwan,37,8.94
+374,Thailand,12,8.71
+375,Trinidad and Tobago,1,9.0
+376,Ukraine,8,7.61
+377,USA,1902,8.28
+378,Uruguay,1,9.5
+379,Venezuela,2,7.5
+380,Vietnam,4,8.88
+381,Argentina,20,7.76
+382,Australia,82,7.4
+383,Austria,17,7.88
+384,Belgium,45,7.24
+385,Brazil,33,7.95
+386,Brunei,1,7.0
+387,Bulgaria,5,7.8
+388,Canada,218,7.65
+389,Chile,12,7.17
+390,China,9,7.74
+391,Colombia,2,7.5
+392,Croatia,9,7.63
+393,Cyprus,1,8.0
+394,Czech Republic,17,6.94
+395,Denmark,14,7.0
+396,England,15,7.01
+397,Estonia,6,6.53
+398,Finland,39,6.96
+399,France,26,7.06
+400,Germany,180,7.23
+401,Greece,42,7.71
+402,Guatemala,1,7.0
+403,Hungary,28,7.44
+404,Iceland,2,8.25
+405,India,2,7.0
+406,Indonesia,3,7.5
+407,Ireland,10,7.38
+408,Israel,7,7.13
+409,Italy,55,7.48
+410,Japan,29,7.27
+411,Latvia,4,8.0
+412,Lithuania,17,7.02
+413,Luxembourg,3,6.33
+414,Malaysia,4,7.38
+415,Mexico,10,8.0
+416,Moldova,1,8.0
+417,Netherlands,43,7.72
+418,New Zealand,26,7.36
+419,Norway,20,7.2
+420,Philippines,4,6.25
+421,Poland,38,7.83
+422,Portugal,22,7.68
+423,Qatar,1,4.0
+424,Romania,10,8.2
+425,Russia,7,7.0
+426,Saudi Arabia,1,9.0
+427,Republic of Serbia,5,8.4
+428,Slovakia,3,7.73
+429,Slovenia,4,8.88
+430,South Africa,6,7.0
+431,South Korea,26,7.96
+432,Spain,112,7.32
+433,Sweden,35,7.26
+434,Switzerland,12,7.25
+435,Taiwan,13,7.98
+436,Thailand,6,8.3
+437,Uganda,1,6.5
+438,Ukraine,1,7.0
+439,USA,1101,7.55
+440,Venezuela,1,10.0
+441,Argentina,8,7.38
+442,Australia,32,7.79
+443,Austria,4,6.25
+444,Belgium,6,9.33
+445,Bolivia,1,8.0
+446,Brazil,20,8.01
+447,Bulgaria,3,7.67
+448,Canada,109,8.2
+449,Chile,6,7.92
+450,China,13,8.0
+451,Colombia,2,9.0
+452,Croatia,1,10.0
+453,Czech Republic,5,7.4
+454,Denmark,5,8.16
+455,England,4,6.25
+456,Finland,11,8.45
+457,France,11,8.23
+458,Germany,54,8.12
+459,Greece,10,8.39
+460,Guatemala,1,9.0
+461,Hungary,2,7.0
+462,Iceland,2,9.0
+463,Indonesia,2,9.0
+464,Ireland,2,7.0
+465,Israel,2,4.5
+466,Italy,19,7.95
+467,Japan,8,7.5
+468,Latvia,3,8.0
+469,Lithuania,5,8.84
+470,Luxembourg,1,8.0
+471,Macedonia,1,7.0
+472,Malaysia,2,8.5
+473,Mexico,5,7.9
+474,Netherlands,10,7.98
+475,New Zealand,6,7.62
+476,Norway,4,7.5
+477,Peru,1,7.0
+478,Philippines,3,7.33
+479,Poland,24,8.23
+480,Portugal,7,8.41
+481,Qatar,1,4.0
+482,Romania,4,9.44
+483,Russia,6,7.54
+484,Republic of Serbia,2,7.25
+485,Slovakia,1,9.5
+486,South Africa,3,9.0
+487,South Korea,13,7.51
+488,Spain,35,7.54
+489,Sweden,15,8.33
+490,Switzerland,5,8.0
+491,Taiwan,8,8.76
+492,Thailand,1,4.0
+493,Turkey,1,8.5
+494,Ukraine,2,8.95
+495,USA,540,7.92
+496,Venezuela,1,5.0
+497,Vietnam,1,9.0
+498,Argentina,1,7.0
+499,Australia,35,6.25
+500,Austria,2,6.5
+501,Belgium,7,6.0
+502,Brazil,4,6.0
+503,Canada,168,6.73
+504,Chile,4,7.15
+505,China,3,6.0
+506,Colombia,3,6.0
+507,Denmark,2,6.5
+508,England,6,7.58
+509,Finland,12,6.68
+510,France,4,6.5
+511,Germany,39,6.25
+512,Greece,1,8.0
+513,Guatemala,1,8.0
+514,Hungary,1,6.5
+515,India,2,6.5
+516,Ireland,6,7.5
+517,Israel,3,5.67
+518,Italy,4,7.75
+519,Japan,9,5.07
+520,Malaysia,4,5.63
+521,Mexico,1,6.5
+522,Netherlands,6,7.5
+523,New Zealand,7,7.07
+524,Norway,3,7.0
+525,Philippines,1,6.0
+526,Poland,15,6.27
+527,Russia,1,5.0
+528,South Africa,1,5.0
+529,South Korea,6,7.0
+530,Spain,16,7.07
+531,Sweden,12,6.83
+532,Switzerland,2,7.5
+533,Taiwan,3,8.0
+534,USA,1518,6.47
+535,Uruguay,1,7.0
+536,Venezuela,1,9.0
+537,Argentina,11,6.55
+538,Australia,55,7.13
+539,Austria,12,7.58
+540,Belarus,1,9.0
+541,Belgium,12,7.29
+542,Bolivia,1,9.0
+543,Brazil,27,8.24
+544,Bulgaria,1,9.0
+545,Canada,181,7.53
+546,Chile,8,7.36
+547,China,14,7.57
+548,Colombia,1,8.0
+549,Croatia,5,7.8
+550,Czech Republic,12,6.38
+551,Denmark,14,7.64
+552,England,6,8.33
+553,Estonia,5,8.3
+554,Finland,31,7.41
+555,France,18,7.54
+556,Germany,104,7.7
+557,Greece,23,8.05
+558,Hungary,13,7.32
+559,Iceland,2,8.0
+560,Indonesia,2,7.6
+561,Ireland,6,7.67
+562,Israel,6,7.33
+563,Italy,42,7.32
+564,Japan,5,5.2
+565,Lebanon,1,9.0
+566,Lithuania,8,7.25
+567,Luxembourg,1,8.2
+568,Macedonia,2,8.0
+569,Malaysia,6,6.3
+570,Mexico,11,7.55
+571,Moldova,1,8.0
+572,Netherlands,16,7.85
+573,New Zealand,7,6.76
+574,Norway,14,6.36
+575,Peru,2,7.0
+576,Philippines,5,7.1
+577,Poland,62,7.71
+578,Portugal,5,7.82
+579,Romania,3,8.9
+580,Russia,16,7.19
+581,Republic of Serbia,1,8.0
+582,Slovenia,1,8.0
+583,South Korea,18,6.42
+584,Spain,115,7.72
+585,Sweden,45,6.88
+586,Switzerland,7,8.57
+587,Taiwan,8,7.6
+588,Thailand,2,6.0
+589,Turkey,2,8.0
+590,Ukraine,8,7.58
+591,USA,1105,7.4
+592,Venezuela,1,7.0
+593,Vietnam,2,8.5
+594,Argentina,1,7.5
+595,Australia,26,6.6
+596,Austria,1,10.0
+597,Belgium,12,6.63
+598,Brazil,9,6.83
+599,Canada,187,6.85
+600,Chile,1,8.0
+601,China,3,7.27
+602,Croatia,4,7.0
+603,Czech Republic,1,9.0
+604,Denmark,13,6.54
+605,Fiji,1,8.0
+606,Finland,8,6.56
+607,France,3,5.33
+608,Germany,45,6.68
+609,Greece,9,7.0
+610,Hungary,1,8.0
+611,Iceland,2,7.0
+612,India,1,4.0
+613,Ireland,1,9.0
+614,Israel,3,8.33
+615,Italy,39,7.18
+616,Latvia,1,6.0
+617,Lithuania,1,8.0
+618,Malaysia,3,6.53
+619,Mexico,5,6.64
+620,Netherlands,20,7.34
+621,New Zealand,7,7.04
+622,Norway,10,5.7
+623,Peru,2,7.25
+624,Portugal,4,6.75
+625,Qatar,1,7.8
+626,Romania,2,8.0
+627,Russia,1,7.0
+628,Slovenia,3,7.33
+629,South Africa,1,3.0
+630,South Korea,5,7.2
+631,Spain,12,6.96
+632,Sweden,25,6.02
+633,Switzerland,3,8.0
+634,Thailand,1,9.0
+635,Turkey,1,7.0
+636,Ukraine,1,4.0
+637,USA,968,6.81
+638,Venezuela,1,9.0
+639,Argentina,7,8.43
+640,Australia,39,8.18
+641,Austria,6,8.6
+642,Belarus,1,6.0
+643,Belgium,24,7.88
+644,Bolivia,1,10.0
+645,Brazil,32,8.91
+646,Bulgaria,1,5.0
+647,Canada,94,8.29
+648,Chile,8,8.44
+649,China,12,8.27
+650,Colombia,3,9.5
+651,Croatia,3,9.33
+652,Czech Republic,4,9.25
+653,Denmark,3,7.67
+654,England,10,7.95
+655,Estonia,1,9.0
+656,Finland,8,7.78
+657,France,23,8.19
+658,Germany,91,8.14
+659,Greece,13,8.71
+660,Guatemala,1,7.5
+661,Hungary,10,8.36
+662,Iceland,1,7.0
+663,India,3,9.0
+664,Indonesia,2,9.0
+665,Iran,2,9.5
+666,Ireland,5,8.8
+667,Israel,4,7.13
+668,Italy,31,8.1
+669,Japan,17,7.91
+670,Latvia,4,7.75
+671,Lithuania,4,8.88
+672,Malaysia,2,9.25
+673,Mexico,18,9.15
+674,Netherlands,25,7.89
+675,New Zealand,8,7.63
+676,Norway,8,7.96
+677,Peru,3,8.67
+678,Philippines,4,9.5
+679,Poland,30,8.06
+680,Portugal,12,8.52
+681,Romania,6,8.81
+682,Russia,5,9.2
+683,Saudi Arabia,1,9.0
+684,Republic of Serbia,2,7.75
+685,Slovakia,1,8.0
+686,Slovenia,3,9.33
+687,South Africa,3,8.0
+688,South Korea,6,6.73
+689,Spain,64,8.3
+690,Sri Lanka,1,8.0
+691,Sweden,17,8.09
+692,Switzerland,7,7.5
+693,Taiwan,10,7.78
+694,Thailand,5,7.3
+695,Ukraine,3,9.37
+696,USA,517,8.19
+697,Uruguay,1,8.0
+698,Venezuela,1,6.0
+699,Vietnam,1,8.91
+700,Argentina,3,9.17
+701,Australia,35,6.54
+702,Austria,3,9.0
+703,Belgium,8,6.69
+704,Brazil,18,7.22
+705,Bulgaria,1,10.0
+706,Canada,113,7.28
+707,Chile,8,6.44
+708,China,2,8.45
+709,Colombia,1,7.0
+710,Costa Rica,1,7.0
+711,Czech Republic,1,6.5
+712,Denmark,13,6.38
+713,England,5,6.8
+714,Estonia,4,7.75
+715,Finland,17,6.75
+716,France,11,7.1
+717,Germany,61,6.82
+718,Greece,26,7.17
+719,Guatemala,1,7.0
+720,Hungary,4,7.13
+721,Iceland,1,8.5
+722,India,1,7.0
+723,Ireland,1,6.0
+724,Israel,4,6.0
+725,Italy,24,7.31
+726,Japan,15,7.21
+727,Latvia,3,6.67
+728,Lithuania,3,6.67
+729,Mexico,5,7.27
+730,Netherlands,21,6.38
+731,New Zealand,13,6.62
+732,Norway,16,6.88
+733,Peru,2,6.25
+734,Poland,12,7.33
+735,Portugal,8,7.37
+736,Romania,5,6.7
+737,Russia,3,6.0
+738,Saudi Arabia,1,9.0
+739,Republic of Serbia,2,8.0
+740,Slovenia,3,5.67
+741,South Africa,2,6.5
+742,South Korea,4,5.75
+743,Spain,32,7.61
+744,Sweden,25,6.44
+745,Switzerland,3,6.0
+746,Taiwan,2,7.5
+747,Turkey,1,6.0
+748,USA,630,6.7
+749,Venezuela,1,10.0
+750,Vietnam,1,6.5
+751,Argentina,11,6.95
+752,Australia,49,6.55
+753,Austria,8,6.75
+754,Belarus,1,5.0
+755,Belgium,28,7.38
+756,Bolivia,1,4.0
+757,Brazil,55,7.51
+758,Brunei,1,7.0
+759,Bulgaria,1,4.0
+760,Canada,187,6.99
+761,Chile,5,8.4
+762,China,16,7.2
+763,Colombia,2,7.75
+764,Croatia,1,3.0
+765,Czech Republic,21,7.56
+766,Denmark,13,7.25
+767,England,9,6.24
+768,Estonia,4,6.25
+769,Finland,29,6.89
+770,France,24,6.4
+771,Germany,66,6.77
+772,Greece,44,7.35
+773,Hungary,26,7.43
+774,India,1,6.0
+775,Indonesia,4,6.85
+776,Ireland,3,7.0
+777,Israel,4,7.75
+778,Italy,85,7.47
+779,Japan,8,5.38
+780,Latvia,6,7.33
+781,Lithuania,3,7.33
+782,Luxembourg,2,6.6
+783,Malaysia,7,6.47
+784,Mexico,2,8.0
+785,Netherlands,21,6.55
+786,New Zealand,9,6.11
+787,Norway,8,7.44
+788,Peru,1,6.0
+789,Philippines,3,6.0
+790,Poland,43,7.05
+791,Portugal,7,6.86
+792,Romania,6,7.03
+793,Russia,11,7.16
+794,Republic of Serbia,4,7.25
+795,Slovakia,4,8.63
+796,South Africa,2,4.5
+797,South Korea,29,7.57
+798,Spain,157,7.2
+799,Sweden,22,6.66
+800,Switzerland,9,7.0
+801,Taiwan,24,7.67
+802,Thailand,7,6.34
+803,Turkey,2,8.5
+804,Ukraine,6,8.12
+805,USA,1117,6.9
+806,Venezuela,1,6.0
+807,Vietnam,1,6.0
+808,Argentina,3,6.92
+809,Australia,34,7.56
+810,Azerbaijan,1,10.0
+811,Belgium,5,7.8
+812,Bolivia,1,10.0
+813,Brazil,20,7.91
+814,Brunei,1,8.0
+815,Canada,98,7.81
+816,Chile,1,8.0
+817,China,22,7.15
+818,Colombia,5,7.94
+819,Croatia,2,9.5
+820,Czech Republic,1,7.5
+821,Denmark,4,4.98
+822,England,3,7.0
+823,Estonia,2,8.5
+824,Finland,13,8.31
+825,France,1,9.0
+826,Germany,12,6.38
+827,Greece,9,7.83
+828,Guatemala,1,6.5
+829,Hungary,2,7.5
+830,Iceland,1,8.0
+831,India,5,8.6
+832,Ireland,2,7.25
+833,Israel,4,8.0
+834,Italy,19,7.79
+835,Japan,39,7.56
+836,Latvia,2,8.25
+837,Lithuania,2,6.0
+838,Luxembourg,1,1.0
+839,Malaysia,4,6.5
+840,Mexico,3,8.33
+841,Moldova,1,10.0
+842,Netherlands,6,7.08
+843,New Zealand,9,7.73
+844,Norway,11,8.0
+845,Peru,1,7.0
+846,Philippines,2,6.5
+847,Poland,10,7.0
+848,Portugal,6,7.42
+849,Romania,1,8.8
+850,Russia,5,8.14
+851,Slovenia,1,8.0
+852,South Africa,1,8.0
+853,South Korea,14,7.54
+854,Spain,56,7.94
+855,Sweden,15,7.6
+856,Taiwan,17,7.92
+857,Thailand,6,7.92
+858,Turkey,2,8.5
+859,Ukraine,1,9.0
+860,USA,604,7.75
+861,Uruguay,1,9.5
+862,Venezuela,1,8.0
+863,Vietnam,2,8.75
+864,Argentina,6,7.83
+865,Australia,57,7.79
+866,Austria,7,8.64
+867,Belarus,2,8.25
+868,Belgium,11,8.91
+869,Brazil,54,8.75
+870,Canada,149,7.95
+871,Chile,5,7.84
+872,China,19,7.55
+873,Colombia,4,7.38
+874,Croatia,3,5.67
+875,Czech Republic,5,7.2
+876,Denmark,13,7.46
+877,England,7,7.4
+878,Estonia,5,8.48
+879,Finland,31,8.2
+880,France,21,7.8
+881,Germany,97,7.88
+882,Greece,16,8.37
+883,Hungary,7,7.14
+884,Iceland,1,8.0
+885,India,2,8.75
+886,Indonesia,3,7.83
+887,Ireland,6,6.5
+888,Israel,3,8.67
+889,Italy,33,7.58
+890,Japan,5,5.6
+891,Latvia,4,8.38
+892,Lithuania,5,9.16
+893,Luxembourg,2,9.0
+894,Malaysia,9,8.33
+895,Mexico,1,8.5
+896,Netherlands,12,7.87
+897,New Zealand,10,7.53
+898,Norway,8,8.11
+899,Peru,4,8.38
+900,Philippines,4,7.25
+901,Poland,58,7.86
+902,Portugal,5,9.2
+903,Qatar,1,7.4
+904,Romania,6,9.33
+905,Russia,11,7.98
+906,Republic of Serbia,6,8.5
+907,Slovakia,1,10.0
+908,Slovenia,4,9.75
+909,South Africa,4,8.75
+910,South Korea,6,7.33
+911,Spain,98,7.76
+912,Sweden,31,7.45
+913,Switzerland,5,6.4
+914,Taiwan,11,8.05
+915,Thailand,5,7.3
+916,Turkey,1,9.0
+917,Ukraine,4,8.63
+918,USA,906,7.84
+919,Venezuela,1,8.0
+920,Argentina,4,6.5
+921,Australia,55,7.11
+922,Austria,2,9.0
+923,Belgium,7,7.5
+924,Brazil,22,7.84
+925,Bulgaria,6,7.58
+926,Canada,144,7.38
+927,Chile,2,6.0
+928,China,16,7.01
+929,Colombia,3,7.67
+930,Costa Rica,1,8.0
+931,Croatia,4,4.75
+932,Czech Republic,2,7.0
+933,Denmark,11,7.14
+934,England,6,6.83
+935,Estonia,2,7.0
+936,Finland,14,7.14
+937,France,3,7.17
+938,Germany,37,7.03
+939,Greece,23,7.89
+940,Guatemala,1,8.5
+941,Hungary,2,8.0
+942,Iceland,2,8.0
+943,Indonesia,2,9.0
+944,Ireland,5,7.0
+945,Israel,2,5.78
+946,Italy,11,7.86
+947,Japan,5,6.1
+948,Latvia,3,7.33
+949,Lebanon,1,9.0
+950,Lithuania,2,6.5
+951,Macedonia,3,8.67
+952,Malaysia,5,7.78
+953,Mexico,13,7.5
+954,Netherlands,10,6.95
+955,New Zealand,7,7.0
+956,Norway,8,7.69
+957,Peru,2,8.5
+958,Philippines,4,7.13
+959,Poland,4,7.38
+960,Portugal,8,8.04
+961,Romania,3,9.17
+962,Russia,4,7.81
+963,Saudi Arabia,1,7.5
+964,Republic of Serbia,6,9.0
+965,Slovenia,1,9.0
+966,South Korea,8,7.25
+967,Spain,21,6.89
+968,Sweden,25,7.42
+969,Switzerland,5,6.6
+970,Taiwan,21,7.5
+971,Thailand,2,7.75
+972,Ukraine,1,7.0
+973,USA,1188,7.34
+974,Uruguay,1,9.0
+975,Argentina,3,7.0
+976,Australia,54,7.18
+977,Austria,5,7.4
+978,Belarus,1,9.0
+979,Belgium,32,7.6
+980,Brazil,12,8.37
+981,Brunei,1,8.0
+982,Canada,197,7.32
+983,Chile,4,6.75
+984,China,15,7.16
+985,Colombia,1,10.0
+986,Croatia,2,9.0
+987,Czech Republic,7,6.36
+988,Denmark,10,6.9
+989,England,7,6.93
+990,Estonia,1,7.0
+991,Finland,32,7.21
+992,France,18,7.87
+993,Germany,78,7.58
+994,Greece,17,7.83
+995,Guatemala,1,9.0
+996,Hungary,9,7.89
+997,India,1,6.0
+998,Indonesia,3,5.83
+999,Ireland,2,7.5
+1000,Israel,7,6.7
+1001,Italy,16,7.2
+1002,Japan,34,7.34
+1003,Latvia,2,7.4
+1004,Luxembourg,1,8.0
+1005,Malaysia,9,7.01
+1006,Mexico,4,8.5
+1007,Moldova,1,10.0
+1008,Netherlands,26,7.24
+1009,New Zealand,11,6.98
+1010,Norway,13,7.77
+1011,Peru,2,7.0
+1012,Philippines,2,7.5
+1013,Poland,37,7.34
+1014,Portugal,9,7.41
+1015,Romania,2,8.5
+1016,Russia,10,7.58
+1017,Republic of Serbia,2,7.0
+1018,Slovakia,1,8.0
+1019,Slovenia,4,9.38
+1020,South Africa,3,5.33
+1021,South Korea,24,7.02
+1022,Spain,39,7.35
+1023,Sweden,27,6.85
+1024,Switzerland,4,6.93
+1025,Taiwan,18,8.04
+1026,Thailand,4,8.18
+1027,Ukraine,1,5.0
+1028,USA,1223,7.23
+1029,Argentina,11,7.82
+1030,Australia,78,7.4
+1031,Austria,15,7.87
+1032,Belarus,2,5.0
+1033,Belgium,62,7.48
+1034,Brazil,54,7.5
+1035,Brunei,1,8.0
+1036,Bulgaria,1,6.0
+1037,Canada,282,7.46
+1038,Chile,13,7.59
+1039,China,15,7.16
+1040,Colombia,6,8.12
+1041,Costa Rica,1,9.0
+1042,Croatia,4,7.08
+1043,Czech Republic,8,6.5
+1044,Denmark,18,7.54
+1045,England,12,7.48
+1046,Estonia,7,7.57
+1047,Finland,47,7.71
+1048,France,32,7.48
+1049,Germany,211,7.71
+1050,Greece,46,7.45
+1051,Hungary,24,7.43
+1052,Iceland,1,8.0
+1053,India,5,7.7
+1054,Indonesia,5,7.14
+1055,Ireland,8,7.85
+1056,Israel,11,7.01
+1057,Italy,65,7.27
+1058,Japan,41,7.72
+1059,Latvia,10,7.25
+1060,Lithuania,9,6.33
+1061,Luxembourg,2,6.5
+1062,Malaysia,8,7.41
+1063,Mexico,11,8.3
+1064,Netherlands,59,7.51
+1065,New Zealand,28,7.51
+1066,Norway,25,7.83
+1067,Peru,1,5.5
+1068,Philippines,4,6.75
+1069,Poland,103,7.73
+1070,Portugal,15,7.21
+1071,Romania,7,7.66
+1072,Russia,18,7.18
+1073,Saudi Arabia,1,9.0
+1074,Republic of Serbia,6,7.08
+1075,Slovakia,2,8.0
+1076,Slovenia,2,8.5
+1077,South Africa,3,8.0
+1078,South Korea,36,7.63
+1079,Spain,111,7.5
+1080,Sweden,54,7.15
+1081,Switzerland,19,7.76
+1082,Taiwan,19,7.04
+1083,Thailand,5,7.96
+1084,Turkey,1,7.5
+1085,Uganda,1,7.5
+1086,Ukraine,2,4.75
+1087,USA,1530,7.51
+1088,Uruguay,1,9.5
+1089,Venezuela,3,7.0
+1090,Vietnam,1,4.0
+1091,Zambia,1,7.0
+1092,Argentina,2,7.5
+1093,Australia,42,7.65
+1094,Austria,9,7.17
+1095,Belarus,1,5.0
+1096,Belgium,21,7.2
+1097,Brazil,23,7.95
+1098,Bulgaria,4,7.5
+1099,Canada,81,7.3
+1100,Chile,9,8.16
+1101,China,5,7.74
+1102,Colombia,1,10.0
+1103,Croatia,4,8.7
+1104,Czech Republic,5,7.4
+1105,Denmark,5,6.8
+1106,England,11,7.13
+1107,Finland,11,7.17
+1108,France,7,6.07
+1109,Germany,108,7.24
+1110,Greece,15,7.47
+1111,Hungary,14,7.71
+1112,Iceland,2,7.5
+1113,India,4,7.5
+1114,Indonesia,3,9.67
+1115,Ireland,8,7.94
+1116,Israel,5,6.78
+1117,Italy,25,7.3
+1118,Japan,23,7.3
+1119,Latvia,4,7.31
+1120,Lithuania,3,8.0
+1121,Luxembourg,1,7.0
+1122,Malaysia,2,7.5
+1123,Mexico,5,8.57
+1124,Moldova,1,6.0
+1125,Netherlands,18,7.0
+1126,New Zealand,7,7.14
+1127,Norway,4,6.5
+1128,Peru,2,9.5
+1129,Philippines,3,7.0
+1130,Poland,28,7.66
+1131,Portugal,9,7.54
+1132,Qatar,1,7.2
+1133,Romania,10,7.76
+1134,Russia,7,7.43
+1135,Saudi Arabia,2,8.0
+1136,Republic of Serbia,8,7.69
+1137,Slovakia,1,7.25
+1138,Slovenia,2,8.0
+1139,South Africa,2,8.25
+1140,South Korea,13,7.32
+1141,Spain,71,7.52
+1142,Sweden,21,6.9
+1143,Switzerland,10,7.35
+1144,Taiwan,16,8.03
+1145,Thailand,11,8.23
+1146,Ukraine,2,8.0
+1147,USA,331,7.38
+1148,Uruguay,1,9.0
+1149,Venezuela,2,5.5
+1150,Vietnam,1,6.0
+1151,Albania,1,6.0
+1152,Argentina,1,5.0
+1153,Australia,22,6.54
+1154,Austria,4,6.75
+1155,Belgium,20,7.31
+1156,Brazil,12,6.93
+1157,Brunei,1,8.0
+1158,Bulgaria,1,8.0
+1159,Canada,95,7.35
+1160,Chile,4,7.5
+1161,China,8,7.38
+1162,Colombia,2,7.23
+1163,Czech Republic,4,6.5
+1164,Denmark,5,8.1
+1165,England,1,6.8
+1166,Estonia,3,8.0
+1167,Finland,12,6.83
+1168,France,16,7.59
+1169,Germany,79,7.45
+1170,Greece,12,7.1
+1171,Guatemala,1,7.0
+1172,Hungary,3,8.67
+1173,Israel,3,7.0
+1174,Italy,15,7.25
+1175,Japan,26,6.97
+1176,Latvia,4,7.75
+1177,Luxembourg,1,8.0
+1178,Malaysia,3,5.23
+1179,Mexico,2,7.9
+1180,Netherlands,17,7.07
+1181,New Zealand,6,7.17
+1182,Norway,9,7.28
+1183,Poland,16,6.55
+1184,Portugal,6,7.49
+1185,Russia,3,7.0
+1186,Republic of Serbia,2,8.0
+1187,South Africa,2,7.0
+1188,South Korea,15,7.27
+1189,Spain,44,7.64
+1190,Sweden,10,7.19
+1191,Switzerland,2,8.75
+1192,Taiwan,9,7.5
+1193,Thailand,4,7.0
+1194,Ukraine,2,3.0
+1195,USA,609,7.35
+1196,Uruguay,1,8.0
+1197,Vietnam,1,8.0
+1198,Albania,1,6.0
+1199,Argentina,31,8.15
+1200,Australia,203,7.92
+1201,Austria,36,8.17
+1202,The Bahamas,1,8.75
+1203,Belarus,3,9.0
+1204,Belgium,99,7.84
+1205,Bolivia,2,8.25
+1206,Bosnia and Herzegovina,1,10.0
+1207,Brazil,156,8.2
+1208,Brunei,1,8.0
+1209,Bulgaria,13,8.73
+1210,Canada,622,7.93
+1211,Chile,38,8.03
+1212,China,36,8.46
+1213,Colombia,12,8.39
+1214,Costa Rica,3,8.5
+1215,Croatia,16,8.58
+1216,Czech Republic,38,7.86
+1217,Denmark,46,7.95
+1218,Ecuador,1,8.0
+1219,England,29,7.98
+1220,Estonia,17,7.99
+1221,Fiji,1,10.0
+1222,Finland,80,7.76
+1223,France,61,7.83
+1224,Germany,333,8.17
+1225,Greece,83,7.85
+1226,Guatemala,2,8.25
+1227,Hungary,47,8.14
+1228,Iceland,7,7.71
+1229,India,9,7.83
+1230,Indonesia,9,7.92
+1231,Iran,1,8.0
+1232,Iraq,1,8.0
+1233,Ireland,21,8.05
+1234,Israel,20,7.42
+1235,Italy,114,7.93
+1236,Japan,66,7.63
+1237,Kenya,1,6.5
+1238,Latvia,16,8.38
+1239,Lithuania,25,7.96
+1240,Luxembourg,3,6.67
+1241,Macedonia,2,8.5
+1242,Malaysia,12,7.58
+1243,Mexico,43,8.4
+1244,Moldova,2,9.5
+1245,Mongolia,1,6.0
+1246,Netherlands,111,7.91
+1247,New Zealand,48,7.56
+1248,Norway,43,8.0
+1249,Panama,1,8.5
+1250,Paraguay,1,8.0
+1251,Peru,13,8.65
+1252,Philippines,12,8.04
+1253,Poland,189,7.93
+1254,Portugal,55,7.76
+1255,Puerto Rico,1,8.0
+1256,Qatar,2,8.1
+1257,Romania,32,8.7
+1258,Russia,51,8.07
+1259,Saudi Arabia,1,8.0
+1260,Republic of Serbia,12,8.58
+1261,Slovakia,5,8.42
+1262,Slovenia,11,7.78
+1263,South Africa,12,8.08
+1264,South Korea,49,7.75
+1265,Spain,327,8.1
+1266,Sri Lanka,1,8.0
+1267,Sweden,135,7.86
+1268,Switzerland,25,8.24
+1269,Taiwan,43,8.36
+1270,Thailand,15,7.56
+1271,Trinidad and Tobago,1,8.0
+1272,Turkey,5,9.1
+1273,Uganda,1,9.0
+1274,Ukraine,13,8.58
+1275,USA,3444,7.97
+1276,Uruguay,2,9.0
+1277,Venezuela,4,9.25
+1278,Vietnam,3,7.83
+1279,Argentina,3,8.33
+1280,Australia,33,7.89
+1281,Austria,5,6.9
+1282,Belarus,1,9.0
+1283,Belgium,17,7.44
+1284,Bolivia,1,9.0
+1285,Brazil,11,7.68
+1286,Bulgaria,1,6.0
+1287,Canada,114,7.65
+1288,Chile,4,8.38
+1289,China,2,7.5
+1290,Colombia,1,9.0
+1291,Croatia,2,8.5
+1292,Czech Republic,12,7.25
+1293,Denmark,6,7.5
+1294,England,5,7.7
+1295,Estonia,2,7.0
+1296,Finland,29,7.34
+1297,France,11,7.55
+1298,Germany,88,7.0
+1299,Greece,5,7.78
+1300,Hungary,5,7.2
+1301,India,2,7.0
+1302,Indonesia,3,8.33
+1303,Ireland,3,7.5
+1304,Israel,1,9.0
+1305,Italy,18,7.47
+1306,Japan,13,6.95
+1307,Latvia,1,7.5
+1308,Lithuania,1,5.0
+1309,Macedonia,2,8.5
+1310,Malaysia,3,7.93
+1311,Mexico,2,7.65
+1312,Netherlands,40,7.32
+1313,New Zealand,9,7.21
+1314,Norway,11,7.18
+1315,Poland,11,7.36
+1316,Portugal,7,7.8
+1317,Romania,2,9.05
+1318,Russia,15,7.4
+1319,Republic of Serbia,1,6.0
+1320,Slovakia,1,4.0
+1321,Slovenia,1,7.0
+1322,South Africa,2,6.25
+1323,South Korea,15,6.9
+1324,Spain,44,7.41
+1325,Sweden,29,7.48
+1326,Switzerland,2,8.0
+1327,Taiwan,3,8.5
+1328,Thailand,1,7.5
+1329,Ukraine,3,8.03
+1330,USA,635,7.46
+1331,Argentina,3,6.67
+1332,Australia,47,6.12
+1333,Belgium,3,8.33
+1334,Brazil,9,6.54
+1335,Bulgaria,6,6.5
+1336,Canada,127,7.01
+1337,Chile,4,7.5
+1338,China,1,6.0
+1339,Costa Rica,2,6.0
+1340,Croatia,1,9.0
+1341,Czech Republic,1,5.0
+1342,Denmark,2,7.5
+1343,England,2,6.25
+1344,Estonia,1,4.0
+1345,Finland,8,5.58
+1346,Germany,9,5.39
+1347,Greece,5,7.2
+1348,Hungary,1,1.0
+1349,Iceland,2,7.75
+1350,India,2,5.5
+1351,Ireland,5,7.4
+1352,Israel,2,8.25
+1353,Italy,5,7.4
+1354,Latvia,2,7.0
+1355,Lithuania,1,5.0
+1356,Macedonia,1,8.0
+1357,Malaysia,1,6.0
+1358,Mexico,6,7.67
+1359,Netherlands,9,7.47
+1360,New Zealand,6,8.17
+1361,Norway,2,3.0
+1362,Peru,1,5.0
+1363,Philippines,5,6.7
+1364,Poland,2,5.75
+1365,Romania,5,6.3
+1366,Russia,1,3.0
+1367,Slovakia,1,6.0
+1368,Slovenia,1,10.0
+1369,South Africa,2,1.0
+1370,South Korea,1,6.0
+1371,Spain,15,7.37
+1372,Sri Lanka,1,6.0
+1373,Sweden,11,7.0
+1374,Switzerland,2,7.0
+1375,Taiwan,1,9.0
+1376,Thailand,1,5.0
+1377,Turkey,2,8.0
+1378,USA,795,6.77
+1379,Venezuela,1,7.0
+1380,Argentina,6,8.35
+1381,Australia,31,7.72
+1382,Austria,3,7.5
+1383,Belarus,1,8.0
+1384,Belgium,3,7.33
+1385,Brazil,16,8.38
+1386,Canada,80,8.03
+1387,Chile,3,6.67
+1388,China,10,7.44
+1389,Colombia,1,10.0
+1390,Croatia,1,6.5
+1391,Czech Republic,9,8.56
+1392,Denmark,7,8.14
+1393,England,6,7.58
+1394,Estonia,2,9.65
+1395,Finland,13,7.98
+1396,France,5,7.15
+1397,Germany,29,7.43
+1398,Greece,7,8.94
+1399,Hungary,4,8.0
+1400,Iceland,1,7.5
+1401,India,3,8.17
+1402,Ireland,3,7.83
+1403,Israel,2,7.0
+1404,Italy,8,8.1
+1405,Japan,11,6.64
+1406,Latvia,4,8.38
+1407,Lebanon,1,8.0
+1408,Lithuania,4,7.75
+1409,Malaysia,2,8.25
+1410,Mexico,6,7.5
+1411,Netherlands,9,8.06
+1412,New Zealand,4,6.38
+1413,Norway,6,7.08
+1414,Philippines,2,7.5
+1415,Poland,21,7.62
+1416,Portugal,6,7.85
+1417,Romania,3,8.2
+1418,Russia,9,7.5
+1419,Republic of Serbia,1,8.5
+1420,Slovakia,1,9.0
+1421,South Africa,2,8.0
+1422,South Korea,9,7.74
+1423,Spain,29,8.04
+1424,Sweden,16,6.9
+1425,Switzerland,2,7.75
+1426,Taiwan,6,7.3
+1427,Thailand,2,10.0
+1428,Ukraine,4,9.15
+1429,USA,520,7.98
+1430,Vietnam,3,7.83
+1431,Albania,1,8.5
+1432,Argentina,59,9.28
+1433,Australia,318,9.17
+1434,Austria,44,9.21
+1435,Azerbaijan,1,9.0
+1436,The Bahamas,2,8.75
+1437,Belarus,7,9.36
+1438,Belgium,151,9.1
+1439,Bolivia,3,9.17
+1440,Bosnia and Herzegovina,1,10.0
+1441,Brazil,249,9.23
+1442,Brunei,1,10.0
+1443,Bulgaria,23,9.26
+1444,Canada,1089,9.13
+1445,Chile,63,9.34
+1446,China,54,9.27
+1447,Colombia,21,9.25
+1448,Costa Rica,6,9.5
+1449,Croatia,28,9.36
+1450,Cyprus,2,8.75
+1451,Czech Republic,50,9.25
+1452,Denmark,77,9.14
+1453,Dominican Republic,1,9.0
+1454,Ecuador,3,9.33
+1455,England,43,9.1
+1456,Estonia,23,9.42
+1457,Fiji,1,9.0
+1458,Finland,104,8.97
+1459,France,93,9.24
+1460,Germany,482,9.32
+1461,Greece,124,9.18
+1462,Guatemala,4,9.25
+1463,Honduras,1,8.4
+1464,Hungary,70,9.23
+1465,Iceland,13,9.23
+1466,India,19,9.37
+1467,Indonesia,22,9.25
+1468,Iran,7,9.57
+1469,Iraq,1,9.0
+1470,Ireland,33,9.09
+1471,Israel,37,9.19
+1472,Italy,189,9.11
+1473,Japan,80,9.3
+1474,Kenya,1,8.5
+1475,Latvia,22,9.34
+1476,Lebanon,2,9.0
+1477,Lithuania,32,9.41
+1478,Luxembourg,5,9.4
+1479,Macedonia,4,9.5
+1480,Malaysia,23,9.01
+1481,Mexico,91,9.34
+1482,Moldova,3,9.33
+1483,Mongolia,1,9.0
+1484,Netherlands,170,9.09
+1485,New Zealand,78,9.13
+1486,Norway,56,9.06
+1487,Panama,1,9.0
+1488,Paraguay,1,10.0
+1489,Peru,14,9.39
+1490,Philippines,18,9.34
+1491,Poland,292,9.26
+1492,Portugal,91,9.27
+1493,Puerto Rico,1,10.0
+1494,Qatar,2,9.4
+1495,Romania,61,9.27
+1496,Russia,62,9.36
+1497,Rwanda,1,9.0
+1498,Saudi Arabia,3,9.33
+1499,Republic of Serbia,26,9.44
+1500,Slovakia,12,9.35
+1501,Slovenia,18,9.21
+1502,South Africa,28,9.33
+1503,South Korea,64,9.16
+1504,Spain,483,9.18
+1505,Sri Lanka,1,9.0
+1506,Sweden,206,9.18
+1507,Switzerland,45,9.28
+1508,Taiwan,62,9.15
+1509,Thailand,25,9.33
+1510,Trinidad and Tobago,1,9.0
+1511,Turkey,13,9.27
+1512,Uganda,1,8.5
+1513,Ukraine,23,9.38
+1514,United Arab Emirates,2,10.0
+1515,USA,6114,9.22
+1516,Uruguay,8,9.25
+1517,Venezuela,7,9.41
+1518,Vietnam,4,9.41
+1519,Zambia,1,9.0
+1520,Argentina,4,8.5
+1521,Australia,41,6.79
+1522,Austria,15,7.51
+1523,Belgium,45,7.69
+1524,Brazil,11,7.29
+1525,Brunei,1,8.0
+1526,Bulgaria,1,8.0
+1527,Canada,188,7.08
+1528,Chile,5,6.6
+1529,China,5,8.0
+1530,Colombia,1,6.5
+1531,Czech Republic,12,6.92
+1532,Denmark,5,8.2
+1533,England,8,7.25
+1534,Estonia,1,8.0
+1535,Finland,14,6.9
+1536,France,27,7.41
+1537,Germany,186,7.87
+1538,Greece,15,7.53
+1539,Hungary,14,6.97
+1540,India,2,5.0
+1541,Indonesia,1,7.0
+1542,Ireland,3,8.33
+1543,Israel,2,7.0
+1544,Italy,45,7.26
+1545,Japan,7,6.57
+1546,Latvia,1,6.0
+1547,Lithuania,2,8.5
+1548,Luxembourg,1,9.0
+1549,Malaysia,1,7.5
+1550,Mexico,3,6.17
+1551,Netherlands,82,7.67
+1552,New Zealand,13,6.74
+1553,Norway,13,7.19
+1554,Philippines,1,8.0
+1555,Poland,29,7.12
+1556,Portugal,3,6.33
+1557,Qatar,1,2.0
+1558,Romania,8,7.63
+1559,Russia,13,7.08
+1560,Rwanda,1,8.0
+1561,Republic of Serbia,2,10.0
+1562,Slovakia,1,4.0
+1563,Slovenia,4,6.43
+1564,South Africa,2,8.5
+1565,South Korea,6,6.17
+1566,Spain,65,7.0
+1567,Sweden,18,6.87
+1568,Switzerland,13,7.42
+1569,Taiwan,4,7.8
+1570,Ukraine,2,5.5
+1571,USA,884,7.09
+1572,Uruguay,1,8.0
+1573,Argentina,6,8.33
+1574,Australia,34,8.31
+1575,Austria,3,9.67
+1576,Belarus,1,6.0
+1577,Belgium,13,8.54
+1578,Brazil,34,8.74
+1579,Bulgaria,3,8.0
+1580,Canada,110,8.54
+1581,Chile,5,8.2
+1582,China,7,7.7
+1583,Colombia,3,8.83
+1584,Croatia,1,6.3
+1585,Czech Republic,6,8.5
+1586,Denmark,8,7.44
+1587,England,10,8.4
+1588,Estonia,3,8.48
+1589,Finland,7,8.21
+1590,France,14,8.98
+1591,Germany,58,8.5
+1592,Greece,12,9.15
+1593,Honduras,1,9.0
+1594,Hungary,7,8.21
+1595,Iceland,3,7.83
+1596,India,3,9.17
+1597,Indonesia,1,8.0
+1598,Ireland,2,9.5
+1599,Israel,6,8.4
+1600,Italy,29,8.27
+1601,Japan,19,8.55
+1602,Latvia,3,8.0
+1603,Lithuania,6,8.83
+1604,Luxembourg,1,8.0
+1605,Malaysia,1,7.5
+1606,Mexico,6,8.42
+1607,Netherlands,14,8.51
+1608,New Zealand,7,7.43
+1609,Norway,8,8.19
+1610,Philippines,4,8.25
+1611,Poland,39,8.47
+1612,Portugal,6,8.58
+1613,Qatar,1,8.0
+1614,Romania,5,9.76
+1615,Russia,6,8.11
+1616,Republic of Serbia,4,9.0
+1617,Slovakia,1,10.0
+1618,South Africa,5,8.2
+1619,South Korea,13,8.61
+1620,Spain,46,7.84
+1621,Sweden,16,8.3
+1622,Switzerland,5,8.2
+1623,Taiwan,7,8.79
+1624,Thailand,5,8.0
+1625,Ukraine,5,8.0
+1626,USA,495,8.44
+1627,Uruguay,1,9.0
+1628,Venezuela,2,8.5
+1629,Vietnam,1,5.0
+1630,Argentina,6,8.5
+1631,Australia,51,7.65
+1632,Austria,15,9.0
+1633,Azerbaijan,1,8.0
+1634,Belgium,42,8.52
+1635,Brazil,39,8.71
+1636,Bulgaria,1,8.0
+1637,Canada,185,8.01
+1638,Chile,4,8.15
+1639,China,22,8.79
+1640,Colombia,4,7.88
+1641,Croatia,1,9.0
+1642,Czech Republic,12,7.53
+1643,Denmark,12,7.42
+1644,Ecuador,1,8.0
+1645,England,12,7.71
+1646,Estonia,6,8.3
+1647,Finland,35,7.75
+1648,France,39,8.26
+1649,Germany,155,8.53
+1650,Greece,28,8.55
+1651,Hungary,11,8.07
+1652,Iceland,1,8.5
+1653,India,3,8.17
+1654,Indonesia,3,9.08
+1655,Ireland,7,7.57
+1656,Israel,8,8.44
+1657,Italy,69,8.47
+1658,Japan,23,7.4
+1659,Latvia,7,8.43
+1660,Lithuania,5,8.8
+1661,Luxembourg,3,8.0
+1662,Malaysia,9,7.13
+1663,Mexico,4,9.25
+1664,Mongolia,1,7.0
+1665,Netherlands,30,8.18
+1666,New Zealand,17,7.37
+1667,Norway,12,8.75
+1668,Peru,2,9.25
+1669,Philippines,4,8.13
+1670,Poland,61,8.37
+1671,Portugal,7,8.03
+1672,Qatar,1,5.4
+1673,Romania,4,9.0
+1674,Russia,9,7.56
+1675,Republic of Serbia,2,9.4
+1676,Slovakia,2,7.0
+1677,Slovenia,5,9.08
+1678,South Africa,5,7.7
+1679,South Korea,27,8.35
+1680,Spain,136,8.4
+1681,Sweden,29,7.94
+1682,Switzerland,12,9.08
+1683,Taiwan,24,8.4
+1684,Thailand,5,8.0
+1685,Turkey,1,9.0
+1686,Ukraine,3,8.2
+1687,USA,839,7.76
+1688,Venezuela,2,10.0
+1689,Argentina,10,8.3
+1690,Australia,66,6.99
+1691,Austria,8,6.88
+1692,The Bahamas,1,9.0
+1693,Belgium,29,7.79
+1694,Bolivia,1,8.0
+1695,Brazil,33,8.34
+1696,Bulgaria,2,6.5
+1697,Canada,212,7.24
+1698,Chile,11,7.86
+1699,China,11,7.97
+1700,Colombia,2,6.5
+1701,Croatia,4,8.25
+1702,Czech Republic,5,6.9
+1703,Denmark,16,5.88
+1704,England,8,7.19
+1705,Estonia,3,7.33
+1706,Finland,30,6.58
+1707,France,15,7.51
+1708,Germany,82,7.31
+1709,Greece,26,8.76
+1710,Guatemala,1,10.0
+1711,Hungary,12,8.25
+1712,Iceland,2,9.0
+1713,India,3,8.33
+1714,Indonesia,3,8.5
+1715,Ireland,8,6.38
+1716,Israel,5,8.8
+1717,Italy,41,8.22
+1718,Japan,10,5.65
+1719,Latvia,7,8.0
+1720,Lithuania,5,6.8
+1721,Luxembourg,1,9.0
+1722,Malaysia,5,5.9
+1723,Mexico,14,8.02
+1724,Moldova,2,7.5
+1725,Netherlands,41,7.41
+1726,New Zealand,19,7.27
+1727,Norway,21,7.12
+1728,Peru,4,6.5
+1729,Philippines,3,6.67
+1730,Poland,47,7.61
+1731,Portugal,17,7.75
+1732,Qatar,2,8.6
+1733,Romania,4,9.0
+1734,Russia,11,7.7
+1735,Saudi Arabia,1,9.0
+1736,Republic of Serbia,4,7.5
+1737,Slovakia,2,8.5
+1738,Slovenia,4,7.75
+1739,South Africa,2,7.0
+1740,South Korea,11,6.91
+1741,Spain,91,8.22
+1742,Sweden,36,6.5
+1743,Switzerland,9,8.56
+1744,Taiwan,4,8.38
+1745,Thailand,5,6.6
+1746,Turkey,2,6.0
+1747,Uganda,1,5.5
+1748,Ukraine,2,4.0
+1749,USA,1214,7.34
+1750,Venezuela,1,10.0
+1751,Vietnam,1,6.0
+1752,Albania,1,7.5
+1753,Argentina,21,7.56
+1754,Australia,99,7.38
+1755,Austria,18,7.78
+1756,Belarus,3,9.17
+1757,Belgium,84,7.96
+1758,Bolivia,1,9.0
+1759,Brazil,85,7.8
+1760,Brunei,1,7.0
+1761,Bulgaria,6,7.17
+1762,Canada,319,7.56
+1763,Chile,17,8.29
+1764,China,34,7.92
+1765,Colombia,6,7.25
+1766,Croatia,9,8.17
+1767,Czech Republic,28,7.39
+1768,Denmark,20,7.04
+1769,England,12,7.73
+1770,Estonia,11,7.39
+1771,Finland,43,7.44
+1772,France,48,7.88
+1773,Germany,150,7.81
+1774,Greece,50,7.61
+1775,Guatemala,1,10.0
+1776,Hungary,28,7.83
+1777,Iceland,1,7.5
+1778,India,7,7.57
+1779,Indonesia,6,7.67
+1780,Ireland,11,8.27
+1781,Israel,22,7.93
+1782,Italy,92,7.7
+1783,Japan,41,7.13
+1784,Latvia,12,8.03
+1785,Lebanon,1,7.0
+1786,Lithuania,15,7.48
+1787,Luxembourg,4,7.7
+1788,Malaysia,11,7.38
+1789,Mexico,10,7.92
+1790,Moldova,1,8.0
+1791,Mongolia,1,9.0
+1792,Netherlands,76,7.61
+1793,New Zealand,26,7.46
+1794,Norway,20,7.2
+1795,Peru,3,7.33
+1796,Philippines,7,8.71
+1797,Poland,104,7.8
+1798,Portugal,12,7.42
+1799,Qatar,1,6.4
+1800,Romania,19,8.52
+1801,Russia,32,7.86
+1802,Saudi Arabia,2,8.5
+1803,Republic of Serbia,6,7.92
+1804,Slovakia,2,5.75
+1805,Slovenia,9,8.37
+1806,South Africa,5,7.6
+1807,South Korea,41,7.25
+1808,Spain,249,7.78
+1809,Sweden,61,7.34
+1810,Switzerland,15,7.73
+1811,Taiwan,41,8.33
+1812,Thailand,11,8.12
+1813,Turkey,4,8.38
+1814,Ukraine,12,8.0
+1815,USA,1582,7.54
+1816,Uruguay,1,7.5
+1817,Venezuela,4,9.25
+1818,Vietnam,2,6.88
+1819,Argentina,6,6.5
+1820,Australia,44,5.93
+1821,Austria,6,5.25
+1822,Belgium,16,6.13
+1823,Brazil,34,6.13
+1824,Brunei,1,8.0
+1825,Bulgaria,2,8.0
+1826,Canada,171,6.02
+1827,Chile,7,5.37
+1828,China,5,4.3
+1829,Colombia,1,5.0
+1830,Costa Rica,3,6.33
+1831,Croatia,4,5.75
+1832,Czech Republic,2,5.5
+1833,Denmark,6,5.88
+1834,England,4,5.95
+1835,Estonia,1,9.0
+1836,Finland,10,5.65
+1837,France,12,6.44
+1838,Germany,59,6.19
+1839,Greece,8,6.99
+1840,Guatemala,1,7.0
+1841,Honduras,1,7.0
+1842,Hungary,2,7.0
+1843,Indonesia,1,4.0
+1844,Ireland,5,6.2
+1845,Israel,7,6.79
+1846,Italy,31,5.68
+1847,Japan,15,5.61
+1848,Latvia,2,3.5
+1849,Lithuania,1,7.0
+1850,Luxembourg,1,8.0
+1851,Macedonia,1,5.0
+1852,Malaysia,4,5.0
+1853,Mexico,6,6.1
+1854,Netherlands,23,5.78
+1855,New Zealand,8,5.55
+1856,Norway,12,5.71
+1857,Philippines,5,6.2
+1858,Poland,18,5.67
+1859,Portugal,10,7.48
+1860,Romania,2,7.5
+1861,Russia,3,6.0
+1862,Saudi Arabia,1,6.0
+1863,Republic of Serbia,5,6.6
+1864,Slovenia,2,7.5
+1865,South Africa,2,4.5
+1866,South Korea,18,6.35
+1867,Spain,33,6.3
+1868,Sweden,17,5.35
+1869,Switzerland,3,6.0
+1870,Taiwan,5,7.4
+1871,Thailand,3,8.33
+1872,Ukraine,2,8.05
+1873,USA,976,5.94
+1874,Venezuela,1,7.0
+1875,Argentina,15,8.18
+1876,Australia,83,7.89
+1877,Austria,9,8.11
+1878,Belarus,3,8.33
+1879,Belgium,25,7.35
+1880,Bolivia,1,7.0
+1881,Brazil,32,8.54
+1882,Bulgaria,9,7.94
+1883,Canada,210,8.14
+1884,Chile,11,7.14
+1885,China,18,7.91
+1886,Colombia,8,7.85
+1887,Costa Rica,1,7.0
+1888,Croatia,4,7.5
+1889,Czech Republic,10,9.2
+1890,Denmark,11,7.65
+1891,Ecuador,1,8.0
+1892,England,10,8.02
+1893,Estonia,1,8.7
+1894,Finland,11,8.15
+1895,France,31,8.48
+1896,Germany,130,7.8
+1897,Greece,26,8.44
+1898,Hungary,13,7.61
+1899,Iceland,2,9.0
+1900,India,7,8.93
+1901,Indonesia,5,8.8
+1902,Ireland,13,8.38
+1903,Israel,15,8.66
+1904,Italy,46,7.77
+1905,Japan,19,6.84
+1906,Latvia,8,8.13
+1907,Lithuania,7,7.07
+1908,Luxembourg,2,8.5
+1909,Macedonia,2,8.0
+1910,Malaysia,3,7.83
+1911,Mexico,19,8.07
+1912,Moldova,2,9.0
+1913,Netherlands,31,8.0
+1914,New Zealand,16,7.5
+1915,Norway,10,7.31
+1916,Paraguay,1,8.0
+1917,Peru,3,9.67
+1918,Philippines,7,8.36
+1919,Poland,73,8.35
+1920,Portugal,20,7.98
+1921,Qatar,1,8.2
+1922,Romania,12,8.72
+1923,Russia,12,7.83
+1924,Saudi Arabia,2,8.0
+1925,Republic of Serbia,8,6.88
+1926,Slovakia,5,7.85
+1927,Slovenia,3,8.33
+1928,South Africa,8,8.35
+1929,South Korea,19,7.64
+1930,Spain,114,7.96
+1931,Sweden,36,7.85
+1932,Switzerland,15,7.5
+1933,Taiwan,13,8.45
+1934,Thailand,8,7.56
+1935,Uganda,1,8.0
+1936,Ukraine,6,7.83
+1937,USA,1153,8.08
+1938,Uruguay,2,8.0
+1939,Venezuela,1,9.0
+1940,Vietnam,2,8.25
+1941,Argentina,10,7.25
+1942,Australia,43,7.05
+1943,Austria,7,7.86
+1944,Belarus,1,8.0
+1945,Belgium,16,6.6
+1946,Brazil,57,7.39
+1947,Bulgaria,1,6.0
+1948,Canada,121,7.3
+1949,Chile,11,7.43
+1950,China,6,7.07
+1951,Colombia,4,7.28
+1952,Croatia,3,6.47
+1953,Czech Republic,9,6.22
+1954,Denmark,5,5.6
+1955,England,5,7.0
+1956,Estonia,4,6.25
+1957,Finland,31,7.43
+1958,France,18,7.68
+1959,Germany,74,7.47
+1960,Greece,17,7.21
+1961,Hungary,11,7.73
+1962,India,2,7.0
+1963,Indonesia,2,8.5
+1964,Israel,7,8.36
+1965,Italy,47,7.25
+1966,Japan,36,7.34
+1967,Latvia,5,7.1
+1968,Lithuania,5,7.6
+1969,Luxembourg,2,5.5
+1970,Malaysia,3,6.83
+1971,Mexico,5,8.08
+1972,Netherlands,23,7.21
+1973,New Zealand,15,7.35
+1974,Norway,8,7.19
+1975,Philippines,4,6.5
+1976,Poland,36,7.1
+1977,Portugal,9,7.12
+1978,Romania,3,7.67
+1979,Russia,14,7.0
+1980,Saudi Arabia,1,7.0
+1981,Republic of Serbia,1,6.0
+1982,Slovakia,2,6.0
+1983,Slovenia,1,8.0
+1984,South Africa,3,7.33
+1985,South Korea,23,7.28
+1986,Spain,99,7.4
+1987,Sweden,15,7.3
+1988,Switzerland,7,8.27
+1989,Taiwan,23,7.43
+1990,Thailand,4,8.38
+1991,Ukraine,3,5.67
+1992,USA,684,7.25
+1993,Uruguay,1,8.0
+1994,Venezuela,2,7.75
+1995,Vietnam,2,8.38
+1996,Argentina,9,8.06
+1997,Australia,23,7.6
+1998,Austria,8,8.19
+1999,Belarus,1,6.0
+2000,Belgium,11,7.37
+2001,Brazil,13,8.07
+2002,Bulgaria,3,6.67
+2003,Canada,58,7.48
+2004,Chile,5,7.24
+2005,China,6,8.03
+2006,Colombia,4,8.63
+2007,Costa Rica,2,7.0
+2008,Croatia,2,9.0
+2009,Czech Republic,4,7.0
+2010,Denmark,4,5.25
+2011,Ecuador,1,9.0
+2012,England,8,7.96
+2013,Estonia,2,7.5
+2014,Finland,13,7.58
+2015,France,21,8.07
+2016,Germany,99,7.59
+2017,Greece,13,7.42
+2018,Hungary,10,7.2
+2019,Iceland,2,9.0
+2020,India,1,9.0
+2021,Indonesia,1,8.5
+2022,Ireland,6,7.75
+2023,Israel,5,6.45
+2024,Italy,30,7.1
+2025,Japan,17,6.69
+2026,Latvia,3,7.75
+2027,Lithuania,2,8.0
+2028,Luxembourg,2,7.75
+2029,Malaysia,2,8.25
+2030,Mexico,7,8.29
+2031,Netherlands,12,7.61
+2032,New Zealand,7,7.0
+2033,Norway,7,6.57
+2034,Peru,1,8.0
+2035,Philippines,2,7.0
+2036,Poland,41,7.54
+2037,Portugal,7,7.93
+2038,Romania,7,7.93
+2039,Russia,4,7.13
+2040,Saudi Arabia,1,9.0
+2041,Republic of Serbia,4,7.88
+2042,Slovakia,1,5.5
+2043,Slovenia,1,8.0
+2044,South Africa,2,7.2
+2045,South Korea,13,7.14
+2046,Spain,79,7.49
+2047,Sweden,15,7.43
+2048,Switzerland,8,7.06
+2049,Taiwan,8,7.29
+2050,Thailand,5,7.34
+2051,Turkey,1,8.5
+2052,Uganda,1,8.0
+2053,Ukraine,2,10.0
+2054,USA,325,7.35
+2055,Venezuela,2,7.0
+2056,Argentina,5,8.06
+2057,Australia,57,7.37
+2058,Austria,8,6.88
+2059,Belgium,12,7.13
+2060,Brazil,33,8.19
+2061,Bulgaria,2,7.5
+2062,Canada,141,7.38
+2063,Chile,3,6.67
+2064,China,3,5.83
+2065,Colombia,1,8.5
+2066,Croatia,4,7.75
+2067,Czech Republic,4,5.5
+2068,Denmark,7,6.8
+2069,England,5,7.12
+2070,Estonia,4,7.38
+2071,Finland,21,7.54
+2072,France,18,7.61
+2073,Germany,78,6.92
+2074,Greece,14,8.24
+2075,Guatemala,2,7.0
+2076,Hungary,3,5.33
+2077,Iceland,1,7.5
+2078,Indonesia,2,8.5
+2079,Ireland,8,7.97
+2080,Israel,8,7.13
+2081,Italy,25,7.66
+2082,Japan,10,6.4
+2083,Latvia,2,6.75
+2084,Lebanon,1,5.0
+2085,Lithuania,6,5.75
+2086,Luxembourg,1,9.0
+2087,Macedonia,2,8.0
+2088,Malaysia,5,7.5
+2089,Mexico,6,7.5
+2090,Moldova,1,9.0
+2091,Netherlands,16,6.91
+2092,New Zealand,19,6.18
+2093,Norway,10,6.7
+2094,Peru,1,8.5
+2095,Philippines,6,8.08
+2096,Poland,9,8.11
+2097,Portugal,7,7.93
+2098,Romania,2,8.5
+2099,Russia,5,6.65
+2100,Republic of Serbia,2,6.25
+2101,Slovakia,1,9.0
+2102,Slovenia,2,9.0
+2103,South Africa,2,7.5
+2104,South Korea,5,6.0
+2105,Spain,59,7.21
+2106,Sri Lanka,1,8.0
+2107,Sweden,24,6.98
+2108,Switzerland,5,7.3
+2109,Taiwan,4,7.9
+2110,Thailand,4,6.88
+2111,Turkey,2,9.25
+2112,Ukraine,1,8.0
+2113,USA,1087,7.6
+2114,Uruguay,1,8.5
+2115,Venezuela,3,5.5
+2116,Argentina,11,8.09
+2117,Australia,59,7.63
+2118,Austria,4,8.0
+2119,Belgium,8,7.63
+2120,Brazil,48,7.95
+2121,Bulgaria,4,5.75
+2122,Canada,129,7.42
+2123,Chile,5,6.9
+2124,China,9,7.5
+2125,Colombia,5,8.2
+2126,Croatia,1,9.0
+2127,Czech Republic,1,9.0
+2128,Denmark,6,6.17
+2129,England,8,6.78
+2130,Estonia,2,7.6
+2131,Finland,9,7.69
+2132,France,6,8.17
+2133,Germany,32,6.82
+2134,Greece,14,6.96
+2135,Hungary,2,5.5
+2136,Iceland,1,8.0
+2137,India,3,7.33
+2138,Indonesia,4,8.38
+2139,Ireland,10,7.75
+2140,Israel,7,6.69
+2141,Italy,10,6.88
+2142,Japan,13,6.62
+2143,Latvia,2,7.25
+2144,Lithuania,2,7.5
+2145,Luxembourg,1,8.0
+2146,Macedonia,1,6.0
+2147,Malaysia,3,8.33
+2148,Mexico,20,8.29
+2149,Moldova,1,10.0
+2150,Netherlands,14,6.79
+2151,New Zealand,10,7.03
+2152,Norway,3,6.0
+2153,Peru,1,6.0
+2154,Philippines,6,7.67
+2155,Poland,19,6.84
+2156,Portugal,12,7.03
+2157,Romania,1,10.0
+2158,Russia,5,6.0
+2159,Saudi Arabia,2,8.0
+2160,Republic of Serbia,7,8.0
+2161,Slovakia,2,7.25
+2162,Slovenia,1,8.0
+2163,South Africa,2,6.0
+2164,South Korea,12,6.46
+2165,Spain,57,6.95
+2166,Sweden,19,6.97
+2167,Switzerland,3,7.0
+2168,Taiwan,8,7.71
+2169,Thailand,9,7.63
+2170,Turkey,1,8.0
+2171,Uganda,1,7.0
+2172,Ukraine,1,10.0
+2173,USA,818,7.35
+2174,Venezuela,2,5.5
+2175,Vietnam,2,6.15
+2176,Argentina,12,8.77
+2177,Australia,41,7.88
+2178,Austria,4,7.78
+2179,Belarus,1,8.0
+2180,Belgium,8,7.63
+2181,Bolivia,1,8.0
+2182,Brazil,29,8.42
+2183,Bulgaria,4,8.25
+2184,Canada,120,8.07
+2185,Chile,2,6.0
+2186,China,11,8.34
+2187,Colombia,3,8.0
+2188,Croatia,2,6.7
+2189,Czech Republic,7,7.43
+2190,Denmark,6,9.08
+2191,England,7,7.07
+2192,Estonia,2,6.5
+2193,Finland,9,8.81
+2194,France,12,8.5
+2195,Germany,53,7.74
+2196,Greece,14,8.41
+2197,Guatemala,1,9.0
+2198,Hungary,4,6.5
+2199,Iceland,1,10.0
+2200,Indonesia,1,8.0
+2201,Iran,1,8.0
+2202,Iraq,1,9.0
+2203,Ireland,9,7.94
+2204,Israel,4,6.89
+2205,Italy,18,6.61
+2206,Japan,9,7.06
+2207,Latvia,3,7.0
+2208,Lithuania,8,8.13
+2209,Luxembourg,1,7.0
+2210,Macedonia,1,10.0
+2211,Malaysia,3,8.83
+2212,Mexico,15,8.67
+2213,Netherlands,12,7.58
+2214,New Zealand,9,7.78
+2215,Norway,8,7.88
+2216,Philippines,5,8.3
+2217,Poland,29,7.97
+2218,Portugal,13,8.22
+2219,Qatar,1,8.8
+2220,Romania,5,9.61
+2221,Russia,6,7.67
+2222,Republic of Serbia,1,8.5
+2223,Slovakia,1,9.0
+2224,South Africa,2,8.0
+2225,South Korea,12,7.78
+2226,Spain,67,8.0
+2227,Sweden,12,8.86
+2228,Switzerland,3,6.33
+2229,Taiwan,4,8.0
+2230,Thailand,4,6.63
+2231,Turkey,1,8.5
+2232,Ukraine,4,9.5
+2233,USA,640,7.86
+2234,Uruguay,3,8.67
+2235,Venezuela,1,9.0
+2236,Argentina,8,6.94
+2237,Australia,46,6.97
+2238,Austria,3,7.0
+2239,Belarus,1,6.0
+2240,Belgium,11,7.09
+2241,Brazil,22,7.07
+2242,Brunei,1,8.0
+2243,Canada,96,7.04
+2244,Chile,9,7.41
+2245,China,4,6.95
+2246,Colombia,1,10.0
+2247,Croatia,1,8.0
+2248,Czech Republic,2,7.5
+2249,Denmark,5,4.8
+2250,England,7,7.36
+2251,Estonia,3,6.67
+2252,Finland,20,6.93
+2253,France,16,7.13
+2254,Germany,61,6.9
+2255,Greece,14,7.29
+2256,Guatemala,1,1.0
+2257,Hungary,3,7.0
+2258,India,1,6.0
+2259,Indonesia,1,7.0
+2260,Ireland,2,7.75
+2261,Israel,6,7.5
+2262,Italy,17,7.24
+2263,Japan,28,6.68
+2264,Latvia,1,9.0
+2265,Malaysia,5,6.96
+2266,Mexico,6,7.3
+2267,Netherlands,11,7.29
+2268,New Zealand,13,7.22
+2269,Norway,11,7.18
+2270,Philippines,2,8.0
+2271,Poland,13,6.96
+2272,Portugal,7,7.11
+2273,Romania,2,6.75
+2274,Russia,1,5.0
+2275,Saudi Arabia,1,8.0
+2276,Republic of Serbia,2,9.0
+2277,Slovenia,3,8.33
+2278,South Africa,3,6.83
+2279,South Korea,13,6.86
+2280,Spain,76,6.96
+2281,Sweden,17,6.28
+2282,Switzerland,3,6.67
+2283,Taiwan,11,7.56
+2284,Thailand,7,8.04
+2285,Ukraine,1,9.0
+2286,USA,684,7.24
+2287,Uruguay,1,8.0
+2288,Vietnam,1,7.5
+2289,Argentina,2,8.0
+2290,Australia,34,7.23
+2291,Austria,6,7.17
+2292,Belgium,12,7.54
+2293,Brazil,18,8.14
+2294,Canada,115,7.65
+2295,Chile,2,8.5
+2296,China,1,5.9
+2297,Czech Republic,1,8.0
+2298,Denmark,10,7.25
+2299,England,4,6.75
+2300,Finland,18,7.28
+2301,France,17,7.93
+2302,Germany,59,7.21
+2303,Greece,10,7.85
+2304,Hungary,4,8.13
+2305,Iceland,1,7.0
+2306,India,1,7.0
+2307,Indonesia,1,7.0
+2308,Ireland,5,8.05
+2309,Israel,2,6.0
+2310,Italy,32,7.29
+2311,Japan,6,6.67
+2312,Latvia,1,6.0
+2313,Lithuania,1,8.0
+2314,Mexico,4,8.45
+2315,Moldova,1,7.0
+2316,Netherlands,19,6.6
+2317,New Zealand,9,6.72
+2318,Norway,10,6.8
+2319,Peru,2,8.5
+2320,Philippines,1,5.0
+2321,Poland,5,7.4
+2322,Portugal,9,6.28
+2323,Russia,3,6.33
+2324,Republic of Serbia,2,8.0
+2325,Slovenia,1,10.0
+2326,South Korea,3,7.67
+2327,Spain,24,7.56
+2328,Sweden,25,7.38
+2329,Switzerland,2,8.0
+2330,Taiwan,1,9.0
+2331,Turkey,1,9.0
+2332,Ukraine,1,8.0
+2333,USA,601,7.4
+2334,Venezuela,2,6.5
+2335,Argentina,26,8.23
+2336,Australia,83,7.65
+2337,Austria,11,8.05
+2338,The Bahamas,1,10.0
+2339,Belarus,3,8.33
+2340,Belgium,45,7.65
+2341,Bolivia,1,8.0
+2342,Brazil,97,8.5
+2343,Bulgaria,10,8.05
+2344,Canada,187,7.71
+2345,Chile,20,8.27
+2346,China,27,7.79
+2347,Colombia,5,8.9
+2348,Costa Rica,2,9.5
+2349,Croatia,10,8.2
+2350,Czech Republic,18,8.12
+2351,Denmark,14,7.21
+2352,England,10,7.2
+2353,Estonia,6,8.0
+2354,Finland,28,7.46
+2355,France,35,8.23
+2356,Germany,111,7.12
+2357,Greece,49,7.87
+2358,Hungary,25,8.4
+2359,Iceland,2,8.75
+2360,India,4,8.13
+2361,Indonesia,5,8.54
+2362,Ireland,16,7.86
+2363,Israel,14,7.78
+2364,Italy,69,7.99
+2365,Japan,37,7.32
+2366,Latvia,8,8.0
+2367,Lithuania,17,7.81
+2368,Luxembourg,3,7.67
+2369,Macedonia,2,7.0
+2370,Malaysia,8,7.88
+2371,Mexico,20,8.56
+2372,Moldova,1,9.0
+2373,Netherlands,33,7.9
+2374,New Zealand,19,7.63
+2375,Norway,14,7.25
+2376,Peru,3,8.67
+2377,Philippines,8,7.88
+2378,Poland,123,7.77
+2379,Portugal,25,7.86
+2380,Qatar,2,7.1
+2381,Romania,16,8.1
+2382,Russia,22,7.91
+2383,Saudi Arabia,3,7.33
+2384,Republic of Serbia,10,8.3
+2385,Slovakia,4,8.0
+2386,Slovenia,4,8.75
+2387,South Africa,4,8.33
+2388,South Korea,28,7.55
+2389,Spain,159,7.92
+2390,Sweden,34,7.37
+2391,Switzerland,9,7.44
+2392,Taiwan,32,7.98
+2393,Thailand,16,8.52
+2394,Turkey,1,8.5
+2395,Uganda,1,8.0
+2396,Ukraine,12,8.54
+2397,USA,1075,7.52
+2398,Uruguay,4,8.75
+2399,Venezuela,2,8.0
+2400,Vietnam,2,7.63
+2401,Argentina,21,8.62
+2402,Australia,123,7.81
+2403,Austria,20,8.13
+2404,Belarus,2,10.0
+2405,Belgium,57,8.27
+2406,Bolivia,2,9.0
+2407,Brazil,75,8.39
+2408,Brunei,1,10.0
+2409,Bulgaria,7,8.0
+2410,Canada,384,8.13
+2411,Chile,16,8.19
+2412,China,31,8.62
+2413,Colombia,5,9.1
+2414,Costa Rica,1,10.0
+2415,Croatia,6,8.22
+2416,Czech Republic,24,8.46
+2417,Denmark,29,8.05
+2418,Ecuador,2,7.0
+2419,England,14,7.91
+2420,Estonia,7,8.29
+2421,Finland,53,8.37
+2422,France,38,7.98
+2423,Germany,291,8.2
+2424,Greece,44,8.31
+2425,Guatemala,2,9.25
+2426,Hungary,24,7.72
+2427,Iceland,2,7.5
+2428,India,5,8.0
+2429,Indonesia,3,8.67
+2430,Iraq,1,9.0
+2431,Ireland,13,8.41
+2432,Israel,15,8.59
+2433,Italy,65,8.04
+2434,Japan,46,8.03
+2435,Latvia,9,8.69
+2436,Lithuania,16,8.34
+2437,Luxembourg,4,8.25
+2438,Malaysia,11,7.81
+2439,Mexico,18,8.25
+2440,Moldova,2,9.75
+2441,Netherlands,63,8.26
+2442,New Zealand,29,8.01
+2443,Norway,31,8.65
+2444,Peru,6,7.25
+2445,Philippines,3,8.17
+2446,Poland,110,8.15
+2447,Portugal,20,8.07
+2448,Romania,19,8.8
+2449,Russia,26,8.62
+2450,Saudi Arabia,1,9.0
+2451,Republic of Serbia,7,7.57
+2452,Slovakia,4,8.15
+2453,Slovenia,4,8.75
+2454,South Africa,8,8.5
+2455,South Korea,35,8.52
+2456,Spain,189,8.01
+2457,Sweden,72,8.13
+2458,Switzerland,23,7.98
+2459,Taiwan,39,8.38
+2460,Thailand,12,8.08
+2461,Trinidad and Tobago,1,7.0
+2462,Uganda,1,8.0
+2463,Ukraine,9,7.56
+2464,USA,2646,8.3
+2465,Uruguay,3,9.67
+2466,Venezuela,3,9.67
+2467,Vietnam,3,7.58
+2468,Argentina,7,8.86
+2469,Australia,50,7.9
+2470,Austria,14,7.32
+2471,Azerbaijan,1,6.0
+2472,Belarus,2,9.5
+2473,Belgium,23,8.45
+2474,Bolivia,2,9.0
+2475,Brazil,21,8.6
+2476,Bulgaria,1,8.0
+2477,Canada,162,8.1
+2478,Chile,7,8.07
+2479,China,20,8.81
+2480,Colombia,2,7.75
+2481,Croatia,2,7.35
+2482,Czech Republic,14,8.16
+2483,Denmark,11,7.52
+2484,England,8,8.78
+2485,Estonia,5,7.5
+2486,Finland,23,7.94
+2487,France,21,7.8
+2488,Germany,122,8.15
+2489,Greece,13,8.65
+2490,Hungary,7,7.59
+2491,India,1,5.0
+2492,Indonesia,3,8.67
+2493,Ireland,4,8.0
+2494,Israel,7,9.07
+2495,Italy,30,8.38
+2496,Japan,20,7.56
+2497,Latvia,7,8.27
+2498,Lithuania,6,8.67
+2499,Luxembourg,3,6.5
+2500,Malaysia,5,8.76
+2501,Mexico,6,7.58
+2502,Netherlands,27,8.3
+2503,New Zealand,15,7.83
+2504,Norway,16,8.44
+2505,Peru,1,8.0
+2506,Philippines,3,6.5
+2507,Poland,56,8.06
+2508,Portugal,4,9.25
+2509,Qatar,1,7.6
+2510,Romania,8,8.93
+2511,Russia,13,8.38
+2512,Republic of Serbia,2,8.0
+2513,Slovakia,2,7.65
+2514,Slovenia,1,10.0
+2515,South Africa,4,8.38
+2516,South Korea,25,8.3
+2517,Spain,74,8.03
+2518,Sweden,28,8.09
+2519,Switzerland,14,7.93
+2520,Taiwan,16,8.37
+2521,Thailand,7,7.56
+2522,Ukraine,8,7.39
+2523,USA,1090,8.29
+2524,Uruguay,1,10.0
+2525,Venezuela,2,8.5
+2526,Vietnam,2,8.0
+2527,Argentina,4,8.3
+2528,Australia,26,7.75
+2529,Austria,7,8.71
+2530,Azerbaijan,1,9.0
+2531,Belarus,2,9.25
+2532,Belgium,13,8.59
+2533,Brazil,35,8.58
+2534,Bulgaria,2,9.0
+2535,Canada,104,8.35
+2536,Chile,3,8.63
+2537,China,11,7.38
+2538,Colombia,1,8.0
+2539,Croatia,4,8.18
+2540,Czech Republic,5,7.4
+2541,Denmark,7,9.0
+2542,Ecuador,1,8.0
+2543,England,6,8.18
+2544,Estonia,2,8.7
+2545,Finland,34,9.01
+2546,France,16,8.65
+2547,Germany,74,8.35
+2548,Greece,13,8.25
+2549,Hungary,4,7.3
+2550,Iceland,1,10.0
+2551,India,2,6.0
+2552,Indonesia,1,8.0
+2553,Ireland,4,9.0
+2554,Israel,4,8.5
+2555,Italy,34,7.91
+2556,Japan,6,5.83
+2557,Latvia,6,8.5
+2558,Lithuania,5,8.0
+2559,Luxembourg,1,8.0
+2560,Malaysia,2,10.0
+2561,Mexico,1,7.0
+2562,Netherlands,14,7.9
+2563,New Zealand,7,8.29
+2564,Norway,9,7.99
+2565,Peru,1,9.0
+2566,Philippines,1,5.0
+2567,Poland,39,8.47
+2568,Portugal,4,8.75
+2569,Romania,3,8.5
+2570,Russia,13,8.54
+2571,Republic of Serbia,3,8.5
+2572,Slovakia,1,9.0
+2573,South Africa,4,9.25
+2574,South Korea,9,7.92
+2575,Spain,66,8.22
+2576,Sweden,20,7.83
+2577,Switzerland,6,8.3
+2578,Taiwan,7,8.37
+2579,Thailand,5,7.9
+2580,Ukraine,8,8.88
+2581,USA,600,8.1
+2582,Venezuela,3,8.67
+2583,Vietnam,1,10.0
+2584,Argentina,11,8.74
+2585,Australia,55,8.12
+2586,Austria,21,9.07
+2587,Belgium,51,8.25
+2588,Brazil,35,8.45
+2589,Bulgaria,1,7.0
+2590,Canada,155,8.14
+2591,Chile,9,7.91
+2592,China,8,7.78
+2593,Colombia,4,8.63
+2594,Croatia,5,8.88
+2595,Czech Republic,10,7.5
+2596,Denmark,15,7.63
+2597,England,8,8.38
+2598,Estonia,3,9.0
+2599,Finland,29,8.27
+2600,France,20,8.01
+2601,Germany,228,8.28
+2602,Greece,21,8.17
+2603,Hungary,12,7.92
+2604,India,1,8.0
+2605,Indonesia,3,8.67
+2606,Ireland,6,8.33
+2607,Israel,12,8.25
+2608,Italy,55,8.23
+2609,Japan,33,7.98
+2610,Latvia,3,7.5
+2611,Lithuania,4,8.25
+2612,Luxembourg,1,7.0
+2613,Malaysia,7,8.07
+2614,Mexico,9,8.33
+2615,Moldova,1,9.0
+2616,Netherlands,55,8.05
+2617,New Zealand,17,7.36
+2618,Norway,19,8.59
+2619,Peru,1,7.5
+2620,Philippines,2,9.0
+2621,Poland,41,8.07
+2622,Portugal,10,8.5
+2623,Qatar,1,8.0
+2624,Romania,5,8.9
+2625,Russia,1,7.0
+2626,Saudi Arabia,1,9.0
+2627,Republic of Serbia,3,8.17
+2628,Slovakia,1,6.0
+2629,Slovenia,3,9.17
+2630,South Africa,4,9.0
+2631,South Korea,28,8.2
+2632,Spain,116,8.39
+2633,Sweden,40,7.67
+2634,Switzerland,14,7.96
+2635,Taiwan,17,8.38
+2636,Thailand,6,8.17
+2637,Ukraine,2,7.0
+2638,USA,894,8.06
+2639,Venezuela,3,8.33
+2640,Argentina,2,6.75
+2641,Australia,18,7.44
+2642,Austria,9,6.47
+2643,Belarus,2,8.75
+2644,Belgium,30,7.37
+2645,Brazil,18,7.57
+2646,Brunei,1,8.0
+2647,Canada,58,6.98
+2648,Chile,4,7.95
+2649,China,2,6.3
+2650,Colombia,1,7.5
+2651,Czech Republic,7,6.43
+2652,Denmark,6,6.67
+2653,England,3,6.67
+2654,Estonia,4,6.5
+2655,Finland,13,7.23
+2656,France,10,7.0
+2657,Germany,107,6.9
+2658,Greece,7,7.49
+2659,Hungary,7,7.36
+2660,India,2,8.0
+2661,Indonesia,1,6.2
+2662,Ireland,1,7.0
+2663,Israel,3,8.0
+2664,Italy,34,7.09
+2665,Japan,29,7.14
+2666,Lithuania,1,8.0
+2667,Malaysia,1,7.5
+2668,Netherlands,41,7.3
+2669,New Zealand,11,6.34
+2670,Norway,13,7.51
+2671,Poland,8,7.38
+2672,Portugal,5,6.5
+2673,Romania,1,8.0
+2674,Russia,4,6.5
+2675,Saudi Arabia,1,8.0
+2676,Republic of Serbia,2,8.25
+2677,Slovakia,1,5.0
+2678,Slovenia,1,9.0
+2679,South Africa,2,6.5
+2680,South Korea,12,6.43
+2681,Spain,28,7.44
+2682,Sweden,28,6.95
+2683,Switzerland,4,7.25
+2684,Taiwan,5,6.78
+2685,Thailand,1,7.0
+2686,Ukraine,2,8.75
+2687,USA,475,7.06
+2688,Venezuela,1,6.0
+2689,Argentina,9,8.41
+2690,Australia,42,7.89
+2691,Austria,3,7.0
+2692,Belarus,1,7.0
+2693,Belgium,14,7.86
+2694,Brazil,33,8.51
+2695,Bulgaria,4,9.0
+2696,Canada,107,8.02
+2697,Chile,4,7.85
+2698,China,10,8.25
+2699,Colombia,4,9.0
+2700,Costa Rica,1,8.0
+2701,Croatia,1,6.7
+2702,Czech Republic,3,6.33
+2703,Denmark,5,7.24
+2704,England,5,8.6
+2705,Estonia,3,7.98
+2706,Finland,4,7.38
+2707,France,22,7.8
+2708,Germany,48,7.28
+2709,Greece,18,8.93
+2710,Guatemala,1,9.0
+2711,Hungary,9,7.09
+2712,Iceland,1,9.0
+2713,India,4,8.0
+2714,Indonesia,1,8.5
+2715,Ireland,5,9.0
+2716,Israel,4,8.05
+2717,Italy,23,7.37
+2718,Japan,8,7.44
+2719,Kenya,1,7.5
+2720,Latvia,3,8.75
+2721,Lebanon,1,9.0
+2722,Lithuania,6,7.0
+2723,Luxembourg,2,5.25
+2724,Malaysia,4,8.38
+2725,Mexico,8,8.49
+2726,Netherlands,23,7.7
+2727,New Zealand,8,7.88
+2728,Norway,6,7.53
+2729,Peru,2,9.5
+2730,Philippines,7,8.43
+2731,Poland,35,8.08
+2732,Portugal,11,7.75
+2733,Qatar,1,2.2
+2734,Romania,7,8.85
+2735,Russia,7,7.43
+2736,Republic of Serbia,5,7.2
+2737,Slovakia,2,9.25
+2738,Slovenia,1,8.0
+2739,South Africa,4,7.88
+2740,South Korea,14,7.59
+2741,Spain,44,8.38
+2742,Sweden,22,7.5
+2743,Switzerland,6,8.25
+2744,Taiwan,10,8.84
+2745,Thailand,3,8.33
+2746,Ukraine,5,8.4
+2747,USA,602,7.91
+2748,Venezuela,2,9.5
+2749,Vietnam,2,8.75
+2750,Argentina,7,7.36
+2751,Australia,33,7.41
+2752,Austria,5,7.3
+2753,Belgium,14,7.39
+2754,Bolivia,1,9.0
+2755,Brazil,21,7.97
+2756,Bulgaria,1,10.0
+2757,Canada,95,7.7
+2758,Chile,6,7.67
+2759,China,3,7.23
+2760,Colombia,1,7.0
+2761,Czech Republic,8,7.88
+2762,Denmark,1,6.0
+2763,England,3,7.25
+2764,Finland,5,7.6
+2765,France,5,7.6
+2766,Germany,48,7.43
+2767,Greece,13,7.67
+2768,Guatemala,1,7.0
+2769,Hungary,3,7.0
+2770,India,2,8.0
+2771,Indonesia,1,8.0
+2772,Ireland,4,7.25
+2773,Italy,13,7.12
+2774,Japan,8,6.25
+2775,Latvia,1,9.0
+2776,Lithuania,1,9.0
+2777,Luxembourg,1,8.0
+2778,Malaysia,1,7.0
+2779,Mexico,7,8.43
+2780,Netherlands,24,7.52
+2781,New Zealand,8,7.06
+2782,Norway,7,6.54
+2783,Philippines,2,6.5
+2784,Poland,20,7.48
+2785,Portugal,3,7.0
+2786,Qatar,1,6.6
+2787,Romania,1,9.0
+2788,Russia,5,7.6
+2789,Republic of Serbia,1,7.0
+2790,Slovenia,1,10.0
+2791,South Africa,3,7.5
+2792,South Korea,7,8.29
+2793,Spain,70,7.62
+2794,Sweden,10,7.55
+2795,Switzerland,2,6.5
+2796,Taiwan,2,8.75
+2797,Thailand,6,6.5
+2798,Ukraine,2,6.8
+2799,USA,550,7.62
+2800,Uruguay,1,8.5
+2801,Argentina,3,6.33
+2802,Australia,30,6.02
+2803,Austria,1,6.0
+2804,Belarus,1,5.0
+2805,Belgium,6,7.0
+2806,Brazil,9,7.0
+2807,Brunei,1,7.0
+2808,Canada,69,6.27
+2809,Chile,5,6.78
+2810,China,4,6.0
+2811,Colombia,1,7.0
+2812,Denmark,6,4.83
+2813,England,3,6.67
+2814,Estonia,1,10.0
+2815,Finland,17,5.16
+2816,France,1,9.0
+2817,Germany,41,5.58
+2818,Greece,1,5.0
+2819,Hungary,1,9.5
+2820,India,1,6.0
+2821,Indonesia,1,2.0
+2822,Ireland,4,6.94
+2823,Israel,7,6.79
+2824,Italy,8,6.31
+2825,Japan,4,4.0
+2826,Malaysia,4,5.5
+2827,Mexico,2,6.0
+2828,Netherlands,18,6.85
+2829,New Zealand,6,6.08
+2830,Norway,5,5.8
+2831,Philippines,2,7.0
+2832,Poland,5,5.2
+2833,Qatar,1,8.0
+2834,Romania,2,7.25
+2835,Russia,4,5.75
+2836,Republic of Serbia,1,8.0
+2837,Slovakia,1,7.0
+2838,South Africa,1,4.0
+2839,South Korea,8,6.0
+2840,Spain,13,7.45
+2841,Sweden,27,5.74
+2842,Switzerland,3,7.0
+2843,Taiwan,1,6.0
+2844,Turkey,1,8.0
+2845,USA,1008,6.07
+2846,Argentina,1,7.0
+2847,Australia,52,7.63
+2848,Austria,3,6.0
+2849,Belarus,1,7.0
+2850,Belgium,8,7.34
+2851,Brazil,29,7.72
+2852,Brunei,1,7.0
+2853,Canada,152,7.51
+2854,Chile,5,7.1
+2855,China,12,6.93
+2856,Colombia,1,7.0
+2857,Croatia,1,7.3
+2858,Czech Republic,4,8.0
+2859,Denmark,4,7.0
+2860,England,8,7.31
+2861,Estonia,6,6.42
+2862,Finland,22,7.62
+2863,France,9,7.78
+2864,Germany,35,7.03
+2865,Greece,22,7.7
+2866,Hungary,9,7.67
+2867,Iceland,1,8.0
+2868,India,5,8.9
+2869,Indonesia,2,7.5
+2870,Ireland,4,7.75
+2871,Israel,9,7.47
+2872,Italy,18,7.34
+2873,Japan,17,6.62
+2874,Latvia,5,7.5
+2875,Lithuania,4,5.75
+2876,Malaysia,6,7.25
+2877,Mexico,4,6.75
+2878,Moldova,1,10.0
+2879,Netherlands,18,7.24
+2880,New Zealand,16,7.24
+2881,Norway,10,7.7
+2882,Philippines,3,8.67
+2883,Poland,25,7.68
+2884,Portugal,8,7.44
+2885,Romania,1,7.0
+2886,Russia,5,7.6
+2887,Saudi Arabia,1,8.0
+2888,Republic of Serbia,4,7.25
+2889,Slovakia,1,8.0
+2890,Slovenia,2,7.75
+2891,South Africa,5,7.0
+2892,South Korea,21,7.23
+2893,Spain,51,7.26
+2894,Sweden,21,7.14
+2895,Switzerland,2,7.5
+2896,Taiwan,18,7.48
+2897,Thailand,12,7.95
+2898,Turkey,2,7.75
+2899,Uganda,1,8.5
+2900,Ukraine,2,9.5
+2901,USA,886,7.56
+2902,Venezuela,1,7.0
+2903,Vietnam,1,6.5
+2904,Argentina,4,8.13
+2905,Australia,34,7.12
+2906,Austria,1,7.5
+2907,Belarus,1,7.0
+2908,Belgium,11,7.01
+2909,Bolivia,1,8.0
+2910,Brazil,18,7.55
+2911,Bulgaria,1,10.0
+2912,Canada,94,7.72
+2913,Chile,4,7.75
+2914,China,3,6.5
+2915,Colombia,3,7.33
+2916,Costa Rica,1,9.0
+2917,Croatia,1,7.0
+2918,Czech Republic,2,8.5
+2919,Denmark,5,7.94
+2920,England,6,6.42
+2921,Finland,7,7.21
+2922,France,7,7.63
+2923,Germany,34,7.36
+2924,Greece,3,7.83
+2925,Honduras,1,7.8
+2926,Hungary,5,7.8
+2927,Iceland,1,7.5
+2928,India,2,8.0
+2929,Indonesia,1,8.0
+2930,Ireland,4,7.63
+2931,Israel,5,7.63
+2932,Italy,8,7.0
+2933,Japan,5,5.6
+2934,Latvia,2,7.5
+2935,Lithuania,4,7.75
+2936,Malaysia,1,7.0
+2937,Mexico,12,7.8
+2938,Netherlands,15,7.46
+2939,New Zealand,8,6.69
+2940,Norway,6,7.25
+2941,Peru,1,6.0
+2942,Philippines,2,5.75
+2943,Poland,7,8.36
+2944,Portugal,4,7.23
+2945,Qatar,1,8.0
+2946,Romania,7,8.26
+2947,Russia,2,6.13
+2948,Republic of Serbia,2,7.25
+2949,Slovakia,1,10.0
+2950,Slovenia,3,9.0
+2951,South Africa,4,8.13
+2952,South Korea,8,7.25
+2953,Spain,35,6.99
+2954,Sri Lanka,1,7.0
+2955,Sweden,10,7.65
+2956,Switzerland,2,7.5
+2957,Taiwan,7,8.81
+2958,Thailand,4,6.88
+2959,Ukraine,2,7.6
+2960,USA,648,7.54
+2961,Uruguay,1,7.5
+2962,Vietnam,2,5.88
+2963,Argentina,18,7.1
+2964,Australia,67,7.11
+2965,Austria,6,7.0
+2966,Belarus,3,6.67
+2967,Belgium,24,7.67
+2968,Bolivia,1,7.0
+2969,Brazil,40,7.52
+2970,Bulgaria,3,7.5
+2971,Canada,159,7.24
+2972,Chile,15,6.79
+2973,China,8,6.73
+2974,Colombia,4,7.25
+2975,Costa Rica,2,7.5
+2976,Czech Republic,5,6.9
+2977,Denmark,9,6.51
+2978,England,12,6.92
+2979,Estonia,3,7.67
+2980,Finland,18,6.94
+2981,France,15,7.23
+2982,Germany,75,6.89
+2983,Greece,26,7.25
+2984,Hungary,6,7.0
+2985,India,3,7.33
+2986,Indonesia,1,6.0
+2987,Ireland,9,7.17
+2988,Israel,9,6.7
+2989,Italy,21,6.59
+2990,Japan,18,6.87
+2991,Latvia,3,7.33
+2992,Lithuania,1,8.0
+2993,Luxembourg,2,7.0
+2994,Malaysia,4,8.13
+2995,Mexico,13,7.54
+2996,Netherlands,31,7.26
+2997,New Zealand,11,6.96
+2998,Norway,8,6.81
+2999,Peru,1,7.0
+3000,Philippines,5,7.0
+3001,Poland,35,7.21
+3002,Portugal,17,7.02
+3003,Qatar,1,8.0
+3004,Romania,4,9.0
+3005,Russia,14,6.51
+3006,Republic of Serbia,2,6.0
+3007,Slovakia,2,8.5
+3008,Slovenia,3,8.67
+3009,South Africa,5,7.6
+3010,South Korea,8,7.5
+3011,Spain,120,6.96
+3012,Sweden,22,7.1
+3013,Switzerland,6,7.08
+3014,Taiwan,12,7.28
+3015,Thailand,9,7.16
+3016,Trinidad and Tobago,1,7.0
+3017,Uganda,1,7.5
+3018,Ukraine,6,7.22
+3019,USA,1325,7.23
+3020,Uruguay,4,7.63
+3021,Venezuela,1,7.0
+3022,Argentina,8,7.14
+3023,Australia,29,7.06
+3024,Austria,7,7.86
+3025,Belgium,18,7.67
+3026,Bolivia,1,10.0
+3027,Brazil,25,7.82
+3028,Canada,80,7.48
+3029,Chile,3,6.83
+3030,China,5,6.74
+3031,Colombia,1,8.0
+3032,Croatia,1,5.8
+3033,Czech Republic,4,6.5
+3034,Denmark,5,6.6
+3035,England,4,7.4
+3036,Estonia,5,7.24
+3037,Finland,8,7.63
+3038,France,8,7.43
+3039,Germany,42,7.27
+3040,Greece,16,7.29
+3041,Hungary,2,7.0
+3042,Iceland,1,7.0
+3043,Indonesia,1,7.5
+3044,Ireland,4,7.25
+3045,Israel,1,6.0
+3046,Italy,23,7.46
+3047,Japan,6,7.33
+3048,Latvia,1,7.0
+3049,Lebanon,1,7.0
+3050,Lithuania,4,7.75
+3051,Macedonia,1,9.0
+3052,Malaysia,5,6.3
+3053,Mexico,6,8.0
+3054,Netherlands,13,7.42
+3055,New Zealand,8,7.14
+3056,Norway,7,7.64
+3057,Peru,2,7.0
+3058,Philippines,3,4.67
+3059,Poland,8,6.81
+3060,Portugal,7,6.99
+3061,Qatar,2,6.5
+3062,Romania,5,7.36
+3063,Russia,5,7.6
+3064,Republic of Serbia,1,7.0
+3065,South Africa,2,6.5
+3066,South Korea,7,6.43
+3067,Spain,80,7.62
+3068,Sweden,16,7.24
+3069,Switzerland,3,5.33
+3070,Taiwan,1,6.0
+3071,Thailand,3,8.67
+3072,Ukraine,1,8.0
+3073,USA,478,7.4
+3074,Uruguay,2,8.0
+3075,Venezuela,1,9.0
+3076,Australia,16,7.09
+3077,Austria,4,7.0
+3078,Belgium,16,7.63
+3079,Brazil,9,7.21
+3080,Canada,66,7.18
+3081,Czech Republic,5,7.9
+3082,Denmark,9,6.67
+3083,England,9,6.89
+3084,Finland,10,6.7
+3085,France,13,7.46
+3086,Germany,55,7.56
+3087,Greece,14,7.58
+3088,Hungary,3,8.17
+3089,Ireland,2,7.0
+3090,Italy,52,7.3
+3091,Japan,9,6.0
+3092,Mongolia,1,7.0
+3093,Netherlands,18,7.48
+3094,New Zealand,9,7.24
+3095,Norway,12,6.67
+3096,Poland,2,8.5
+3097,Portugal,5,7.1
+3098,Qatar,1,7.2
+3099,Russia,1,9.0
+3100,Republic of Serbia,1,8.0
+3101,South Africa,1,7.0
+3102,South Korea,14,7.29
+3103,Spain,42,7.86
+3104,Sweden,27,6.77
+3105,Switzerland,3,7.67
+3106,Taiwan,2,7.0
+3107,USA,527,7.22
+3108,Venezuela,1,8.0
+3109,Albania,1,5.5
+3110,Argentina,4,7.25
+3111,Australia,49,7.78
+3112,Austria,8,8.5
+3113,Belgium,15,7.35
+3114,Bolivia,2,8.75
+3115,Brazil,30,8.67
+3116,Canada,167,7.73
+3117,Chile,5,6.3
+3118,China,13,7.93
+3119,Colombia,4,8.38
+3120,Croatia,2,9.0
+3121,Czech Republic,19,8.16
+3122,Denmark,11,7.16
+3123,England,8,8.06
+3124,Estonia,3,6.67
+3125,Finland,23,8.26
+3126,France,17,7.99
+3127,Germany,121,8.15
+3128,Greece,19,8.26
+3129,Guatemala,1,7.0
+3130,Hungary,7,7.57
+3131,India,1,7.5
+3132,Indonesia,4,7.88
+3133,Iran,1,3.0
+3134,Ireland,7,7.21
+3135,Israel,5,8.0
+3136,Italy,28,7.89
+3137,Japan,18,7.06
+3138,Latvia,4,6.25
+3139,Lithuania,6,8.17
+3140,Luxembourg,1,8.0
+3141,Malaysia,3,8.33
+3142,Mexico,4,7.7
+3143,Moldova,1,6.0
+3144,Netherlands,24,7.7
+3145,New Zealand,16,7.2
+3146,Norway,9,7.96
+3147,Philippines,2,6.5
+3148,Poland,62,7.48
+3149,Portugal,7,8.7
+3150,Qatar,1,6.8
+3151,Romania,4,8.23
+3152,Russia,13,7.85
+3153,Republic of Serbia,2,8.2
+3154,Slovakia,1,10.0
+3155,Slovenia,1,10.0
+3156,South Africa,2,7.25
+3157,South Korea,17,7.11
+3158,Spain,84,7.85
+3159,Sweden,25,7.44
+3160,Switzerland,5,7.9
+3161,Taiwan,16,7.82
+3162,Thailand,2,8.0
+3163,Turkey,1,6.0
+3164,Ukraine,3,8.5
+3165,USA,769,7.57
+3166,Vietnam,3,8.4
+3167,Argentina,7,8.71
+3168,Australia,21,7.42
+3169,Austria,6,5.83
+3170,Belgium,10,9.0
+3171,Brazil,15,8.92
+3172,Bulgaria,2,7.0
+3173,Canada,101,7.85
+3174,Chile,6,9.03
+3175,China,23,9.25
+3176,Colombia,2,7.5
+3177,Croatia,4,9.25
+3178,Czech Republic,9,7.11
+3179,Denmark,5,4.4
+3180,England,6,7.5
+3181,Finland,24,8.0
+3182,France,9,8.2
+3183,Germany,50,7.7
+3184,Greece,6,8.33
+3185,Guatemala,1,10.0
+3186,Hungary,8,8.13
+3187,India,2,7.4
+3188,Indonesia,1,8.0
+3189,Ireland,3,7.33
+3190,Israel,3,7.33
+3191,Italy,32,8.17
+3192,Japan,12,7.25
+3193,Latvia,2,5.5
+3194,Lithuania,4,9.0
+3195,Malaysia,3,8.26
+3196,Mexico,4,7.63
+3197,Netherlands,18,8.24
+3198,New Zealand,7,8.0
+3199,Norway,12,7.02
+3200,Peru,1,8.0
+3201,Poland,25,8.32
+3202,Portugal,2,7.45
+3203,Romania,2,9.5
+3204,Russia,10,7.35
+3205,Republic of Serbia,4,7.0
+3206,Slovenia,1,10.0
+3207,South Africa,2,7.5
+3208,South Korea,14,7.54
+3209,Spain,46,7.69
+3210,Sweden,23,7.39
+3211,Switzerland,4,8.63
+3212,Taiwan,10,8.85
+3213,Thailand,6,8.0
+3214,Turkey,1,9.0
+3215,USA,618,7.61
+3216,Venezuela,2,6.5
+3217,Australia,26,7.93
+3218,Austria,11,8.73
+3219,Belgium,27,7.93
+3220,Brazil,17,8.44
+3221,Canada,89,8.16
+3222,Chile,6,8.07
+3223,China,9,8.03
+3224,Colombia,2,7.75
+3225,Croatia,1,9.0
+3226,Czech Republic,7,7.71
+3227,Denmark,5,6.4
+3228,England,5,7.6
+3229,Estonia,1,10.0
+3230,Finland,13,7.65
+3231,France,17,8.1
+3232,Germany,95,8.13
+3233,Greece,12,7.83
+3234,Hungary,6,8.0
+3235,Iceland,1,8.5
+3236,India,4,8.13
+3237,Ireland,1,7.0
+3238,Israel,4,8.88
+3239,Italy,30,7.92
+3240,Japan,10,6.25
+3241,Lithuania,1,8.0
+3242,Luxembourg,1,8.8
+3243,Malaysia,2,7.5
+3244,Mexico,1,7.4
+3245,Netherlands,18,7.81
+3246,New Zealand,8,7.53
+3247,Norway,10,8.48
+3248,Philippines,1,2.0
+3249,Poland,32,8.44
+3250,Portugal,5,7.6
+3251,Romania,2,9.05
+3252,Slovenia,2,9.5
+3253,South Africa,1,7.0
+3254,South Korea,21,7.81
+3255,Spain,49,8.11
+3256,Sweden,20,8.13
+3257,Switzerland,4,8.5
+3258,Taiwan,13,8.15
+3259,Thailand,1,8.0
+3260,Ukraine,1,5.0
+3261,USA,456,7.66
+3262,Uruguay,1,9.0
+3263,Venezuela,2,10.0
+3264,Argentina,4,6.38
+3265,Australia,40,6.81
+3266,Austria,2,6.5
+3267,Belgium,18,7.24
+3268,Brazil,19,7.49
+3269,Canada,134,6.93
+3270,Chile,5,6.52
+3271,China,4,5.5
+3272,Colombia,1,6.5
+3273,Denmark,10,6.08
+3274,England,4,7.25
+3275,Estonia,3,6.67
+3276,Finland,29,6.39
+3277,France,9,6.39
+3278,Germany,55,7.16
+3279,Greece,26,7.34
+3280,Hungary,2,6.5
+3281,Ireland,1,5.0
+3282,Israel,6,6.25
+3283,Italy,23,6.9
+3284,Japan,5,5.6
+3285,Latvia,1,6.75
+3286,Lithuania,1,7.5
+3287,Malaysia,2,7.25
+3288,Mexico,3,6.17
+3289,Netherlands,25,7.0
+3290,New Zealand,5,7.2
+3291,Norway,15,6.97
+3292,Philippines,1,7.5
+3293,Poland,15,6.6
+3294,Portugal,10,6.51
+3295,Russia,2,7.0
+3296,Republic of Serbia,4,6.25
+3297,South Korea,7,6.29
+3298,Spain,34,6.74
+3299,Sweden,22,6.68
+3300,Switzerland,3,6.5
+3301,Taiwan,7,7.11
+3302,Thailand,3,8.33
+3303,Ukraine,2,6.5
+3304,USA,1080,6.91
+3305,Venezuela,1,9.0
+3306,Argentina,14,7.62
+3307,Australia,56,7.61
+3308,Austria,10,7.7
+3309,Belarus,1,6.0
+3310,Belgium,15,7.62
+3311,Brazil,44,7.69
+3312,Bulgaria,4,8.0
+3313,Canada,136,7.3
+3314,Chile,11,8.17
+3315,China,14,7.79
+3316,Colombia,6,6.92
+3317,Croatia,5,7.48
+3318,Czech Republic,7,8.0
+3319,Denmark,7,6.86
+3320,England,9,7.41
+3321,Estonia,2,7.75
+3322,Finland,15,7.62
+3323,France,25,7.7
+3324,Germany,122,7.31
+3325,Greece,20,7.76
+3326,Guatemala,1,8.0
+3327,Hungary,15,7.23
+3328,Iceland,1,6.0
+3329,India,4,7.38
+3330,Indonesia,2,9.0
+3331,Ireland,3,8.5
+3332,Israel,10,7.74
+3333,Italy,32,7.45
+3334,Japan,24,7.0
+3335,Latvia,5,7.45
+3336,Lithuania,9,6.5
+3337,Luxembourg,3,6.67
+3338,Malaysia,2,8.0
+3339,Mexico,13,8.41
+3340,Moldova,2,10.0
+3341,Netherlands,17,7.42
+3342,New Zealand,14,7.67
+3343,Norway,7,6.71
+3344,Peru,2,7.0
+3345,Philippines,6,6.67
+3346,Poland,32,7.05
+3347,Portugal,15,7.27
+3348,Qatar,1,5.8
+3349,Romania,11,7.07
+3350,Russia,9,7.44
+3351,Saudi Arabia,2,5.5
+3352,Republic of Serbia,5,8.2
+3353,Slovakia,1,5.0
+3354,Slovenia,4,8.0
+3355,South Africa,1,9.0
+3356,South Korea,20,6.91
+3357,Spain,90,7.34
+3358,Sri Lanka,1,7.0
+3359,Sweden,25,7.08
+3360,Switzerland,12,7.48
+3361,Taiwan,18,7.85
+3362,Thailand,7,7.64
+3363,Turkey,1,7.0
+3364,Ukraine,1,7.0
+3365,USA,735,7.5
+3366,Uruguay,1,8.0
+3367,Venezuela,2,7.5
+3368,Vietnam,2,7.38
+3369,Zambia,1,4.0
+3370,Argentina,4,7.13
+3371,Australia,57,6.87
+3372,Austria,2,6.5
+3373,Belarus,1,7.0
+3374,Belgium,19,7.14
+3375,Bolivia,1,10.0
+3376,Brazil,26,7.31
+3377,Brunei,1,8.0
+3378,Canada,113,6.86
+3379,Chile,10,7.39
+3380,China,6,6.83
+3381,Colombia,2,6.5
+3382,Croatia,3,8.0
+3383,Czech Republic,5,6.0
+3384,Denmark,10,6.4
+3385,England,11,7.14
+3386,Estonia,6,6.58
+3387,Finland,19,6.95
+3388,France,18,7.81
+3389,Germany,60,7.06
+3390,Greece,16,7.1
+3391,Hungary,8,7.2
+3392,Iceland,2,7.5
+3393,India,5,7.2
+3394,Indonesia,2,6.15
+3395,Ireland,8,7.25
+3396,Israel,5,6.62
+3397,Italy,15,7.41
+3398,Japan,29,6.92
+3399,Latvia,3,6.83
+3400,Lithuania,1,8.0
+3401,Luxembourg,1,6.0
+3402,Malaysia,5,7.4
+3403,Mexico,6,7.08
+3404,Moldova,1,10.0
+3405,Netherlands,27,7.14
+3406,New Zealand,11,6.96
+3407,Norway,14,6.86
+3408,Peru,1,7.0
+3409,Philippines,3,7.33
+3410,Poland,48,6.62
+3411,Portugal,9,6.91
+3412,Qatar,1,6.0
+3413,Romania,6,8.23
+3414,Russia,14,6.36
+3415,Republic of Serbia,2,8.0
+3416,Slovakia,1,5.0
+3417,Slovenia,2,7.5
+3418,South Africa,2,7.75
+3419,South Korea,11,7.14
+3420,Spain,76,6.98
+3421,Sweden,21,6.43
+3422,Switzerland,4,6.13
+3423,Taiwan,9,6.89
+3424,Thailand,5,6.62
+3425,Turkey,1,7.0
+3426,Ukraine,3,7.33
+3427,USA,662,6.99
+3428,Uruguay,1,7.5
+3429,Vietnam,2,7.0
+3430,Argentina,13,7.8
+3431,Australia,53,7.3
+3432,Austria,9,6.5
+3433,The Bahamas,1,9.0
+3434,Belarus,1,8.0
+3435,Belgium,21,7.66
+3436,Brazil,37,8.01
+3437,Bulgaria,2,7.5
+3438,Canada,155,7.45
+3439,Chile,7,7.63
+3440,China,17,7.43
+3441,Colombia,3,8.5
+3442,Croatia,3,9.0
+3443,Czech Republic,5,8.0
+3444,Denmark,9,6.2
+3445,England,11,7.55
+3446,Estonia,4,7.25
+3447,Finland,12,6.5
+3448,France,9,8.19
+3449,Germany,82,7.53
+3450,Greece,22,7.95
+3451,Hungary,14,7.54
+3452,India,4,8.0
+3453,Indonesia,2,8.0
+3454,Iran,2,8.5
+3455,Ireland,7,7.71
+3456,Israel,9,7.28
+3457,Italy,32,7.76
+3458,Japan,6,5.67
+3459,Latvia,5,7.62
+3460,Lithuania,2,7.0
+3461,Luxembourg,3,7.33
+3462,Malaysia,4,8.7
+3463,Mexico,5,7.94
+3464,Netherlands,29,7.19
+3465,New Zealand,10,6.99
+3466,Norway,8,6.78
+3467,Peru,1,7.5
+3468,Philippines,5,6.3
+3469,Poland,70,7.46
+3470,Portugal,18,7.81
+3471,Qatar,1,6.2
+3472,Romania,4,7.68
+3473,Russia,10,7.63
+3474,Republic of Serbia,3,7.87
+3475,Slovakia,3,8.0
+3476,Slovenia,2,9.5
+3477,South Africa,4,7.25
+3478,South Korea,10,7.25
+3479,Spain,111,7.65
+3480,Sweden,18,7.36
+3481,Switzerland,7,8.29
+3482,Taiwan,16,7.49
+3483,Thailand,4,6.38
+3484,Uganda,1,6.0
+3485,Ukraine,4,8.75
+3486,USA,854,7.49
+3487,Uruguay,1,8.0
+3488,Vietnam,1,5.25
+3489,Argentina,3,7.33
+3490,Australia,28,7.46
+3491,Austria,12,6.38
+3492,Belarus,1,9.5
+3493,Belgium,17,7.61
+3494,Brazil,30,7.96
+3495,Bulgaria,1,7.0
+3496,Canada,88,7.57
+3497,Chile,12,8.17
+3498,China,11,7.5
+3499,Colombia,1,10.0
+3500,Croatia,5,8.88
+3501,Czech Republic,7,8.21
+3502,Denmark,5,7.0
+3503,England,8,7.88
+3504,Estonia,2,9.0
+3505,Finland,25,7.57
+3506,France,13,7.69
+3507,Germany,112,7.58
+3508,Greece,21,7.79
+3509,Guatemala,1,7.0
+3510,Hungary,8,7.68
+3511,India,1,8.0
+3512,Indonesia,2,5.0
+3513,Ireland,4,7.75
+3514,Israel,3,8.4
+3515,Italy,19,7.59
+3516,Japan,17,7.46
+3517,Latvia,8,7.38
+3518,Lithuania,1,7.0
+3519,Luxembourg,2,7.4
+3520,Malaysia,3,6.83
+3521,Mexico,5,7.3
+3522,Moldova,2,9.5
+3523,Netherlands,30,7.62
+3524,New Zealand,10,7.16
+3525,Norway,14,7.18
+3526,Peru,1,7.0
+3527,Philippines,3,7.33
+3528,Poland,44,7.82
+3529,Portugal,12,7.42
+3530,Qatar,1,6.8
+3531,Romania,4,8.63
+3532,Russia,7,7.0
+3533,Saudi Arabia,1,8.0
+3534,Republic of Serbia,1,6.0
+3535,Slovenia,5,8.6
+3536,South Africa,3,7.33
+3537,South Korea,18,7.61
+3538,Spain,66,7.72
+3539,Sweden,17,7.5
+3540,Switzerland,4,8.25
+3541,Taiwan,11,7.86
+3542,Thailand,4,8.25
+3543,Ukraine,1,8.0
+3544,USA,705,7.52
+3545,Argentina,9,8.66
+3546,Australia,24,8.04
+3547,Austria,9,8.33
+3548,Belarus,1,7.0
+3549,Belgium,19,7.95
+3550,Brazil,35,8.17
+3551,Bulgaria,2,8.25
+3552,Canada,63,7.94
+3553,Chile,5,7.96
+3554,China,14,8.03
+3555,Colombia,1,9.0
+3556,Croatia,3,8.17
+3557,Czech Republic,6,7.67
+3558,Denmark,6,7.87
+3559,England,7,7.25
+3560,Estonia,2,8.5
+3561,Finland,8,8.1
+3562,France,9,7.99
+3563,Germany,105,7.85
+3564,Greece,14,8.44
+3565,Guatemala,1,8.0
+3566,Hungary,6,6.88
+3567,Iceland,1,9.0
+3568,India,5,8.7
+3569,Indonesia,1,8.5
+3570,Iran,1,8.0
+3571,Ireland,4,8.13
+3572,Israel,6,8.22
+3573,Italy,29,7.76
+3574,Japan,21,8.16
+3575,Latvia,4,8.56
+3576,Lithuania,4,7.25
+3577,Luxembourg,1,7.0
+3578,Malaysia,3,8.0
+3579,Mexico,6,7.96
+3580,Netherlands,34,8.01
+3581,New Zealand,7,7.5
+3582,Norway,7,7.86
+3583,Peru,1,6.0
+3584,Philippines,6,9.08
+3585,Poland,25,7.88
+3586,Portugal,9,8.77
+3587,Qatar,1,3.4
+3588,Romania,8,8.88
+3589,Russia,7,8.07
+3590,Saudi Arabia,1,9.0
+3591,Republic of Serbia,4,8.5
+3592,Slovakia,2,8.5
+3593,Slovenia,2,8.5
+3594,South Africa,2,8.5
+3595,South Korea,8,8.0
+3596,Spain,40,7.63
+3597,Sweden,12,7.46
+3598,Switzerland,12,7.92
+3599,Taiwan,14,8.01
+3600,Thailand,7,8.46
+3601,Turkey,4,8.63
+3602,Ukraine,2,9.5
+3603,USA,408,7.94
+3604,Venezuela,1,9.0
+3605,Vietnam,2,7.5
+3606,Argentina,13,8.38
+3607,Australia,43,7.95
+3608,Austria,6,7.08
+3609,Belgium,11,8.08
+3610,Bolivia,1,8.0
+3611,Brazil,35,8.18
+3612,Brunei,1,8.0
+3613,Bulgaria,6,8.08
+3614,Canada,131,7.79
+3615,Chile,8,7.44
+3616,China,14,7.94
+3617,Colombia,2,7.0
+3618,Croatia,2,7.75
+3619,Czech Republic,4,7.75
+3620,Denmark,8,6.96
+3621,England,12,7.67
+3622,Estonia,2,7.6
+3623,Finland,16,7.35
+3624,France,29,8.04
+3625,Germany,54,7.45
+3626,Greece,21,7.94
+3627,Hungary,11,8.07
+3628,Iceland,1,8.0
+3629,India,4,9.63
+3630,Indonesia,2,7.75
+3631,Iran,1,10.0
+3632,Ireland,5,6.9
+3633,Israel,9,7.64
+3634,Italy,20,7.93
+3635,Japan,30,7.35
+3636,Latvia,3,8.42
+3637,Lithuania,2,9.0
+3638,Malaysia,6,8.4
+3639,Mexico,8,8.22
+3640,Moldova,1,9.0
+3641,Netherlands,19,7.55
+3642,New Zealand,9,7.27
+3643,Norway,8,7.43
+3644,Peru,2,8.0
+3645,Philippines,2,9.0
+3646,Poland,42,7.82
+3647,Portugal,14,7.83
+3648,Romania,7,8.29
+3649,Russia,15,7.7
+3650,Saudi Arabia,2,7.5
+3651,Republic of Serbia,4,7.38
+3652,Slovakia,2,7.0
+3653,Slovenia,3,8.67
+3654,South Africa,3,8.0
+3655,South Korea,10,7.95
+3656,Spain,106,7.49
+3657,Sweden,15,7.7
+3658,Switzerland,8,7.81
+3659,Taiwan,10,8.19
+3660,Thailand,8,7.19
+3661,Turkey,2,7.75
+3662,Uganda,1,7.5
+3663,Ukraine,8,7.68
+3664,USA,607,7.82
+3665,Uruguay,1,9.0
+3666,Venezuela,1,4.0
+3667,Vietnam,2,7.5
+3668,Argentina,4,6.5
+3669,Australia,24,5.98
+3670,Austria,5,5.0
+3671,Belarus,1,5.0
+3672,Belgium,11,5.64
+3673,Brazil,27,6.62
+3674,Bulgaria,2,5.5
+3675,Canada,59,5.53
+3676,Chile,2,6.0
+3677,China,3,5.67
+3678,Croatia,4,5.5
+3679,Czech Republic,5,6.1
+3680,Denmark,2,7.5
+3681,England,1,5.0
+3682,Estonia,7,5.71
+3683,Finland,10,5.67
+3684,France,4,6.75
+3685,Germany,58,6.12
+3686,Greece,9,6.17
+3687,Guatemala,1,6.0
+3688,Hungary,6,6.25
+3689,India,1,7.0
+3690,Indonesia,1,7.0
+3691,Ireland,2,6.5
+3692,Israel,1,5.0
+3693,Italy,22,6.75
+3694,Japan,5,5.8
+3695,Latvia,1,6.0
+3696,Lithuania,4,6.0
+3697,Malaysia,2,4.5
+3698,Mexico,9,6.68
+3699,Moldova,1,7.0
+3700,Netherlands,17,6.21
+3701,New Zealand,6,5.31
+3702,Norway,5,5.4
+3703,Peru,1,6.0
+3704,Philippines,3,7.0
+3705,Poland,38,6.31
+3706,Portugal,5,6.12
+3707,Romania,10,7.2
+3708,Russia,13,5.83
+3709,Slovakia,1,7.0
+3710,Slovenia,2,5.5
+3711,South Africa,3,4.67
+3712,South Korea,18,5.26
+3713,Spain,33,6.28
+3714,Sri Lanka,1,7.0
+3715,Sweden,10,5.7
+3716,Switzerland,5,7.1
+3717,Taiwan,2,5.5
+3718,Turkey,1,5.0
+3719,Ukraine,3,5.33
+3720,USA,514,5.46
+3721,Venezuela,1,6.0
+3722,Vietnam,1,4.0
+3723,Argentina,20,7.85
+3724,Australia,80,7.54
+3725,Austria,8,7.75
+3726,Belarus,1,5.0
+3727,Belgium,33,7.72
+3728,Bolivia,2,8.5
+3729,Brazil,57,8.05
+3730,Bulgaria,9,7.5
+3731,Canada,251,7.81
+3732,Chile,12,7.05
+3733,China,10,6.32
+3734,Colombia,7,7.71
+3735,Costa Rica,3,8.33
+3736,Croatia,3,8.0
+3737,Czech Republic,8,7.63
+3738,Denmark,12,7.43
+3739,England,7,7.07
+3740,Estonia,1,9.0
+3741,Finland,16,7.65
+3742,France,34,7.53
+3743,Germany,108,7.6
+3744,Greece,24,7.89
+3745,Guatemala,2,7.75
+3746,Hungary,8,8.25
+3747,Iceland,3,8.0
+3748,India,4,7.75
+3749,Indonesia,5,7.5
+3750,Ireland,10,8.15
+3751,Israel,15,7.61
+3752,Italy,31,7.25
+3753,Japan,27,6.95
+3754,Latvia,7,7.29
+3755,Lithuania,9,7.31
+3756,Luxembourg,4,6.63
+3757,Malaysia,6,7.88
+3758,Mexico,26,8.07
+3759,Moldova,2,9.0
+3760,Netherlands,32,7.42
+3761,New Zealand,14,7.74
+3762,Norway,12,6.75
+3763,Peru,4,8.25
+3764,Philippines,9,8.61
+3765,Poland,62,7.53
+3766,Portugal,22,8.02
+3767,Qatar,2,7.0
+3768,Romania,13,7.69
+3769,Russia,13,7.65
+3770,Saudi Arabia,2,7.5
+3771,Republic of Serbia,7,7.21
+3772,Slovakia,3,7.67
+3773,Slovenia,5,8.38
+3774,South Africa,10,7.55
+3775,South Korea,10,6.35
+3776,Spain,121,7.2
+3777,Sri Lanka,1,6.0
+3778,Sweden,35,7.19
+3779,Switzerland,11,7.29
+3780,Taiwan,17,7.38
+3781,Thailand,10,7.3
+3782,Turkey,1,6.5
+3783,Ukraine,8,8.31
+3784,USA,1322,7.68
+3785,Uruguay,2,8.25
+3786,Venezuela,3,7.0
+3787,Vietnam,2,6.88
+3788,Argentina,6,7.83
+3789,Australia,34,7.57
+3790,Austria,11,8.23
+3791,Belarus,1,8.0
+3792,Belgium,17,7.01
+3793,Brazil,15,7.04
+3794,Brunei,1,8.5
+3795,Bulgaria,3,8.0
+3796,Canada,90,7.27
+3797,Chile,4,7.88
+3798,China,7,7.8
+3799,Croatia,2,6.55
+3800,Czech Republic,4,7.5
+3801,Denmark,6,7.67
+3802,England,9,7.35
+3803,Estonia,1,8.0
+3804,Finland,14,6.91
+3805,France,17,7.57
+3806,Germany,128,7.4
+3807,Greece,14,8.08
+3808,Guatemala,1,7.5
+3809,Hungary,8,7.63
+3810,Iceland,1,7.5
+3811,India,1,7.0
+3812,Ireland,7,7.57
+3813,Israel,2,6.0
+3814,Italy,17,6.69
+3815,Japan,20,7.18
+3816,Latvia,6,7.83
+3817,Lithuania,2,6.5
+3818,Luxembourg,1,6.0
+3819,Malaysia,3,9.2
+3820,Mexico,2,8.5
+3821,Netherlands,16,7.52
+3822,New Zealand,14,6.74
+3823,Norway,5,7.16
+3824,Philippines,1,5.0
+3825,Poland,35,7.81
+3826,Portugal,8,7.56
+3827,Qatar,1,8.0
+3828,Romania,5,6.7
+3829,Russia,8,7.84
+3830,Saudi Arabia,1,9.0
+3831,Republic of Serbia,2,9.5
+3832,South Africa,1,7.0
+3833,South Korea,5,7.44
+3834,Spain,35,7.49
+3835,Sweden,23,7.53
+3836,Switzerland,12,7.0
+3837,Taiwan,6,7.2
+3838,Thailand,3,7.83
+3839,Ukraine,1,5.0
+3840,USA,574,7.4
+3841,Venezuela,2,8.0
+3842,Argentina,9,8.11
+3843,Australia,28,7.68
+3844,Austria,7,7.36
+3845,Belarus,1,5.0
+3846,Belgium,12,8.03
+3847,Brazil,21,7.84
+3848,Bulgaria,5,8.7
+3849,Canada,96,7.91
+3850,Chile,4,8.25
+3851,China,7,8.39
+3852,Colombia,2,8.0
+3853,Croatia,3,8.47
+3854,Czech Republic,2,7.75
+3855,Denmark,3,7.33
+3856,England,5,7.6
+3857,Finland,6,7.05
+3858,France,21,8.07
+3859,Germany,66,7.3
+3860,Greece,12,8.08
+3861,Hungary,10,7.95
+3862,India,4,7.75
+3863,Indonesia,1,7.0
+3864,Iran,1,1.0
+3865,Ireland,3,7.0
+3866,Israel,6,7.62
+3867,Italy,22,7.82
+3868,Japan,17,7.05
+3869,Latvia,5,7.7
+3870,Lithuania,6,8.04
+3871,Malaysia,1,6.5
+3872,Mexico,8,8.29
+3873,Netherlands,12,6.96
+3874,New Zealand,7,7.64
+3875,Norway,12,7.63
+3876,Peru,4,8.0
+3877,Philippines,2,6.5
+3878,Poland,24,7.99
+3879,Portugal,14,7.74
+3880,Romania,4,8.9
+3881,Russia,5,7.9
+3882,Saudi Arabia,1,8.0
+3883,Republic of Serbia,6,7.67
+3884,Slovenia,1,10.0
+3885,South Africa,4,8.0
+3886,South Korea,12,7.62
+3887,Spain,30,7.35
+3888,Sweden,18,6.83
+3889,Switzerland,7,7.07
+3890,Taiwan,5,7.8
+3891,Thailand,1,6.0
+3892,Ukraine,3,8.0
+3893,USA,437,7.7
+3894,Venezuela,2,8.5
+3895,Vietnam,1,6.75
+3896,Argentina,2,7.4
+3897,Australia,24,7.31
+3898,Austria,6,8.5
+3899,Belarus,2,7.0
+3900,Belgium,11,7.59
+3901,Brazil,28,8.38
+3902,Bulgaria,1,6.0
+3903,Canada,98,7.54
+3904,Chile,4,8.0
+3905,China,10,7.86
+3906,Colombia,1,7.0
+3907,Czech Republic,6,7.67
+3908,Denmark,9,7.8
+3909,England,7,7.24
+3910,Finland,8,6.75
+3911,France,17,7.6
+3912,Germany,82,7.33
+3913,Greece,22,7.78
+3914,Hungary,3,7.63
+3915,Iceland,1,8.0
+3916,India,1,6.5
+3917,Indonesia,3,7.68
+3918,Ireland,4,8.25
+3919,Israel,9,7.82
+3920,Italy,50,7.7
+3921,Japan,8,6.0
+3922,Latvia,5,8.3
+3923,Lithuania,6,7.23
+3924,Luxembourg,1,8.0
+3925,Mexico,4,6.5
+3926,Netherlands,12,7.59
+3927,New Zealand,7,7.29
+3928,Norway,9,7.23
+3929,Philippines,2,9.25
+3930,Poland,19,7.45
+3931,Portugal,1,7.0
+3932,Qatar,1,7.0
+3933,Romania,5,7.9
+3934,Russia,15,7.49
+3935,Republic of Serbia,1,7.0
+3936,Slovakia,1,7.2
+3937,South Africa,1,7.0
+3938,South Korea,10,7.55
+3939,Spain,56,7.72
+3940,Sweden,23,7.5
+3941,Switzerland,9,7.06
+3942,Taiwan,15,7.47
+3943,Thailand,4,8.0
+3944,Ukraine,4,8.38
+3945,USA,685,7.6
+3946,Venezuela,2,9.0
+3947,Argentina,7,7.93
+3948,Australia,30,7.71
+3949,Austria,8,8.88
+3950,Belarus,2,8.0
+3951,Belgium,28,7.94
+3952,Bolivia,1,8.0
+3953,Brazil,35,8.76
+3954,Bulgaria,1,10.0
+3955,Canada,122,8.31
+3956,Chile,5,8.0
+3957,China,10,7.92
+3958,Colombia,3,8.0
+3959,Costa Rica,1,9.0
+3960,Croatia,1,8.8
+3961,Czech Republic,16,8.28
+3962,Denmark,10,7.3
+3963,England,9,8.72
+3964,Estonia,3,9.33
+3965,Finland,14,8.16
+3966,France,21,8.05
+3967,Germany,114,8.06
+3968,Greece,22,8.61
+3969,Guatemala,1,7.0
+3970,Hungary,5,7.58
+3971,Iceland,1,9.0
+3972,India,2,7.75
+3973,Indonesia,1,8.0
+3974,Ireland,6,8.35
+3975,Israel,9,8.55
+3976,Italy,45,7.64
+3977,Japan,24,7.52
+3978,Latvia,4,8.53
+3979,Lithuania,6,8.5
+3980,Luxembourg,2,9.7
+3981,Malaysia,8,8.14
+3982,Mexico,3,7.83
+3983,Netherlands,29,7.64
+3984,New Zealand,11,8.44
+3985,Norway,13,8.25
+3986,Peru,2,9.25
+3987,Philippines,3,8.0
+3988,Poland,55,8.28
+3989,Portugal,6,8.4
+3990,Qatar,1,9.0
+3991,Romania,5,8.7
+3992,Russia,9,6.94
+3993,Republic of Serbia,3,8.33
+3994,Slovakia,3,9.4
+3995,Slovenia,1,10.0
+3996,South Korea,25,8.23
+3997,Spain,89,8.32
+3998,Sweden,20,7.79
+3999,Switzerland,7,7.07
+4000,Taiwan,18,8.26
+4001,Thailand,10,8.16
+4002,Ukraine,3,7.67
+4003,USA,653,7.98
+4004,Uruguay,1,10.0
+4005,Venezuela,2,10.0
+4006,Vietnam,1,7.5
+4007,Australia,33,7.4
+4008,Austria,9,7.44
+4009,Belgium,18,7.56
+4010,Brazil,13,7.69
+4011,Brunei,1,9.0
+4012,Bulgaria,1,4.0
+4013,Canada,94,7.08
+4014,Chile,4,7.25
+4015,Colombia,1,8.0
+4016,Czech Republic,3,6.33
+4017,Denmark,3,4.83
+4018,England,6,5.92
+4019,Estonia,3,4.33
+4020,Finland,14,7.46
+4021,France,18,7.65
+4022,Germany,65,7.42
+4023,Greece,11,7.61
+4024,Guatemala,1,8.5
+4025,Hungary,9,7.44
+4026,Indonesia,2,6.5
+4027,Ireland,3,7.5
+4028,Israel,5,6.7
+4029,Italy,29,7.94
+4030,Japan,25,6.94
+4031,Latvia,2,7.0
+4032,Lithuania,3,7.0
+4033,Luxembourg,1,8.0
+4034,Malaysia,1,6.5
+4035,Mexico,2,7.0
+4036,Netherlands,22,7.36
+4037,New Zealand,9,6.93
+4038,Norway,8,6.69
+4039,Peru,1,7.0
+4040,Philippines,1,5.0
+4041,Poland,13,7.43
+4042,Portugal,5,6.82
+4043,Romania,4,7.5
+4044,Russia,5,6.4
+4045,Saudi Arabia,2,7.5
+4046,Republic of Serbia,2,6.0
+4047,Slovakia,1,6.5
+4048,South Africa,2,7.0
+4049,South Korea,15,7.43
+4050,Spain,22,7.21
+4051,Sweden,21,6.93
+4052,Switzerland,3,8.5
+4053,Taiwan,4,7.63
+4054,Thailand,3,5.5
+4055,USA,585,7.16
+4056,Vietnam,1,7.0
+4057,Argentina,1,7.0
+4058,Australia,37,6.72
+4059,Austria,11,7.44
+4060,Belgium,24,7.22
+4061,Brazil,7,6.41
+4062,Bulgaria,1,7.0
+4063,Canada,82,7.36
+4064,Chile,5,5.72
+4065,Croatia,3,7.33
+4066,Czech Republic,5,7.8
+4067,Denmark,13,5.96
+4068,England,10,6.81
+4069,Estonia,1,8.0
+4070,Finland,28,7.13
+4071,France,13,7.52
+4072,Germany,107,7.06
+4073,Greece,16,7.48
+4074,Hungary,10,6.57
+4075,Iceland,1,7.0
+4076,Ireland,6,6.82
+4077,Italy,31,6.75
+4078,Japan,18,6.05
+4079,Luxembourg,1,7.0
+4080,Malaysia,1,8.0
+4081,Mexico,4,8.25
+4082,Netherlands,37,6.77
+4083,New Zealand,11,6.96
+4084,Norway,15,6.4
+4085,Peru,1,7.0
+4086,Philippines,1,10.0
+4087,Poland,11,7.14
+4088,Portugal,5,6.8
+4089,Romania,1,7.0
+4090,Russia,1,6.0
+4091,Republic of Serbia,1,6.0
+4092,Slovenia,5,7.2
+4093,South Africa,3,9.33
+4094,South Korea,12,7.29
+4095,Spain,51,6.92
+4096,Sweden,35,6.52
+4097,Switzerland,7,7.14
+4098,Taiwan,1,8.0
+4099,Trinidad and Tobago,1,8.0
+4100,Ukraine,1,3.0
+4101,USA,733,7.21
+4102,Venezuela,1,7.0
+4103,Argentina,12,8.35
+4104,Australia,69,7.74
+4105,Austria,5,8.4
+4106,Belgium,10,8.38
+4107,Brazil,53,8.62
+4108,Bulgaria,5,7.9
+4109,Canada,192,8.28
+4110,Chile,11,8.46
+4111,China,10,7.7
+4112,Colombia,4,8.44
+4113,Croatia,5,8.3
+4114,Czech Republic,7,6.86
+4115,Denmark,9,8.28
+4116,England,9,8.0
+4117,Estonia,3,9.03
+4118,Finland,11,7.78
+4119,France,4,9.0
+4120,Germany,46,7.82
+4121,Greece,19,8.73
+4122,Guatemala,1,9.0
+4123,Hungary,4,6.38
+4124,Iceland,3,8.33
+4125,India,5,8.08
+4126,Indonesia,1,6.5
+4127,Ireland,11,9.09
+4128,Israel,11,7.74
+4129,Italy,30,8.06
+4130,Japan,5,6.5
+4131,Latvia,7,7.89
+4132,Lebanon,1,9.0
+4133,Lithuania,5,7.6
+4134,Luxembourg,2,7.5
+4135,Macedonia,2,8.5
+4136,Malaysia,2,8.75
+4137,Mexico,10,8.53
+4138,Netherlands,21,8.31
+4139,New Zealand,10,7.0
+4140,Norway,11,7.97
+4141,Peru,3,8.17
+4142,Philippines,9,8.44
+4143,Poland,26,8.21
+4144,Portugal,12,8.17
+4145,Qatar,2,7.7
+4146,Romania,5,8.6
+4147,Russia,9,7.25
+4148,Republic of Serbia,4,8.75
+4149,Slovakia,1,9.5
+4150,Slovenia,4,8.75
+4151,South Africa,3,8.67
+4152,South Korea,16,8.39
+4153,Spain,58,7.9
+4154,Sweden,29,8.17
+4155,Switzerland,7,8.07
+4156,Taiwan,14,8.32
+4157,Thailand,5,8.0
+4158,Turkey,1,8.5
+4159,Ukraine,2,8.0
+4160,USA,1133,8.17
+4161,Uruguay,1,9.0
+4162,Venezuela,2,10.0
+4163,Vietnam,3,6.75
+4164,Argentina,11,7.41
+4165,Australia,66,7.74
+4166,Austria,18,6.94
+4167,Belarus,1,7.0
+4168,Belgium,36,7.35
+4169,Brazil,41,7.47
+4170,Brunei,1,8.0
+4171,Bulgaria,2,8.0
+4172,Canada,230,7.47
+4173,Chile,6,7.23
+4174,China,17,7.52
+4175,Colombia,2,7.5
+4176,Costa Rica,1,8.0
+4177,Croatia,4,7.25
+4178,Czech Republic,14,6.39
+4179,Denmark,19,7.15
+4180,England,11,7.86
+4181,Estonia,4,7.25
+4182,Finland,36,7.31
+4183,France,27,7.53
+4184,Germany,135,7.56
+4185,Greece,37,7.88
+4186,Guatemala,1,9.0
+4187,Hungary,14,7.72
+4188,Iceland,1,7.0
+4189,India,4,8.25
+4190,Indonesia,3,6.6
+4191,Iran,1,10.0
+4192,Ireland,9,7.53
+4193,Israel,7,7.21
+4194,Italy,43,7.35
+4195,Japan,28,7.2
+4196,Latvia,5,7.6
+4197,Lithuania,5,6.3
+4198,Luxembourg,4,7.88
+4199,Malaysia,5,7.7
+4200,Mexico,8,8.1
+4201,Moldova,1,8.0
+4202,Netherlands,42,7.45
+4203,New Zealand,21,7.55
+4204,Norway,20,7.83
+4205,Philippines,4,6.25
+4206,Poland,68,7.33
+4207,Portugal,18,7.51
+4208,Qatar,1,7.0
+4209,Romania,3,8.5
+4210,Russia,18,7.18
+4211,Saudi Arabia,1,9.0
+4212,Republic of Serbia,7,6.0
+4213,Slovenia,7,8.14
+4214,South Africa,5,8.6
+4215,South Korea,30,7.35
+4216,Spain,109,7.39
+4217,Sweden,38,7.33
+4218,Switzerland,6,7.75
+4219,Taiwan,26,7.3
+4220,Thailand,4,8.0
+4221,Turkey,1,7.0
+4222,Uganda,1,6.0
+4223,Ukraine,5,8.3
+4224,USA,1623,7.59
+4225,Uruguay,1,7.0
+4226,Venezuela,2,7.0
+4227,Vietnam,2,7.25
+4228,Albania,1,7.0
+4229,Argentina,16,7.69
+4230,Australia,84,7.64
+4231,Austria,11,7.73
+4232,Belarus,2,6.5
+4233,Belgium,28,7.69
+4234,Brazil,49,7.6
+4235,Brunei,1,9.0
+4236,Bulgaria,7,7.5
+4237,Canada,227,7.73
+4238,Chile,14,7.46
+4239,China,19,7.88
+4240,Colombia,7,7.57
+4241,Croatia,5,7.5
+4242,Czech Republic,8,7.88
+4243,Denmark,14,7.64
+4244,England,9,7.54
+4245,Estonia,3,7.37
+4246,Finland,21,7.94
+4247,France,24,7.8
+4248,Germany,113,7.89
+4249,Greece,29,7.49
+4250,Guatemala,2,7.25
+4251,Hungary,10,8.0
+4252,Iceland,3,7.17
+4253,India,7,7.14
+4254,Indonesia,1,9.0
+4255,Ireland,11,8.05
+4256,Israel,10,7.14
+4257,Italy,20,7.16
+4258,Japan,39,7.48
+4259,Latvia,8,8.06
+4260,Lithuania,10,6.85
+4261,Luxembourg,2,8.5
+4262,Macedonia,2,8.5
+4263,Malaysia,3,7.5
+4264,Mexico,16,8.09
+4265,Moldova,3,8.83
+4266,Netherlands,34,7.35
+4267,New Zealand,19,7.19
+4268,Norway,12,6.83
+4269,Peru,2,7.5
+4270,Philippines,5,7.2
+4271,Poland,67,7.56
+4272,Portugal,19,7.53
+4273,Qatar,2,8.3
+4274,Romania,7,7.71
+4275,Russia,13,7.77
+4276,Saudi Arabia,2,7.0
+4277,Republic of Serbia,7,6.86
+4278,Slovakia,3,7.47
+4279,Slovenia,3,7.67
+4280,South Africa,7,7.64
+4281,South Korea,23,7.51
+4282,Spain,110,7.37
+4283,Sweden,33,7.69
+4284,Switzerland,13,7.5
+4285,Taiwan,22,8.3
+4286,Thailand,11,8.36
+4287,Turkey,3,7.33
+4288,Uganda,1,7.0
+4289,Ukraine,6,8.37
+4290,USA,1200,7.71
+4291,Venezuela,2,7.5
+4292,Vietnam,2,7.0
+4293,Albania,1,8.0
+4294,Argentina,7,7.56
+4295,Australia,40,7.43
+4296,Austria,8,7.25
+4297,Belarus,1,9.0
+4298,Belgium,17,6.82
+4299,Brazil,9,8.41
+4300,Canada,111,7.22
+4301,Chile,4,6.1
+4302,China,5,7.96
+4303,Colombia,3,8.33
+4304,Costa Rica,1,10.0
+4305,Croatia,3,6.4
+4306,Czech Republic,5,6.6
+4307,Denmark,4,7.38
+4308,England,4,8.05
+4309,Finland,3,7.0
+4310,France,16,7.62
+4311,Germany,98,7.16
+4312,Greece,8,7.84
+4313,Hungary,2,6.5
+4314,Iceland,1,7.0
+4315,India,1,8.5
+4316,Indonesia,1,8.0
+4317,Ireland,4,7.0
+4318,Israel,4,7.25
+4319,Italy,14,7.29
+4320,Japan,20,6.59
+4321,Latvia,4,8.38
+4322,Lithuania,1,9.0
+4323,Luxembourg,1,8.0
+4324,Malaysia,2,7.5
+4325,Mexico,6,7.92
+4326,Netherlands,31,7.48
+4327,New Zealand,4,7.0
+4328,Norway,3,5.33
+4329,Peru,1,7.0
+4330,Philippines,4,8.13
+4331,Poland,16,7.31
+4332,Qatar,1,7.4
+4333,Romania,1,8.8
+4334,Russia,10,7.23
+4335,Saudi Arabia,1,8.0
+4336,Republic of Serbia,1,8.0
+4337,Slovakia,1,8.0
+4338,Slovenia,1,9.0
+4339,South Africa,4,6.75
+4340,South Korea,14,7.54
+4341,Spain,53,7.05
+4342,Sweden,17,7.26
+4343,Switzerland,6,7.75
+4344,Taiwan,6,8.19
+4345,Thailand,5,7.6
+4346,Turkey,2,7.5
+4347,Uganda,1,6.0
+4348,Ukraine,4,7.5
+4349,USA,608,7.09
+4350,Uruguay,1,7.5
+4351,Venezuela,2,7.5
+4352,Vietnam,1,7.0
+4353,Argentina,11,8.05
+4354,Australia,46,7.51
+4355,Austria,8,7.88
+4356,Belarus,1,6.0
+4357,Belgium,32,8.08
+4358,Bolivia,1,9.0
+4359,Brazil,40,7.9
+4360,Bulgaria,2,8.5
+4361,Canada,189,7.69
+4362,Chile,13,6.96
+4363,China,13,8.85
+4364,Colombia,4,8.88
+4365,Costa Rica,1,9.0
+4366,Croatia,4,8.75
+4367,Czech Republic,11,6.59
+4368,Denmark,13,6.54
+4369,England,7,7.14
+4370,Estonia,3,7.0
+4371,Finland,31,7.7
+4372,France,17,7.94
+4373,Germany,82,7.74
+4374,Greece,26,8.0
+4375,Hungary,3,6.67
+4376,Iceland,1,7.0
+4377,Indonesia,3,9.67
+4378,Ireland,6,7.5
+4379,Israel,4,8.75
+4380,Italy,53,8.11
+4381,Japan,13,6.85
+4382,Latvia,6,7.17
+4383,Lebanon,1,10.0
+4384,Lithuania,4,7.25
+4385,Luxembourg,2,8.5
+4386,Macedonia,2,8.0
+4387,Malaysia,2,8.75
+4388,Mexico,7,8.29
+4389,Moldova,1,8.0
+4390,Netherlands,25,7.45
+4391,New Zealand,9,5.71
+4392,Norway,14,8.25
+4393,Peru,2,8.5
+4394,Philippines,2,9.5
+4395,Poland,48,7.84
+4396,Portugal,20,7.91
+4397,Qatar,2,8.5
+4398,Romania,8,8.5
+4399,Russia,16,7.75
+4400,Republic of Serbia,4,7.63
+4401,Slovenia,3,8.33
+4402,South Africa,5,7.0
+4403,South Korea,13,7.65
+4404,Spain,112,7.71
+4405,Sweden,37,7.12
+4406,Switzerland,7,8.86
+4407,Taiwan,12,8.63
+4408,Thailand,5,9.0
+4409,Turkey,1,9.0
+4410,Uganda,1,9.5
+4411,Ukraine,2,4.45
+4412,USA,1144,7.73
+4413,Uruguay,1,8.5
+4414,Venezuela,2,9.5
+4415,Argentina,4,5.88
+4416,Australia,44,7.85
+4417,Austria,3,8.33
+4418,Belarus,2,7.5
+4419,Belgium,31,8.05
+4420,Brazil,23,8.35
+4421,Brunei,1,8.0
+4422,Bulgaria,2,8.5
+4423,Canada,172,7.85
+4424,Chile,1,7.0
+4425,China,9,7.74
+4426,Colombia,1,8.5
+4427,Croatia,5,9.4
+4428,Czech Republic,10,7.4
+4429,Denmark,15,8.61
+4430,England,8,8.0
+4431,Estonia,2,8.7
+4432,Finland,24,7.56
+4433,France,13,7.36
+4434,Germany,54,7.55
+4435,Greece,14,8.2
+4436,Hungary,6,7.75
+4437,Iceland,2,9.0
+4438,India,4,7.88
+4439,Indonesia,3,8.67
+4440,Ireland,6,8.83
+4441,Israel,4,8.75
+4442,Italy,39,7.76
+4443,Japan,8,5.88
+4444,Latvia,3,8.33
+4445,Lithuania,7,8.71
+4446,Luxembourg,2,7.75
+4447,Malaysia,8,7.68
+4448,Mexico,1,8.0
+4449,Netherlands,27,8.14
+4450,New Zealand,12,7.54
+4451,Norway,19,8.17
+4452,Peru,1,8.0
+4453,Philippines,3,6.67
+4454,Poland,26,7.82
+4455,Portugal,13,7.63
+4456,Qatar,2,8.6
+4457,Romania,7,9.0
+4458,Russia,13,7.69
+4459,Saudi Arabia,1,8.0
+4460,Republic of Serbia,3,8.67
+4461,Slovenia,3,9.0
+4462,South Africa,10,7.85
+4463,South Korea,10,6.95
+4464,Spain,66,8.12
+4465,Sweden,28,7.53
+4466,Switzerland,7,8.07
+4467,Taiwan,13,8.65
+4468,Thailand,4,6.93
+4469,Turkey,2,8.5
+4470,Ukraine,4,8.5
+4471,USA,988,7.81
+4472,Argentina,4,6.63
+4473,Australia,38,7.43
+4474,Austria,10,7.6
+4475,Belgium,14,8.04
+4476,Brazil,38,8.06
+4477,Canada,109,7.64
+4478,Chile,1,6.8
+4479,China,26,7.64
+4480,Colombia,2,9.0
+4481,Czech Republic,3,6.5
+4482,Denmark,4,7.25
+4483,Ecuador,1,8.0
+4484,England,5,7.25
+4485,Estonia,5,7.9
+4486,Finland,44,7.58
+4487,France,20,7.81
+4488,Germany,75,7.44
+4489,Greece,22,7.71
+4490,Hungary,7,7.43
+4491,India,2,7.75
+4492,Indonesia,3,7.0
+4493,Ireland,4,6.95
+4494,Israel,5,8.4
+4495,Italy,33,7.46
+4496,Japan,40,8.02
+4497,Latvia,2,7.25
+4498,Lithuania,2,6.0
+4499,Luxembourg,2,6.25
+4500,Malaysia,5,7.2
+4501,Mexico,6,8.33
+4502,Moldova,1,7.0
+4503,Netherlands,18,7.64
+4504,New Zealand,10,7.85
+4505,Norway,15,7.9
+4506,Philippines,4,8.5
+4507,Poland,30,7.46
+4508,Portugal,11,7.97
+4509,Qatar,1,7.8
+4510,Russia,1,7.0
+4511,Saudi Arabia,1,9.0
+4512,Republic of Serbia,1,7.5
+4513,Slovakia,1,7.0
+4514,Slovenia,2,8.25
+4515,South Africa,1,7.0
+4516,South Korea,30,8.33
+4517,Spain,57,7.56
+4518,Sweden,18,7.36
+4519,Switzerland,6,7.42
+4520,Taiwan,31,7.92
+4521,Thailand,4,8.0
+4522,Ukraine,1,4.0
+4523,USA,729,7.61
+4524,Venezuela,1,9.0
+4525,Albania,1,1.0
+4526,Argentina,6,4.33
+4527,Australia,76,4.53
+4528,Austria,10,4.0
+4529,Belgium,30,5.29
+4530,Brazil,43,4.92
+4531,Bulgaria,5,6.2
+4532,Canada,218,4.94
+4533,Chile,6,5.67
+4534,China,9,5.78
+4535,Colombia,3,5.0
+4536,Costa Rica,1,6.0
+4537,Croatia,7,4.71
+4538,Czech Republic,4,4.88
+4539,Denmark,17,4.5
+4540,England,8,5.44
+4541,Estonia,8,5.56
+4542,Finland,40,4.65
+4543,France,15,3.79
+4544,Germany,107,4.59
+4545,Greece,27,6.06
+4546,Guatemala,1,1.0
+4547,Honduras,1,7.0
+4548,Hungary,11,5.18
+4549,Indonesia,2,5.5
+4550,Ireland,7,3.43
+4551,Israel,7,3.57
+4552,Italy,55,6.0
+4553,Japan,15,5.47
+4554,Latvia,3,5.67
+4555,Lithuania,6,4.33
+4556,Luxembourg,1,1.0
+4557,Macedonia,2,6.5
+4558,Malaysia,5,3.5
+4559,Mexico,11,5.62
+4560,Netherlands,59,5.51
+4561,New Zealand,16,4.56
+4562,Norway,17,4.47
+4563,Peru,2,4.0
+4564,Philippines,6,5.33
+4565,Poland,41,4.52
+4566,Portugal,21,5.58
+4567,Qatar,2,4.3
+4568,Romania,10,6.3
+4569,Russia,9,5.14
+4570,Saudi Arabia,1,7.0
+4571,Republic of Serbia,4,4.25
+4572,Slovenia,3,5.33
+4573,South Africa,6,5.0
+4574,South Korea,14,5.76
+4575,Spain,66,5.14
+4576,Sri Lanka,1,5.0
+4577,Sweden,49,4.54
+4578,Switzerland,4,4.75
+4579,Taiwan,5,6.9
+4580,Thailand,2,6.5
+4581,Turkey,2,6.5
+4582,Ukraine,2,6.0
+4583,USA,1302,5.02
+4584,Venezuela,1,8.0
+4585,Vietnam,1,3.0
+4586,Argentina,1,8.0
+4587,Australia,31,7.43
+4588,Austria,6,7.67
+4589,Belgium,25,7.52
+4590,Brazil,21,7.86
+4591,Bulgaria,2,8.0
+4592,Canada,90,7.4
+4593,Chile,3,7.5
+4594,China,22,7.63
+4595,Colombia,1,7.5
+4596,Croatia,1,7.0
+4597,Czech Republic,4,7.25
+4598,Denmark,6,6.5
+4599,England,7,7.29
+4600,Estonia,6,6.25
+4601,Finland,15,7.23
+4602,France,25,7.46
+4603,Germany,56,7.04
+4604,Greece,23,7.23
+4605,Hungary,5,7.0
+4606,India,1,7.0
+4607,Indonesia,4,7.63
+4608,Ireland,3,7.83
+4609,Israel,6,7.42
+4610,Italy,20,7.68
+4611,Japan,9,6.67
+4612,Latvia,5,6.04
+4613,Lithuania,4,5.0
+4614,Luxembourg,2,7.85
+4615,Malaysia,4,6.75
+4616,Mexico,2,9.0
+4617,Moldova,1,10.0
+4618,Netherlands,15,6.93
+4619,New Zealand,6,7.5
+4620,Norway,11,7.23
+4621,Philippines,1,4.0
+4622,Poland,26,7.34
+4623,Portugal,11,7.07
+4624,Qatar,1,5.2
+4625,Romania,8,8.13
+4626,Russia,11,7.09
+4627,Saudi Arabia,1,7.0
+4628,Republic of Serbia,1,8.0
+4629,Slovenia,1,8.5
+4630,South Korea,8,6.63
+4631,Spain,64,7.69
+4632,Sweden,14,7.05
+4633,Switzerland,4,8.13
+4634,Taiwan,15,7.73
+4635,Thailand,7,6.64
+4636,Turkey,2,8.0
+4637,Ukraine,1,8.0
+4638,USA,489,7.29
+4639,Argentina,14,7.25
+4640,Australia,70,6.33
+4641,Austria,11,5.82
+4642,Belarus,4,6.38
+4643,Belgium,25,6.88
+4644,Bolivia,1,7.0
+4645,Brazil,69,7.52
+4646,Bulgaria,4,6.0
+4647,Canada,254,6.69
+4648,Chile,10,7.33
+4649,China,10,6.5
+4650,Colombia,1,7.5
+4651,Costa Rica,1,8.0
+4652,Croatia,3,6.67
+4653,Czech Republic,3,7.67
+4654,Denmark,13,6.96
+4655,England,8,7.0
+4656,Estonia,3,6.33
+4657,Finland,28,5.5
+4658,France,20,6.14
+4659,Germany,133,6.95
+4660,Greece,46,6.89
+4661,Hungary,13,6.27
+4662,Indonesia,3,7.0
+4663,Ireland,8,7.38
+4664,Israel,16,5.96
+4665,Italy,51,6.29
+4666,Japan,4,4.0
+4667,Latvia,3,5.67
+4668,Lithuania,2,6.5
+4669,Malaysia,3,7.3
+4670,Mexico,11,8.0
+4671,Netherlands,42,6.32
+4672,New Zealand,8,6.31
+4673,Norway,11,5.68
+4674,Paraguay,1,6.0
+4675,Peru,1,8.0
+4676,Philippines,4,6.5
+4677,Poland,60,6.95
+4678,Portugal,8,7.63
+4679,Qatar,2,6.0
+4680,Romania,4,8.63
+4681,Russia,22,6.73
+4682,Republic of Serbia,3,7.17
+4683,Slovakia,2,8.0
+4684,Slovenia,1,6.0
+4685,South Africa,3,7.33
+4686,South Korea,3,5.0
+4687,Spain,131,6.1
+4688,Sweden,47,5.95
+4689,Switzerland,7,7.86
+4690,Taiwan,7,6.61
+4691,Thailand,2,7.75
+4692,Turkey,3,8.17
+4693,Ukraine,10,7.2
+4694,USA,1411,6.48
+4695,Uruguay,1,9.0
+4696,Argentina,6,8.33
+4697,Australia,30,7.51
+4698,Austria,7,7.14
+4699,Belgium,18,7.68
+4700,Brazil,20,7.68
+4701,Bulgaria,8,6.81
+4702,Canada,84,7.87
+4703,Chile,4,8.25
+4704,China,7,6.99
+4705,Colombia,3,8.33
+4706,Croatia,5,7.6
+4707,Czech Republic,4,7.25
+4708,Denmark,5,8.8
+4709,England,5,6.6
+4710,Finland,8,7.59
+4711,France,18,7.78
+4712,Germany,67,7.57
+4713,Greece,24,8.06
+4714,Hungary,2,5.5
+4715,India,2,7.5
+4716,Indonesia,1,9.0
+4717,Ireland,3,8.33
+4718,Israel,3,7.2
+4719,Italy,7,7.21
+4720,Japan,14,6.86
+4721,Latvia,2,8.5
+4722,Lithuania,4,6.75
+4723,Luxembourg,2,8.25
+4724,Macedonia,2,8.0
+4725,Malaysia,2,6.0
+4726,Mexico,9,8.17
+4727,Moldova,1,7.0
+4728,Netherlands,10,7.72
+4729,New Zealand,3,8.0
+4730,Norway,6,7.0
+4731,Peru,1,9.0
+4732,Philippines,3,6.67
+4733,Poland,3,8.0
+4734,Portugal,16,7.59
+4735,Qatar,1,5.4
+4736,Romania,9,8.46
+4737,Russia,2,5.5
+4738,Republic of Serbia,4,6.5
+4739,Slovenia,2,9.0
+4740,South Korea,4,7.6
+4741,Spain,68,7.59
+4742,Sweden,14,7.03
+4743,Switzerland,6,6.67
+4744,Taiwan,5,7.4
+4745,Thailand,4,6.75
+4746,Ukraine,1,8.9
+4747,USA,462,7.53
+4748,Venezuela,2,7.5
+4749,Vietnam,1,8.25
+4750,Argentina,4,5.75
+4751,Australia,57,7.32
+4752,Austria,6,6.83
+4753,Belarus,1,3.0
+4754,Belgium,14,6.91
+4755,Brazil,18,7.27
+4756,Brunei,1,9.0
+4757,Canada,129,7.27
+4758,Chile,5,6.78
+4759,China,4,6.75
+4760,Colombia,2,7.0
+4761,Czech Republic,3,6.0
+4762,Denmark,7,6.29
+4763,England,7,6.79
+4764,Estonia,2,7.0
+4765,Finland,16,7.25
+4766,France,18,6.97
+4767,Germany,53,7.39
+4768,Greece,16,6.72
+4769,Guatemala,1,8.0
+4770,Hungary,7,6.71
+4771,Iceland,1,7.5
+4772,India,3,6.67
+4773,Indonesia,1,8.0
+4774,Ireland,4,7.13
+4775,Israel,3,7.33
+4776,Italy,18,7.52
+4777,Japan,29,6.87
+4778,Latvia,4,7.25
+4779,Lithuania,5,8.6
+4780,Luxembourg,1,8.0
+4781,Malaysia,5,7.36
+4782,Mexico,3,5.67
+4783,Netherlands,17,7.15
+4784,New Zealand,16,7.27
+4785,Norway,10,7.5
+4786,Philippines,4,7.0
+4787,Poland,16,7.61
+4788,Portugal,8,7.43
+4789,Romania,2,6.5
+4790,Russia,6,7.75
+4791,Saudi Arabia,1,7.0
+4792,Republic of Serbia,6,8.33
+4793,Slovenia,1,7.0
+4794,South Africa,3,7.0
+4795,South Korea,15,7.19
+4796,Spain,59,7.14
+4797,Sweden,20,7.85
+4798,Switzerland,5,6.9
+4799,Taiwan,9,7.72
+4800,Thailand,9,7.94
+4801,Ukraine,1,10.0
+4802,USA,687,7.36
+4803,Vietnam,1,7.0
+4804,Argentina,1,9.0
+4805,Australia,25,7.54
+4806,Austria,7,7.71
+4807,Belarus,1,7.0
+4808,Belgium,20,8.09
+4809,Brazil,23,7.88
+4810,Brunei,1,8.0
+4811,Canada,65,7.6
+4812,Chile,2,8.75
+4813,China,12,8.0
+4814,Colombia,1,8.0
+4815,Czech Republic,10,7.95
+4816,Denmark,2,9.0
+4817,England,5,7.3
+4818,Estonia,2,9.0
+4819,Finland,16,8.38
+4820,France,17,7.64
+4821,Germany,90,7.82
+4822,Greece,20,7.99
+4823,Hungary,6,7.5
+4824,Iceland,1,8.0
+4825,Ireland,3,6.5
+4826,Israel,7,8.29
+4827,Italy,36,7.59
+4828,Japan,18,6.89
+4829,Latvia,2,7.25
+4830,Lithuania,1,7.0
+4831,Luxembourg,1,9.0
+4832,Malaysia,1,9.5
+4833,Mexico,1,7.2
+4834,Moldova,1,7.0
+4835,Netherlands,13,7.74
+4836,New Zealand,8,7.71
+4837,Norway,9,7.47
+4838,Peru,1,8.5
+4839,Philippines,1,4.0
+4840,Poland,22,7.61
+4841,Portugal,7,6.84
+4842,Qatar,1,7.0
+4843,Romania,3,9.0
+4844,Russia,4,7.76
+4845,Slovakia,1,9.0
+4846,South Africa,2,7.0
+4847,South Korea,17,8.11
+4848,Spain,48,8.03
+4849,Sweden,14,7.46
+4850,Switzerland,4,7.25
+4851,Taiwan,19,8.13
+4852,Thailand,5,7.42
+4853,Ukraine,1,5.0
+4854,USA,436,7.61
+4855,Venezuela,2,10.0
+4856,Albania,1,5.0
+4857,Argentina,26,7.99
+4858,Australia,138,7.95
+4859,Austria,20,7.55
+4860,Belarus,3,8.17
+4861,Belgium,59,8.0
+4862,Bolivia,1,10.0
+4863,Brazil,101,8.28
+4864,Bulgaria,12,7.42
+4865,Canada,505,8.18
+4866,Chile,21,8.54
+4867,China,29,7.54
+4868,Colombia,9,8.56
+4869,Costa Rica,4,8.25
+4870,Croatia,10,8.23
+4871,Czech Republic,21,7.5
+4872,Denmark,29,7.68
+4873,England,18,7.86
+4874,Estonia,10,8.8
+4875,Finland,41,7.95
+4876,France,39,7.82
+4877,Germany,214,8.19
+4878,Greece,54,7.8
+4879,Guatemala,1,9.0
+4880,Honduras,1,8.6
+4881,Hungary,25,8.18
+4882,Iceland,4,7.75
+4883,India,3,9.0
+4884,Indonesia,11,8.82
+4885,Iraq,1,9.0
+4886,Ireland,15,7.67
+4887,Israel,20,8.28
+4888,Italy,61,7.96
+4889,Japan,51,7.71
+4890,Latvia,6,7.42
+4891,Lithuania,19,7.74
+4892,Luxembourg,5,8.2
+4893,Macedonia,2,7.5
+4894,Malaysia,13,7.72
+4895,Mexico,29,8.03
+4896,Moldova,2,9.5
+4897,Mongolia,1,8.0
+4898,Netherlands,58,8.03
+4899,New Zealand,33,7.38
+4900,Norway,23,8.17
+4901,Peru,6,7.75
+4902,Philippines,12,7.83
+4903,Poland,108,7.76
+4904,Portugal,28,7.84
+4905,Qatar,2,8.0
+4906,Romania,21,8.44
+4907,Russia,15,7.53
+4908,Saudi Arabia,1,7.0
+4909,Republic of Serbia,8,8.38
+4910,Slovakia,5,7.6
+4911,Slovenia,7,8.36
+4912,South Africa,9,7.72
+4913,South Korea,33,7.72
+4914,Spain,182,7.8
+4915,Sri Lanka,1,9.0
+4916,Sweden,68,7.66
+4917,Switzerland,22,8.07
+4918,Taiwan,33,8.04
+4919,Thailand,15,7.01
+4920,Turkey,2,8.5
+4921,Uganda,1,8.0
+4922,Ukraine,10,8.53
+4923,USA,2731,8.06
+4924,Uruguay,3,8.43
+4925,Vietnam,2,7.0
+4926,Argentina,5,9.38
+4927,Australia,37,9.12
+4928,Austria,4,9.25
+4929,Belarus,2,9.0
+4930,Belgium,10,7.54
+4931,Bolivia,1,1.0
+4932,Brazil,29,9.17
+4933,Bulgaria,2,7.5
+4934,Canada,112,9.08
+4935,Chile,3,8.67
+4936,China,6,9.08
+4937,Colombia,5,9.1
+4938,Croatia,1,10.0
+4939,Czech Republic,4,9.0
+4940,Denmark,10,8.44
+4941,Ecuador,1,9.0
+4942,England,5,8.0
+4943,Estonia,2,9.5
+4944,Finland,9,8.88
+4945,France,6,9.67
+4946,Germany,82,8.92
+4947,Greece,9,8.69
+4948,Hungary,7,9.29
+4949,India,1,10.0
+4950,Indonesia,2,8.7
+4951,Ireland,4,7.25
+4952,Israel,4,8.25
+4953,Italy,24,8.23
+4954,Japan,11,6.68
+4955,Latvia,3,8.33
+4956,Lithuania,7,7.43
+4957,Luxembourg,2,9.0
+4958,Malaysia,2,7.3
+4959,Mexico,7,7.9
+4960,Moldova,1,10.0
+4961,Netherlands,14,8.79
+4962,New Zealand,7,8.79
+4963,Norway,8,9.05
+4964,Philippines,3,7.0
+4965,Poland,25,8.8
+4966,Portugal,7,9.0
+4967,Qatar,1,9.2
+4968,Romania,4,9.95
+4969,Russia,7,8.71
+4970,Republic of Serbia,1,9.0
+4971,Slovakia,2,9.5
+4972,Slovenia,1,10.0
+4973,South Africa,3,9.33
+4974,South Korea,6,9.65
+4975,Spain,67,9.02
+4976,Sweden,14,7.71
+4977,Switzerland,6,8.25
+4978,Taiwan,7,9.29
+4979,Thailand,1,10.0
+4980,Turkey,1,9.5
+4981,Ukraine,2,10.0
+4982,USA,670,8.84
+4983,Venezuela,1,10.0
+4984,Argentina,14,8.63
+4985,Australia,47,8.04
+4986,Austria,7,8.14
+4987,Belarus,1,7.0
+4988,Belgium,16,8.02
+4989,Brazil,30,8.46
+4990,Bulgaria,5,7.3
+4991,Canada,134,7.78
+4992,Chile,12,8.1
+4993,China,15,8.29
+4994,Colombia,1,10.0
+4995,Croatia,3,9.0
+4996,Czech Republic,8,8.5
+4997,Denmark,13,8.08
+4998,Ecuador,1,7.0
+4999,England,11,8.18
+5000,Estonia,3,7.37
+5001,Finland,11,7.87
+5002,France,19,8.14
+5003,Germany,84,7.67
+5004,Greece,26,8.06
+5005,Hungary,11,7.68
+5006,Iceland,2,8.25
+5007,India,4,8.0
+5008,Indonesia,2,8.5
+5009,Ireland,7,8.5
+5010,Israel,10,8.5
+5011,Italy,37,8.09
+5012,Japan,27,7.42
+5013,Latvia,2,8.88
+5014,Lithuania,8,7.88
+5015,Luxembourg,1,8.0
+5016,Malaysia,1,9.0
+5017,Mexico,11,8.34
+5018,Moldova,1,10.0
+5019,Netherlands,31,7.72
+5020,New Zealand,7,7.29
+5021,Norway,11,7.83
+5022,Peru,2,8.5
+5023,Philippines,5,8.2
+5024,Poland,57,8.03
+5025,Portugal,11,8.02
+5026,Romania,9,7.84
+5027,Russia,12,7.83
+5028,Saudi Arabia,2,6.5
+5029,Republic of Serbia,5,8.26
+5030,Slovakia,4,8.75
+5031,Slovenia,1,7.0
+5032,South Africa,4,7.98
+5033,South Korea,18,7.94
+5034,Spain,119,8.04
+5035,Sweden,24,7.65
+5036,Switzerland,5,6.7
+5037,Taiwan,13,8.08
+5038,Thailand,7,7.71
+5039,Turkey,1,9.0
+5040,Uganda,1,8.0
+5041,Ukraine,6,8.47
+5042,USA,569,7.92
+5043,Uruguay,1,9.0
+5044,Venezuela,1,9.0
+5045,Vietnam,3,8.17
+5046,Australia,29,7.26
+5047,Austria,6,7.5
+5048,Belgium,14,6.96
+5049,Brazil,10,7.6
+5050,Bulgaria,2,7.65
+5051,Canada,93,7.08
+5052,Chile,1,6.0
+5053,China,3,6.17
+5054,Croatia,2,8.75
+5055,Czech Republic,3,6.67
+5056,Denmark,7,7.36
+5057,England,7,6.79
+5058,Finland,26,7.16
+5059,France,14,6.23
+5060,Germany,49,6.84
+5061,Greece,19,7.65
+5062,Hungary,4,6.63
+5063,India,1,6.0
+5064,Ireland,2,7.63
+5065,Israel,2,6.25
+5066,Italy,18,7.75
+5067,Japan,1,4.0
+5068,Lithuania,1,7.0
+5069,Malaysia,3,8.23
+5070,Mexico,1,8.0
+5071,Netherlands,13,6.81
+5072,New Zealand,12,6.93
+5073,Norway,5,7.2
+5074,Philippines,1,8.0
+5075,Poland,13,6.59
+5076,Portugal,4,5.63
+5077,Romania,1,9.0
+5078,Russia,1,8.0
+5079,Slovakia,1,7.0
+5080,South Africa,4,6.0
+5081,South Korea,6,6.67
+5082,Spain,23,7.22
+5083,Sweden,22,6.76
+5084,Switzerland,3,7.67
+5085,Taiwan,1,5.0
+5086,Thailand,3,8.17
+5087,USA,586,6.83
+5088,Argentina,17,8.56
+5089,Australia,100,8.11
+5090,Austria,11,8.82
+5091,Azerbaijan,1,9.0
+5092,Belarus,2,9.0
+5093,Belgium,57,8.59
+5094,Bolivia,1,10.0
+5095,Brazil,88,8.78
+5096,Bulgaria,1,8.0
+5097,Canada,366,8.16
+5098,Chile,22,8.86
+5099,China,36,8.32
+5100,Colombia,6,7.97
+5101,Croatia,6,7.83
+5102,Czech Republic,17,8.24
+5103,Denmark,24,8.47
+5104,Ecuador,1,7.0
+5105,England,16,8.48
+5106,Estonia,11,8.33
+5107,Finland,43,8.58
+5108,France,27,8.71
+5109,Germany,183,8.44
+5110,Greece,42,8.4
+5111,Guatemala,1,9.5
+5112,Hungary,15,8.57
+5113,Iceland,3,8.33
+5114,India,6,9.08
+5115,Indonesia,4,8.48
+5116,Ireland,13,7.77
+5117,Israel,16,8.05
+5118,Italy,75,8.18
+5119,Japan,31,7.45
+5120,Latvia,6,7.5
+5121,Lebanon,1,8.0
+5122,Lithuania,16,8.41
+5123,Luxembourg,3,8.9
+5124,Macedonia,1,9.0
+5125,Malaysia,12,8.66
+5126,Mexico,18,8.63
+5127,Moldova,1,10.0
+5128,Mongolia,1,10.0
+5129,Netherlands,50,8.34
+5130,New Zealand,26,7.89
+5131,Norway,24,8.48
+5132,Panama,1,7.0
+5133,Peru,3,8.0
+5134,Philippines,8,8.06
+5135,Poland,126,8.34
+5136,Portugal,24,8.08
+5137,Qatar,1,8.2
+5138,Romania,21,8.3
+5139,Russia,21,8.06
+5140,Saudi Arabia,1,7.5
+5141,Republic of Serbia,7,8.79
+5142,Slovakia,4,8.5
+5143,Slovenia,5,8.52
+5144,South Africa,8,8.5
+5145,South Korea,34,8.61
+5146,Spain,179,8.38
+5147,Sri Lanka,1,9.0
+5148,Sweden,64,7.89
+5149,Switzerland,15,8.9
+5150,Taiwan,35,8.32
+5151,Thailand,15,8.23
+5152,Turkey,3,9.33
+5153,Ukraine,9,8.68
+5154,USA,1993,8.24
+5155,Uruguay,1,6.0
+5156,Venezuela,2,9.5
+5157,Vietnam,3,8.58
+5158,Argentina,19,8.64
+5159,Australia,119,8.38
+5160,Austria,18,9.45
+5161,Belarus,2,7.75
+5162,Belgium,69,8.95
+5163,Bolivia,1,9.0
+5164,Brazil,125,9.08
+5165,Brunei,1,7.0
+5166,Bulgaria,3,9.67
+5167,Canada,421,8.49
+5168,Chile,18,8.66
+5169,China,40,9.09
+5170,Colombia,9,8.44
+5171,Croatia,11,8.85
+5172,Czech Republic,25,8.87
+5173,Denmark,30,8.75
+5174,England,17,8.17
+5175,Estonia,8,7.95
+5176,Finland,63,8.71
+5177,France,43,8.93
+5178,Germany,218,9.01
+5179,Greece,60,8.77
+5180,Guatemala,1,10.0
+5181,Honduras,1,8.8
+5182,Hungary,19,8.99
+5183,Iceland,2,8.0
+5184,India,5,8.3
+5185,Indonesia,6,8.67
+5186,Ireland,13,8.6
+5187,Israel,22,8.95
+5188,Italy,109,8.92
+5189,Japan,40,8.1
+5190,Latvia,7,8.11
+5191,Lithuania,12,8.77
+5192,Luxembourg,3,9.0
+5193,Malaysia,14,8.79
+5194,Mexico,21,8.72
+5195,Moldova,1,10.0
+5196,Mongolia,1,9.0
+5197,Netherlands,82,8.59
+5198,New Zealand,42,8.74
+5199,Norway,31,8.7
+5200,Panama,1,9.0
+5201,Peru,5,8.0
+5202,Philippines,6,7.58
+5203,Poland,141,8.62
+5204,Portugal,30,8.5
+5205,Qatar,1,8.8
+5206,Romania,18,9.26
+5207,Russia,16,8.38
+5208,Republic of Serbia,12,8.17
+5209,Slovakia,5,7.61
+5210,Slovenia,6,9.0
+5211,South Africa,9,8.91
+5212,South Korea,51,8.95
+5213,Spain,186,8.71
+5214,Sweden,97,8.37
+5215,Switzerland,16,8.78
+5216,Taiwan,40,8.7
+5217,Thailand,11,6.49
+5218,Turkey,1,9.5
+5219,Ukraine,9,7.44
+5220,USA,2484,8.4
+5221,Venezuela,3,9.0
+5222,Vietnam,2,7.75
+5223,Argentina,4,7.75
+5224,Australia,34,7.31
+5225,Austria,7,6.64
+5226,Belarus,1,9.0
+5227,Belgium,13,7.14
+5228,Brazil,7,7.84
+5229,Brunei,1,9.0
+5230,Bulgaria,1,10.0
+5231,Canada,76,7.11
+5232,Chile,1,9.0
+5233,China,3,6.5
+5234,Colombia,1,10.0
+5235,Croatia,2,7.4
+5236,Denmark,5,5.2
+5237,England,6,7.33
+5238,Finland,8,7.23
+5239,France,12,7.08
+5240,Germany,91,6.92
+5241,Greece,4,7.5
+5242,Guatemala,1,8.0
+5243,Hungary,12,7.78
+5244,India,1,8.0
+5245,Ireland,3,5.33
+5246,Israel,2,5.5
+5247,Italy,14,7.32
+5248,Japan,16,6.06
+5249,Luxembourg,1,9.0
+5250,Mexico,5,8.41
+5251,Netherlands,22,6.93
+5252,New Zealand,9,7.03
+5253,Norway,10,5.95
+5254,Philippines,1,6.0
+5255,Poland,19,7.58
+5256,Portugal,4,7.75
+5257,Romania,8,8.5
+5258,Russia,1,10.0
+5259,Saudi Arabia,1,9.0
+5260,Slovenia,1,9.0
+5261,South Africa,1,9.0
+5262,South Korea,8,7.0
+5263,Spain,19,7.14
+5264,Sweden,6,5.83
+5265,Switzerland,8,7.06
+5266,Taiwan,10,7.08
+5267,Thailand,2,8.15
+5268,Ukraine,1,8.0
+5269,USA,633,7.12
+5270,Vietnam,1,7.0
+5271,Argentina,6,7.42
+5272,Australia,51,7.71
+5273,Austria,11,8.0
+5274,Belgium,23,7.73
+5275,Brazil,27,8.06
+5276,Bulgaria,1,7.0
+5277,Canada,152,7.95
+5278,Chile,2,5.9
+5279,China,15,7.69
+5280,Colombia,1,9.0
+5281,Czech Republic,5,7.3
+5282,Denmark,7,7.57
+5283,England,9,7.13
+5284,Estonia,4,7.55
+5285,Finland,22,8.05
+5286,France,14,7.57
+5287,Germany,86,8.11
+5288,Greece,11,7.28
+5289,Hungary,9,8.22
+5290,Iceland,1,7.5
+5291,India,2,8.5
+5292,Indonesia,2,5.5
+5293,Ireland,3,7.17
+5294,Israel,7,6.43
+5295,Italy,32,8.06
+5296,Japan,37,7.49
+5297,Latvia,2,8.0
+5298,Lithuania,4,6.5
+5299,Malaysia,9,7.5
+5300,Mexico,1,8.1
+5301,Moldova,1,9.0
+5302,Netherlands,32,7.61
+5303,New Zealand,19,8.03
+5304,Norway,11,8.59
+5305,Philippines,1,10.0
+5306,Poland,22,7.09
+5307,Portugal,7,7.26
+5308,Romania,1,9.5
+5309,Russia,2,6.0
+5310,Saudi Arabia,1,8.0
+5311,Republic of Serbia,1,7.0
+5312,Slovakia,1,3.0
+5313,Slovenia,2,9.5
+5314,South Africa,3,8.0
+5315,South Korea,36,8.32
+5316,Spain,56,7.88
+5317,Sweden,20,7.9
+5318,Switzerland,7,8.64
+5319,Taiwan,21,8.19
+5320,Thailand,5,7.0
+5321,Ukraine,2,7.0
+5322,USA,983,7.91
+5323,Uruguay,1,9.0
+5324,Venezuela,2,8.0
+5325,Argentina,6,7.78
+5326,Australia,63,8.08
+5327,Austria,10,8.65
+5328,Belarus,2,7.5
+5329,Belgium,22,8.21
+5330,Bolivia,2,9.25
+5331,Brazil,63,7.97
+5332,Bulgaria,3,9.0
+5333,Canada,219,8.02
+5334,Chile,5,7.96
+5335,China,31,8.25
+5336,Colombia,3,9.0
+5337,Croatia,3,7.63
+5338,Czech Republic,14,7.25
+5339,Denmark,17,7.39
+5340,England,8,8.64
+5341,Estonia,7,6.31
+5342,Finland,37,8.09
+5343,France,35,8.45
+5344,Germany,129,8.05
+5345,Greece,25,8.0
+5346,Guatemala,1,9.0
+5347,Hungary,12,7.92
+5348,Iceland,2,8.75
+5349,India,2,7.5
+5350,Indonesia,5,8.16
+5351,Ireland,7,7.79
+5352,Israel,11,7.89
+5353,Italy,42,7.87
+5354,Japan,24,7.04
+5355,Latvia,4,7.05
+5356,Lithuania,10,8.2
+5357,Luxembourg,1,10.0
+5358,Malaysia,11,8.03
+5359,Mexico,5,6.88
+5360,Netherlands,29,8.28
+5361,New Zealand,21,7.97
+5362,Norway,15,7.33
+5363,Panama,1,8.5
+5364,Peru,1,9.0
+5365,Philippines,6,7.25
+5366,Poland,75,8.34
+5367,Portugal,11,8.22
+5368,Qatar,1,6.2
+5369,Romania,7,8.63
+5370,Russia,20,7.93
+5371,Republic of Serbia,7,7.71
+5372,Slovakia,1,8.5
+5373,Slovenia,2,9.0
+5374,South Africa,6,7.75
+5375,South Korea,27,7.29
+5376,Spain,92,8.33
+5377,Sweden,40,7.44
+5378,Switzerland,15,8.56
+5379,Taiwan,24,8.6
+5380,Thailand,5,8.2
+5381,Ukraine,7,8.79
+5382,USA,1392,7.86
+5383,Uruguay,1,10.0
+5384,Venezuela,2,9.0
+5385,Vietnam,1,5.5
+5386,Australia,24,7.97
+5387,Austria,10,8.7
+5388,Belarus,1,9.0
+5389,Belgium,16,8.52
+5390,Brazil,9,8.54
+5391,Brunei,1,8.0
+5392,Canada,81,7.96
+5393,Chile,2,8.25
+5394,Croatia,1,9.0
+5395,Czech Republic,4,6.75
+5396,Denmark,11,8.36
+5397,England,8,7.72
+5398,Estonia,6,7.83
+5399,Finland,18,7.74
+5400,France,8,8.31
+5401,Germany,68,7.91
+5402,Greece,6,7.75
+5403,Hungary,6,8.17
+5404,India,2,9.5
+5405,Indonesia,1,8.5
+5406,Ireland,2,8.0
+5407,Israel,2,10.0
+5408,Italy,21,7.64
+5409,Japan,6,4.5
+5410,Latvia,3,8.57
+5411,Lithuania,6,8.5
+5412,Malaysia,7,8.36
+5413,Mexico,2,9.6
+5414,Netherlands,14,8.07
+5415,New Zealand,12,7.96
+5416,Norway,11,8.27
+5417,Philippines,1,6.0
+5418,Poland,18,8.11
+5419,Portugal,5,7.5
+5420,Romania,1,8.0
+5421,Russia,2,7.5
+5422,Slovakia,1,1.0
+5423,Slovenia,1,9.0
+5424,South Korea,1,7.0
+5425,Spain,37,7.87
+5426,Sweden,17,7.93
+5427,Switzerland,7,8.94
+5428,Taiwan,5,7.96
+5429,Thailand,2,7.5
+5430,Ukraine,1,6.0
+5431,USA,510,7.96
+5432,Uruguay,1,9.0
+5433,Argentina,3,5.0
+5434,Australia,71,5.94
+5435,Austria,11,5.5
+5436,The Bahamas,1,8.0
+5437,Belgium,37,5.96
+5438,Bolivia,1,7.0
+5439,Brazil,18,5.43
+5440,Bulgaria,3,8.33
+5441,Canada,277,6.29
+5442,Chile,12,6.54
+5443,China,4,5.25
+5444,Colombia,8,7.61
+5445,Costa Rica,1,6.0
+5446,Croatia,9,5.8
+5447,Czech Republic,2,5.5
+5448,Denmark,25,5.74
+5449,England,9,6.69
+5450,Estonia,4,5.88
+5451,Fiji,1,6.0
+5452,Finland,30,5.73
+5453,France,20,6.31
+5454,Germany,117,6.0
+5455,Greece,29,6.77
+5456,Guatemala,1,7.0
+5457,Hungary,22,6.24
+5458,Iceland,1,8.0
+5459,India,2,5.5
+5460,Indonesia,1,8.0
+5461,Ireland,6,5.67
+5462,Israel,6,5.75
+5463,Italy,50,6.64
+5464,Japan,6,5.5
+5465,Latvia,5,5.7
+5466,Lithuania,9,5.61
+5467,Macedonia,1,6.0
+5468,Malaysia,6,5.33
+5469,Mexico,21,7.09
+5470,Moldova,1,9.0
+5471,Netherlands,64,6.16
+5472,New Zealand,17,5.45
+5473,Norway,25,6.08
+5474,Paraguay,1,7.0
+5475,Peru,3,6.67
+5476,Philippines,4,4.5
+5477,Poland,26,5.46
+5478,Portugal,26,6.54
+5479,Qatar,2,6.7
+5480,Romania,8,7.15
+5481,Russia,5,5.05
+5482,Saudi Arabia,1,5.0
+5483,Republic of Serbia,5,6.0
+5484,Slovenia,6,6.25
+5485,South Africa,5,5.8
+5486,South Korea,4,6.75
+5487,Spain,109,6.65
+5488,Sweden,51,6.08
+5489,Switzerland,10,6.45
+5490,Taiwan,1,8.5
+5491,Thailand,1,8.0
+5492,Turkey,2,8.5
+5493,USA,1476,6.14
+5494,Venezuela,1,10.0
+5495,Argentina,7,7.77
+5496,Australia,26,7.63
+5497,Austria,10,8.32
+5498,Belarus,1,8.5
+5499,Belgium,11,8.27
+5500,Bolivia,1,9.0
+5501,Brazil,31,8.64
+5502,Bulgaria,3,9.33
+5503,Canada,80,8.22
+5504,Chile,1,10.0
+5505,China,7,7.74
+5506,Colombia,3,8.33
+5507,Croatia,1,9.0
+5508,Czech Republic,4,5.25
+5509,Denmark,6,8.5
+5510,England,6,8.17
+5511,Estonia,3,7.33
+5512,Finland,9,7.9
+5513,France,10,8.2
+5514,Germany,92,8.3
+5515,Greece,15,8.64
+5516,Hungary,4,7.13
+5517,India,1,8.5
+5518,Ireland,5,9.0
+5519,Israel,3,7.37
+5520,Italy,19,6.85
+5521,Japan,5,5.2
+5522,Latvia,4,7.9
+5523,Lithuania,6,8.33
+5524,Malaysia,2,7.75
+5525,Mexico,1,10.0
+5526,Moldova,1,9.0
+5527,Netherlands,14,8.08
+5528,New Zealand,7,7.07
+5529,Norway,9,8.02
+5530,Peru,1,9.0
+5531,Philippines,5,7.7
+5532,Poland,79,8.4
+5533,Portugal,5,8.9
+5534,Qatar,1,7.2
+5535,Romania,6,9.42
+5536,Russia,10,7.31
+5537,Republic of Serbia,1,8.5
+5538,Slovakia,1,10.0
+5539,Slovenia,2,7.8
+5540,South Africa,1,9.0
+5541,South Korea,13,7.98
+5542,Spain,56,7.92
+5543,Sweden,14,7.7
+5544,Switzerland,10,8.7
+5545,Taiwan,7,8.26
+5546,Thailand,3,8.5
+5547,Ukraine,4,8.75
+5548,USA,371,7.89
+5549,Uruguay,1,9.5
+5550,Venezuela,1,7.0
+5551,Vietnam,2,8.0
+5552,Argentina,3,6.67
+5553,Australia,58,7.22
+5554,Austria,11,7.27
+5555,Belarus,1,8.0
+5556,Belgium,28,7.34
+5557,Brazil,21,7.92
+5558,Bulgaria,1,9.0
+5559,Canada,158,7.31
+5560,Chile,3,8.13
+5561,China,2,7.35
+5562,Colombia,2,7.5
+5563,Croatia,4,7.53
+5564,Czech Republic,7,8.0
+5565,Denmark,20,7.01
+5566,England,10,7.75
+5567,Estonia,3,8.6
+5568,Finland,23,7.5
+5569,France,17,7.7
+5570,Germany,142,8.0
+5571,Greece,22,7.98
+5572,Hungary,4,8.0
+5573,Iceland,1,10.0
+5574,Ireland,4,6.88
+5575,Israel,5,6.8
+5576,Italy,36,7.44
+5577,Japan,10,5.53
+5578,Latvia,1,7.0
+5579,Lithuania,2,7.0
+5580,Luxembourg,3,8.67
+5581,Malaysia,5,7.62
+5582,Mexico,3,8.33
+5583,Netherlands,39,7.87
+5584,New Zealand,10,7.27
+5585,Norway,18,7.59
+5586,Philippines,2,6.5
+5587,Poland,15,7.43
+5588,Portugal,4,6.88
+5589,Romania,2,8.6
+5590,Russia,7,6.86
+5591,Saudi Arabia,1,10.0
+5592,Republic of Serbia,3,7.67
+5593,Slovenia,1,8.0
+5594,South Africa,3,5.83
+5595,South Korea,11,7.64
+5596,Spain,47,7.26
+5597,Sweden,77,7.78
+5598,Switzerland,11,7.86
+5599,Taiwan,5,6.88
+5600,Thailand,1,6.0
+5601,Turkey,1,9.0
+5602,Ukraine,6,7.0
+5603,USA,1101,7.37
+5604,Venezuela,2,9.9
+5605,Argentina,1,8.0
+5606,Australia,24,7.03
+5607,Austria,6,6.65
+5608,Belgium,11,7.7
+5609,Brazil,10,6.89
+5610,Brunei,1,7.0
+5611,Bulgaria,1,8.0
+5612,Canada,79,7.11
+5613,Chile,2,7.25
+5614,China,6,7.03
+5615,Colombia,1,9.0
+5616,Czech Republic,5,6.9
+5617,Denmark,8,6.5
+5618,England,3,6.63
+5619,Estonia,3,6.33
+5620,Finland,8,6.51
+5621,France,15,7.68
+5622,Germany,81,7.4
+5623,Greece,7,8.27
+5624,Hungary,2,6.5
+5625,Iceland,1,7.5
+5626,India,1,8.0
+5627,Indonesia,2,7.75
+5628,Ireland,3,7.83
+5629,Israel,2,7.4
+5630,Italy,13,6.77
+5631,Japan,11,6.08
+5632,Latvia,4,7.43
+5633,Lithuania,1,7.0
+5634,Luxembourg,1,6.0
+5635,Malaysia,1,8.0
+5636,Mexico,2,7.5
+5637,Netherlands,17,7.31
+5638,New Zealand,8,7.04
+5639,Norway,12,7.28
+5640,Philippines,1,6.0
+5641,Poland,19,6.72
+5642,Portugal,4,6.6
+5643,Romania,3,8.07
+5644,Russia,3,7.67
+5645,Republic of Serbia,1,7.0
+5646,Slovakia,1,8.0
+5647,South Africa,1,7.0
+5648,South Korea,11,7.11
+5649,Spain,37,7.35
+5650,Sweden,12,7.27
+5651,Switzerland,3,7.67
+5652,Taiwan,8,7.15
+5653,Thailand,2,7.75
+5654,Turkey,1,7.0
+5655,USA,500,7.18
+5656,Argentina,1,6.0
+5657,Australia,29,5.85
+5658,Austria,9,6.56
+5659,The Bahamas,1,6.0
+5660,Belgium,26,6.28
+5661,Brazil,22,7.81
+5662,Brunei,1,6.0
+5663,Bulgaria,1,6.0
+5664,Canada,68,6.59
+5665,Chile,2,6.0
+5666,China,9,6.76
+5667,Colombia,3,8.0
+5668,Costa Rica,1,8.0
+5669,Croatia,1,9.0
+5670,Czech Republic,1,5.0
+5671,Denmark,6,6.08
+5672,England,5,5.8
+5673,Estonia,2,7.5
+5674,Finland,13,6.18
+5675,France,6,6.5
+5676,Germany,59,6.39
+5677,Greece,9,6.57
+5678,Guatemala,1,7.0
+5679,Hungary,6,6.75
+5680,India,1,8.0
+5681,Ireland,1,7.0
+5682,Israel,5,6.22
+5683,Italy,12,5.71
+5684,Japan,27,7.81
+5685,Latvia,2,6.0
+5686,Lithuania,3,6.33
+5687,Malaysia,3,6.67
+5688,Mexico,5,8.95
+5689,Netherlands,39,6.19
+5690,New Zealand,8,6.69
+5691,Norway,10,6.5
+5692,Peru,2,8.0
+5693,Philippines,1,8.0
+5694,Poland,39,7.26
+5695,Portugal,5,6.85
+5696,Romania,4,6.75
+5697,Russia,6,7.33
+5698,Saudi Arabia,1,7.0
+5699,Slovenia,1,6.0
+5700,South Africa,3,6.0
+5701,South Korea,26,7.92
+5702,Spain,58,7.11
+5703,Sweden,19,6.58
+5704,Switzerland,5,7.0
+5705,Taiwan,17,7.35
+5706,Thailand,1,8.0
+5707,Ukraine,1,6.0
+5708,USA,479,6.37
+5709,Venezuela,2,8.5
+5710,Argentina,10,6.7
+5711,Australia,47,6.9
+5712,Austria,7,7.29
+5713,Belarus,3,6.33
+5714,Belgium,46,7.38
+5715,Bolivia,1,6.5
+5716,Brazil,48,7.62
+5717,Brunei,1,8.0
+5718,Bulgaria,8,7.31
+5719,Canada,100,6.83
+5720,Chile,6,6.83
+5721,China,18,7.06
+5722,Colombia,2,7.5
+5723,Croatia,1,7.0
+5724,Czech Republic,5,5.0
+5725,Denmark,5,7.3
+5726,England,5,7.36
+5727,Estonia,13,7.4
+5728,Finland,8,7.25
+5729,France,28,6.7
+5730,Germany,66,6.52
+5731,Greece,38,7.08
+5732,Hungary,21,7.07
+5733,Iceland,1,6.0
+5734,India,1,6.0
+5735,Indonesia,8,8.09
+5736,Ireland,4,7.75
+5737,Israel,9,7.11
+5738,Italy,30,6.75
+5739,Japan,25,6.17
+5740,Latvia,11,6.94
+5741,Lithuania,16,7.55
+5742,Luxembourg,2,7.0
+5743,Malaysia,9,7.76
+5744,Mexico,1,9.0
+5745,Moldova,1,10.0
+5746,Netherlands,40,6.69
+5747,New Zealand,14,6.76
+5748,Norway,6,6.67
+5749,Peru,1,10.0
+5750,Philippines,3,6.33
+5751,Poland,86,7.25
+5752,Portugal,13,7.19
+5753,Romania,20,8.06
+5754,Russia,8,6.63
+5755,Saudi Arabia,1,8.0
+5756,Republic of Serbia,3,8.33
+5757,Slovakia,4,7.38
+5758,Slovenia,2,6.5
+5759,South Africa,2,7.0
+5760,South Korea,13,6.98
+5761,Spain,142,6.9
+5762,Sri Lanka,1,9.0
+5763,Sweden,13,7.15
+5764,Switzerland,4,6.63
+5765,Taiwan,32,7.22
+5766,Thailand,7,6.86
+5767,Turkey,2,7.25
+5768,Ukraine,13,7.25
+5769,USA,485,6.84
+5770,Uruguay,2,8.25
+5771,Venezuela,2,6.5
+5772,Vietnam,1,6.0
+5773,Argentina,5,7.9
+5774,Australia,43,7.6
+5775,Austria,11,7.5
+5776,Belgium,26,7.72
+5777,Brazil,21,7.61
+5778,Brunei,1,7.0
+5779,Bulgaria,1,8.0
+5780,Canada,88,7.46
+5781,Chile,2,9.95
+5782,China,17,7.85
+5783,Colombia,1,8.0
+5784,Croatia,3,7.4
+5785,Czech Republic,14,8.5
+5786,Denmark,11,7.44
+5787,England,9,7.5
+5788,Estonia,3,8.3
+5789,Finland,19,7.33
+5790,France,18,8.42
+5791,Germany,131,8.19
+5792,Greece,18,8.0
+5793,Hungary,11,7.94
+5794,India,1,7.8
+5795,Indonesia,3,7.67
+5796,Ireland,2,8.5
+5797,Israel,6,7.87
+5798,Italy,38,7.76
+5799,Japan,28,7.16
+5800,Latvia,6,7.8
+5801,Lithuania,5,8.2
+5802,Luxembourg,2,4.25
+5803,Malaysia,4,6.75
+5804,Mexico,2,8.35
+5805,Netherlands,28,7.74
+5806,New Zealand,9,7.72
+5807,Norway,13,7.85
+5808,Philippines,1,2.0
+5809,Poland,27,7.87
+5810,Portugal,9,8.1
+5811,Romania,3,8.0
+5812,Russia,7,7.93
+5813,Saudi Arabia,1,9.0
+5814,Republic of Serbia,1,8.0
+5815,Slovakia,3,8.17
+5816,Slovenia,2,8.5
+5817,South Africa,3,7.33
+5818,South Korea,28,7.94
+5819,Spain,56,8.12
+5820,Sweden,20,7.19
+5821,Switzerland,8,8.0
+5822,Taiwan,21,8.2
+5823,Thailand,4,8.63
+5824,Ukraine,2,5.0
+5825,USA,641,7.46
+5826,Venezuela,2,7.0
+5827,Argentina,4,8.13
+5828,Australia,31,7.56
+5829,Austria,6,8.17
+5830,Belgium,22,7.51
+5831,Bolivia,1,10.0
+5832,Brazil,31,8.0
+5833,Bulgaria,2,6.0
+5834,Canada,102,7.71
+5835,Chile,4,7.38
+5836,China,14,7.08
+5837,Colombia,1,7.5
+5838,Croatia,3,8.67
+5839,Czech Republic,3,7.17
+5840,Denmark,10,7.65
+5841,England,3,7.83
+5842,Estonia,3,5.83
+5843,Finland,33,7.82
+5844,France,16,7.59
+5845,Germany,76,7.64
+5846,Greece,15,7.82
+5847,Hungary,9,7.72
+5848,India,4,8.3
+5849,Indonesia,1,8.0
+5850,Ireland,1,8.0
+5851,Israel,6,7.78
+5852,Italy,39,7.72
+5853,Japan,16,6.96
+5854,Latvia,2,8.5
+5855,Lithuania,6,8.17
+5856,Luxembourg,1,8.5
+5857,Malaysia,6,7.92
+5858,Mexico,3,8.95
+5859,Moldova,1,10.0
+5860,Netherlands,17,6.99
+5861,New Zealand,10,7.05
+5862,Norway,10,8.1
+5863,Philippines,1,8.0
+5864,Poland,43,7.69
+5865,Portugal,10,7.8
+5866,Russia,5,6.4
+5867,Slovenia,2,8.75
+5868,South Korea,28,7.14
+5869,Spain,74,8.15
+5870,Sweden,21,7.22
+5871,Switzerland,5,8.0
+5872,Taiwan,13,7.53
+5873,Thailand,8,7.49
+5874,Turkey,1,10.0
+5875,Ukraine,2,8.0
+5876,USA,645,7.65
+5877,Venezuela,1,8.0
+5878,Argentina,8,8.13
+5879,Australia,47,7.72
+5880,Austria,12,7.5
+5881,Belgium,33,7.83
+5882,Brazil,25,7.9
+5883,Brunei,1,6.0
+5884,Bulgaria,2,8.0
+5885,Canada,148,7.8
+5886,Chile,7,8.29
+5887,China,18,7.22
+5888,Colombia,4,6.88
+5889,Croatia,1,8.5
+5890,Czech Republic,15,7.7
+5891,Denmark,9,7.22
+5892,England,7,7.89
+5893,Estonia,5,8.0
+5894,Finland,27,7.7
+5895,France,18,8.01
+5896,Germany,165,7.87
+5897,Greece,17,8.05
+5898,Hungary,11,8.18
+5899,India,3,9.0
+5900,Indonesia,3,7.83
+5901,Ireland,7,7.43
+5902,Israel,6,7.88
+5903,Italy,38,7.62
+5904,Japan,34,7.23
+5905,Latvia,2,7.0
+5906,Lithuania,1,8.0
+5907,Luxembourg,3,8.0
+5908,Malaysia,6,7.83
+5909,Mexico,3,7.23
+5910,Netherlands,45,7.91
+5911,New Zealand,20,7.36
+5912,Norway,13,7.78
+5913,Philippines,3,6.0
+5914,Poland,21,7.49
+5915,Portugal,11,7.5
+5916,Qatar,1,8.0
+5917,Romania,1,8.2
+5918,Russia,3,7.67
+5919,Republic of Serbia,1,8.3
+5920,Slovakia,2,7.25
+5921,Slovenia,2,8.75
+5922,South Africa,2,9.0
+5923,South Korea,30,7.42
+5924,Spain,76,7.65
+5925,Sweden,35,7.06
+5926,Switzerland,10,7.65
+5927,Taiwan,22,7.98
+5928,Thailand,3,7.7
+5929,Ukraine,2,5.5
+5930,USA,1091,7.74
+5931,Venezuela,2,8.5
+5932,Argentina,1,6.0
+5933,Australia,43,6.95
+5934,Austria,13,7.0
+5935,Belgium,23,6.59
+5936,Brazil,36,6.73
+5937,Brunei,1,8.0
+5938,Bulgaria,1,6.0
+5939,Canada,143,6.73
+5940,Chile,3,7.17
+5941,China,6,7.17
+5942,Croatia,3,8.67
+5943,Czech Republic,2,5.25
+5944,Denmark,12,6.0
+5945,England,3,7.33
+5946,Estonia,3,7.33
+5947,Finland,24,6.5
+5948,France,11,6.12
+5949,Germany,127,6.77
+5950,Greece,13,6.45
+5951,Hungary,9,7.64
+5952,Iceland,2,6.5
+5953,India,3,6.33
+5954,Ireland,2,7.5
+5955,Israel,5,6.21
+5956,Italy,37,7.01
+5957,Japan,25,6.39
+5958,Kenya,1,3.5
+5959,Latvia,3,6.0
+5960,Lithuania,4,6.63
+5961,Luxembourg,1,7.0
+5962,Mexico,2,7.25
+5963,Netherlands,21,7.26
+5964,New Zealand,12,6.5
+5965,Norway,12,5.88
+5966,Poland,15,6.9
+5967,Portugal,6,6.48
+5968,Romania,2,7.75
+5969,Russia,3,7.33
+5970,Republic of Serbia,2,7.0
+5971,Slovakia,1,8.0
+5972,Slovenia,3,5.67
+5973,South Africa,2,5.0
+5974,South Korea,13,6.86
+5975,Spain,10,7.65
+5976,Sweden,21,6.38
+5977,Switzerland,7,6.79
+5978,Taiwan,8,7.13
+5979,Thailand,1,8.5
+5980,Ukraine,2,7.0
+5981,USA,599,6.82
+5982,Argentina,12,7.75
+5983,Australia,70,6.88
+5984,Austria,7,6.03
+5985,The Bahamas,1,6.75
+5986,Belgium,30,6.57
+5987,Brazil,33,7.15
+5988,Bulgaria,5,8.6
+5989,Canada,255,6.83
+5990,Chile,6,7.17
+5991,China,2,7.5
+5992,Colombia,2,8.0
+5993,Costa Rica,1,6.0
+5994,Croatia,3,7.0
+5995,Czech Republic,4,6.38
+5996,Denmark,13,6.81
+5997,Ecuador,1,7.0
+5998,England,9,6.94
+5999,Estonia,10,7.35
+6000,Finland,27,6.12
+6001,France,15,6.45
+6002,Germany,84,6.45
+6003,Greece,27,6.96
+6004,Guatemala,1,8.0
+6005,Hungary,17,6.74
+6006,Iceland,1,7.5
+6007,India,2,7.0
+6008,Indonesia,1,8.0
+6009,Ireland,6,6.67
+6010,Israel,6,7.36
+6011,Italy,26,6.4
+6012,Japan,6,7.0
+6013,Latvia,6,7.0
+6014,Lithuania,4,6.5
+6015,Malaysia,4,7.18
+6016,Mexico,15,7.41
+6017,Moldova,1,8.0
+6018,Netherlands,39,6.87
+6019,New Zealand,15,6.72
+6020,Norway,21,6.74
+6021,Peru,2,6.0
+6022,Philippines,3,7.67
+6023,Poland,62,6.79
+6024,Portugal,15,6.57
+6025,Qatar,1,8.0
+6026,Romania,5,7.5
+6027,Russia,11,6.44
+6028,Republic of Serbia,1,8.0
+6029,Slovakia,2,7.0
+6030,Slovenia,5,6.8
+6031,South Africa,4,8.25
+6032,South Korea,9,5.72
+6033,Spain,76,6.93
+6034,Sri Lanka,1,7.0
+6035,Sweden,32,6.2
+6036,Switzerland,3,7.33
+6037,Taiwan,1,8.0
+6038,Thailand,2,7.5
+6039,Turkey,2,9.0
+6040,USA,1385,6.79
+6041,Venezuela,1,8.0
+6042,Argentina,10,8.54
+6043,Australia,39,8.35
+6044,Austria,7,8.29
+6045,Belarus,1,7.0
+6046,Belgium,13,8.12
+6047,Bolivia,1,1.0
+6048,Brazil,31,8.75
+6049,Bulgaria,2,8.5
+6050,Canada,141,8.5
+6051,Chile,10,8.25
+6052,China,11,7.93
+6053,Colombia,5,9.66
+6054,Croatia,3,8.97
+6055,Czech Republic,8,8.75
+6056,Denmark,6,8.4
+6057,England,7,8.71
+6058,Estonia,2,9.75
+6059,Finland,8,7.69
+6060,France,21,8.33
+6061,Germany,74,8.38
+6062,Greece,18,8.84
+6063,Hungary,4,7.63
+6064,India,1,8.0
+6065,Indonesia,2,9.0
+6066,Iraq,1,9.0
+6067,Ireland,5,8.4
+6068,Israel,7,8.72
+6069,Italy,32,8.11
+6070,Japan,17,8.68
+6071,Latvia,5,8.3
+6072,Lebanon,1,8.0
+6073,Lithuania,6,9.0
+6074,Luxembourg,2,8.0
+6075,Malaysia,2,8.5
+6076,Mexico,10,7.73
+6077,Netherlands,18,8.51
+6078,New Zealand,10,7.77
+6079,Norway,8,8.38
+6080,Paraguay,1,10.0
+6081,Peru,1,10.0
+6082,Philippines,8,8.44
+6083,Poland,35,8.58
+6084,Portugal,14,9.08
+6085,Qatar,1,6.8
+6086,Romania,5,9.6
+6087,Russia,8,8.28
+6088,Republic of Serbia,4,9.0
+6089,Slovakia,1,10.0
+6090,South Africa,3,8.0
+6091,South Korea,8,8.19
+6092,Spain,74,8.63
+6093,Sri Lanka,1,8.0
+6094,Sweden,17,7.85
+6095,Switzerland,10,8.75
+6096,Taiwan,5,6.8
+6097,Thailand,6,7.83
+6098,Turkey,1,9.0
+6099,Ukraine,8,9.25
+6100,USA,654,8.48
+6101,Uruguay,1,10.0
+6102,Venezuela,2,9.5
+6103,Vietnam,1,4.48
+6104,Argentina,4,6.18
+6105,Australia,54,7.16
+6106,Austria,9,8.08
+6107,Belgium,27,7.77
+6108,Brazil,33,7.9
+6109,Brunei,1,9.0
+6110,Bulgaria,3,7.33
+6111,Canada,206,7.65
+6112,Chile,3,8.0
+6113,China,8,7.29
+6114,Colombia,2,9.25
+6115,Costa Rica,1,7.0
+6116,Croatia,2,2.65
+6117,Czech Republic,5,7.0
+6118,Denmark,11,7.55
+6119,England,7,7.79
+6120,Estonia,3,7.0
+6121,Finland,22,7.59
+6122,France,28,7.56
+6123,Germany,93,7.38
+6124,Greece,25,8.12
+6125,Guatemala,1,8.0
+6126,Hungary,4,6.0
+6127,India,1,8.0
+6128,Indonesia,2,7.6
+6129,Ireland,2,7.0
+6130,Israel,6,6.8
+6131,Italy,35,7.48
+6132,Japan,16,6.94
+6133,Latvia,5,7.9
+6134,Lithuania,4,7.5
+6135,Luxembourg,1,8.4
+6136,Macedonia,2,9.5
+6137,Malaysia,8,6.94
+6138,Mexico,3,7.67
+6139,Moldova,1,9.0
+6140,Mongolia,1,9.0
+6141,Netherlands,22,7.59
+6142,New Zealand,16,7.19
+6143,Norway,12,7.83
+6144,Peru,1,6.0
+6145,Philippines,4,7.0
+6146,Poland,24,7.2
+6147,Portugal,9,7.64
+6148,Qatar,1,6.4
+6149,Romania,7,8.79
+6150,Russia,8,6.38
+6151,Republic of Serbia,1,4.0
+6152,Slovenia,3,7.0
+6153,South Africa,4,7.75
+6154,South Korea,16,7.97
+6155,Spain,28,7.18
+6156,Sweden,23,7.68
+6157,Switzerland,9,7.72
+6158,Taiwan,10,7.9
+6159,Thailand,2,7.5
+6160,Ukraine,2,9.0
+6161,USA,1105,7.43
+6162,Uruguay,1,9.0
+6163,Venezuela,1,5.0
+6164,Vietnam,1,5.0
+6165,Argentina,3,7.7
+6166,Australia,48,7.52
+6167,Austria,1,6.5
+6168,Belarus,1,6.0
+6169,Belgium,10,7.26
+6170,Bolivia,2,5.0
+6171,Brazil,20,8.24
+6172,Bulgaria,4,7.5
+6173,Canada,105,7.7
+6174,Chile,3,6.33
+6175,China,9,6.99
+6176,Colombia,3,7.67
+6177,Croatia,3,6.4
+6178,Czech Republic,1,6.0
+6179,Denmark,5,6.4
+6180,Ecuador,1,7.0
+6181,England,5,6.18
+6182,Finland,5,7.7
+6183,France,5,7.4
+6184,Germany,24,6.77
+6185,Greece,14,7.93
+6186,Hungary,2,6.75
+6187,India,4,8.0
+6188,Indonesia,3,9.0
+6189,Iran,1,8.0
+6190,Ireland,4,8.25
+6191,Israel,6,7.38
+6192,Italy,6,7.73
+6193,Japan,6,5.58
+6194,Latvia,4,7.5
+6195,Lithuania,6,8.38
+6196,Macedonia,1,8.0
+6197,Malaysia,3,8.83
+6198,Mexico,12,8.36
+6199,Moldova,1,8.0
+6200,Netherlands,8,7.49
+6201,New Zealand,3,7.83
+6202,Norway,8,6.75
+6203,Peru,1,7.0
+6204,Philippines,5,8.0
+6205,Poland,30,7.62
+6206,Portugal,12,7.66
+6207,Romania,11,8.28
+6208,Russia,5,7.0
+6209,Saudi Arabia,2,7.25
+6210,Republic of Serbia,7,8.76
+6211,Slovakia,2,7.95
+6212,South Africa,4,6.13
+6213,South Korea,4,7.63
+6214,Spain,25,7.22
+6215,Sweden,15,7.37
+6216,Switzerland,2,7.0
+6217,Taiwan,5,7.28
+6218,Thailand,4,6.75
+6219,Ukraine,2,7.5
+6220,USA,634,7.44
+6221,Uruguay,1,8.5
+6222,Venezuela,1,4.0
+6223,Vietnam,2,7.0
+6224,Albania,1,6.0
+6225,Argentina,17,7.83
+6226,Australia,94,7.49
+6227,Austria,12,7.08
+6228,Belarus,3,8.67
+6229,Belgium,49,8.1
+6230,Bolivia,2,9.25
+6231,Brazil,77,8.06
+6232,Bulgaria,7,8.86
+6233,Canada,332,7.77
+6234,Chile,7,7.99
+6235,China,27,7.87
+6236,Colombia,4,7.5
+6237,Costa Rica,2,8.0
+6238,Croatia,10,7.31
+6239,Czech Republic,13,8.0
+6240,Denmark,27,7.46
+6241,Ecuador,1,9.0
+6242,England,17,7.92
+6243,Estonia,5,7.0
+6244,Finland,32,8.17
+6245,France,42,7.79
+6246,Germany,143,7.63
+6247,Greece,24,7.89
+6248,Guatemala,2,7.75
+6249,Hungary,20,7.14
+6250,Iceland,3,9.0
+6251,India,1,8.0
+6252,Indonesia,3,7.0
+6253,Ireland,14,7.82
+6254,Israel,9,7.32
+6255,Italy,58,7.93
+6256,Japan,26,6.62
+6257,Latvia,8,7.75
+6258,Lithuania,21,7.99
+6259,Luxembourg,2,7.5
+6260,Malaysia,9,7.31
+6261,Mexico,22,8.0
+6262,Moldova,1,7.0
+6263,Mongolia,1,8.0
+6264,Netherlands,44,7.77
+6265,New Zealand,25,7.4
+6266,Norway,16,7.97
+6267,Peru,2,7.75
+6268,Philippines,9,8.67
+6269,Poland,126,7.77
+6270,Portugal,16,7.83
+6271,Qatar,1,10.0
+6272,Romania,15,8.39
+6273,Russia,22,8.11
+6274,Republic of Serbia,7,8.14
+6275,Slovakia,2,8.0
+6276,Slovenia,3,8.83
+6277,South Africa,7,8.07
+6278,South Korea,17,7.37
+6279,Spain,135,7.79
+6280,Sri Lanka,1,7.0
+6281,Sweden,69,7.71
+6282,Switzerland,17,7.85
+6283,Taiwan,25,7.69
+6284,Thailand,16,8.28
+6285,Ukraine,15,8.2
+6286,USA,1834,7.72
+6287,Uruguay,1,8.8
+6288,Venezuela,1,7.0
+6289,Vietnam,3,5.85
+6290,Argentina,5,7.68
+6291,Australia,32,7.09
+6292,Austria,2,7.0
+6293,Belarus,2,5.0
+6294,Belgium,6,7.83
+6295,Brazil,13,7.62
+6296,Bulgaria,2,9.0
+6297,Canada,97,7.42
+6298,Chile,1,8.0
+6299,China,7,7.31
+6300,Czech Republic,2,7.0
+6301,Denmark,4,6.0
+6302,England,6,6.97
+6303,Finland,2,8.25
+6304,France,10,7.05
+6305,Germany,36,6.41
+6306,Greece,14,7.07
+6307,Hungary,1,9.0
+6308,Indonesia,2,9.0
+6309,Ireland,5,7.3
+6310,Israel,3,7.2
+6311,Italy,9,7.61
+6312,Japan,3,5.67
+6313,Latvia,4,7.06
+6314,Luxembourg,1,6.0
+6315,Malaysia,2,6.4
+6316,Mexico,7,8.26
+6317,Netherlands,4,5.13
+6318,New Zealand,5,6.3
+6319,Norway,4,6.0
+6320,Peru,1,8.0
+6321,Philippines,6,7.83
+6322,Poland,4,5.5
+6323,Portugal,4,7.78
+6324,Qatar,2,6.2
+6325,Romania,2,8.25
+6326,Russia,6,6.83
+6327,Republic of Serbia,2,7.5
+6328,Slovakia,1,8.0
+6329,South Africa,2,7.5
+6330,Spain,33,7.21
+6331,Sweden,14,6.08
+6332,Switzerland,4,7.0
+6333,Taiwan,1,6.0
+6334,Thailand,1,9.5
+6335,Uganda,1,9.0
+6336,Ukraine,2,7.75
+6337,USA,641,7.06
+6338,Uruguay,1,9.0
+6339,Argentina,16,8.25
+6340,Australia,80,7.8
+6341,Austria,8,7.53
+6342,Belgium,28,7.9
+6343,Brazil,34,8.01
+6344,Bulgaria,9,8.78
+6345,Canada,171,8.07
+6346,Chile,11,7.65
+6347,China,17,7.57
+6348,Colombia,6,8.62
+6349,Costa Rica,1,8.0
+6350,Croatia,4,8.08
+6351,Czech Republic,7,6.64
+6352,Denmark,8,5.98
+6353,England,12,7.36
+6354,Estonia,3,8.0
+6355,Finland,21,7.85
+6356,France,35,8.08
+6357,Germany,89,7.39
+6358,Greece,23,7.87
+6359,Guatemala,1,9.0
+6360,Hungary,13,7.23
+6361,Iceland,1,8.5
+6362,India,7,8.21
+6363,Indonesia,6,9.25
+6364,Iran,2,9.0
+6365,Ireland,8,7.88
+6366,Israel,8,7.6
+6367,Italy,41,7.91
+6368,Japan,30,7.63
+6369,Kenya,1,8.0
+6370,Latvia,7,8.18
+6371,Lebanon,1,8.0
+6372,Lithuania,8,8.19
+6373,Luxembourg,2,7.5
+6374,Macedonia,1,3.0
+6375,Malaysia,5,7.8
+6376,Mexico,23,8.45
+6377,Moldova,1,8.0
+6378,Netherlands,33,7.85
+6379,New Zealand,11,7.0
+6380,Norway,13,7.85
+6381,Peru,6,8.67
+6382,Philippines,9,8.06
+6383,Poland,101,8.05
+6384,Portugal,20,8.45
+6385,Qatar,1,7.0
+6386,Romania,12,9.01
+6387,Russia,10,8.3
+6388,Saudi Arabia,2,9.5
+6389,Republic of Serbia,8,7.94
+6390,Slovakia,3,7.92
+6391,Slovenia,2,8.5
+6392,South Africa,7,8.43
+6393,South Korea,23,8.09
+6394,Spain,77,7.7
+6395,Sweden,34,7.59
+6396,Switzerland,10,7.5
+6397,Taiwan,20,8.06
+6398,Thailand,15,8.77
+6399,Turkey,2,8.0
+6400,Uganda,1,5.0
+6401,Ukraine,5,8.0
+6402,USA,1212,8.0
+6403,Venezuela,2,8.5
+6404,Vietnam,3,8.42
+6405,Argentina,11,8.6
+6406,Australia,29,7.6
+6407,Austria,5,8.0
+6408,Belarus,2,9.0
+6409,Belgium,7,8.86
+6410,Brazil,18,8.39
+6411,Bulgaria,1,10.0
+6412,Canada,93,7.8
+6413,Chile,11,8.68
+6414,China,12,8.38
+6415,Colombia,2,6.25
+6416,Czech Republic,5,6.7
+6417,Denmark,8,6.98
+6418,Ecuador,1,7.0
+6419,England,7,7.66
+6420,Finland,9,7.28
+6421,France,15,8.33
+6422,Germany,44,7.85
+6423,Greece,10,7.83
+6424,Hungary,4,9.25
+6425,India,1,9.0
+6426,Indonesia,1,8.0
+6427,Ireland,5,8.5
+6428,Israel,5,8.4
+6429,Italy,23,7.51
+6430,Japan,1,1.0
+6431,Latvia,2,7.0
+6432,Lithuania,2,6.5
+6433,Luxembourg,2,7.75
+6434,Malaysia,4,5.85
+6435,Mexico,11,7.82
+6436,Netherlands,15,8.35
+6437,New Zealand,5,7.21
+6438,Norway,8,7.56
+6439,Peru,1,10.0
+6440,Philippines,3,8.5
+6441,Poland,29,8.13
+6442,Portugal,10,7.41
+6443,Qatar,2,7.9
+6444,Romania,7,8.79
+6445,Russia,14,8.21
+6446,Republic of Serbia,2,8.75
+6447,Slovakia,2,8.0
+6448,Slovenia,1,10.0
+6449,South Africa,8,7.41
+6450,South Korea,4,7.5
+6451,Spain,68,8.05
+6452,Sweden,20,7.22
+6453,Switzerland,2,9.0
+6454,Taiwan,6,8.05
+6455,Thailand,4,7.88
+6456,Turkey,1,8.5
+6457,Ukraine,4,8.68
+6458,USA,642,7.91
+6459,Uruguay,4,8.25
+6460,Venezuela,2,8.0
+6461,Argentina,5,8.14
+6462,Australia,32,8.01
+6463,Austria,2,8.5
+6464,Belarus,1,7.0
+6465,Belgium,5,9.04
+6466,Bolivia,1,9.0
+6467,Brazil,36,8.03
+6468,Canada,88,8.0
+6469,Chile,1,7.0
+6470,China,2,5.1
+6471,Colombia,2,8.25
+6472,Croatia,3,10.0
+6473,Czech Republic,2,8.25
+6474,Denmark,5,8.2
+6475,England,2,9.0
+6476,Finland,7,6.91
+6477,France,9,7.44
+6478,Germany,50,8.04
+6479,Greece,7,8.86
+6480,Guatemala,1,9.0
+6481,Hungary,5,6.4
+6482,Iceland,1,9.0
+6483,Indonesia,1,9.0
+6484,Ireland,5,8.4
+6485,Israel,3,5.4
+6486,Italy,14,7.18
+6487,Japan,3,6.0
+6488,Latvia,1,8.0
+6489,Lithuania,6,7.67
+6490,Luxembourg,1,8.0
+6491,Malaysia,3,9.1
+6492,Mexico,3,7.83
+6493,Netherlands,6,8.55
+6494,New Zealand,5,7.23
+6495,Norway,5,7.7
+6496,Philippines,1,10.0
+6497,Poland,28,7.78
+6498,Portugal,6,7.83
+6499,Romania,1,8.0
+6500,Russia,2,7.5
+6501,Saudi Arabia,1,9.0
+6502,Republic of Serbia,2,6.9
+6503,Slovenia,3,10.0
+6504,South Africa,4,7.75
+6505,South Korea,6,7.42
+6506,Spain,67,8.09
+6507,Sweden,21,6.81
+6508,Switzerland,4,6.38
+6509,Taiwan,3,7.67
+6510,Thailand,2,8.5
+6511,Turkey,2,9.0
+6512,Ukraine,2,7.25
+6513,USA,573,8.05
+6514,Uruguay,1,8.0
+6515,Vietnam,1,2.5
+6516,Argentina,20,8.22
+6517,Australia,69,7.84
+6518,Austria,17,8.74
+6519,Azerbaijan,1,7.0
+6520,Belarus,1,9.0
+6521,Belgium,47,8.02
+6522,Brazil,82,8.51
+6523,Brunei,1,8.0
+6524,Bulgaria,7,8.79
+6525,Canada,232,8.12
+6526,Chile,12,8.57
+6527,China,26,8.02
+6528,Colombia,4,7.88
+6529,Croatia,2,7.25
+6530,Czech Republic,19,8.21
+6531,Denmark,20,8.21
+6532,Ecuador,1,9.0
+6533,England,13,8.28
+6534,Estonia,5,6.4
+6535,Finland,31,7.95
+6536,France,41,8.32
+6537,Germany,182,8.1
+6538,Greece,43,8.4
+6539,Guatemala,1,9.0
+6540,Honduras,1,8.6
+6541,Hungary,18,8.83
+6542,Iceland,4,8.5
+6543,India,5,8.2
+6544,Indonesia,3,8.0
+6545,Iran,1,10.0
+6546,Ireland,8,7.94
+6547,Israel,13,8.38
+6548,Italy,67,7.98
+6549,Japan,27,7.12
+6550,Kenya,1,8.0
+6551,Latvia,10,8.5
+6552,Lithuania,10,7.8
+6553,Luxembourg,3,7.27
+6554,Malaysia,8,7.99
+6555,Mexico,12,9.06
+6556,Moldova,3,9.5
+6557,Netherlands,46,7.96
+6558,New Zealand,19,7.68
+6559,Norway,19,8.09
+6560,Paraguay,1,8.0
+6561,Peru,4,7.63
+6562,Philippines,6,8.08
+6563,Poland,103,8.27
+6564,Portugal,23,8.46
+6565,Qatar,1,7.6
+6566,Romania,18,8.78
+6567,Russia,19,7.84
+6568,Republic of Serbia,6,8.25
+6569,Slovakia,5,8.61
+6570,Slovenia,5,9.1
+6571,South Africa,4,8.5
+6572,South Korea,33,7.92
+6573,Spain,142,8.34
+6574,Sri Lanka,1,7.0
+6575,Sweden,45,7.64
+6576,Switzerland,12,8.13
+6577,Taiwan,35,8.33
+6578,Thailand,12,7.16
+6579,Ukraine,11,8.65
+6580,USA,1172,8.08
+6581,Uruguay,2,9.0
+6582,Venezuela,2,10.0
+6583,Vietnam,3,7.42
+6584,Argentina,3,5.83
+6585,Australia,34,6.22
+6586,Austria,1,7.0
+6587,The Bahamas,1,7.0
+6588,Belgium,19,5.63
+6589,Bolivia,1,7.0
+6590,Brazil,33,6.07
+6591,Bulgaria,1,7.0
+6592,Canada,92,6.39
+6593,Chile,4,5.38
+6594,Colombia,2,7.75
+6595,Czech Republic,3,5.47
+6596,Denmark,7,4.71
+6597,England,1,6.0
+6598,Estonia,3,5.0
+6599,Finland,4,6.13
+6600,France,5,5.58
+6601,Germany,57,6.24
+6602,Greece,18,6.94
+6603,Guatemala,1,8.0
+6604,Hungary,3,7.47
+6605,India,1,6.2
+6606,Ireland,5,7.1
+6607,Israel,3,6.17
+6608,Italy,30,6.6
+6609,Latvia,1,7.0
+6610,Lithuania,1,6.0
+6611,Mexico,9,6.82
+6612,Netherlands,44,6.42
+6613,New Zealand,5,6.26
+6614,Norway,16,5.56
+6615,Peru,1,8.0
+6616,Poland,11,6.41
+6617,Portugal,5,6.6
+6618,Qatar,1,8.0
+6619,Russia,2,6.0
+6620,Republic of Serbia,4,7.75
+6621,Slovenia,1,4.0
+6622,South Africa,1,7.0
+6623,South Korea,7,6.57
+6624,Spain,41,7.2
+6625,Sweden,22,6.14
+6626,Switzerland,7,6.32
+6627,USA,811,6.26
+6628,Argentina,5,7.56
+6629,Australia,25,7.66
+6630,Austria,3,7.33
+6631,Belarus,1,7.0
+6632,Belgium,7,8.07
+6633,Brazil,26,8.66
+6634,Bulgaria,2,8.0
+6635,Canada,87,8.06
+6636,Chile,1,7.2
+6637,China,6,7.38
+6638,Czech Republic,6,7.0
+6639,Denmark,5,6.6
+6640,England,7,7.57
+6641,Estonia,2,8.5
+6642,Finland,7,8.43
+6643,France,9,7.61
+6644,Germany,45,7.5
+6645,Greece,7,8.21
+6646,Hungary,2,8.75
+6647,Iceland,1,8.5
+6648,India,1,9.5
+6649,Indonesia,1,6.5
+6650,Ireland,6,8.08
+6651,Israel,3,7.67
+6652,Italy,29,7.14
+6653,Japan,9,6.17
+6654,Latvia,4,7.25
+6655,Lithuania,4,7.0
+6656,Malaysia,2,8.5
+6657,Mexico,3,8.17
+6658,Netherlands,12,7.76
+6659,New Zealand,4,6.75
+6660,Norway,5,7.72
+6661,Philippines,5,8.18
+6662,Poland,35,7.74
+6663,Portugal,3,8.8
+6664,Qatar,1,7.2
+6665,Romania,5,8.57
+6666,Russia,6,7.5
+6667,Republic of Serbia,1,7.0
+6668,Slovakia,1,6.0
+6669,South Africa,2,9.5
+6670,South Korea,9,7.33
+6671,Spain,20,7.71
+6672,Sweden,16,7.28
+6673,Switzerland,4,7.5
+6674,Taiwan,9,7.71
+6675,Thailand,1,9.0
+6676,Ukraine,2,8.0
+6677,USA,502,7.84
+6678,Venezuela,2,7.5
+6679,Vietnam,1,7.77
+6680,Argentina,6,7.68
+6681,Australia,50,7.76
+6682,Austria,1,6.0
+6683,Belarus,1,8.0
+6684,Belgium,10,8.38
+6685,Brazil,32,8.0
+6686,Bulgaria,1,10.0
+6687,Canada,134,7.79
+6688,Chile,8,7.88
+6689,China,8,7.15
+6690,Colombia,4,8.13
+6691,Croatia,2,8.0
+6692,Czech Republic,1,7.0
+6693,Denmark,1,8.0
+6694,England,2,7.0
+6695,Finland,6,6.67
+6696,France,14,8.03
+6697,Germany,20,6.49
+6698,Greece,9,7.36
+6699,Honduras,1,8.3
+6700,Hungary,1,5.0
+6701,Indonesia,3,8.33
+6702,Ireland,6,8.33
+6703,Israel,3,8.17
+6704,Italy,18,7.37
+6705,Japan,15,6.93
+6706,Latvia,3,6.33
+6707,Lithuania,3,8.0
+6708,Luxembourg,2,8.05
+6709,Malaysia,3,7.83
+6710,Mexico,11,8.45
+6711,Netherlands,7,7.07
+6712,New Zealand,6,8.18
+6713,Norway,5,6.8
+6714,Peru,1,7.0
+6715,Philippines,2,8.0
+6716,Poland,6,8.67
+6717,Portugal,4,7.75
+6718,Romania,3,8.33
+6719,Russia,6,7.33
+6720,Saudi Arabia,2,7.5
+6721,Slovakia,1,10.0
+6722,South Africa,1,8.0
+6723,South Korea,10,7.45
+6724,Spain,100,7.97
+6725,Sweden,11,7.55
+6726,Switzerland,1,7.0
+6727,Taiwan,9,8.16
+6728,Thailand,10,7.08
+6729,Ukraine,3,8.33
+6730,USA,684,7.55
+6731,Uruguay,1,9.0
+6732,Venezuela,1,8.0
+6733,Vietnam,1,5.0
+6734,Argentina,15,7.55
+6735,Australia,54,7.43
+6736,Austria,7,7.64
+6737,Belarus,1,6.0
+6738,Belgium,6,5.75
+6739,Brazil,25,7.94
+6740,Bulgaria,1,9.5
+6741,Canada,134,7.45
+6742,Chile,8,5.96
+6743,China,8,7.13
+6744,Colombia,3,7.17
+6745,Czech Republic,1,8.0
+6746,Denmark,5,6.92
+6747,England,5,8.2
+6748,Finland,4,7.5
+6749,France,9,7.41
+6750,Germany,26,7.21
+6751,Greece,7,6.93
+6752,Hungary,5,7.2
+6753,Iceland,1,8.0
+6754,India,3,7.83
+6755,Indonesia,1,10.0
+6756,Iran,1,5.0
+6757,Ireland,4,8.48
+6758,Israel,5,7.26
+6759,Italy,19,7.49
+6760,Japan,8,6.25
+6761,Latvia,3,6.67
+6762,Lithuania,2,7.5
+6763,Luxembourg,1,9.0
+6764,Malaysia,4,7.75
+6765,Mexico,10,7.73
+6766,Netherlands,21,7.09
+6767,New Zealand,7,6.94
+6768,Norway,4,6.63
+6769,Peru,2,8.0
+6770,Philippines,6,7.37
+6771,Poland,16,7.09
+6772,Portugal,15,7.53
+6773,Romania,2,8.48
+6774,Russia,2,7.5
+6775,Republic of Serbia,5,7.3
+6776,Slovakia,1,10.0
+6777,Slovenia,1,8.0
+6778,South Africa,6,7.92
+6779,South Korea,12,7.42
+6780,Spain,76,7.41
+6781,Sweden,17,6.59
+6782,Switzerland,4,6.63
+6783,Taiwan,7,7.59
+6784,Thailand,5,7.4
+6785,Turkey,1,7.5
+6786,Uganda,1,7.0
+6787,Ukraine,1,6.0
+6788,USA,705,7.49
+6789,Uruguay,2,8.75
+6790,Venezuela,2,7.0
+6791,Vietnam,2,7.25
+6792,Argentina,3,6.33
+6793,Australia,32,6.56
+6794,Austria,6,5.42
+6795,Belgium,9,5.83
+6796,Brazil,8,7.75
+6797,Brunei,1,8.0
+6798,Bulgaria,2,5.75
+6799,Canada,86,6.47
+6800,Chile,2,7.0
+6801,China,1,8.0
+6802,Croatia,2,5.4
+6803,Denmark,2,5.5
+6804,Finland,3,6.03
+6805,France,9,6.63
+6806,Germany,68,6.73
+6807,Greece,27,6.68
+6808,Hungary,4,6.25
+6809,India,3,8.0
+6810,Ireland,2,5.5
+6811,Israel,1,8.0
+6812,Italy,33,6.65
+6813,Japan,3,6.67
+6814,Malaysia,1,5.0
+6815,Mexico,1,8.0
+6816,Netherlands,4,6.75
+6817,New Zealand,2,5.5
+6818,Norway,3,6.0
+6819,Paraguay,1,6.0
+6820,Peru,1,6.0
+6821,Philippines,2,5.5
+6822,Poland,28,7.13
+6823,Portugal,4,6.76
+6824,Qatar,1,7.4
+6825,Russia,2,6.5
+6826,Slovenia,1,7.0
+6827,South Africa,1,6.0
+6828,South Korea,1,10.0
+6829,Spain,32,6.08
+6830,Sweden,5,7.8
+6831,Switzerland,5,7.5
+6832,Turkey,1,7.0
+6833,USA,606,6.45
+6834,Venezuela,1,8.0
+6835,Argentina,15,7.93
+6836,Australia,54,7.51
+6837,Austria,3,8.0
+6838,Belarus,1,4.0
+6839,Belgium,23,7.89
+6840,Brazil,47,8.12
+6841,Bulgaria,4,8.0
+6842,Canada,154,7.8
+6843,Chile,10,7.37
+6844,China,15,7.46
+6845,Colombia,2,9.0
+6846,Croatia,3,7.73
+6847,Czech Republic,9,7.22
+6848,Denmark,8,7.64
+6849,England,11,7.69
+6850,Estonia,2,7.5
+6851,Finland,7,7.37
+6852,France,23,7.18
+6853,Germany,54,7.69
+6854,Greece,20,7.9
+6855,Guatemala,1,8.0
+6856,Hungary,17,8.06
+6857,Iceland,1,7.0
+6858,India,3,8.17
+6859,Indonesia,3,8.0
+6860,Ireland,8,7.88
+6861,Israel,9,7.42
+6862,Italy,31,7.5
+6863,Japan,11,6.31
+6864,Latvia,3,7.5
+6865,Lithuania,8,8.88
+6866,Luxembourg,1,8.0
+6867,Macedonia,3,8.33
+6868,Malaysia,5,8.3
+6869,Mexico,9,7.59
+6870,Moldova,1,10.0
+6871,Netherlands,17,7.28
+6872,New Zealand,11,7.42
+6873,Norway,7,6.74
+6874,Peru,2,9.0
+6875,Philippines,5,8.7
+6876,Poland,50,7.7
+6877,Portugal,14,8.27
+6878,Qatar,1,6.8
+6879,Romania,7,7.73
+6880,Russia,6,8.33
+6881,Republic of Serbia,3,6.83
+6882,Slovakia,3,8.07
+6883,Slovenia,1,9.0
+6884,South Africa,5,8.6
+6885,South Korea,10,6.75
+6886,Spain,67,7.91
+6887,Sweden,23,7.08
+6888,Switzerland,5,7.6
+6889,Taiwan,8,7.75
+6890,Thailand,9,7.31
+6891,Uganda,1,6.0
+6892,Ukraine,3,8.63
+6893,USA,655,7.61
+6894,Uruguay,2,8.5
+6895,Vietnam,2,7.1
+6896,Argentina,7,8.39
+6897,Australia,45,8.29
+6898,Austria,5,8.5
+6899,Azerbaijan,1,8.0
+6900,Belarus,1,9.0
+6901,Belgium,26,8.42
+6902,Brazil,60,9.2
+6903,Bulgaria,2,7.0
+6904,Canada,150,8.44
+6905,Chile,4,7.5
+6906,China,20,8.55
+6907,Colombia,5,9.64
+6908,Croatia,3,9.07
+6909,Czech Republic,8,9.19
+6910,Denmark,9,8.11
+6911,Ecuador,1,9.0
+6912,England,7,8.34
+6913,Estonia,1,8.6
+6914,Finland,13,8.57
+6915,France,24,8.63
+6916,Germany,124,8.68
+6917,Greece,16,8.86
+6918,Honduras,1,8.8
+6919,Hungary,7,8.36
+6920,Iceland,1,8.0
+6921,India,2,8.25
+6922,Indonesia,1,10.0
+6923,Ireland,6,8.0
+6924,Israel,9,8.34
+6925,Italy,48,8.62
+6926,Japan,22,8.05
+6927,Latvia,4,8.63
+6928,Lebanon,1,9.0
+6929,Lithuania,8,9.13
+6930,Malaysia,3,9.0
+6931,Mexico,8,8.88
+6932,Netherlands,32,8.33
+6933,New Zealand,10,8.18
+6934,Norway,10,8.69
+6935,Philippines,6,7.5
+6936,Poland,59,8.47
+6937,Portugal,10,7.99
+6938,Qatar,1,7.2
+6939,Romania,6,8.5
+6940,Russia,12,7.94
+6941,Republic of Serbia,4,9.23
+6942,Slovakia,2,9.6
+6943,Slovenia,2,9.5
+6944,South Africa,2,9.0
+6945,South Korea,16,8.48
+6946,Spain,66,8.42
+6947,Sweden,23,8.0
+6948,Switzerland,8,7.35
+6949,Taiwan,19,9.05
+6950,Thailand,7,8.64
+6951,Turkey,1,8.5
+6952,Ukraine,7,7.71
+6953,USA,642,8.23
+6954,Venezuela,2,8.0
+6955,Vietnam,2,7.5
+6956,Argentina,7,8.83
+6957,Australia,36,8.06
+6958,Austria,6,8.5
+6959,Belarus,1,10.0
+6960,Belgium,22,8.36
+6961,Bolivia,2,5.25
+6962,Brazil,39,8.97
+6963,Bulgaria,3,9.0
+6964,Canada,123,8.66
+6965,Chile,8,8.48
+6966,China,10,8.85
+6967,Colombia,7,8.71
+6968,Croatia,2,8.8
+6969,Czech Republic,10,8.95
+6970,Denmark,8,8.58
+6971,England,8,8.13
+6972,Estonia,3,9.53
+6973,Finland,15,8.05
+6974,France,21,8.87
+6975,Germany,108,8.64
+6976,Greece,15,8.96
+6977,Guatemala,1,10.0
+6978,Hungary,15,8.87
+6979,Iceland,2,8.5
+6980,India,2,9.25
+6981,Indonesia,2,10.0
+6982,Ireland,5,8.92
+6983,Israel,7,8.95
+6984,Italy,31,8.38
+6985,Japan,16,8.88
+6986,Latvia,3,9.1
+6987,Lebanon,1,10.0
+6988,Lithuania,7,8.43
+6989,Luxembourg,3,6.67
+6990,Malaysia,1,10.0
+6991,Mexico,7,8.95
+6992,Netherlands,25,8.21
+6993,New Zealand,9,8.53
+6994,Norway,10,7.92
+6995,Paraguay,1,9.0
+6996,Peru,2,8.5
+6997,Philippines,5,8.4
+6998,Poland,63,8.89
+6999,Portugal,6,8.08
+7000,Qatar,1,7.8
+7001,Romania,6,8.74
+7002,Russia,9,8.32
+7003,Republic of Serbia,3,9.1
+7004,Slovakia,2,9.85
+7005,Slovenia,1,9.0
+7006,South Africa,2,8.0
+7007,South Korea,16,8.49
+7008,Spain,95,8.81
+7009,Sweden,22,7.82
+7010,Switzerland,8,8.63
+7011,Taiwan,5,8.24
+7012,Thailand,6,8.7
+7013,Ukraine,9,8.17
+7014,USA,626,8.51
+7015,Uruguay,1,9.0
+7016,Venezuela,1,8.0
+7017,Argentina,15,8.63
+7018,Australia,55,8.26
+7019,Austria,9,9.17
+7020,Belarus,2,8.0
+7021,Belgium,20,8.27
+7022,Bolivia,1,9.0
+7023,Brazil,46,8.68
+7024,Bulgaria,5,9.6
+7025,Canada,137,8.28
+7026,Chile,5,8.44
+7027,China,21,8.79
+7028,Colombia,5,8.5
+7029,Croatia,2,8.2
+7030,Czech Republic,10,8.3
+7031,Denmark,8,8.24
+7032,Ecuador,1,9.0
+7033,England,14,8.46
+7034,Estonia,2,9.35
+7035,Finland,11,7.95
+7036,France,20,8.53
+7037,Germany,109,8.27
+7038,Greece,21,8.65
+7039,Guatemala,2,8.0
+7040,Honduras,1,8.1
+7041,Hungary,7,8.29
+7042,Iceland,2,9.5
+7043,India,3,8.83
+7044,Indonesia,1,9.0
+7045,Iran,1,9.0
+7046,Ireland,6,8.58
+7047,Israel,12,8.85
+7048,Italy,41,8.23
+7049,Japan,23,7.55
+7050,Kenya,1,8.0
+7051,Latvia,4,8.81
+7052,Lithuania,6,6.83
+7053,Luxembourg,3,6.83
+7054,Malaysia,3,8.83
+7055,Mexico,7,9.24
+7056,Netherlands,20,8.15
+7057,New Zealand,12,8.01
+7058,Norway,11,8.49
+7059,Peru,1,7.0
+7060,Philippines,6,8.08
+7061,Poland,65,8.73
+7062,Portugal,10,8.42
+7063,Qatar,1,9.0
+7064,Romania,12,8.99
+7065,Russia,13,9.02
+7066,Republic of Serbia,2,9.5
+7067,Slovakia,2,6.5
+7068,Slovenia,1,8.0
+7069,South Africa,4,8.5
+7070,South Korea,23,8.35
+7071,Spain,97,8.59
+7072,Sweden,20,7.86
+7073,Switzerland,10,7.45
+7074,Taiwan,22,8.7
+7075,Thailand,4,9.13
+7076,Ukraine,5,9.5
+7077,USA,931,8.38
+7078,Venezuela,2,9.5
+7079,Vietnam,2,10.0
+7080,Argentina,6,7.58
+7081,Australia,26,7.43
+7082,Austria,13,7.85
+7083,Belgium,45,7.92
+7084,Bolivia,1,9.0
+7085,Brazil,14,8.04
+7086,Canada,113,7.77
+7087,Chile,13,8.21
+7088,China,4,8.78
+7089,Colombia,4,8.0
+7090,Croatia,2,7.5
+7091,Czech Republic,17,7.29
+7092,Denmark,8,7.0
+7093,England,6,8.0
+7094,Estonia,1,7.0
+7095,Finland,19,6.78
+7096,France,21,7.14
+7097,Germany,150,7.86
+7098,Greece,27,7.52
+7099,Guatemala,1,10.0
+7100,Hungary,8,8.75
+7101,Iceland,1,8.0
+7102,India,1,8.0
+7103,Indonesia,1,7.5
+7104,Ireland,4,8.56
+7105,Israel,5,7.8
+7106,Italy,41,7.42
+7107,Japan,12,6.79
+7108,Latvia,1,8.25
+7109,Lithuania,3,6.3
+7110,Luxembourg,2,9.5
+7111,Malaysia,2,4.25
+7112,Mexico,7,8.21
+7113,Netherlands,27,7.54
+7114,New Zealand,13,7.03
+7115,Norway,13,8.08
+7116,Peru,3,8.5
+7117,Philippines,3,6.0
+7118,Poland,55,7.59
+7119,Portugal,8,7.06
+7120,Romania,8,8.94
+7121,Republic of Serbia,4,8.5
+7122,Slovakia,1,7.0
+7123,Slovenia,2,9.0
+7124,South Africa,4,7.38
+7125,South Korea,12,7.58
+7126,Spain,96,7.57
+7127,Sweden,21,7.6
+7128,Switzerland,8,7.5
+7129,Taiwan,6,7.95
+7130,Thailand,2,7.5
+7131,Trinidad and Tobago,1,9.0
+7132,Ukraine,1,7.0
+7133,USA,515,7.53
+7134,Uruguay,1,9.2
+7135,Venezuela,2,7.5
+7136,Argentina,5,7.6
+7137,Australia,36,7.48
+7138,Austria,12,8.42
+7139,Belgium,29,8.31
+7140,Brazil,23,8.4
+7141,Canada,151,7.95
+7142,Chile,6,7.67
+7143,China,12,8.07
+7144,Colombia,2,8.0
+7145,Croatia,6,8.7
+7146,Czech Republic,2,7.5
+7147,Denmark,6,7.0
+7148,England,9,7.33
+7149,Estonia,3,9.0
+7150,Finland,28,7.85
+7151,France,28,8.63
+7152,Germany,101,8.24
+7153,Greece,18,8.39
+7154,Guatemala,1,9.0
+7155,Hungary,9,8.89
+7156,Iceland,1,8.0
+7157,India,1,10.0
+7158,Indonesia,1,7.0
+7159,Iran,1,8.0
+7160,Ireland,4,8.88
+7161,Israel,7,8.57
+7162,Italy,46,8.15
+7163,Japan,10,6.3
+7164,Lithuania,3,7.33
+7165,Malaysia,3,5.93
+7166,Mexico,4,8.38
+7167,Moldova,1,7.0
+7168,Netherlands,31,8.03
+7169,New Zealand,16,7.69
+7170,Norway,10,7.76
+7171,Peru,2,8.25
+7172,Philippines,3,5.0
+7173,Poland,40,7.3
+7174,Portugal,7,7.86
+7175,Qatar,1,7.6
+7176,Romania,2,8.9
+7177,Russia,2,7.5
+7178,Republic of Serbia,1,7.0
+7179,Slovakia,1,4.0
+7180,Slovenia,2,10.0
+7181,South Africa,3,8.67
+7182,South Korea,32,8.67
+7183,Spain,64,7.95
+7184,Sweden,20,7.68
+7185,Switzerland,6,8.67
+7186,Taiwan,20,7.82
+7187,Thailand,4,7.93
+7188,USA,738,7.88
+7189,Venezuela,3,8.0
+7190,Vietnam,1,8.0
+7191,Argentina,13,8.0
+7192,Australia,71,7.81
+7193,Austria,4,7.75
+7194,Belarus,2,6.5
+7195,Belgium,21,7.53
+7196,Brazil,46,8.26
+7197,Bulgaria,6,7.33
+7198,Canada,182,7.82
+7199,Chile,7,7.89
+7200,China,16,7.38
+7201,Colombia,8,8.06
+7202,Croatia,4,8.5
+7203,Czech Republic,4,8.0
+7204,Denmark,12,7.24
+7205,England,4,7.08
+7206,Estonia,2,6.5
+7207,Finland,16,7.49
+7208,France,15,7.77
+7209,Germany,40,7.53
+7210,Greece,16,7.86
+7211,Guatemala,1,10.0
+7212,Hungary,1,6.0
+7213,India,2,8.25
+7214,Indonesia,5,8.5
+7215,Ireland,9,8.11
+7216,Israel,5,7.9
+7217,Italy,25,7.57
+7218,Japan,15,5.93
+7219,Latvia,3,8.83
+7220,Lithuania,7,7.14
+7221,Luxembourg,1,8.0
+7222,Macedonia,1,7.0
+7223,Malaysia,9,8.83
+7224,Mexico,8,8.59
+7225,Moldova,2,9.5
+7226,Netherlands,20,7.13
+7227,New Zealand,12,7.79
+7228,Norway,5,7.6
+7229,Peru,3,7.33
+7230,Philippines,4,7.88
+7231,Poland,40,7.18
+7232,Portugal,9,7.64
+7233,Puerto Rico,1,9.0
+7234,Qatar,1,7.2
+7235,Romania,9,7.33
+7236,Russia,9,7.03
+7237,Saudi Arabia,1,9.0
+7238,Republic of Serbia,4,7.75
+7239,Slovakia,1,8.6
+7240,Slovenia,1,10.0
+7241,South Africa,3,7.33
+7242,South Korea,12,7.38
+7243,Spain,84,7.39
+7244,Sweden,31,7.26
+7245,Switzerland,8,6.75
+7246,Taiwan,9,7.68
+7247,Thailand,5,6.8
+7248,Turkey,2,8.75
+7249,Uganda,1,8.0
+7250,Ukraine,2,9.5
+7251,USA,952,7.6
+7252,Uruguay,2,8.75
+7253,Venezuela,3,10.0
+7254,Vietnam,1,8.0
+7255,Argentina,7,8.19
+7256,Australia,42,8.15
+7257,Austria,5,7.9
+7258,Belarus,2,7.25
+7259,Belgium,11,7.78
+7260,Brazil,30,8.36
+7261,Bulgaria,5,7.0
+7262,Canada,84,8.08
+7263,Chile,4,7.7
+7264,China,17,7.65
+7265,Colombia,4,8.5
+7266,Croatia,3,8.67
+7267,Czech Republic,5,8.2
+7268,Denmark,7,8.0
+7269,England,6,8.28
+7270,Estonia,1,7.9
+7271,Finland,9,7.41
+7272,France,6,8.08
+7273,Germany,21,7.46
+7274,Greece,23,8.22
+7275,Hungary,3,7.67
+7276,Iceland,1,10.0
+7277,India,2,9.0
+7278,Indonesia,5,9.1
+7279,Ireland,2,8.0
+7280,Israel,4,8.38
+7281,Italy,20,7.93
+7282,Japan,12,6.74
+7283,Latvia,4,7.38
+7284,Lithuania,4,6.0
+7285,Malaysia,4,8.63
+7286,Mexico,9,8.44
+7287,Moldova,1,10.0
+7288,Netherlands,9,7.89
+7289,New Zealand,11,8.0
+7290,Norway,6,7.58
+7291,Philippines,6,9.17
+7292,Poland,31,8.12
+7293,Portugal,2,8.5
+7294,Qatar,1,9.4
+7295,Romania,2,8.85
+7296,Russia,1,8.0
+7297,Republic of Serbia,4,7.63
+7298,Slovenia,1,7.2
+7299,South Africa,1,9.0
+7300,South Korea,14,7.64
+7301,Spain,55,7.72
+7302,Sweden,17,7.32
+7303,Switzerland,7,8.14
+7304,Taiwan,19,7.8
+7305,Thailand,14,8.57
+7306,Ukraine,4,9.0
+7307,USA,466,7.86
+7308,Uruguay,1,9.0
+7309,Venezuela,2,8.0
+7310,Vietnam,2,8.63
+7311,Argentina,2,7.0
+7312,Australia,24,7.4
+7313,Austria,8,9.0
+7314,Azerbaijan,1,10.0
+7315,Belgium,10,8.75
+7316,Brazil,21,8.89
+7317,Canada,101,8.14
+7318,Chile,1,7.0
+7319,China,22,8.7
+7320,Colombia,3,8.5
+7321,Croatia,2,8.7
+7322,Czech Republic,12,8.79
+7323,Denmark,10,6.52
+7324,England,4,7.75
+7325,Estonia,3,6.67
+7326,Finland,16,8.28
+7327,France,18,8.55
+7328,Germany,91,8.61
+7329,Greece,23,9.0
+7330,Hungary,5,5.8
+7331,India,3,9.17
+7332,Indonesia,3,7.9
+7333,Ireland,2,9.5
+7334,Israel,7,8.74
+7335,Italy,24,8.73
+7336,Japan,6,5.67
+7337,Latvia,3,9.0
+7338,Lithuania,6,9.17
+7339,Malaysia,5,7.14
+7340,Mexico,3,9.33
+7341,Netherlands,17,7.56
+7342,New Zealand,6,7.25
+7343,Norway,6,7.25
+7344,Peru,2,8.5
+7345,Philippines,2,5.5
+7346,Poland,61,8.38
+7347,Portugal,3,8.0
+7348,Qatar,1,9.4
+7349,Romania,2,9.88
+7350,Russia,6,7.29
+7351,Republic of Serbia,3,8.67
+7352,Slovakia,3,8.67
+7353,South Africa,1,9.0
+7354,South Korea,23,7.86
+7355,Spain,70,8.7
+7356,Sweden,20,8.2
+7357,Switzerland,6,8.0
+7358,Taiwan,12,8.25
+7359,Thailand,4,5.75
+7360,Ukraine,1,1.0
+7361,USA,477,8.11
+7362,Uruguay,1,8.5
+7363,Venezuela,1,10.0
+7364,Vietnam,1,10.0
+7365,Argentina,1,7.0
+7366,Australia,40,7.28
+7367,Austria,8,6.44
+7368,Belgium,16,7.94
+7369,Bolivia,1,9.0
+7370,Brazil,22,8.11
+7371,Canada,107,7.22
+7372,Chile,6,8.17
+7373,China,6,6.08
+7374,Croatia,1,9.0
+7375,Czech Republic,7,7.07
+7376,Denmark,6,6.17
+7377,England,7,7.14
+7378,Estonia,2,6.45
+7379,Finland,28,7.0
+7380,France,17,7.19
+7381,Germany,79,7.28
+7382,Greece,16,7.54
+7383,Guatemala,1,5.0
+7384,Hungary,8,7.38
+7385,India,2,8.5
+7386,Indonesia,1,6.0
+7387,Ireland,5,7.6
+7388,Israel,6,7.0
+7389,Italy,26,7.36
+7390,Japan,19,6.38
+7391,Latvia,2,7.5
+7392,Malaysia,7,7.2
+7393,Mexico,3,8.33
+7394,Netherlands,26,7.53
+7395,New Zealand,11,6.86
+7396,Norway,11,7.41
+7397,Philippines,1,6.0
+7398,Poland,29,7.06
+7399,Portugal,8,7.0
+7400,Romania,2,7.75
+7401,Russia,1,6.0
+7402,Saudi Arabia,1,8.0
+7403,Republic of Serbia,1,6.9
+7404,Slovakia,1,7.0
+7405,Slovenia,2,8.75
+7406,South Africa,2,7.5
+7407,South Korea,7,7.5
+7408,Spain,51,7.32
+7409,Sweden,26,7.37
+7410,Switzerland,4,8.25
+7411,Taiwan,9,7.39
+7412,Thailand,2,7.5
+7413,Turkey,2,6.0
+7414,Ukraine,2,5.5
+7415,USA,707,7.43
+7416,Uruguay,1,10.0
+7417,Venezuela,1,8.0
+7418,Argentina,13,7.69
+7419,Australia,55,7.28
+7420,Austria,15,7.3
+7421,Belgium,29,7.4
+7422,Brazil,33,8.23
+7423,Canada,137,7.5
+7424,Chile,4,7.55
+7425,China,6,6.87
+7426,Colombia,1,6.5
+7427,Croatia,1,10.0
+7428,Czech Republic,15,7.15
+7429,Denmark,14,6.96
+7430,England,9,7.69
+7431,Estonia,5,7.04
+7432,Finland,38,7.17
+7433,France,19,7.34
+7434,Germany,199,7.4
+7435,Greece,25,7.84
+7436,Hungary,12,7.97
+7437,Iceland,1,7.0
+7438,India,2,9.25
+7439,Indonesia,1,7.0
+7440,Ireland,2,7.75
+7441,Israel,4,9.0
+7442,Italy,54,7.63
+7443,Japan,21,6.29
+7444,Latvia,3,7.67
+7445,Lithuania,4,7.0
+7446,Malaysia,4,6.55
+7447,Mexico,3,7.27
+7448,Mongolia,1,7.0
+7449,Netherlands,30,7.63
+7450,New Zealand,11,6.79
+7451,Norway,17,7.65
+7452,Philippines,2,3.5
+7453,Poland,56,7.76
+7454,Portugal,11,7.26
+7455,Qatar,1,6.0
+7456,Romania,7,8.43
+7457,Russia,9,8.02
+7458,Saudi Arabia,1,7.0
+7459,Republic of Serbia,3,7.9
+7460,Slovakia,3,7.33
+7461,Slovenia,2,8.25
+7462,South Africa,2,6.0
+7463,South Korea,15,7.73
+7464,Spain,55,7.5
+7465,Sweden,29,7.28
+7466,Switzerland,13,7.46
+7467,Taiwan,12,7.8
+7468,Thailand,2,8.0
+7469,Ukraine,4,7.5
+7470,USA,710,7.6
+7471,Uruguay,1,8.0
+7472,Venezuela,2,9.0
+7473,Argentina,3,6.33
+7474,Australia,25,8.0
+7475,Austria,6,8.5
+7476,Belgium,15,7.9
+7477,Brazil,18,8.29
+7478,Bulgaria,1,8.0
+7479,Canada,65,7.96
+7480,Chile,2,8.0
+7481,China,11,7.55
+7482,Colombia,1,8.0
+7483,Croatia,1,7.6
+7484,Czech Republic,9,7.39
+7485,Denmark,1,1.0
+7486,England,4,7.0
+7487,Estonia,1,9.0
+7488,Finland,18,8.33
+7489,France,7,9.14
+7490,Germany,98,8.2
+7491,Greece,39,8.12
+7492,Guatemala,1,9.0
+7493,Hungary,7,7.29
+7494,Indonesia,1,5.0
+7495,Ireland,1,9.0
+7496,Israel,5,8.3
+7497,Italy,23,7.28
+7498,Japan,12,6.42
+7499,Latvia,2,6.0
+7500,Lithuania,2,8.5
+7501,Luxembourg,1,6.0
+7502,Malaysia,1,8.0
+7503,Moldova,1,8.0
+7504,Netherlands,24,7.92
+7505,New Zealand,6,8.8
+7506,Norway,7,6.36
+7507,Philippines,2,8.5
+7508,Poland,26,8.29
+7509,Portugal,11,7.77
+7510,Qatar,1,3.6
+7511,Russia,3,7.0
+7512,Republic of Serbia,2,8.0
+7513,Slovakia,1,10.0
+7514,Slovenia,1,9.5
+7515,South Africa,1,10.0
+7516,South Korea,29,7.98
+7517,Spain,45,7.37
+7518,Sweden,10,6.39
+7519,Switzerland,5,8.2
+7520,Taiwan,13,7.83
+7521,Thailand,2,7.5
+7522,Ukraine,1,7.0
+7523,USA,479,7.87
+7524,Albania,1,5.0
+7525,Argentina,18,8.11
+7526,Australia,135,7.94
+7527,Austria,21,7.76
+7528,The Bahamas,1,8.75
+7529,Belarus,1,7.0
+7530,Belgium,58,7.89
+7531,Bosnia and Herzegovina,1,10.0
+7532,Brazil,98,8.41
+7533,Bulgaria,6,7.92
+7534,Canada,457,8.08
+7535,Chile,25,8.14
+7536,China,22,7.6
+7537,Colombia,3,9.33
+7538,Costa Rica,2,10.0
+7539,Croatia,8,8.38
+7540,Czech Republic,16,8.22
+7541,Denmark,22,7.46
+7542,England,16,8.16
+7543,Estonia,2,8.5
+7544,Finland,55,7.82
+7545,France,41,7.74
+7546,Germany,200,7.79
+7547,Greece,23,8.07
+7548,Guatemala,2,9.5
+7549,Hungary,20,8.18
+7550,Iceland,4,8.0
+7551,India,4,8.0
+7552,Indonesia,7,8.06
+7553,Ireland,17,7.83
+7554,Israel,16,7.51
+7555,Italy,67,7.98
+7556,Japan,40,7.48
+7557,Latvia,9,7.72
+7558,Lebanon,1,8.0
+7559,Lithuania,17,7.62
+7560,Luxembourg,2,8.5
+7561,Macedonia,2,9.5
+7562,Malaysia,12,8.04
+7563,Mexico,28,8.86
+7564,Moldova,1,8.0
+7565,Netherlands,50,7.88
+7566,New Zealand,22,7.11
+7567,Norway,27,7.99
+7568,Peru,2,8.5
+7569,Philippines,9,7.72
+7570,Poland,60,7.73
+7571,Portugal,18,8.26
+7572,Qatar,1,3.0
+7573,Romania,12,9.08
+7574,Russia,23,8.2
+7575,Saudi Arabia,2,7.5
+7576,Republic of Serbia,8,7.94
+7577,Slovakia,2,7.5
+7578,Slovenia,2,8.0
+7579,South Africa,10,8.4
+7580,South Korea,36,7.93
+7581,Spain,151,7.87
+7582,Sweden,83,7.61
+7583,Switzerland,15,8.67
+7584,Taiwan,23,7.77
+7585,Thailand,15,7.66
+7586,Ukraine,4,8.25
+7587,USA,3157,8.1
+7588,Uruguay,1,8.5
+7589,Venezuela,3,9.67
+7590,Vietnam,2,7.5
+7591,Argentina,18,8.29
+7592,Australia,115,8.19
+7593,Austria,16,7.51
+7594,Belarus,4,8.88
+7595,Belgium,64,8.02
+7596,Bolivia,1,10.0
+7597,Brazil,70,8.46
+7598,Brunei,1,8.5
+7599,Bulgaria,9,8.61
+7600,Canada,311,8.18
+7601,Chile,13,8.78
+7602,China,21,7.71
+7603,Colombia,9,8.57
+7604,Costa Rica,4,9.5
+7605,Croatia,7,8.94
+7606,Czech Republic,12,8.38
+7607,Denmark,29,7.99
+7608,England,21,7.63
+7609,Estonia,12,8.18
+7610,Finland,41,7.77
+7611,France,38,7.69
+7612,Germany,158,7.81
+7613,Greece,59,8.09
+7614,Honduras,1,8.5
+7615,Hungary,26,8.23
+7616,Iceland,6,7.92
+7617,India,4,8.25
+7618,Indonesia,5,8.6
+7619,Iran,4,9.13
+7620,Ireland,16,8.0
+7621,Israel,10,8.19
+7622,Italy,67,7.95
+7623,Japan,25,7.42
+7624,Kenya,1,9.0
+7625,Latvia,10,7.6
+7626,Lithuania,18,8.17
+7627,Luxembourg,3,8.0
+7628,Macedonia,3,9.67
+7629,Malaysia,10,8.4
+7630,Mexico,15,8.3
+7631,Netherlands,64,7.99
+7632,New Zealand,25,7.59
+7633,Norway,29,7.95
+7634,Peru,3,8.0
+7635,Philippines,8,9.13
+7636,Poland,142,8.17
+7637,Portugal,36,8.33
+7638,Qatar,1,8.0
+7639,Romania,27,8.76
+7640,Russia,26,8.27
+7641,Republic of Serbia,10,8.8
+7642,Slovakia,4,8.53
+7643,Slovenia,6,8.75
+7644,South Africa,10,8.4
+7645,South Korea,27,7.66
+7646,Spain,173,8.16
+7647,Sweden,68,7.73
+7648,Switzerland,16,7.88
+7649,Taiwan,19,8.4
+7650,Thailand,8,8.81
+7651,Turkey,2,8.5
+7652,Uganda,1,7.0
+7653,Ukraine,15,9.2
+7654,USA,1486,8.02
+7655,Uruguay,2,8.0
+7656,Venezuela,1,8.0
+7657,Vietnam,2,8.0
+7658,Zambia,1,9.0
+7659,Argentina,1,9.2
+7660,Australia,24,7.73
+7661,Austria,2,6.5
+7662,Belgium,15,7.9
+7663,Brazil,19,8.22
+7664,Canada,92,7.68
+7665,Chile,2,8.0
+7666,China,4,6.88
+7667,Colombia,1,9.0
+7668,Czech Republic,3,9.0
+7669,Denmark,9,6.89
+7670,England,3,7.33
+7671,Estonia,4,6.88
+7672,Finland,9,7.94
+7673,France,9,7.33
+7674,Germany,46,7.57
+7675,Greece,5,7.84
+7676,Hungary,5,7.2
+7677,Iceland,1,8.0
+7678,India,2,8.5
+7679,Indonesia,2,6.5
+7680,Ireland,4,8.0
+7681,Israel,4,8.0
+7682,Italy,25,8.1
+7683,Japan,17,7.53
+7684,Latvia,1,7.0
+7685,Luxembourg,1,7.5
+7686,Malaysia,5,8.44
+7687,Mexico,3,9.0
+7688,Mongolia,1,8.0
+7689,Netherlands,14,8.04
+7690,New Zealand,6,8.0
+7691,Norway,10,8.15
+7692,Philippines,1,6.0
+7693,Poland,22,7.98
+7694,Portugal,3,7.0
+7695,Romania,6,9.0
+7696,Russia,6,8.17
+7697,South Korea,4,7.75
+7698,Spain,20,7.78
+7699,Sweden,12,7.55
+7700,Switzerland,3,9.33
+7701,Taiwan,6,8.33
+7702,Thailand,9,7.9
+7703,Ukraine,1,9.0
+7704,USA,514,7.73
+7705,Argentina,4,8.3
+7706,Australia,62,8.08
+7707,Austria,16,8.34
+7708,Belgium,37,8.26
+7709,Bolivia,1,10.0
+7710,Brazil,47,8.49
+7711,Bulgaria,1,10.0
+7712,Canada,184,8.02
+7713,Chile,3,9.67
+7714,China,20,8.23
+7715,Colombia,3,9.5
+7716,Croatia,3,8.83
+7717,Czech Republic,11,8.0
+7718,Denmark,16,7.94
+7719,England,8,7.88
+7720,Estonia,1,8.0
+7721,Fiji,1,8.0
+7722,Finland,38,8.22
+7723,France,34,8.2
+7724,Germany,126,8.06
+7725,Greece,23,8.17
+7726,Hungary,14,7.39
+7727,Iceland,1,8.0
+7728,India,1,10.0
+7729,Indonesia,2,6.5
+7730,Ireland,5,8.7
+7731,Israel,10,8.06
+7732,Italy,45,8.27
+7733,Japan,29,8.02
+7734,Latvia,3,7.33
+7735,Lithuania,6,8.0
+7736,Luxembourg,1,7.0
+7737,Malaysia,8,7.94
+7738,Mexico,7,8.06
+7739,Netherlands,50,8.1
+7740,New Zealand,18,7.31
+7741,Norway,17,8.75
+7742,Panama,1,8.0
+7743,Peru,1,8.0
+7744,Philippines,3,8.17
+7745,Poland,55,7.72
+7746,Portugal,15,8.37
+7747,Qatar,1,7.8
+7748,Russia,7,7.36
+7749,Republic of Serbia,1,8.5
+7750,Slovakia,2,5.0
+7751,Slovenia,3,9.43
+7752,South Africa,3,6.67
+7753,South Korea,35,8.42
+7754,Spain,91,8.32
+7755,Sweden,35,7.8
+7756,Switzerland,12,8.38
+7757,Taiwan,20,8.33
+7758,Thailand,4,7.25
+7759,Turkey,1,10.0
+7760,Ukraine,4,7.0
+7761,USA,1119,8.05
+7762,Uruguay,1,9.0
+7763,Venezuela,2,8.0
+7764,Vietnam,1,8.0
+7765,Argentina,11,7.89
+7766,Australia,38,7.36
+7767,Austria,19,7.16
+7768,Belarus,1,8.0
+7769,Belgium,31,7.74
+7770,Brazil,43,8.49
+7771,Bulgaria,1,7.0
+7772,Canada,140,7.58
+7773,Chile,8,8.36
+7774,China,7,7.14
+7775,Colombia,3,8.5
+7776,Croatia,1,7.0
+7777,Czech Republic,14,8.14
+7778,Denmark,9,7.44
+7779,England,8,7.94
+7780,Estonia,4,7.73
+7781,Finland,25,7.7
+7782,France,31,7.8
+7783,Germany,156,7.36
+7784,Greece,17,7.94
+7785,Hungary,28,8.05
+7786,Ireland,3,8.0
+7787,Israel,5,7.5
+7788,Italy,44,7.72
+7789,Japan,22,7.24
+7790,Lithuania,4,6.5
+7791,Luxembourg,4,7.75
+7792,Malaysia,3,6.9
+7793,Mexico,6,8.62
+7794,Netherlands,43,7.79
+7795,New Zealand,17,7.04
+7796,Norway,14,7.36
+7797,Philippines,1,5.0
+7798,Poland,46,7.88
+7799,Portugal,5,7.69
+7800,Qatar,1,7.0
+7801,Romania,3,8.6
+7802,Russia,5,7.6
+7803,Saudi Arabia,1,9.0
+7804,Republic of Serbia,1,8.0
+7805,Slovakia,3,9.67
+7806,Slovenia,4,7.5
+7807,South Africa,3,7.67
+7808,South Korea,26,7.5
+7809,Spain,66,7.95
+7810,Sweden,17,6.88
+7811,Switzerland,14,7.07
+7812,Taiwan,6,7.37
+7813,Thailand,7,8.21
+7814,Turkey,1,8.0
+7815,Ukraine,2,5.0
+7816,USA,793,7.53
+7817,Venezuela,1,7.0
+7818,Vietnam,1,9.0
+7819,Argentina,5,8.2
+7820,Australia,17,7.14
+7821,Austria,16,7.13
+7822,Belgium,21,7.57
+7823,Brazil,21,8.22
+7824,Canada,66,7.25
+7825,Chile,9,8.47
+7826,China,3,7.77
+7827,Colombia,1,9.0
+7828,Czech Republic,6,7.0
+7829,Denmark,4,7.5
+7830,England,4,7.88
+7831,Estonia,3,4.67
+7832,Finland,13,7.22
+7833,France,15,7.58
+7834,Germany,108,7.21
+7835,Greece,8,7.44
+7836,Hungary,4,8.0
+7837,Indonesia,1,8.0
+7838,Ireland,2,8.25
+7839,Italy,22,7.05
+7840,Japan,25,7.22
+7841,Latvia,1,7.0
+7842,Lithuania,2,7.5
+7843,Malaysia,2,5.8
+7844,Mexico,4,7.63
+7845,Netherlands,16,8.17
+7846,New Zealand,6,6.5
+7847,Norway,6,6.33
+7848,Poland,14,7.57
+7849,Portugal,5,6.4
+7850,Romania,1,10.0
+7851,Saudi Arabia,1,8.0
+7852,Republic of Serbia,1,8.0
+7853,Slovenia,1,10.0
+7854,South Africa,2,7.0
+7855,South Korea,22,7.61
+7856,Spain,35,8.11
+7857,Sweden,12,7.75
+7858,Switzerland,5,7.7
+7859,Taiwan,9,7.94
+7860,Thailand,2,7.75
+7861,Ukraine,3,6.8
+7862,USA,451,7.26
+7863,Venezuela,1,10.0
+7864,Argentina,9,7.22
+7865,Australia,46,7.23
+7866,Austria,4,6.75
+7867,Belgium,7,7.43
+7868,Brazil,31,7.62
+7869,Brunei,1,9.0
+7870,Bulgaria,1,9.0
+7871,Canada,108,7.04
+7872,Chile,6,7.58
+7873,China,2,5.5
+7874,Colombia,2,8.5
+7875,Croatia,1,9.0
+7876,Czech Republic,2,7.0
+7877,Denmark,7,7.1
+7878,England,8,6.94
+7879,Estonia,1,7.0
+7880,Finland,11,7.0
+7881,France,8,6.5
+7882,Germany,40,6.86
+7883,Greece,16,6.53
+7884,Hungary,2,7.5
+7885,Iceland,1,8.0
+7886,Ireland,4,7.75
+7887,Israel,4,7.24
+7888,Italy,9,6.76
+7889,Japan,4,4.73
+7890,Latvia,1,8.0
+7891,Luxembourg,1,8.0
+7892,Malaysia,2,7.75
+7893,Mexico,10,7.54
+7894,Netherlands,9,5.93
+7895,New Zealand,5,6.22
+7896,Norway,14,7.16
+7897,Peru,3,6.67
+7898,Philippines,2,8.0
+7899,Poland,8,6.94
+7900,Portugal,13,7.1
+7901,Qatar,2,6.0
+7902,Romania,3,8.13
+7903,Russia,7,6.32
+7904,Republic of Serbia,1,9.0
+7905,Slovakia,1,10.0
+7906,Slovenia,1,10.0
+7907,South Korea,2,7.0
+7908,Spain,29,6.59
+7909,Sweden,19,7.34
+7910,Switzerland,7,7.17
+7911,Taiwan,2,6.0
+7912,Thailand,3,7.5
+7913,Ukraine,1,8.0
+7914,USA,862,6.94
+7915,Venezuela,1,7.0
+7916,Argentina,3,8.5
+7917,Australia,24,7.69
+7918,Austria,4,8.75
+7919,Belgium,5,7.9
+7920,Brazil,25,8.71
+7921,Canada,104,7.93
+7922,Chile,4,8.65
+7923,China,5,7.02
+7924,Colombia,2,9.75
+7925,Croatia,1,7.0
+7926,Czech Republic,1,9.0
+7927,Denmark,7,7.14
+7928,England,2,7.0
+7929,Estonia,2,8.5
+7930,Finland,17,6.76
+7931,France,8,7.84
+7932,Germany,37,7.68
+7933,Greece,10,8.5
+7934,Hungary,3,6.33
+7935,Iceland,1,9.0
+7936,Indonesia,2,9.5
+7937,Ireland,4,7.38
+7938,Israel,6,6.42
+7939,Italy,18,7.79
+7940,Japan,2,4.0
+7941,Latvia,2,6.9
+7942,Lebanon,1,8.0
+7943,Lithuania,5,8.0
+7944,Malaysia,6,5.75
+7945,Mexico,4,5.63
+7946,Netherlands,7,7.8
+7947,New Zealand,3,6.67
+7948,Norway,10,6.9
+7949,Peru,3,8.0
+7950,Philippines,2,7.5
+7951,Poland,13,7.88
+7952,Portugal,5,8.0
+7953,Qatar,1,7.0
+7954,Romania,1,10.0
+7955,Russia,7,7.71
+7956,Republic of Serbia,2,7.75
+7957,Slovakia,1,10.0
+7958,Slovenia,1,9.0
+7959,South Africa,2,7.0
+7960,South Korea,5,7.5
+7961,Spain,37,8.14
+7962,Sweden,29,7.4
+7963,Switzerland,3,9.0
+7964,Taiwan,4,8.03
+7965,Thailand,1,7.5
+7966,Ukraine,4,6.63
+7967,USA,548,7.68
+7968,Venezuela,1,6.0
+7969,Vietnam,1,10.0
+7970,Argentina,12,8.89
+7971,Australia,48,8.28
+7972,Austria,7,9.43
+7973,Azerbaijan,1,10.0
+7974,Belarus,2,8.5
+7975,Belgium,14,8.8
+7976,Bolivia,1,10.0
+7977,Brazil,31,9.25
+7978,Bulgaria,1,10.0
+7979,Canada,139,8.33
+7980,Chile,11,8.95
+7981,China,31,8.8
+7982,Colombia,3,9.33
+7983,Croatia,3,9.17
+7984,Czech Republic,10,6.9
+7985,Denmark,8,8.0
+7986,England,6,8.5
+7987,Estonia,6,8.65
+7988,Finland,16,8.56
+7989,France,13,8.74
+7990,Germany,69,8.14
+7991,Greece,17,8.45
+7992,Hungary,5,5.3
+7993,Iceland,2,8.0
+7994,India,2,9.5
+7995,Iran,1,9.0
+7996,Ireland,11,9.05
+7997,Israel,7,8.46
+7998,Italy,53,8.51
+7999,Japan,10,7.75
+8000,Latvia,4,8.75
+8001,Lithuania,9,9.06
+8002,Luxembourg,1,4.0
+8003,Malaysia,8,7.04
+8004,Mexico,8,8.91
+8005,Moldova,1,9.0
+8006,Netherlands,14,8.38
+8007,New Zealand,15,7.11
+8008,Norway,11,8.4
+8009,Peru,4,9.13
+8010,Philippines,4,8.0
+8011,Poland,68,8.52
+8012,Portugal,13,8.81
+8013,Qatar,1,8.0
+8014,Romania,5,7.8
+8015,Russia,9,8.94
+8016,Republic of Serbia,2,7.5
+8017,Slovakia,1,9.5
+8018,Slovenia,1,8.5
+8019,South Africa,3,6.17
+8020,South Korea,22,8.5
+8021,Spain,148,8.78
+8022,Sweden,20,7.36
+8023,Switzerland,4,8.58
+8024,Taiwan,12,8.38
+8025,Thailand,6,6.33
+8026,Turkey,3,10.0
+8027,Ukraine,6,7.33
+8028,USA,812,8.37
+8029,Uruguay,1,10.0
+8030,Venezuela,1,2.0
+8031,Argentina,7,8.36
+8032,Australia,30,7.79
+8033,Austria,5,7.7
+8034,Belarus,2,9.0
+8035,Belgium,24,8.22
+8036,Bolivia,1,8.0
+8037,Brazil,46,8.8
+8038,Bulgaria,1,10.0
+8039,Canada,84,8.44
+8040,Chile,3,8.0
+8041,China,12,8.66
+8042,Colombia,2,9.0
+8043,Croatia,2,8.1
+8044,Czech Republic,8,8.63
+8045,Denmark,7,8.21
+8046,England,9,8.13
+8047,Estonia,2,8.7
+8048,Finland,9,7.98
+8049,France,20,8.18
+8050,Germany,80,8.33
+8051,Greece,23,8.93
+8052,Guatemala,1,9.0
+8053,Honduras,1,9.2
+8054,Hungary,9,8.28
+8055,Iceland,1,8.0
+8056,India,2,9.25
+8057,Ireland,4,8.5
+8058,Israel,9,8.33
+8059,Italy,37,8.66
+8060,Japan,19,7.99
+8061,Latvia,5,8.8
+8062,Lithuania,6,8.83
+8063,Malaysia,2,9.0
+8064,Mexico,7,8.66
+8065,Netherlands,32,7.8
+8066,New Zealand,11,8.27
+8067,Norway,7,8.6
+8068,Peru,1,9.5
+8069,Philippines,3,5.0
+8070,Poland,53,8.4
+8071,Portugal,11,8.53
+8072,Qatar,1,8.0
+8073,Romania,14,8.86
+8074,Russia,10,7.93
+8075,Republic of Serbia,1,9.5
+8076,Slovakia,2,9.53
+8077,South Africa,2,8.5
+8078,South Korea,18,7.69
+8079,Spain,79,8.25
+8080,Sweden,27,7.75
+8081,Switzerland,10,8.1
+8082,Taiwan,15,8.6
+8083,Thailand,6,9.28
+8084,Uganda,1,8.0
+8085,Ukraine,5,8.38
+8086,United Arab Emirates,1,7.0
+8087,USA,517,7.98
+8088,Venezuela,1,9.0
+8089,Vietnam,1,7.25
+8090,Argentina,15,6.63
+8091,Australia,56,5.8
+8092,Austria,8,5.33
+8093,Belarus,1,8.0
+8094,Belgium,22,6.23
+8095,Bolivia,1,6.0
+8096,Brazil,57,6.09
+8097,Bulgaria,3,8.0
+8098,Canada,128,5.81
+8099,Chile,10,6.56
+8100,China,12,6.23
+8101,Colombia,3,7.33
+8102,Croatia,5,6.4
+8103,Czech Republic,1,4.0
+8104,Denmark,8,5.75
+8105,England,6,6.25
+8106,Estonia,4,6.25
+8107,Finland,27,5.51
+8108,France,14,6.11
+8109,Germany,88,5.87
+8110,Greece,17,6.22
+8111,Guatemala,2,7.25
+8112,Honduras,1,6.8
+8113,Hungary,8,6.31
+8114,India,2,6.5
+8115,Indonesia,2,6.5
+8116,Ireland,2,6.0
+8117,Israel,2,4.0
+8118,Italy,32,5.91
+8119,Japan,17,5.56
+8120,Latvia,5,5.5
+8121,Lithuania,11,5.73
+8122,Luxembourg,1,4.0
+8123,Macedonia,2,7.0
+8124,Malaysia,3,5.5
+8125,Mexico,5,6.36
+8126,Moldova,1,7.0
+8127,Netherlands,18,5.86
+8128,New Zealand,6,4.82
+8129,Norway,12,4.46
+8130,Peru,3,6.0
+8131,Philippines,3,5.33
+8132,Poland,29,5.84
+8133,Portugal,15,6.24
+8134,Romania,4,6.05
+8135,Russia,16,5.98
+8136,Republic of Serbia,3,5.67
+8137,Slovenia,4,4.63
+8138,South Africa,2,6.0
+8139,South Korea,11,5.53
+8140,Spain,60,5.73
+8141,Sweden,28,5.05
+8142,Switzerland,7,6.93
+8143,Taiwan,8,6.31
+8144,Thailand,3,6.0
+8145,Turkey,1,6.0
+8146,Ukraine,5,6.4
+8147,USA,865,5.56
+8148,Uruguay,1,7.5
+8149,Venezuela,1,7.0
+8150,Argentina,4,8.2
+8151,Australia,28,7.64
+8152,Austria,11,7.75
+8153,Belarus,1,7.0
+8154,Belgium,24,8.16
+8155,Brazil,35,8.69
+8156,Bulgaria,5,7.7
+8157,Canada,63,7.77
+8158,Chile,4,7.0
+8159,China,16,8.01
+8160,Colombia,1,7.0
+8161,Croatia,4,7.85
+8162,Czech Republic,6,7.0
+8163,Denmark,5,8.2
+8164,England,7,8.3
+8165,Estonia,4,8.33
+8166,Finland,14,7.75
+8167,France,18,7.69
+8168,Germany,123,8.0
+8169,Greece,21,8.12
+8170,Hungary,10,8.1
+8171,Iceland,2,8.0
+8172,India,1,8.0
+8173,Indonesia,1,8.5
+8174,Ireland,4,8.63
+8175,Israel,3,9.33
+8176,Italy,33,7.83
+8177,Japan,18,7.79
+8178,Latvia,4,8.0
+8179,Lithuania,9,6.94
+8180,Luxembourg,2,7.5
+8181,Malaysia,2,8.5
+8182,Mexico,2,8.5
+8183,Netherlands,28,7.72
+8184,New Zealand,7,6.95
+8185,Norway,5,7.34
+8186,Philippines,2,6.0
+8187,Poland,23,7.85
+8188,Portugal,5,8.06
+8189,Qatar,1,8.0
+8190,Romania,5,8.09
+8191,Russia,7,7.14
+8192,Saudi Arabia,1,10.0
+8193,Republic of Serbia,2,8.5
+8194,Slovakia,1,7.0
+8195,South Africa,1,7.0
+8196,South Korea,14,7.54
+8197,Spain,80,7.81
+8198,Sweden,12,7.58
+8199,Switzerland,8,8.25
+8200,Taiwan,13,8.25
+8201,Thailand,4,7.55
+8202,Ukraine,4,8.78
+8203,USA,367,7.64
+8204,Uruguay,1,9.0
+8205,Venezuela,2,8.5
+8206,Argentina,2,6.0
+8207,Australia,22,7.02
+8208,Belgium,5,5.92
+8209,Brazil,7,6.57
+8210,Brunei,1,8.0
+8211,Canada,98,7.3
+8212,China,3,7.0
+8213,Croatia,1,3.5
+8214,Czech Republic,1,7.0
+8215,Denmark,1,8.0
+8216,England,4,6.65
+8217,Estonia,1,9.0
+8218,Finland,9,7.66
+8219,France,1,8.0
+8220,Germany,13,6.13
+8221,Greece,10,7.59
+8222,Hungary,1,6.0
+8223,Iceland,1,7.5
+8224,India,1,9.0
+8225,Indonesia,1,8.0
+8226,Ireland,3,7.92
+8227,Israel,3,7.18
+8228,Italy,3,7.17
+8229,Japan,1,5.0
+8230,Latvia,1,6.0
+8231,Luxembourg,1,8.0
+8232,Malaysia,3,7.5
+8233,Mexico,2,8.4
+8234,Netherlands,9,7.03
+8235,New Zealand,7,7.43
+8236,Norway,4,7.38
+8237,Philippines,2,5.5
+8238,Poland,5,6.96
+8239,Portugal,4,6.75
+8240,Romania,1,8.0
+8241,Russia,4,7.75
+8242,South Africa,1,7.0
+8243,South Korea,3,7.0
+8244,Spain,18,6.97
+8245,Sweden,4,8.25
+8246,Switzerland,1,5.0
+8247,Taiwan,3,6.67
+8248,Thailand,1,8.0
+8249,USA,835,7.3
+8250,Australia,27,5.56
+8251,Austria,3,6.17
+8252,Belgium,10,6.44
+8253,Brazil,18,5.98
+8254,Brunei,1,7.0
+8255,Bulgaria,2,8.0
+8256,Canada,109,5.55
+8257,Chile,1,6.0
+8258,China,2,5.0
+8259,Costa Rica,1,5.0
+8260,Croatia,1,4.0
+8261,Czech Republic,2,6.5
+8262,Denmark,4,3.88
+8263,England,2,5.0
+8264,Estonia,2,7.5
+8265,Finland,19,5.45
+8266,France,7,5.41
+8267,Germany,51,5.21
+8268,Greece,4,6.88
+8269,Guatemala,1,8.0
+8270,Hungary,1,5.0
+8271,India,1,8.0
+8272,Italy,8,6.6
+8273,Japan,6,6.83
+8274,Latvia,1,5.5
+8275,Lithuania,5,6.2
+8276,Macedonia,1,6.0
+8277,Malaysia,1,4.0
+8278,Mexico,3,7.0
+8279,Netherlands,16,5.89
+8280,New Zealand,7,6.0
+8281,Norway,11,4.32
+8282,Peru,1,6.0
+8283,Philippines,1,5.0
+8284,Poland,4,6.0
+8285,Portugal,1,6.9
+8286,Qatar,1,4.0
+8287,Romania,3,5.0
+8288,Russia,4,4.5
+8289,Republic of Serbia,1,6.0
+8290,Slovenia,1,6.0
+8291,South Africa,1,4.0
+8292,South Korea,8,6.81
+8293,Spain,10,6.67
+8294,Sweden,22,4.86
+8295,Switzerland,3,6.67
+8296,Turkey,1,7.0
+8297,USA,734,5.54
+8298,Venezuela,1,8.0
+8299,Argentina,4,6.75
+8300,Australia,22,6.42
+8301,Austria,2,6.5
+8302,Belgium,8,5.5
+8303,Brazil,10,6.99
+8304,Canada,124,6.6
+8305,Chile,4,6.25
+8306,Colombia,1,7.0
+8307,Costa Rica,1,7.0
+8308,Czech Republic,2,6.0
+8309,Denmark,6,5.67
+8310,England,7,6.86
+8311,Estonia,2,8.0
+8312,Finland,10,5.38
+8313,France,7,5.73
+8314,Germany,57,6.35
+8315,Greece,12,6.42
+8316,Iceland,1,6.0
+8317,Ireland,4,5.5
+8318,Israel,1,4.0
+8319,Italy,23,6.09
+8320,Japan,3,4.33
+8321,Latvia,1,10.0
+8322,Luxembourg,1,7.0
+8323,Malaysia,3,5.67
+8324,Mexico,5,6.16
+8325,Netherlands,12,6.43
+8326,New Zealand,2,4.5
+8327,Norway,5,4.8
+8328,Poland,5,5.3
+8329,Portugal,1,5.0
+8330,Qatar,1,5.0
+8331,Russia,3,6.17
+8332,Republic of Serbia,1,10.0
+8333,Slovenia,1,6.0
+8334,South Korea,2,5.0
+8335,Spain,98,5.96
+8336,Sweden,22,4.82
+8337,Switzerland,3,7.0
+8338,Taiwan,2,6.0
+8339,Thailand,1,8.0
+8340,USA,676,6.25
+8341,Uruguay,1,8.0
+8342,Argentina,3,7.33
+8343,Australia,34,7.1
+8344,Austria,12,7.75
+8345,Belarus,1,7.5
+8346,Belgium,17,7.33
+8347,Brazil,15,7.5
+8348,Brunei,1,9.0
+8349,Bulgaria,1,7.0
+8350,Canada,110,7.31
+8351,Chile,8,7.26
+8352,China,9,6.97
+8353,Croatia,3,8.33
+8354,Czech Republic,3,6.67
+8355,Denmark,10,7.8
+8356,England,5,7.6
+8357,Estonia,4,8.55
+8358,Finland,18,6.79
+8359,France,23,7.66
+8360,Germany,142,7.34
+8361,Greece,15,7.56
+8362,Hungary,12,6.44
+8363,Iceland,1,8.0
+8364,India,1,7.0
+8365,Indonesia,2,7.25
+8366,Ireland,4,7.13
+8367,Israel,7,8.09
+8368,Italy,29,7.4
+8369,Japan,21,6.2
+8370,Latvia,1,7.0
+8371,Lithuania,4,6.25
+8372,Luxembourg,3,7.17
+8373,Malaysia,4,7.75
+8374,Mexico,3,7.23
+8375,Moldova,1,10.0
+8376,Netherlands,21,7.59
+8377,New Zealand,11,6.97
+8378,Norway,8,7.06
+8379,Peru,1,6.0
+8380,Philippines,2,4.5
+8381,Poland,25,6.99
+8382,Portugal,8,6.84
+8383,Romania,4,7.25
+8384,Russia,8,7.22
+8385,Saudi Arabia,1,7.0
+8386,Republic of Serbia,1,5.0
+8387,Slovakia,1,7.0
+8388,Slovenia,1,10.0
+8389,South Africa,1,8.0
+8390,South Korea,13,7.04
+8391,Spain,42,7.65
+8392,Sweden,21,7.39
+8393,Switzerland,10,8.34
+8394,Taiwan,11,7.48
+8395,Thailand,4,7.75
+8396,Ukraine,2,8.1
+8397,USA,650,7.17
+8398,Venezuela,2,8.75
+8399,Vietnam,1,7.2
