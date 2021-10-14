@@ -1,0 +1,8401 @@
+name,code,pop
+Argentina,7,7.57
+Australia,36,7.17
+Austria,10,7.53
+Belarus,2,7.5
+Belgium,18,7.55
+Bolivia,1,7.0
+Brazil,32,7.28
+Brunei,1,8.0
+Bulgaria,3,5.67
+Canada,98,7.21
+Chile,9,7.99
+China,4,7.1
+Colombia,3,7.57
+Croatia,1,6.0
+Czech Republic,5,7.7
+Denmark,8,6.19
+England,4,7.5
+Estonia,5,7.08
+Finland,32,7.32
+France,27,6.93
+Germany,123,7.58
+Greece,17,7.07
+Hungary,19,7.31
+Iceland,1,6.0
+India,1,7.0
+Ireland,4,8.0
+Israel,5,6.8
+Italy,32,7.06
+Japan,40,6.99
+Latvia,9,6.74
+Lithuania,7,7.71
+Luxembourg,1,7.0
+Malaysia,6,8.08
+Mexico,6,8.0
+Netherlands,25,7.25
+New Zealand,11,6.91
+Norway,11,6.77
+Philippines,1,9.0
+Poland,47,7.43
+Portugal,5,6.63
+Romania,5,7.8
+Russia,11,6.5
+Saudi Arabia,1,7.0
+Republic of Serbia,5,7.7
+Slovakia,1,7.0
+South Africa,3,7.33
+South Korea,24,7.43
+Spain,83,7.58
+Sweden,17,7.01
+Switzerland,8,7.75
+Taiwan,20,7.44
+Thailand,6,7.5
+Ukraine,3,7.67
+USA,463,7.14
+Uruguay,1,10.0
+Vietnam,1,6.0
+Argentina,24,8.12
+Australia,110,8.05
+Austria,14,8.5
+Belarus,2,8.25
+Belgium,58,8.33
+Bolivia,2,9.0
+Brazil,107,8.71
+Brunei,1,9.0
+Bulgaria,10,8.35
+Canada,362,8.31
+Chile,15,8.17
+China,28,8.23
+Colombia,8,8.09
+Costa Rica,2,7.5
+Croatia,5,8.04
+Czech Republic,13,7.65
+Denmark,26,7.99
+England,16,7.74
+Estonia,9,9.17
+Finland,42,8.44
+France,55,8.59
+Germany,212,8.41
+Greece,56,8.34
+Guatemala,1,9.5
+Honduras,1,8.0
+Hungary,29,8.46
+Iceland,4,8.13
+India,3,8.0
+Indonesia,8,8.63
+Iran,3,7.9
+Iraq,1,9.0
+Ireland,14,8.3
+Israel,15,8.03
+Italy,86,7.9
+Japan,38,7.43
+Latvia,12,8.4
+Lebanon,1,7.0
+Lithuania,16,8.05
+Luxembourg,2,8.0
+Macedonia,2,8.5
+Malaysia,9,8.33
+Mexico,21,8.86
+Moldova,2,8.75
+Netherlands,48,7.96
+New Zealand,28,7.79
+Norway,19,8.62
+Peru,4,8.63
+Philippines,10,8.5
+Poland,116,8.43
+Portugal,29,8.41
+Qatar,2,8.0
+Romania,22,8.61
+Russia,21,8.88
+Saudi Arabia,2,7.5
+Republic of Serbia,12,8.98
+Slovakia,3,8.98
+Slovenia,3,8.67
+South Africa,10,8.7
+South Korea,25,7.44
+Spain,174,8.17
+Sri Lanka,1,9.0
+Sweden,63,8.1
+Switzerland,20,8.02
+Taiwan,31,8.06
+Thailand,16,8.23
+Turkey,2,8.5
+Uganda,1,7.0
+Ukraine,18,8.17
+USA,2023,8.23
+Uruguay,3,9.03
+Venezuela,2,9.0
+Vietnam,3,8.0
+Argentina,14,8.65
+Australia,51,8.22
+Austria,11,8.27
+Belarus,2,7.5
+Belgium,26,8.59
+Bolivia,1,9.0
+Brazil,38,8.82
+Bulgaria,3,9.33
+Canada,132,8.38
+Chile,9,8.97
+China,18,8.36
+Colombia,3,8.17
+Croatia,3,8.0
+Czech Republic,9,9.11
+Denmark,11,7.67
+Ecuador,2,8.25
+England,11,8.55
+Estonia,3,8.83
+Finland,11,8.05
+France,32,8.65
+Germany,109,8.43
+Greece,23,8.67
+Guatemala,1,7.0
+Hungary,13,8.0
+Iceland,3,9.0
+India,6,8.75
+Indonesia,4,8.75
+Iran,2,6.5
+Ireland,6,9.08
+Israel,6,8.8
+Italy,48,8.09
+Japan,18,7.89
+Latvia,6,8.54
+Lebanon,1,8.0
+Lithuania,7,8.64
+Luxembourg,1,7.0
+Malaysia,2,8.5
+Mexico,9,9.08
+Moldova,1,10.0
+Netherlands,30,8.3
+New Zealand,8,8.15
+Norway,9,8.67
+Paraguay,1,9.0
+Philippines,4,8.75
+Poland,65,8.86
+Portugal,14,8.56
+Qatar,1,7.4
+Romania,11,8.87
+Russia,11,8.45
+Rwanda,1,7.0
+Saudi Arabia,1,8.0
+Republic of Serbia,9,9.33
+Slovakia,4,8.43
+Slovenia,3,9.33
+South Africa,4,7.95
+South Korea,17,7.85
+Spain,119,8.48
+Sweden,33,7.85
+Switzerland,7,8.36
+Taiwan,13,8.43
+Thailand,9,8.89
+Ukraine,11,8.59
+USA,688,8.39
+Uruguay,1,9.0
+Venezuela,1,10.0
+Vietnam,2,9.38
+Argentina,9,8.47
+Australia,43,7.3
+Austria,2,9.0
+Belarus,2,7.25
+Belgium,14,8.1
+Bolivia,1,8.0
+Brazil,51,8.61
+Bulgaria,7,8.0
+Canada,100,7.99
+Chile,9,8.1
+China,19,7.43
+Colombia,4,8.75
+Croatia,4,7.55
+Czech Republic,5,7.22
+Denmark,4,6.25
+Ecuador,1,9.0
+England,2,6.0
+Estonia,3,8.53
+Finland,9,8.06
+France,6,7.67
+Germany,50,8.04
+Greece,18,8.19
+Hungary,4,6.5
+Iceland,2,8.5
+India,1,10.0
+Indonesia,2,8.25
+Ireland,6,7.5
+Israel,5,6.71
+Italy,36,7.65
+Japan,2,4.0
+Latvia,6,7.8
+Lebanon,1,7.0
+Lithuania,9,8.33
+Macedonia,2,8.5
+Malaysia,4,9.28
+Mexico,8,6.56
+Moldova,1,9.0
+Netherlands,9,8.27
+New Zealand,8,7.6
+Norway,5,7.58
+Paraguay,1,8.0
+Peru,3,9.0
+Philippines,3,9.67
+Poland,64,8.21
+Portugal,12,8.59
+Qatar,1,7.6
+Romania,8,7.87
+Russia,14,8.0
+Republic of Serbia,6,8.33
+Slovakia,2,8.0
+Slovenia,1,10.0
+South Africa,5,7.2
+South Korea,7,7.0
+Spain,81,8.23
+Sweden,21,7.9
+Switzerland,4,8.38
+Taiwan,9,7.18
+Thailand,6,8.0
+Turkey,1,8.5
+Uganda,1,8.5
+Ukraine,4,8.93
+USA,430,7.82
+Uruguay,2,9.25
+Venezuela,1,7.0
+Vietnam,3,6.0
+Australia,42,7.17
+Austria,10,7.8
+Belgium,16,7.9
+Brazil,19,8.15
+Bulgaria,2,8.5
+Canada,139,7.69
+Chile,5,8.06
+China,16,7.91
+Colombia,4,9.0
+Croatia,2,7.0
+Czech Republic,1,5.0
+Denmark,12,7.29
+Ecuador,1,10.0
+England,6,8.0
+Estonia,1,10.0
+Finland,11,7.68
+France,7,6.63
+Germany,80,7.48
+Greece,12,7.42
+Guatemala,1,10.0
+Hungary,2,8.1
+Iceland,1,8.0
+India,3,8.67
+Indonesia,2,7.6
+Ireland,4,7.38
+Israel,4,7.75
+Italy,28,7.37
+Japan,30,7.83
+Latvia,3,7.67
+Lithuania,2,7.5
+Malaysia,7,7.64
+Mexico,6,8.17
+Moldova,1,10.0
+Netherlands,22,7.81
+New Zealand,11,7.18
+Norway,13,7.5
+Panama,1,8.0
+Philippines,4,7.75
+Poland,11,7.37
+Portugal,6,6.92
+Romania,4,8.88
+Russia,2,6.5
+Saudi Arabia,1,8.0
+Republic of Serbia,2,7.5
+Slovenia,3,7.67
+South Africa,2,7.0
+South Korea,37,8.14
+Spain,38,7.63
+Sweden,20,7.56
+Switzerland,5,6.6
+Taiwan,11,7.32
+Thailand,8,8.19
+Ukraine,1,6.0
+USA,1254,7.83
+Venezuela,3,7.67
+Argentina,22,8.91
+Australia,98,8.17
+Austria,23,9.34
+Belarus,1,5.0
+Belgium,67,8.4
+Bolivia,1,9.0
+Brazil,93,8.86
+Bulgaria,3,8.67
+Canada,373,8.4
+Chile,15,8.79
+China,32,8.4
+Colombia,7,8.77
+Croatia,5,9.12
+Cyprus,1,8.0
+Czech Republic,27,8.5
+Denmark,28,8.8
+Ecuador,1,10.0
+England,23,8.61
+Estonia,11,8.2
+Finland,39,8.91
+France,45,8.67
+Germany,231,8.74
+Greece,43,8.75
+Guatemala,1,9.0
+Honduras,1,8.5
+Hungary,18,8.56
+Iceland,3,8.83
+India,3,8.33
+Indonesia,8,8.4
+Iran,1,8.0
+Ireland,11,8.64
+Israel,15,8.08
+Italy,77,8.34
+Japan,32,7.97
+Latvia,5,9.0
+Lithuania,13,8.88
+Luxembourg,3,9.0
+Malaysia,11,7.9
+Mexico,14,9.31
+Mongolia,1,10.0
+Netherlands,75,8.37
+New Zealand,27,7.99
+Norway,20,8.91
+Panama,1,9.5
+Peru,6,7.83
+Philippines,8,8.0
+Poland,140,8.42
+Portugal,17,8.03
+Qatar,1,7.2
+Romania,18,8.39
+Russia,20,8.28
+Republic of Serbia,7,8.89
+Slovakia,4,6.78
+Slovenia,4,9.0
+South Africa,7,8.0
+South Korea,37,8.24
+Spain,233,8.55
+Sweden,65,7.86
+Switzerland,19,8.53
+Taiwan,37,8.94
+Thailand,12,8.71
+Trinidad and Tobago,1,9.0
+Ukraine,8,7.61
+USA,1902,8.28
+Uruguay,1,9.5
+Venezuela,2,7.5
+Vietnam,4,8.88
+Argentina,20,7.76
+Australia,82,7.4
+Austria,17,7.88
+Belgium,45,7.24
+Brazil,33,7.95
+Brunei,1,7.0
+Bulgaria,5,7.8
+Canada,218,7.65
+Chile,12,7.17
+China,9,7.74
+Colombia,2,7.5
+Croatia,9,7.63
+Cyprus,1,8.0
+Czech Republic,17,6.94
+Denmark,14,7.0
+England,15,7.01
+Estonia,6,6.53
+Finland,39,6.96
+France,26,7.06
+Germany,180,7.23
+Greece,42,7.71
+Guatemala,1,7.0
+Hungary,28,7.44
+Iceland,2,8.25
+India,2,7.0
+Indonesia,3,7.5
+Ireland,10,7.38
+Israel,7,7.13
+Italy,55,7.48
+Japan,29,7.27
+Latvia,4,8.0
+Lithuania,17,7.02
+Luxembourg,3,6.33
+Malaysia,4,7.38
+Mexico,10,8.0
+Moldova,1,8.0
+Netherlands,43,7.72
+New Zealand,26,7.36
+Norway,20,7.2
+Philippines,4,6.25
+Poland,38,7.83
+Portugal,22,7.68
+Qatar,1,4.0
+Romania,10,8.2
+Russia,7,7.0
+Saudi Arabia,1,9.0
+Republic of Serbia,5,8.4
+Slovakia,3,7.73
+Slovenia,4,8.88
+South Africa,6,7.0
+South Korea,26,7.96
+Spain,112,7.32
+Sweden,35,7.26
+Switzerland,12,7.25
+Taiwan,13,7.98
+Thailand,6,8.3
+Uganda,1,6.5
+Ukraine,1,7.0
+USA,1101,7.55
+Venezuela,1,10.0
+Argentina,8,7.38
+Australia,32,7.79
+Austria,4,6.25
+Belgium,6,9.33
+Bolivia,1,8.0
+Brazil,20,8.01
+Bulgaria,3,7.67
+Canada,109,8.2
+Chile,6,7.92
+China,13,8.0
+Colombia,2,9.0
+Croatia,1,10.0
+Czech Republic,5,7.4
+Denmark,5,8.16
+England,4,6.25
+Finland,11,8.45
+France,11,8.23
+Germany,54,8.12
+Greece,10,8.39
+Guatemala,1,9.0
+Hungary,2,7.0
+Iceland,2,9.0
+Indonesia,2,9.0
+Ireland,2,7.0
+Israel,2,4.5
+Italy,19,7.95
+Japan,8,7.5
+Latvia,3,8.0
+Lithuania,5,8.84
+Luxembourg,1,8.0
+Macedonia,1,7.0
+Malaysia,2,8.5
+Mexico,5,7.9
+Netherlands,10,7.98
+New Zealand,6,7.62
+Norway,4,7.5
+Peru,1,7.0
+Philippines,3,7.33
+Poland,24,8.23
+Portugal,7,8.41
+Qatar,1,4.0
+Romania,4,9.44
+Russia,6,7.54
+Republic of Serbia,2,7.25
+Slovakia,1,9.5
+South Africa,3,9.0
+South Korea,13,7.51
+Spain,35,7.54
+Sweden,15,8.33
+Switzerland,5,8.0
+Taiwan,8,8.76
+Thailand,1,4.0
+Turkey,1,8.5
+Ukraine,2,8.95
+USA,540,7.92
+Venezuela,1,5.0
+Vietnam,1,9.0
+Argentina,1,7.0
+Australia,35,6.25
+Austria,2,6.5
+Belgium,7,6.0
+Brazil,4,6.0
+Canada,168,6.73
+Chile,4,7.15
+China,3,6.0
+Colombia,3,6.0
+Denmark,2,6.5
+England,6,7.58
+Finland,12,6.68
+France,4,6.5
+Germany,39,6.25
+Greece,1,8.0
+Guatemala,1,8.0
+Hungary,1,6.5
+India,2,6.5
+Ireland,6,7.5
+Israel,3,5.67
+Italy,4,7.75
+Japan,9,5.07
+Malaysia,4,5.63
+Mexico,1,6.5
+Netherlands,6,7.5
+New Zealand,7,7.07
+Norway,3,7.0
+Philippines,1,6.0
+Poland,15,6.27
+Russia,1,5.0
+South Africa,1,5.0
+South Korea,6,7.0
+Spain,16,7.07
+Sweden,12,6.83
+Switzerland,2,7.5
+Taiwan,3,8.0
+USA,1518,6.47
+Uruguay,1,7.0
+Venezuela,1,9.0
+Argentina,11,6.55
+Australia,55,7.13
+Austria,12,7.58
+Belarus,1,9.0
+Belgium,12,7.29
+Bolivia,1,9.0
+Brazil,27,8.24
+Bulgaria,1,9.0
+Canada,181,7.53
+Chile,8,7.36
+China,14,7.57
+Colombia,1,8.0
+Croatia,5,7.8
+Czech Republic,12,6.38
+Denmark,14,7.64
+England,6,8.33
+Estonia,5,8.3
+Finland,31,7.41
+France,18,7.54
+Germany,104,7.7
+Greece,23,8.05
+Hungary,13,7.32
+Iceland,2,8.0
+Indonesia,2,7.6
+Ireland,6,7.67
+Israel,6,7.33
+Italy,42,7.32
+Japan,5,5.2
+Lebanon,1,9.0
+Lithuania,8,7.25
+Luxembourg,1,8.2
+Macedonia,2,8.0
+Malaysia,6,6.3
+Mexico,11,7.55
+Moldova,1,8.0
+Netherlands,16,7.85
+New Zealand,7,6.76
+Norway,14,6.36
+Peru,2,7.0
+Philippines,5,7.1
+Poland,62,7.71
+Portugal,5,7.82
+Romania,3,8.9
+Russia,16,7.19
+Republic of Serbia,1,8.0
+Slovenia,1,8.0
+South Korea,18,6.42
+Spain,115,7.72
+Sweden,45,6.88
+Switzerland,7,8.57
+Taiwan,8,7.6
+Thailand,2,6.0
+Turkey,2,8.0
+Ukraine,8,7.58
+USA,1105,7.4
+Venezuela,1,7.0
+Vietnam,2,8.5
+Argentina,1,7.5
+Australia,26,6.6
+Austria,1,10.0
+Belgium,12,6.63
+Brazil,9,6.83
+Canada,187,6.85
+Chile,1,8.0
+China,3,7.27
+Croatia,4,7.0
+Czech Republic,1,9.0
+Denmark,13,6.54
+Fiji,1,8.0
+Finland,8,6.56
+France,3,5.33
+Germany,45,6.68
+Greece,9,7.0
+Hungary,1,8.0
+Iceland,2,7.0
+India,1,4.0
+Ireland,1,9.0
+Israel,3,8.33
+Italy,39,7.18
+Latvia,1,6.0
+Lithuania,1,8.0
+Malaysia,3,6.53
+Mexico,5,6.64
+Netherlands,20,7.34
+New Zealand,7,7.04
+Norway,10,5.7
+Peru,2,7.25
+Portugal,4,6.75
+Qatar,1,7.8
+Romania,2,8.0
+Russia,1,7.0
+Slovenia,3,7.33
+South Africa,1,3.0
+South Korea,5,7.2
+Spain,12,6.96
+Sweden,25,6.02
+Switzerland,3,8.0
+Thailand,1,9.0
+Turkey,1,7.0
+Ukraine,1,4.0
+USA,968,6.81
+Venezuela,1,9.0
+Argentina,7,8.43
+Australia,39,8.18
+Austria,6,8.6
+Belarus,1,6.0
+Belgium,24,7.88
+Bolivia,1,10.0
+Brazil,32,8.91
+Bulgaria,1,5.0
+Canada,94,8.29
+Chile,8,8.44
+China,12,8.27
+Colombia,3,9.5
+Croatia,3,9.33
+Czech Republic,4,9.25
+Denmark,3,7.67
+England,10,7.95
+Estonia,1,9.0
+Finland,8,7.78
+France,23,8.19
+Germany,91,8.14
+Greece,13,8.71
+Guatemala,1,7.5
+Hungary,10,8.36
+Iceland,1,7.0
+India,3,9.0
+Indonesia,2,9.0
+Iran,2,9.5
+Ireland,5,8.8
+Israel,4,7.13
+Italy,31,8.1
+Japan,17,7.91
+Latvia,4,7.75
+Lithuania,4,8.88
+Malaysia,2,9.25
+Mexico,18,9.15
+Netherlands,25,7.89
+New Zealand,8,7.63
+Norway,8,7.96
+Peru,3,8.67
+Philippines,4,9.5
+Poland,30,8.06
+Portugal,12,8.52
+Romania,6,8.81
+Russia,5,9.2
+Saudi Arabia,1,9.0
+Republic of Serbia,2,7.75
+Slovakia,1,8.0
+Slovenia,3,9.33
+South Africa,3,8.0
+South Korea,6,6.73
+Spain,64,8.3
+Sri Lanka,1,8.0
+Sweden,17,8.09
+Switzerland,7,7.5
+Taiwan,10,7.78
+Thailand,5,7.3
+Ukraine,3,9.37
+USA,517,8.19
+Uruguay,1,8.0
+Venezuela,1,6.0
+Vietnam,1,8.91
+Argentina,3,9.17
+Australia,35,6.54
+Austria,3,9.0
+Belgium,8,6.69
+Brazil,18,7.22
+Bulgaria,1,10.0
+Canada,113,7.28
+Chile,8,6.44
+China,2,8.45
+Colombia,1,7.0
+Costa Rica,1,7.0
+Czech Republic,1,6.5
+Denmark,13,6.38
+England,5,6.8
+Estonia,4,7.75
+Finland,17,6.75
+France,11,7.1
+Germany,61,6.82
+Greece,26,7.17
+Guatemala,1,7.0
+Hungary,4,7.13
+Iceland,1,8.5
+India,1,7.0
+Ireland,1,6.0
+Israel,4,6.0
+Italy,24,7.31
+Japan,15,7.21
+Latvia,3,6.67
+Lithuania,3,6.67
+Mexico,5,7.27
+Netherlands,21,6.38
+New Zealand,13,6.62
+Norway,16,6.88
+Peru,2,6.25
+Poland,12,7.33
+Portugal,8,7.37
+Romania,5,6.7
+Russia,3,6.0
+Saudi Arabia,1,9.0
+Republic of Serbia,2,8.0
+Slovenia,3,5.67
+South Africa,2,6.5
+South Korea,4,5.75
+Spain,32,7.61
+Sweden,25,6.44
+Switzerland,3,6.0
+Taiwan,2,7.5
+Turkey,1,6.0
+USA,630,6.7
+Venezuela,1,10.0
+Vietnam,1,6.5
+Argentina,11,6.95
+Australia,49,6.55
+Austria,8,6.75
+Belarus,1,5.0
+Belgium,28,7.38
+Bolivia,1,4.0
+Brazil,55,7.51
+Brunei,1,7.0
+Bulgaria,1,4.0
+Canada,187,6.99
+Chile,5,8.4
+China,16,7.2
+Colombia,2,7.75
+Croatia,1,3.0
+Czech Republic,21,7.56
+Denmark,13,7.25
+England,9,6.24
+Estonia,4,6.25
+Finland,29,6.89
+France,24,6.4
+Germany,66,6.77
+Greece,44,7.35
+Hungary,26,7.43
+India,1,6.0
+Indonesia,4,6.85
+Ireland,3,7.0
+Israel,4,7.75
+Italy,85,7.47
+Japan,8,5.38
+Latvia,6,7.33
+Lithuania,3,7.33
+Luxembourg,2,6.6
+Malaysia,7,6.47
+Mexico,2,8.0
+Netherlands,21,6.55
+New Zealand,9,6.11
+Norway,8,7.44
+Peru,1,6.0
+Philippines,3,6.0
+Poland,43,7.05
+Portugal,7,6.86
+Romania,6,7.03
+Russia,11,7.16
+Republic of Serbia,4,7.25
+Slovakia,4,8.63
+South Africa,2,4.5
+South Korea,29,7.57
+Spain,157,7.2
+Sweden,22,6.66
+Switzerland,9,7.0
+Taiwan,24,7.67
+Thailand,7,6.34
+Turkey,2,8.5
+Ukraine,6,8.12
+USA,1117,6.9
+Venezuela,1,6.0
+Vietnam,1,6.0
+Argentina,3,6.92
+Australia,34,7.56
+Azerbaijan,1,10.0
+Belgium,5,7.8
+Bolivia,1,10.0
+Brazil,20,7.91
+Brunei,1,8.0
+Canada,98,7.81
+Chile,1,8.0
+China,22,7.15
+Colombia,5,7.94
+Croatia,2,9.5
+Czech Republic,1,7.5
+Denmark,4,4.98
+England,3,7.0
+Estonia,2,8.5
+Finland,13,8.31
+France,1,9.0
+Germany,12,6.38
+Greece,9,7.83
+Guatemala,1,6.5
+Hungary,2,7.5
+Iceland,1,8.0
+India,5,8.6
+Ireland,2,7.25
+Israel,4,8.0
+Italy,19,7.79
+Japan,39,7.56
+Latvia,2,8.25
+Lithuania,2,6.0
+Luxembourg,1,1.0
+Malaysia,4,6.5
+Mexico,3,8.33
+Moldova,1,10.0
+Netherlands,6,7.08
+New Zealand,9,7.73
+Norway,11,8.0
+Peru,1,7.0
+Philippines,2,6.5
+Poland,10,7.0
+Portugal,6,7.42
+Romania,1,8.8
+Russia,5,8.14
+Slovenia,1,8.0
+South Africa,1,8.0
+South Korea,14,7.54
+Spain,56,7.94
+Sweden,15,7.6
+Taiwan,17,7.92
+Thailand,6,7.92
+Turkey,2,8.5
+Ukraine,1,9.0
+USA,604,7.75
+Uruguay,1,9.5
+Venezuela,1,8.0
+Vietnam,2,8.75
+Argentina,6,7.83
+Australia,57,7.79
+Austria,7,8.64
+Belarus,2,8.25
+Belgium,11,8.91
+Brazil,54,8.75
+Canada,149,7.95
+Chile,5,7.84
+China,19,7.55
+Colombia,4,7.38
+Croatia,3,5.67
+Czech Republic,5,7.2
+Denmark,13,7.46
+England,7,7.4
+Estonia,5,8.48
+Finland,31,8.2
+France,21,7.8
+Germany,97,7.88
+Greece,16,8.37
+Hungary,7,7.14
+Iceland,1,8.0
+India,2,8.75
+Indonesia,3,7.83
+Ireland,6,6.5
+Israel,3,8.67
+Italy,33,7.58
+Japan,5,5.6
+Latvia,4,8.38
+Lithuania,5,9.16
+Luxembourg,2,9.0
+Malaysia,9,8.33
+Mexico,1,8.5
+Netherlands,12,7.87
+New Zealand,10,7.53
+Norway,8,8.11
+Peru,4,8.38
+Philippines,4,7.25
+Poland,58,7.86
+Portugal,5,9.2
+Qatar,1,7.4
+Romania,6,9.33
+Russia,11,7.98
+Republic of Serbia,6,8.5
+Slovakia,1,10.0
+Slovenia,4,9.75
+South Africa,4,8.75
+South Korea,6,7.33
+Spain,98,7.76
+Sweden,31,7.45
+Switzerland,5,6.4
+Taiwan,11,8.05
+Thailand,5,7.3
+Turkey,1,9.0
+Ukraine,4,8.63
+USA,906,7.84
+Venezuela,1,8.0
+Argentina,4,6.5
+Australia,55,7.11
+Austria,2,9.0
+Belgium,7,7.5
+Brazil,22,7.84
+Bulgaria,6,7.58
+Canada,144,7.38
+Chile,2,6.0
+China,16,7.01
+Colombia,3,7.67
+Costa Rica,1,8.0
+Croatia,4,4.75
+Czech Republic,2,7.0
+Denmark,11,7.14
+England,6,6.83
+Estonia,2,7.0
+Finland,14,7.14
+France,3,7.17
+Germany,37,7.03
+Greece,23,7.89
+Guatemala,1,8.5
+Hungary,2,8.0
+Iceland,2,8.0
+Indonesia,2,9.0
+Ireland,5,7.0
+Israel,2,5.78
+Italy,11,7.86
+Japan,5,6.1
+Latvia,3,7.33
+Lebanon,1,9.0
+Lithuania,2,6.5
+Macedonia,3,8.67
+Malaysia,5,7.78
+Mexico,13,7.5
+Netherlands,10,6.95
+New Zealand,7,7.0
+Norway,8,7.69
+Peru,2,8.5
+Philippines,4,7.13
+Poland,4,7.38
+Portugal,8,8.04
+Romania,3,9.17
+Russia,4,7.81
+Saudi Arabia,1,7.5
+Republic of Serbia,6,9.0
+Slovenia,1,9.0
+South Korea,8,7.25
+Spain,21,6.89
+Sweden,25,7.42
+Switzerland,5,6.6
+Taiwan,21,7.5
+Thailand,2,7.75
+Ukraine,1,7.0
+USA,1188,7.34
+Uruguay,1,9.0
+Argentina,3,7.0
+Australia,54,7.18
+Austria,5,7.4
+Belarus,1,9.0
+Belgium,32,7.6
+Brazil,12,8.37
+Brunei,1,8.0
+Canada,197,7.32
+Chile,4,6.75
+China,15,7.16
+Colombia,1,10.0
+Croatia,2,9.0
+Czech Republic,7,6.36
+Denmark,10,6.9
+England,7,6.93
+Estonia,1,7.0
+Finland,32,7.21
+France,18,7.87
+Germany,78,7.58
+Greece,17,7.83
+Guatemala,1,9.0
+Hungary,9,7.89
+India,1,6.0
+Indonesia,3,5.83
+Ireland,2,7.5
+Israel,7,6.7
+Italy,16,7.2
+Japan,34,7.34
+Latvia,2,7.4
+Luxembourg,1,8.0
+Malaysia,9,7.01
+Mexico,4,8.5
+Moldova,1,10.0
+Netherlands,26,7.24
+New Zealand,11,6.98
+Norway,13,7.77
+Peru,2,7.0
+Philippines,2,7.5
+Poland,37,7.34
+Portugal,9,7.41
+Romania,2,8.5
+Russia,10,7.58
+Republic of Serbia,2,7.0
+Slovakia,1,8.0
+Slovenia,4,9.38
+South Africa,3,5.33
+South Korea,24,7.02
+Spain,39,7.35
+Sweden,27,6.85
+Switzerland,4,6.93
+Taiwan,18,8.04
+Thailand,4,8.18
+Ukraine,1,5.0
+USA,1223,7.23
+Argentina,11,7.82
+Australia,78,7.4
+Austria,15,7.87
+Belarus,2,5.0
+Belgium,62,7.48
+Brazil,54,7.5
+Brunei,1,8.0
+Bulgaria,1,6.0
+Canada,282,7.46
+Chile,13,7.59
+China,15,7.16
+Colombia,6,8.12
+Costa Rica,1,9.0
+Croatia,4,7.08
+Czech Republic,8,6.5
+Denmark,18,7.54
+England,12,7.48
+Estonia,7,7.57
+Finland,47,7.71
+France,32,7.48
+Germany,211,7.71
+Greece,46,7.45
+Hungary,24,7.43
+Iceland,1,8.0
+India,5,7.7
+Indonesia,5,7.14
+Ireland,8,7.85
+Israel,11,7.01
+Italy,65,7.27
+Japan,41,7.72
+Latvia,10,7.25
+Lithuania,9,6.33
+Luxembourg,2,6.5
+Malaysia,8,7.41
+Mexico,11,8.3
+Netherlands,59,7.51
+New Zealand,28,7.51
+Norway,25,7.83
+Peru,1,5.5
+Philippines,4,6.75
+Poland,103,7.73
+Portugal,15,7.21
+Romania,7,7.66
+Russia,18,7.18
+Saudi Arabia,1,9.0
+Republic of Serbia,6,7.08
+Slovakia,2,8.0
+Slovenia,2,8.5
+South Africa,3,8.0
+South Korea,36,7.63
+Spain,111,7.5
+Sweden,54,7.15
+Switzerland,19,7.76
+Taiwan,19,7.04
+Thailand,5,7.96
+Turkey,1,7.5
+Uganda,1,7.5
+Ukraine,2,4.75
+USA,1530,7.51
+Uruguay,1,9.5
+Venezuela,3,7.0
+Vietnam,1,4.0
+Zambia,1,7.0
+Argentina,2,7.5
+Australia,42,7.65
+Austria,9,7.17
+Belarus,1,5.0
+Belgium,21,7.2
+Brazil,23,7.95
+Bulgaria,4,7.5
+Canada,81,7.3
+Chile,9,8.16
+China,5,7.74
+Colombia,1,10.0
+Croatia,4,8.7
+Czech Republic,5,7.4
+Denmark,5,6.8
+England,11,7.13
+Finland,11,7.17
+France,7,6.07
+Germany,108,7.24
+Greece,15,7.47
+Hungary,14,7.71
+Iceland,2,7.5
+India,4,7.5
+Indonesia,3,9.67
+Ireland,8,7.94
+Israel,5,6.78
+Italy,25,7.3
+Japan,23,7.3
+Latvia,4,7.31
+Lithuania,3,8.0
+Luxembourg,1,7.0
+Malaysia,2,7.5
+Mexico,5,8.57
+Moldova,1,6.0
+Netherlands,18,7.0
+New Zealand,7,7.14
+Norway,4,6.5
+Peru,2,9.5
+Philippines,3,7.0
+Poland,28,7.66
+Portugal,9,7.54
+Qatar,1,7.2
+Romania,10,7.76
+Russia,7,7.43
+Saudi Arabia,2,8.0
+Republic of Serbia,8,7.69
+Slovakia,1,7.25
+Slovenia,2,8.0
+South Africa,2,8.25
+South Korea,13,7.32
+Spain,71,7.52
+Sweden,21,6.9
+Switzerland,10,7.35
+Taiwan,16,8.03
+Thailand,11,8.23
+Ukraine,2,8.0
+USA,331,7.38
+Uruguay,1,9.0
+Venezuela,2,5.5
+Vietnam,1,6.0
+Albania,1,6.0
+Argentina,1,5.0
+Australia,22,6.54
+Austria,4,6.75
+Belgium,20,7.31
+Brazil,12,6.93
+Brunei,1,8.0
+Bulgaria,1,8.0
+Canada,95,7.35
+Chile,4,7.5
+China,8,7.38
+Colombia,2,7.23
+Czech Republic,4,6.5
+Denmark,5,8.1
+England,1,6.8
+Estonia,3,8.0
+Finland,12,6.83
+France,16,7.59
+Germany,79,7.45
+Greece,12,7.1
+Guatemala,1,7.0
+Hungary,3,8.67
+Israel,3,7.0
+Italy,15,7.25
+Japan,26,6.97
+Latvia,4,7.75
+Luxembourg,1,8.0
+Malaysia,3,5.23
+Mexico,2,7.9
+Netherlands,17,7.07
+New Zealand,6,7.17
+Norway,9,7.28
+Poland,16,6.55
+Portugal,6,7.49
+Russia,3,7.0
+Republic of Serbia,2,8.0
+South Africa,2,7.0
+South Korea,15,7.27
+Spain,44,7.64
+Sweden,10,7.19
+Switzerland,2,8.75
+Taiwan,9,7.5
+Thailand,4,7.0
+Ukraine,2,3.0
+USA,609,7.35
+Uruguay,1,8.0
+Vietnam,1,8.0
+Albania,1,6.0
+Argentina,31,8.15
+Australia,203,7.92
+Austria,36,8.17
+The Bahamas,1,8.75
+Belarus,3,9.0
+Belgium,99,7.84
+Bolivia,2,8.25
+Bosnia and Herzegovina,1,10.0
+Brazil,156,8.2
+Brunei,1,8.0
+Bulgaria,13,8.73
+Canada,622,7.93
+Chile,38,8.03
+China,36,8.46
+Colombia,12,8.39
+Costa Rica,3,8.5
+Croatia,16,8.58
+Czech Republic,38,7.86
+Denmark,46,7.95
+Ecuador,1,8.0
+England,29,7.98
+Estonia,17,7.99
+Fiji,1,10.0
+Finland,80,7.76
+France,61,7.83
+Germany,333,8.17
+Greece,83,7.85
+Guatemala,2,8.25
+Hungary,47,8.14
+Iceland,7,7.71
+India,9,7.83
+Indonesia,9,7.92
+Iran,1,8.0
+Iraq,1,8.0
+Ireland,21,8.05
+Israel,20,7.42
+Italy,114,7.93
+Japan,66,7.63
+Kenya,1,6.5
+Latvia,16,8.38
+Lithuania,25,7.96
+Luxembourg,3,6.67
+Macedonia,2,8.5
+Malaysia,12,7.58
+Mexico,43,8.4
+Moldova,2,9.5
+Mongolia,1,6.0
+Netherlands,111,7.91
+New Zealand,48,7.56
+Norway,43,8.0
+Panama,1,8.5
+Paraguay,1,8.0
+Peru,13,8.65
+Philippines,12,8.04
+Poland,189,7.93
+Portugal,55,7.76
+Puerto Rico,1,8.0
+Qatar,2,8.1
+Romania,32,8.7
+Russia,51,8.07
+Saudi Arabia,1,8.0
+Republic of Serbia,12,8.58
+Slovakia,5,8.42
+Slovenia,11,7.78
+South Africa,12,8.08
+South Korea,49,7.75
+Spain,327,8.1
+Sri Lanka,1,8.0
+Sweden,135,7.86
+Switzerland,25,8.24
+Taiwan,43,8.36
+Thailand,15,7.56
+Trinidad and Tobago,1,8.0
+Turkey,5,9.1
+Uganda,1,9.0
+Ukraine,13,8.58
+USA,3444,7.97
+Uruguay,2,9.0
+Venezuela,4,9.25
+Vietnam,3,7.83
+Argentina,3,8.33
+Australia,33,7.89
+Austria,5,6.9
+Belarus,1,9.0
+Belgium,17,7.44
+Bolivia,1,9.0
+Brazil,11,7.68
+Bulgaria,1,6.0
+Canada,114,7.65
+Chile,4,8.38
+China,2,7.5
+Colombia,1,9.0
+Croatia,2,8.5
+Czech Republic,12,7.25
+Denmark,6,7.5
+England,5,7.7
+Estonia,2,7.0
+Finland,29,7.34
+France,11,7.55
+Germany,88,7.0
+Greece,5,7.78
+Hungary,5,7.2
+India,2,7.0
+Indonesia,3,8.33
+Ireland,3,7.5
+Israel,1,9.0
+Italy,18,7.47
+Japan,13,6.95
+Latvia,1,7.5
+Lithuania,1,5.0
+Macedonia,2,8.5
+Malaysia,3,7.93
+Mexico,2,7.65
+Netherlands,40,7.32
+New Zealand,9,7.21
+Norway,11,7.18
+Poland,11,7.36
+Portugal,7,7.8
+Romania,2,9.05
+Russia,15,7.4
+Republic of Serbia,1,6.0
+Slovakia,1,4.0
+Slovenia,1,7.0
+South Africa,2,6.25
+South Korea,15,6.9
+Spain,44,7.41
+Sweden,29,7.48
+Switzerland,2,8.0
+Taiwan,3,8.5
+Thailand,1,7.5
+Ukraine,3,8.03
+USA,635,7.46
+Argentina,3,6.67
+Australia,47,6.12
+Belgium,3,8.33
+Brazil,9,6.54
+Bulgaria,6,6.5
+Canada,127,7.01
+Chile,4,7.5
+China,1,6.0
+Costa Rica,2,6.0
+Croatia,1,9.0
+Czech Republic,1,5.0
+Denmark,2,7.5
+England,2,6.25
+Estonia,1,4.0
+Finland,8,5.58
+Germany,9,5.39
+Greece,5,7.2
+Hungary,1,1.0
+Iceland,2,7.75
+India,2,5.5
+Ireland,5,7.4
+Israel,2,8.25
+Italy,5,7.4
+Latvia,2,7.0
+Lithuania,1,5.0
+Macedonia,1,8.0
+Malaysia,1,6.0
+Mexico,6,7.67
+Netherlands,9,7.47
+New Zealand,6,8.17
+Norway,2,3.0
+Peru,1,5.0
+Philippines,5,6.7
+Poland,2,5.75
+Romania,5,6.3
+Russia,1,3.0
+Slovakia,1,6.0
+Slovenia,1,10.0
+South Africa,2,1.0
+South Korea,1,6.0
+Spain,15,7.37
+Sri Lanka,1,6.0
+Sweden,11,7.0
+Switzerland,2,7.0
+Taiwan,1,9.0
+Thailand,1,5.0
+Turkey,2,8.0
+USA,795,6.77
+Venezuela,1,7.0
+Argentina,6,8.35
+Australia,31,7.72
+Austria,3,7.5
+Belarus,1,8.0
+Belgium,3,7.33
+Brazil,16,8.38
+Canada,80,8.03
+Chile,3,6.67
+China,10,7.44
+Colombia,1,10.0
+Croatia,1,6.5
+Czech Republic,9,8.56
+Denmark,7,8.14
+England,6,7.58
+Estonia,2,9.65
+Finland,13,7.98
+France,5,7.15
+Germany,29,7.43
+Greece,7,8.94
+Hungary,4,8.0
+Iceland,1,7.5
+India,3,8.17
+Ireland,3,7.83
+Israel,2,7.0
+Italy,8,8.1
+Japan,11,6.64
+Latvia,4,8.38
+Lebanon,1,8.0
+Lithuania,4,7.75
+Malaysia,2,8.25
+Mexico,6,7.5
+Netherlands,9,8.06
+New Zealand,4,6.38
+Norway,6,7.08
+Philippines,2,7.5
+Poland,21,7.62
+Portugal,6,7.85
+Romania,3,8.2
+Russia,9,7.5
+Republic of Serbia,1,8.5
+Slovakia,1,9.0
+South Africa,2,8.0
+South Korea,9,7.74
+Spain,29,8.04
+Sweden,16,6.9
+Switzerland,2,7.75
+Taiwan,6,7.3
+Thailand,2,10.0
+Ukraine,4,9.15
+USA,520,7.98
+Vietnam,3,7.83
+Albania,1,8.5
+Argentina,59,9.28
+Australia,318,9.17
+Austria,44,9.21
+Azerbaijan,1,9.0
+The Bahamas,2,8.75
+Belarus,7,9.36
+Belgium,151,9.1
+Bolivia,3,9.17
+Bosnia and Herzegovina,1,10.0
+Brazil,249,9.23
+Brunei,1,10.0
+Bulgaria,23,9.26
+Canada,1089,9.13
+Chile,63,9.34
+China,54,9.27
+Colombia,21,9.25
+Costa Rica,6,9.5
+Croatia,28,9.36
+Cyprus,2,8.75
+Czech Republic,50,9.25
+Denmark,77,9.14
+Dominican Republic,1,9.0
+Ecuador,3,9.33
+England,43,9.1
+Estonia,23,9.42
+Fiji,1,9.0
+Finland,104,8.97
+France,93,9.24
+Germany,482,9.32
+Greece,124,9.18
+Guatemala,4,9.25
+Honduras,1,8.4
+Hungary,70,9.23
+Iceland,13,9.23
+India,19,9.37
+Indonesia,22,9.25
+Iran,7,9.57
+Iraq,1,9.0
+Ireland,33,9.09
+Israel,37,9.19
+Italy,189,9.11
+Japan,80,9.3
+Kenya,1,8.5
+Latvia,22,9.34
+Lebanon,2,9.0
+Lithuania,32,9.41
+Luxembourg,5,9.4
+Macedonia,4,9.5
+Malaysia,23,9.01
+Mexico,91,9.34
+Moldova,3,9.33
+Mongolia,1,9.0
+Netherlands,170,9.09
+New Zealand,78,9.13
+Norway,56,9.06
+Panama,1,9.0
+Paraguay,1,10.0
+Peru,14,9.39
+Philippines,18,9.34
+Poland,292,9.26
+Portugal,91,9.27
+Puerto Rico,1,10.0
+Qatar,2,9.4
+Romania,61,9.27
+Russia,62,9.36
+Rwanda,1,9.0
+Saudi Arabia,3,9.33
+Republic of Serbia,26,9.44
+Slovakia,12,9.35
+Slovenia,18,9.21
+South Africa,28,9.33
+South Korea,64,9.16
+Spain,483,9.18
+Sri Lanka,1,9.0
+Sweden,206,9.18
+Switzerland,45,9.28
+Taiwan,62,9.15
+Thailand,25,9.33
+Trinidad and Tobago,1,9.0
+Turkey,13,9.27
+Uganda,1,8.5
+Ukraine,23,9.38
+United Arab Emirates,2,10.0
+USA,6114,9.22
+Uruguay,8,9.25
+Venezuela,7,9.41
+Vietnam,4,9.41
+Zambia,1,9.0
+Argentina,4,8.5
+Australia,41,6.79
+Austria,15,7.51
+Belgium,45,7.69
+Brazil,11,7.29
+Brunei,1,8.0
+Bulgaria,1,8.0
+Canada,188,7.08
+Chile,5,6.6
+China,5,8.0
+Colombia,1,6.5
+Czech Republic,12,6.92
+Denmark,5,8.2
+England,8,7.25
+Estonia,1,8.0
+Finland,14,6.9
+France,27,7.41
+Germany,186,7.87
+Greece,15,7.53
+Hungary,14,6.97
+India,2,5.0
+Indonesia,1,7.0
+Ireland,3,8.33
+Israel,2,7.0
+Italy,45,7.26
+Japan,7,6.57
+Latvia,1,6.0
+Lithuania,2,8.5
+Luxembourg,1,9.0
+Malaysia,1,7.5
+Mexico,3,6.17
+Netherlands,82,7.67
+New Zealand,13,6.74
+Norway,13,7.19
+Philippines,1,8.0
+Poland,29,7.12
+Portugal,3,6.33
+Qatar,1,2.0
+Romania,8,7.63
+Russia,13,7.08
+Rwanda,1,8.0
+Republic of Serbia,2,10.0
+Slovakia,1,4.0
+Slovenia,4,6.43
+South Africa,2,8.5
+South Korea,6,6.17
+Spain,65,7.0
+Sweden,18,6.87
+Switzerland,13,7.42
+Taiwan,4,7.8
+Ukraine,2,5.5
+USA,884,7.09
+Uruguay,1,8.0
+Argentina,6,8.33
+Australia,34,8.31
+Austria,3,9.67
+Belarus,1,6.0
+Belgium,13,8.54
+Brazil,34,8.74
+Bulgaria,3,8.0
+Canada,110,8.54
+Chile,5,8.2
+China,7,7.7
+Colombia,3,8.83
+Croatia,1,6.3
+Czech Republic,6,8.5
+Denmark,8,7.44
+England,10,8.4
+Estonia,3,8.48
+Finland,7,8.21
+France,14,8.98
+Germany,58,8.5
+Greece,12,9.15
+Honduras,1,9.0
+Hungary,7,8.21
+Iceland,3,7.83
+India,3,9.17
+Indonesia,1,8.0
+Ireland,2,9.5
+Israel,6,8.4
+Italy,29,8.27
+Japan,19,8.55
+Latvia,3,8.0
+Lithuania,6,8.83
+Luxembourg,1,8.0
+Malaysia,1,7.5
+Mexico,6,8.42
+Netherlands,14,8.51
+New Zealand,7,7.43
+Norway,8,8.19
+Philippines,4,8.25
+Poland,39,8.47
+Portugal,6,8.58
+Qatar,1,8.0
+Romania,5,9.76
+Russia,6,8.11
+Republic of Serbia,4,9.0
+Slovakia,1,10.0
+South Africa,5,8.2
+South Korea,13,8.61
+Spain,46,7.84
+Sweden,16,8.3
+Switzerland,5,8.2
+Taiwan,7,8.79
+Thailand,5,8.0
+Ukraine,5,8.0
+USA,495,8.44
+Uruguay,1,9.0
+Venezuela,2,8.5
+Vietnam,1,5.0
+Argentina,6,8.5
+Australia,51,7.65
+Austria,15,9.0
+Azerbaijan,1,8.0
+Belgium,42,8.52
+Brazil,39,8.71
+Bulgaria,1,8.0
+Canada,185,8.01
+Chile,4,8.15
+China,22,8.79
+Colombia,4,7.88
+Croatia,1,9.0
+Czech Republic,12,7.53
+Denmark,12,7.42
+Ecuador,1,8.0
+England,12,7.71
+Estonia,6,8.3
+Finland,35,7.75
+France,39,8.26
+Germany,155,8.53
+Greece,28,8.55
+Hungary,11,8.07
+Iceland,1,8.5
+India,3,8.17
+Indonesia,3,9.08
+Ireland,7,7.57
+Israel,8,8.44
+Italy,69,8.47
+Japan,23,7.4
+Latvia,7,8.43
+Lithuania,5,8.8
+Luxembourg,3,8.0
+Malaysia,9,7.13
+Mexico,4,9.25
+Mongolia,1,7.0
+Netherlands,30,8.18
+New Zealand,17,7.37
+Norway,12,8.75
+Peru,2,9.25
+Philippines,4,8.13
+Poland,61,8.37
+Portugal,7,8.03
+Qatar,1,5.4
+Romania,4,9.0
+Russia,9,7.56
+Republic of Serbia,2,9.4
+Slovakia,2,7.0
+Slovenia,5,9.08
+South Africa,5,7.7
+South Korea,27,8.35
+Spain,136,8.4
+Sweden,29,7.94
+Switzerland,12,9.08
+Taiwan,24,8.4
+Thailand,5,8.0
+Turkey,1,9.0
+Ukraine,3,8.2
+USA,839,7.76
+Venezuela,2,10.0
+Argentina,10,8.3
+Australia,66,6.99
+Austria,8,6.88
+The Bahamas,1,9.0
+Belgium,29,7.79
+Bolivia,1,8.0
+Brazil,33,8.34
+Bulgaria,2,6.5
+Canada,212,7.24
+Chile,11,7.86
+China,11,7.97
+Colombia,2,6.5
+Croatia,4,8.25
+Czech Republic,5,6.9
+Denmark,16,5.88
+England,8,7.19
+Estonia,3,7.33
+Finland,30,6.58
+France,15,7.51
+Germany,82,7.31
+Greece,26,8.76
+Guatemala,1,10.0
+Hungary,12,8.25
+Iceland,2,9.0
+India,3,8.33
+Indonesia,3,8.5
+Ireland,8,6.38
+Israel,5,8.8
+Italy,41,8.22
+Japan,10,5.65
+Latvia,7,8.0
+Lithuania,5,6.8
+Luxembourg,1,9.0
+Malaysia,5,5.9
+Mexico,14,8.02
+Moldova,2,7.5
+Netherlands,41,7.41
+New Zealand,19,7.27
+Norway,21,7.12
+Peru,4,6.5
+Philippines,3,6.67
+Poland,47,7.61
+Portugal,17,7.75
+Qatar,2,8.6
+Romania,4,9.0
+Russia,11,7.7
+Saudi Arabia,1,9.0
+Republic of Serbia,4,7.5
+Slovakia,2,8.5
+Slovenia,4,7.75
+South Africa,2,7.0
+South Korea,11,6.91
+Spain,91,8.22
+Sweden,36,6.5
+Switzerland,9,8.56
+Taiwan,4,8.38
+Thailand,5,6.6
+Turkey,2,6.0
+Uganda,1,5.5
+Ukraine,2,4.0
+USA,1214,7.34
+Venezuela,1,10.0
+Vietnam,1,6.0
+Albania,1,7.5
+Argentina,21,7.56
+Australia,99,7.38
+Austria,18,7.78
+Belarus,3,9.17
+Belgium,84,7.96
+Bolivia,1,9.0
+Brazil,85,7.8
+Brunei,1,7.0
+Bulgaria,6,7.17
+Canada,319,7.56
+Chile,17,8.29
+China,34,7.92
+Colombia,6,7.25
+Croatia,9,8.17
+Czech Republic,28,7.39
+Denmark,20,7.04
+England,12,7.73
+Estonia,11,7.39
+Finland,43,7.44
+France,48,7.88
+Germany,150,7.81
+Greece,50,7.61
+Guatemala,1,10.0
+Hungary,28,7.83
+Iceland,1,7.5
+India,7,7.57
+Indonesia,6,7.67
+Ireland,11,8.27
+Israel,22,7.93
+Italy,92,7.7
+Japan,41,7.13
+Latvia,12,8.03
+Lebanon,1,7.0
+Lithuania,15,7.48
+Luxembourg,4,7.7
+Malaysia,11,7.38
+Mexico,10,7.92
+Moldova,1,8.0
+Mongolia,1,9.0
+Netherlands,76,7.61
+New Zealand,26,7.46
+Norway,20,7.2
+Peru,3,7.33
+Philippines,7,8.71
+Poland,104,7.8
+Portugal,12,7.42
+Qatar,1,6.4
+Romania,19,8.52
+Russia,32,7.86
+Saudi Arabia,2,8.5
+Republic of Serbia,6,7.92
+Slovakia,2,5.75
+Slovenia,9,8.37
+South Africa,5,7.6
+South Korea,41,7.25
+Spain,249,7.78
+Sweden,61,7.34
+Switzerland,15,7.73
+Taiwan,41,8.33
+Thailand,11,8.12
+Turkey,4,8.38
+Ukraine,12,8.0
+USA,1582,7.54
+Uruguay,1,7.5
+Venezuela,4,9.25
+Vietnam,2,6.88
+Argentina,6,6.5
+Australia,44,5.93
+Austria,6,5.25
+Belgium,16,6.13
+Brazil,34,6.13
+Brunei,1,8.0
+Bulgaria,2,8.0
+Canada,171,6.02
+Chile,7,5.37
+China,5,4.3
+Colombia,1,5.0
+Costa Rica,3,6.33
+Croatia,4,5.75
+Czech Republic,2,5.5
+Denmark,6,5.88
+England,4,5.95
+Estonia,1,9.0
+Finland,10,5.65
+France,12,6.44
+Germany,59,6.19
+Greece,8,6.99
+Guatemala,1,7.0
+Honduras,1,7.0
+Hungary,2,7.0
+Indonesia,1,4.0
+Ireland,5,6.2
+Israel,7,6.79
+Italy,31,5.68
+Japan,15,5.61
+Latvia,2,3.5
+Lithuania,1,7.0
+Luxembourg,1,8.0
+Macedonia,1,5.0
+Malaysia,4,5.0
+Mexico,6,6.1
+Netherlands,23,5.78
+New Zealand,8,5.55
+Norway,12,5.71
+Philippines,5,6.2
+Poland,18,5.67
+Portugal,10,7.48
+Romania,2,7.5
+Russia,3,6.0
+Saudi Arabia,1,6.0
+Republic of Serbia,5,6.6
+Slovenia,2,7.5
+South Africa,2,4.5
+South Korea,18,6.35
+Spain,33,6.3
+Sweden,17,5.35
+Switzerland,3,6.0
+Taiwan,5,7.4
+Thailand,3,8.33
+Ukraine,2,8.05
+USA,976,5.94
+Venezuela,1,7.0
+Argentina,15,8.18
+Australia,83,7.89
+Austria,9,8.11
+Belarus,3,8.33
+Belgium,25,7.35
+Bolivia,1,7.0
+Brazil,32,8.54
+Bulgaria,9,7.94
+Canada,210,8.14
+Chile,11,7.14
+China,18,7.91
+Colombia,8,7.85
+Costa Rica,1,7.0
+Croatia,4,7.5
+Czech Republic,10,9.2
+Denmark,11,7.65
+Ecuador,1,8.0
+England,10,8.02
+Estonia,1,8.7
+Finland,11,8.15
+France,31,8.48
+Germany,130,7.8
+Greece,26,8.44
+Hungary,13,7.61
+Iceland,2,9.0
+India,7,8.93
+Indonesia,5,8.8
+Ireland,13,8.38
+Israel,15,8.66
+Italy,46,7.77
+Japan,19,6.84
+Latvia,8,8.13
+Lithuania,7,7.07
+Luxembourg,2,8.5
+Macedonia,2,8.0
+Malaysia,3,7.83
+Mexico,19,8.07
+Moldova,2,9.0
+Netherlands,31,8.0
+New Zealand,16,7.5
+Norway,10,7.31
+Paraguay,1,8.0
+Peru,3,9.67
+Philippines,7,8.36
+Poland,73,8.35
+Portugal,20,7.98
+Qatar,1,8.2
+Romania,12,8.72
+Russia,12,7.83
+Saudi Arabia,2,8.0
+Republic of Serbia,8,6.88
+Slovakia,5,7.85
+Slovenia,3,8.33
+South Africa,8,8.35
+South Korea,19,7.64
+Spain,114,7.96
+Sweden,36,7.85
+Switzerland,15,7.5
+Taiwan,13,8.45
+Thailand,8,7.56
+Uganda,1,8.0
+Ukraine,6,7.83
+USA,1153,8.08
+Uruguay,2,8.0
+Venezuela,1,9.0
+Vietnam,2,8.25
+Argentina,10,7.25
+Australia,43,7.05
+Austria,7,7.86
+Belarus,1,8.0
+Belgium,16,6.6
+Brazil,57,7.39
+Bulgaria,1,6.0
+Canada,121,7.3
+Chile,11,7.43
+China,6,7.07
+Colombia,4,7.28
+Croatia,3,6.47
+Czech Republic,9,6.22
+Denmark,5,5.6
+England,5,7.0
+Estonia,4,6.25
+Finland,31,7.43
+France,18,7.68
+Germany,74,7.47
+Greece,17,7.21
+Hungary,11,7.73
+India,2,7.0
+Indonesia,2,8.5
+Israel,7,8.36
+Italy,47,7.25
+Japan,36,7.34
+Latvia,5,7.1
+Lithuania,5,7.6
+Luxembourg,2,5.5
+Malaysia,3,6.83
+Mexico,5,8.08
+Netherlands,23,7.21
+New Zealand,15,7.35
+Norway,8,7.19
+Philippines,4,6.5
+Poland,36,7.1
+Portugal,9,7.12
+Romania,3,7.67
+Russia,14,7.0
+Saudi Arabia,1,7.0
+Republic of Serbia,1,6.0
+Slovakia,2,6.0
+Slovenia,1,8.0
+South Africa,3,7.33
+South Korea,23,7.28
+Spain,99,7.4
+Sweden,15,7.3
+Switzerland,7,8.27
+Taiwan,23,7.43
+Thailand,4,8.38
+Ukraine,3,5.67
+USA,684,7.25
+Uruguay,1,8.0
+Venezuela,2,7.75
+Vietnam,2,8.38
+Argentina,9,8.06
+Australia,23,7.6
+Austria,8,8.19
+Belarus,1,6.0
+Belgium,11,7.37
+Brazil,13,8.07
+Bulgaria,3,6.67
+Canada,58,7.48
+Chile,5,7.24
+China,6,8.03
+Colombia,4,8.63
+Costa Rica,2,7.0
+Croatia,2,9.0
+Czech Republic,4,7.0
+Denmark,4,5.25
+Ecuador,1,9.0
+England,8,7.96
+Estonia,2,7.5
+Finland,13,7.58
+France,21,8.07
+Germany,99,7.59
+Greece,13,7.42
+Hungary,10,7.2
+Iceland,2,9.0
+India,1,9.0
+Indonesia,1,8.5
+Ireland,6,7.75
+Israel,5,6.45
+Italy,30,7.1
+Japan,17,6.69
+Latvia,3,7.75
+Lithuania,2,8.0
+Luxembourg,2,7.75
+Malaysia,2,8.25
+Mexico,7,8.29
+Netherlands,12,7.61
+New Zealand,7,7.0
+Norway,7,6.57
+Peru,1,8.0
+Philippines,2,7.0
+Poland,41,7.54
+Portugal,7,7.93
+Romania,7,7.93
+Russia,4,7.13
+Saudi Arabia,1,9.0
+Republic of Serbia,4,7.88
+Slovakia,1,5.5
+Slovenia,1,8.0
+South Africa,2,7.2
+South Korea,13,7.14
+Spain,79,7.49
+Sweden,15,7.43
+Switzerland,8,7.06
+Taiwan,8,7.29
+Thailand,5,7.34
+Turkey,1,8.5
+Uganda,1,8.0
+Ukraine,2,10.0
+USA,325,7.35
+Venezuela,2,7.0
+Argentina,5,8.06
+Australia,57,7.37
+Austria,8,6.88
+Belgium,12,7.13
+Brazil,33,8.19
+Bulgaria,2,7.5
+Canada,141,7.38
+Chile,3,6.67
+China,3,5.83
+Colombia,1,8.5
+Croatia,4,7.75
+Czech Republic,4,5.5
+Denmark,7,6.8
+England,5,7.12
+Estonia,4,7.38
+Finland,21,7.54
+France,18,7.61
+Germany,78,6.92
+Greece,14,8.24
+Guatemala,2,7.0
+Hungary,3,5.33
+Iceland,1,7.5
+Indonesia,2,8.5
+Ireland,8,7.97
+Israel,8,7.13
+Italy,25,7.66
+Japan,10,6.4
+Latvia,2,6.75
+Lebanon,1,5.0
+Lithuania,6,5.75
+Luxembourg,1,9.0
+Macedonia,2,8.0
+Malaysia,5,7.5
+Mexico,6,7.5
+Moldova,1,9.0
+Netherlands,16,6.91
+New Zealand,19,6.18
+Norway,10,6.7
+Peru,1,8.5
+Philippines,6,8.08
+Poland,9,8.11
+Portugal,7,7.93
+Romania,2,8.5
+Russia,5,6.65
+Republic of Serbia,2,6.25
+Slovakia,1,9.0
+Slovenia,2,9.0
+South Africa,2,7.5
+South Korea,5,6.0
+Spain,59,7.21
+Sri Lanka,1,8.0
+Sweden,24,6.98
+Switzerland,5,7.3
+Taiwan,4,7.9
+Thailand,4,6.88
+Turkey,2,9.25
+Ukraine,1,8.0
+USA,1087,7.6
+Uruguay,1,8.5
+Venezuela,3,5.5
+Argentina,11,8.09
+Australia,59,7.63
+Austria,4,8.0
+Belgium,8,7.63
+Brazil,48,7.95
+Bulgaria,4,5.75
+Canada,129,7.42
+Chile,5,6.9
+China,9,7.5
+Colombia,5,8.2
+Croatia,1,9.0
+Czech Republic,1,9.0
+Denmark,6,6.17
+England,8,6.78
+Estonia,2,7.6
+Finland,9,7.69
+France,6,8.17
+Germany,32,6.82
+Greece,14,6.96
+Hungary,2,5.5
+Iceland,1,8.0
+India,3,7.33
+Indonesia,4,8.38
+Ireland,10,7.75
+Israel,7,6.69
+Italy,10,6.88
+Japan,13,6.62
+Latvia,2,7.25
+Lithuania,2,7.5
+Luxembourg,1,8.0
+Macedonia,1,6.0
+Malaysia,3,8.33
+Mexico,20,8.29
+Moldova,1,10.0
+Netherlands,14,6.79
+New Zealand,10,7.03
+Norway,3,6.0
+Peru,1,6.0
+Philippines,6,7.67
+Poland,19,6.84
+Portugal,12,7.03
+Romania,1,10.0
+Russia,5,6.0
+Saudi Arabia,2,8.0
+Republic of Serbia,7,8.0
+Slovakia,2,7.25
+Slovenia,1,8.0
+South Africa,2,6.0
+South Korea,12,6.46
+Spain,57,6.95
+Sweden,19,6.97
+Switzerland,3,7.0
+Taiwan,8,7.71
+Thailand,9,7.63
+Turkey,1,8.0
+Uganda,1,7.0
+Ukraine,1,10.0
+USA,818,7.35
+Venezuela,2,5.5
+Vietnam,2,6.15
+Argentina,12,8.77
+Australia,41,7.88
+Austria,4,7.78
+Belarus,1,8.0
+Belgium,8,7.63
+Bolivia,1,8.0
+Brazil,29,8.42
+Bulgaria,4,8.25
+Canada,120,8.07
+Chile,2,6.0
+China,11,8.34
+Colombia,3,8.0
+Croatia,2,6.7
+Czech Republic,7,7.43
+Denmark,6,9.08
+England,7,7.07
+Estonia,2,6.5
+Finland,9,8.81
+France,12,8.5
+Germany,53,7.74
+Greece,14,8.41
+Guatemala,1,9.0
+Hungary,4,6.5
+Iceland,1,10.0
+Indonesia,1,8.0
+Iran,1,8.0
+Iraq,1,9.0
+Ireland,9,7.94
+Israel,4,6.89
+Italy,18,6.61
+Japan,9,7.06
+Latvia,3,7.0
+Lithuania,8,8.13
+Luxembourg,1,7.0
+Macedonia,1,10.0
+Malaysia,3,8.83
+Mexico,15,8.67
+Netherlands,12,7.58
+New Zealand,9,7.78
+Norway,8,7.88
+Philippines,5,8.3
+Poland,29,7.97
+Portugal,13,8.22
+Qatar,1,8.8
+Romania,5,9.61
+Russia,6,7.67
+Republic of Serbia,1,8.5
+Slovakia,1,9.0
+South Africa,2,8.0
+South Korea,12,7.78
+Spain,67,8.0
+Sweden,12,8.86
+Switzerland,3,6.33
+Taiwan,4,8.0
+Thailand,4,6.63
+Turkey,1,8.5
+Ukraine,4,9.5
+USA,640,7.86
+Uruguay,3,8.67
+Venezuela,1,9.0
+Argentina,8,6.94
+Australia,46,6.97
+Austria,3,7.0
+Belarus,1,6.0
+Belgium,11,7.09
+Brazil,22,7.07
+Brunei,1,8.0
+Canada,96,7.04
+Chile,9,7.41
+China,4,6.95
+Colombia,1,10.0
+Croatia,1,8.0
+Czech Republic,2,7.5
+Denmark,5,4.8
+England,7,7.36
+Estonia,3,6.67
+Finland,20,6.93
+France,16,7.13
+Germany,61,6.9
+Greece,14,7.29
+Guatemala,1,1.0
+Hungary,3,7.0
+India,1,6.0
+Indonesia,1,7.0
+Ireland,2,7.75
+Israel,6,7.5
+Italy,17,7.24
+Japan,28,6.68
+Latvia,1,9.0
+Malaysia,5,6.96
+Mexico,6,7.3
+Netherlands,11,7.29
+New Zealand,13,7.22
+Norway,11,7.18
+Philippines,2,8.0
+Poland,13,6.96
+Portugal,7,7.11
+Romania,2,6.75
+Russia,1,5.0
+Saudi Arabia,1,8.0
+Republic of Serbia,2,9.0
+Slovenia,3,8.33
+South Africa,3,6.83
+South Korea,13,6.86
+Spain,76,6.96
+Sweden,17,6.28
+Switzerland,3,6.67
+Taiwan,11,7.56
+Thailand,7,8.04
+Ukraine,1,9.0
+USA,684,7.24
+Uruguay,1,8.0
+Vietnam,1,7.5
+Argentina,2,8.0
+Australia,34,7.23
+Austria,6,7.17
+Belgium,12,7.54
+Brazil,18,8.14
+Canada,115,7.65
+Chile,2,8.5
+China,1,5.9
+Czech Republic,1,8.0
+Denmark,10,7.25
+England,4,6.75
+Finland,18,7.28
+France,17,7.93
+Germany,59,7.21
+Greece,10,7.85
+Hungary,4,8.13
+Iceland,1,7.0
+India,1,7.0
+Indonesia,1,7.0
+Ireland,5,8.05
+Israel,2,6.0
+Italy,32,7.29
+Japan,6,6.67
+Latvia,1,6.0
+Lithuania,1,8.0
+Mexico,4,8.45
+Moldova,1,7.0
+Netherlands,19,6.6
+New Zealand,9,6.72
+Norway,10,6.8
+Peru,2,8.5
+Philippines,1,5.0
+Poland,5,7.4
+Portugal,9,6.28
+Russia,3,6.33
+Republic of Serbia,2,8.0
+Slovenia,1,10.0
+South Korea,3,7.67
+Spain,24,7.56
+Sweden,25,7.38
+Switzerland,2,8.0
+Taiwan,1,9.0
+Turkey,1,9.0
+Ukraine,1,8.0
+USA,601,7.4
+Venezuela,2,6.5
+Argentina,26,8.23
+Australia,83,7.65
+Austria,11,8.05
+The Bahamas,1,10.0
+Belarus,3,8.33
+Belgium,45,7.65
+Bolivia,1,8.0
+Brazil,97,8.5
+Bulgaria,10,8.05
+Canada,187,7.71
+Chile,20,8.27
+China,27,7.79
+Colombia,5,8.9
+Costa Rica,2,9.5
+Croatia,10,8.2
+Czech Republic,18,8.12
+Denmark,14,7.21
+England,10,7.2
+Estonia,6,8.0
+Finland,28,7.46
+France,35,8.23
+Germany,111,7.12
+Greece,49,7.87
+Hungary,25,8.4
+Iceland,2,8.75
+India,4,8.13
+Indonesia,5,8.54
+Ireland,16,7.86
+Israel,14,7.78
+Italy,69,7.99
+Japan,37,7.32
+Latvia,8,8.0
+Lithuania,17,7.81
+Luxembourg,3,7.67
+Macedonia,2,7.0
+Malaysia,8,7.88
+Mexico,20,8.56
+Moldova,1,9.0
+Netherlands,33,7.9
+New Zealand,19,7.63
+Norway,14,7.25
+Peru,3,8.67
+Philippines,8,7.88
+Poland,123,7.77
+Portugal,25,7.86
+Qatar,2,7.1
+Romania,16,8.1
+Russia,22,7.91
+Saudi Arabia,3,7.33
+Republic of Serbia,10,8.3
+Slovakia,4,8.0
+Slovenia,4,8.75
+South Africa,4,8.33
+South Korea,28,7.55
+Spain,159,7.92
+Sweden,34,7.37
+Switzerland,9,7.44
+Taiwan,32,7.98
+Thailand,16,8.52
+Turkey,1,8.5
+Uganda,1,8.0
+Ukraine,12,8.54
+USA,1075,7.52
+Uruguay,4,8.75
+Venezuela,2,8.0
+Vietnam,2,7.63
+Argentina,21,8.62
+Australia,123,7.81
+Austria,20,8.13
+Belarus,2,10.0
+Belgium,57,8.27
+Bolivia,2,9.0
+Brazil,75,8.39
+Brunei,1,10.0
+Bulgaria,7,8.0
+Canada,384,8.13
+Chile,16,8.19
+China,31,8.62
+Colombia,5,9.1
+Costa Rica,1,10.0
+Croatia,6,8.22
+Czech Republic,24,8.46
+Denmark,29,8.05
+Ecuador,2,7.0
+England,14,7.91
+Estonia,7,8.29
+Finland,53,8.37
+France,38,7.98
+Germany,291,8.2
+Greece,44,8.31
+Guatemala,2,9.25
+Hungary,24,7.72
+Iceland,2,7.5
+India,5,8.0
+Indonesia,3,8.67
+Iraq,1,9.0
+Ireland,13,8.41
+Israel,15,8.59
+Italy,65,8.04
+Japan,46,8.03
+Latvia,9,8.69
+Lithuania,16,8.34
+Luxembourg,4,8.25
+Malaysia,11,7.81
+Mexico,18,8.25
+Moldova,2,9.75
+Netherlands,63,8.26
+New Zealand,29,8.01
+Norway,31,8.65
+Peru,6,7.25
+Philippines,3,8.17
+Poland,110,8.15
+Portugal,20,8.07
+Romania,19,8.8
+Russia,26,8.62
+Saudi Arabia,1,9.0
+Republic of Serbia,7,7.57
+Slovakia,4,8.15
+Slovenia,4,8.75
+South Africa,8,8.5
+South Korea,35,8.52
+Spain,189,8.01
+Sweden,72,8.13
+Switzerland,23,7.98
+Taiwan,39,8.38
+Thailand,12,8.08
+Trinidad and Tobago,1,7.0
+Uganda,1,8.0
+Ukraine,9,7.56
+USA,2646,8.3
+Uruguay,3,9.67
+Venezuela,3,9.67
+Vietnam,3,7.58
+Argentina,7,8.86
+Australia,50,7.9
+Austria,14,7.32
+Azerbaijan,1,6.0
+Belarus,2,9.5
+Belgium,23,8.45
+Bolivia,2,9.0
+Brazil,21,8.6
+Bulgaria,1,8.0
+Canada,162,8.1
+Chile,7,8.07
+China,20,8.81
+Colombia,2,7.75
+Croatia,2,7.35
+Czech Republic,14,8.16
+Denmark,11,7.52
+England,8,8.78
+Estonia,5,7.5
+Finland,23,7.94
+France,21,7.8
+Germany,122,8.15
+Greece,13,8.65
+Hungary,7,7.59
+India,1,5.0
+Indonesia,3,8.67
+Ireland,4,8.0
+Israel,7,9.07
+Italy,30,8.38
+Japan,20,7.56
+Latvia,7,8.27
+Lithuania,6,8.67
+Luxembourg,3,6.5
+Malaysia,5,8.76
+Mexico,6,7.58
+Netherlands,27,8.3
+New Zealand,15,7.83
+Norway,16,8.44
+Peru,1,8.0
+Philippines,3,6.5
+Poland,56,8.06
+Portugal,4,9.25
+Qatar,1,7.6
+Romania,8,8.93
+Russia,13,8.38
+Republic of Serbia,2,8.0
+Slovakia,2,7.65
+Slovenia,1,10.0
+South Africa,4,8.38
+South Korea,25,8.3
+Spain,74,8.03
+Sweden,28,8.09
+Switzerland,14,7.93
+Taiwan,16,8.37
+Thailand,7,7.56
+Ukraine,8,7.39
+USA,1090,8.29
+Uruguay,1,10.0
+Venezuela,2,8.5
+Vietnam,2,8.0
+Argentina,4,8.3
+Australia,26,7.75
+Austria,7,8.71
+Azerbaijan,1,9.0
+Belarus,2,9.25
+Belgium,13,8.59
+Brazil,35,8.58
+Bulgaria,2,9.0
+Canada,104,8.35
+Chile,3,8.63
+China,11,7.38
+Colombia,1,8.0
+Croatia,4,8.18
+Czech Republic,5,7.4
+Denmark,7,9.0
+Ecuador,1,8.0
+England,6,8.18
+Estonia,2,8.7
+Finland,34,9.01
+France,16,8.65
+Germany,74,8.35
+Greece,13,8.25
+Hungary,4,7.3
+Iceland,1,10.0
+India,2,6.0
+Indonesia,1,8.0
+Ireland,4,9.0
+Israel,4,8.5
+Italy,34,7.91
+Japan,6,5.83
+Latvia,6,8.5
+Lithuania,5,8.0
+Luxembourg,1,8.0
+Malaysia,2,10.0
+Mexico,1,7.0
+Netherlands,14,7.9
+New Zealand,7,8.29
+Norway,9,7.99
+Peru,1,9.0
+Philippines,1,5.0
+Poland,39,8.47
+Portugal,4,8.75
+Romania,3,8.5
+Russia,13,8.54
+Republic of Serbia,3,8.5
+Slovakia,1,9.0
+South Africa,4,9.25
+South Korea,9,7.92
+Spain,66,8.22
+Sweden,20,7.83
+Switzerland,6,8.3
+Taiwan,7,8.37
+Thailand,5,7.9
+Ukraine,8,8.88
+USA,600,8.1
+Venezuela,3,8.67
+Vietnam,1,10.0
+Argentina,11,8.74
+Australia,55,8.12
+Austria,21,9.07
+Belgium,51,8.25
+Brazil,35,8.45
+Bulgaria,1,7.0
+Canada,155,8.14
+Chile,9,7.91
+China,8,7.78
+Colombia,4,8.63
+Croatia,5,8.88
+Czech Republic,10,7.5
+Denmark,15,7.63
+England,8,8.38
+Estonia,3,9.0
+Finland,29,8.27
+France,20,8.01
+Germany,228,8.28
+Greece,21,8.17
+Hungary,12,7.92
+India,1,8.0
+Indonesia,3,8.67
+Ireland,6,8.33
+Israel,12,8.25
+Italy,55,8.23
+Japan,33,7.98
+Latvia,3,7.5
+Lithuania,4,8.25
+Luxembourg,1,7.0
+Malaysia,7,8.07
+Mexico,9,8.33
+Moldova,1,9.0
+Netherlands,55,8.05
+New Zealand,17,7.36
+Norway,19,8.59
+Peru,1,7.5
+Philippines,2,9.0
+Poland,41,8.07
+Portugal,10,8.5
+Qatar,1,8.0
+Romania,5,8.9
+Russia,1,7.0
+Saudi Arabia,1,9.0
+Republic of Serbia,3,8.17
+Slovakia,1,6.0
+Slovenia,3,9.17
+South Africa,4,9.0
+South Korea,28,8.2
+Spain,116,8.39
+Sweden,40,7.67
+Switzerland,14,7.96
+Taiwan,17,8.38
+Thailand,6,8.17
+Ukraine,2,7.0
+USA,894,8.06
+Venezuela,3,8.33
+Argentina,2,6.75
+Australia,18,7.44
+Austria,9,6.47
+Belarus,2,8.75
+Belgium,30,7.37
+Brazil,18,7.57
+Brunei,1,8.0
+Canada,58,6.98
+Chile,4,7.95
+China,2,6.3
+Colombia,1,7.5
+Czech Republic,7,6.43
+Denmark,6,6.67
+England,3,6.67
+Estonia,4,6.5
+Finland,13,7.23
+France,10,7.0
+Germany,107,6.9
+Greece,7,7.49
+Hungary,7,7.36
+India,2,8.0
+Indonesia,1,6.2
+Ireland,1,7.0
+Israel,3,8.0
+Italy,34,7.09
+Japan,29,7.14
+Lithuania,1,8.0
+Malaysia,1,7.5
+Netherlands,41,7.3
+New Zealand,11,6.34
+Norway,13,7.51
+Poland,8,7.38
+Portugal,5,6.5
+Romania,1,8.0
+Russia,4,6.5
+Saudi Arabia,1,8.0
+Republic of Serbia,2,8.25
+Slovakia,1,5.0
+Slovenia,1,9.0
+South Africa,2,6.5
+South Korea,12,6.43
+Spain,28,7.44
+Sweden,28,6.95
+Switzerland,4,7.25
+Taiwan,5,6.78
+Thailand,1,7.0
+Ukraine,2,8.75
+USA,475,7.06
+Venezuela,1,6.0
+Argentina,9,8.41
+Australia,42,7.89
+Austria,3,7.0
+Belarus,1,7.0
+Belgium,14,7.86
+Brazil,33,8.51
+Bulgaria,4,9.0
+Canada,107,8.02
+Chile,4,7.85
+China,10,8.25
+Colombia,4,9.0
+Costa Rica,1,8.0
+Croatia,1,6.7
+Czech Republic,3,6.33
+Denmark,5,7.24
+England,5,8.6
+Estonia,3,7.98
+Finland,4,7.38
+France,22,7.8
+Germany,48,7.28
+Greece,18,8.93
+Guatemala,1,9.0
+Hungary,9,7.09
+Iceland,1,9.0
+India,4,8.0
+Indonesia,1,8.5
+Ireland,5,9.0
+Israel,4,8.05
+Italy,23,7.37
+Japan,8,7.44
+Kenya,1,7.5
+Latvia,3,8.75
+Lebanon,1,9.0
+Lithuania,6,7.0
+Luxembourg,2,5.25
+Malaysia,4,8.38
+Mexico,8,8.49
+Netherlands,23,7.7
+New Zealand,8,7.88
+Norway,6,7.53
+Peru,2,9.5
+Philippines,7,8.43
+Poland,35,8.08
+Portugal,11,7.75
+Qatar,1,2.2
+Romania,7,8.85
+Russia,7,7.43
+Republic of Serbia,5,7.2
+Slovakia,2,9.25
+Slovenia,1,8.0
+South Africa,4,7.88
+South Korea,14,7.59
+Spain,44,8.38
+Sweden,22,7.5
+Switzerland,6,8.25
+Taiwan,10,8.84
+Thailand,3,8.33
+Ukraine,5,8.4
+USA,602,7.91
+Venezuela,2,9.5
+Vietnam,2,8.75
+Argentina,7,7.36
+Australia,33,7.41
+Austria,5,7.3
+Belgium,14,7.39
+Bolivia,1,9.0
+Brazil,21,7.97
+Bulgaria,1,10.0
+Canada,95,7.7
+Chile,6,7.67
+China,3,7.23
+Colombia,1,7.0
+Czech Republic,8,7.88
+Denmark,1,6.0
+England,3,7.25
+Finland,5,7.6
+France,5,7.6
+Germany,48,7.43
+Greece,13,7.67
+Guatemala,1,7.0
+Hungary,3,7.0
+India,2,8.0
+Indonesia,1,8.0
+Ireland,4,7.25
+Italy,13,7.12
+Japan,8,6.25
+Latvia,1,9.0
+Lithuania,1,9.0
+Luxembourg,1,8.0
+Malaysia,1,7.0
+Mexico,7,8.43
+Netherlands,24,7.52
+New Zealand,8,7.06
+Norway,7,6.54
+Philippines,2,6.5
+Poland,20,7.48
+Portugal,3,7.0
+Qatar,1,6.6
+Romania,1,9.0
+Russia,5,7.6
+Republic of Serbia,1,7.0
+Slovenia,1,10.0
+South Africa,3,7.5
+South Korea,7,8.29
+Spain,70,7.62
+Sweden,10,7.55
+Switzerland,2,6.5
+Taiwan,2,8.75
+Thailand,6,6.5
+Ukraine,2,6.8
+USA,550,7.62
+Uruguay,1,8.5
+Argentina,3,6.33
+Australia,30,6.02
+Austria,1,6.0
+Belarus,1,5.0
+Belgium,6,7.0
+Brazil,9,7.0
+Brunei,1,7.0
+Canada,69,6.27
+Chile,5,6.78
+China,4,6.0
+Colombia,1,7.0
+Denmark,6,4.83
+England,3,6.67
+Estonia,1,10.0
+Finland,17,5.16
+France,1,9.0
+Germany,41,5.58
+Greece,1,5.0
+Hungary,1,9.5
+India,1,6.0
+Indonesia,1,2.0
+Ireland,4,6.94
+Israel,7,6.79
+Italy,8,6.31
+Japan,4,4.0
+Malaysia,4,5.5
+Mexico,2,6.0
+Netherlands,18,6.85
+New Zealand,6,6.08
+Norway,5,5.8
+Philippines,2,7.0
+Poland,5,5.2
+Qatar,1,8.0
+Romania,2,7.25
+Russia,4,5.75
+Republic of Serbia,1,8.0
+Slovakia,1,7.0
+South Africa,1,4.0
+South Korea,8,6.0
+Spain,13,7.45
+Sweden,27,5.74
+Switzerland,3,7.0
+Taiwan,1,6.0
+Turkey,1,8.0
+USA,1008,6.07
+Argentina,1,7.0
+Australia,52,7.63
+Austria,3,6.0
+Belarus,1,7.0
+Belgium,8,7.34
+Brazil,29,7.72
+Brunei,1,7.0
+Canada,152,7.51
+Chile,5,7.1
+China,12,6.93
+Colombia,1,7.0
+Croatia,1,7.3
+Czech Republic,4,8.0
+Denmark,4,7.0
+England,8,7.31
+Estonia,6,6.42
+Finland,22,7.62
+France,9,7.78
+Germany,35,7.03
+Greece,22,7.7
+Hungary,9,7.67
+Iceland,1,8.0
+India,5,8.9
+Indonesia,2,7.5
+Ireland,4,7.75
+Israel,9,7.47
+Italy,18,7.34
+Japan,17,6.62
+Latvia,5,7.5
+Lithuania,4,5.75
+Malaysia,6,7.25
+Mexico,4,6.75
+Moldova,1,10.0
+Netherlands,18,7.24
+New Zealand,16,7.24
+Norway,10,7.7
+Philippines,3,8.67
+Poland,25,7.68
+Portugal,8,7.44
+Romania,1,7.0
+Russia,5,7.6
+Saudi Arabia,1,8.0
+Republic of Serbia,4,7.25
+Slovakia,1,8.0
+Slovenia,2,7.75
+South Africa,5,7.0
+South Korea,21,7.23
+Spain,51,7.26
+Sweden,21,7.14
+Switzerland,2,7.5
+Taiwan,18,7.48
+Thailand,12,7.95
+Turkey,2,7.75
+Uganda,1,8.5
+Ukraine,2,9.5
+USA,886,7.56
+Venezuela,1,7.0
+Vietnam,1,6.5
+Argentina,4,8.13
+Australia,34,7.12
+Austria,1,7.5
+Belarus,1,7.0
+Belgium,11,7.01
+Bolivia,1,8.0
+Brazil,18,7.55
+Bulgaria,1,10.0
+Canada,94,7.72
+Chile,4,7.75
+China,3,6.5
+Colombia,3,7.33
+Costa Rica,1,9.0
+Croatia,1,7.0
+Czech Republic,2,8.5
+Denmark,5,7.94
+England,6,6.42
+Finland,7,7.21
+France,7,7.63
+Germany,34,7.36
+Greece,3,7.83
+Honduras,1,7.8
+Hungary,5,7.8
+Iceland,1,7.5
+India,2,8.0
+Indonesia,1,8.0
+Ireland,4,7.63
+Israel,5,7.63
+Italy,8,7.0
+Japan,5,5.6
+Latvia,2,7.5
+Lithuania,4,7.75
+Malaysia,1,7.0
+Mexico,12,7.8
+Netherlands,15,7.46
+New Zealand,8,6.69
+Norway,6,7.25
+Peru,1,6.0
+Philippines,2,5.75
+Poland,7,8.36
+Portugal,4,7.23
+Qatar,1,8.0
+Romania,7,8.26
+Russia,2,6.13
+Republic of Serbia,2,7.25
+Slovakia,1,10.0
+Slovenia,3,9.0
+South Africa,4,8.13
+South Korea,8,7.25
+Spain,35,6.99
+Sri Lanka,1,7.0
+Sweden,10,7.65
+Switzerland,2,7.5
+Taiwan,7,8.81
+Thailand,4,6.88
+Ukraine,2,7.6
+USA,648,7.54
+Uruguay,1,7.5
+Vietnam,2,5.88
+Argentina,18,7.1
+Australia,67,7.11
+Austria,6,7.0
+Belarus,3,6.67
+Belgium,24,7.67
+Bolivia,1,7.0
+Brazil,40,7.52
+Bulgaria,3,7.5
+Canada,159,7.24
+Chile,15,6.79
+China,8,6.73
+Colombia,4,7.25
+Costa Rica,2,7.5
+Czech Republic,5,6.9
+Denmark,9,6.51
+England,12,6.92
+Estonia,3,7.67
+Finland,18,6.94
+France,15,7.23
+Germany,75,6.89
+Greece,26,7.25
+Hungary,6,7.0
+India,3,7.33
+Indonesia,1,6.0
+Ireland,9,7.17
+Israel,9,6.7
+Italy,21,6.59
+Japan,18,6.87
+Latvia,3,7.33
+Lithuania,1,8.0
+Luxembourg,2,7.0
+Malaysia,4,8.13
+Mexico,13,7.54
+Netherlands,31,7.26
+New Zealand,11,6.96
+Norway,8,6.81
+Peru,1,7.0
+Philippines,5,7.0
+Poland,35,7.21
+Portugal,17,7.02
+Qatar,1,8.0
+Romania,4,9.0
+Russia,14,6.51
+Republic of Serbia,2,6.0
+Slovakia,2,8.5
+Slovenia,3,8.67
+South Africa,5,7.6
+South Korea,8,7.5
+Spain,120,6.96
+Sweden,22,7.1
+Switzerland,6,7.08
+Taiwan,12,7.28
+Thailand,9,7.16
+Trinidad and Tobago,1,7.0
+Uganda,1,7.5
+Ukraine,6,7.22
+USA,1325,7.23
+Uruguay,4,7.63
+Venezuela,1,7.0
+Argentina,8,7.14
+Australia,29,7.06
+Austria,7,7.86
+Belgium,18,7.67
+Bolivia,1,10.0
+Brazil,25,7.82
+Canada,80,7.48
+Chile,3,6.83
+China,5,6.74
+Colombia,1,8.0
+Croatia,1,5.8
+Czech Republic,4,6.5
+Denmark,5,6.6
+England,4,7.4
+Estonia,5,7.24
+Finland,8,7.63
+France,8,7.43
+Germany,42,7.27
+Greece,16,7.29
+Hungary,2,7.0
+Iceland,1,7.0
+Indonesia,1,7.5
+Ireland,4,7.25
+Israel,1,6.0
+Italy,23,7.46
+Japan,6,7.33
+Latvia,1,7.0
+Lebanon,1,7.0
+Lithuania,4,7.75
+Macedonia,1,9.0
+Malaysia,5,6.3
+Mexico,6,8.0
+Netherlands,13,7.42
+New Zealand,8,7.14
+Norway,7,7.64
+Peru,2,7.0
+Philippines,3,4.67
+Poland,8,6.81
+Portugal,7,6.99
+Qatar,2,6.5
+Romania,5,7.36
+Russia,5,7.6
+Republic of Serbia,1,7.0
+South Africa,2,6.5
+South Korea,7,6.43
+Spain,80,7.62
+Sweden,16,7.24
+Switzerland,3,5.33
+Taiwan,1,6.0
+Thailand,3,8.67
+Ukraine,1,8.0
+USA,478,7.4
+Uruguay,2,8.0
+Venezuela,1,9.0
+Australia,16,7.09
+Austria,4,7.0
+Belgium,16,7.63
+Brazil,9,7.21
+Canada,66,7.18
+Czech Republic,5,7.9
+Denmark,9,6.67
+England,9,6.89
+Finland,10,6.7
+France,13,7.46
+Germany,55,7.56
+Greece,14,7.58
+Hungary,3,8.17
+Ireland,2,7.0
+Italy,52,7.3
+Japan,9,6.0
+Mongolia,1,7.0
+Netherlands,18,7.48
+New Zealand,9,7.24
+Norway,12,6.67
+Poland,2,8.5
+Portugal,5,7.1
+Qatar,1,7.2
+Russia,1,9.0
+Republic of Serbia,1,8.0
+South Africa,1,7.0
+South Korea,14,7.29
+Spain,42,7.86
+Sweden,27,6.77
+Switzerland,3,7.67
+Taiwan,2,7.0
+USA,527,7.22
+Venezuela,1,8.0
+Albania,1,5.5
+Argentina,4,7.25
+Australia,49,7.78
+Austria,8,8.5
+Belgium,15,7.35
+Bolivia,2,8.75
+Brazil,30,8.67
+Canada,167,7.73
+Chile,5,6.3
+China,13,7.93
+Colombia,4,8.38
+Croatia,2,9.0
+Czech Republic,19,8.16
+Denmark,11,7.16
+England,8,8.06
+Estonia,3,6.67
+Finland,23,8.26
+France,17,7.99
+Germany,121,8.15
+Greece,19,8.26
+Guatemala,1,7.0
+Hungary,7,7.57
+India,1,7.5
+Indonesia,4,7.88
+Iran,1,3.0
+Ireland,7,7.21
+Israel,5,8.0
+Italy,28,7.89
+Japan,18,7.06
+Latvia,4,6.25
+Lithuania,6,8.17
+Luxembourg,1,8.0
+Malaysia,3,8.33
+Mexico,4,7.7
+Moldova,1,6.0
+Netherlands,24,7.7
+New Zealand,16,7.2
+Norway,9,7.96
+Philippines,2,6.5
+Poland,62,7.48
+Portugal,7,8.7
+Qatar,1,6.8
+Romania,4,8.23
+Russia,13,7.85
+Republic of Serbia,2,8.2
+Slovakia,1,10.0
+Slovenia,1,10.0
+South Africa,2,7.25
+South Korea,17,7.11
+Spain,84,7.85
+Sweden,25,7.44
+Switzerland,5,7.9
+Taiwan,16,7.82
+Thailand,2,8.0
+Turkey,1,6.0
+Ukraine,3,8.5
+USA,769,7.57
+Vietnam,3,8.4
+Argentina,7,8.71
+Australia,21,7.42
+Austria,6,5.83
+Belgium,10,9.0
+Brazil,15,8.92
+Bulgaria,2,7.0
+Canada,101,7.85
+Chile,6,9.03
+China,23,9.25
+Colombia,2,7.5
+Croatia,4,9.25
+Czech Republic,9,7.11
+Denmark,5,4.4
+England,6,7.5
+Finland,24,8.0
+France,9,8.2
+Germany,50,7.7
+Greece,6,8.33
+Guatemala,1,10.0
+Hungary,8,8.13
+India,2,7.4
+Indonesia,1,8.0
+Ireland,3,7.33
+Israel,3,7.33
+Italy,32,8.17
+Japan,12,7.25
+Latvia,2,5.5
+Lithuania,4,9.0
+Malaysia,3,8.26
+Mexico,4,7.63
+Netherlands,18,8.24
+New Zealand,7,8.0
+Norway,12,7.02
+Peru,1,8.0
+Poland,25,8.32
+Portugal,2,7.45
+Romania,2,9.5
+Russia,10,7.35
+Republic of Serbia,4,7.0
+Slovenia,1,10.0
+South Africa,2,7.5
+South Korea,14,7.54
+Spain,46,7.69
+Sweden,23,7.39
+Switzerland,4,8.63
+Taiwan,10,8.85
+Thailand,6,8.0
+Turkey,1,9.0
+USA,618,7.61
+Venezuela,2,6.5
+Australia,26,7.93
+Austria,11,8.73
+Belgium,27,7.93
+Brazil,17,8.44
+Canada,89,8.16
+Chile,6,8.07
+China,9,8.03
+Colombia,2,7.75
+Croatia,1,9.0
+Czech Republic,7,7.71
+Denmark,5,6.4
+England,5,7.6
+Estonia,1,10.0
+Finland,13,7.65
+France,17,8.1
+Germany,95,8.13
+Greece,12,7.83
+Hungary,6,8.0
+Iceland,1,8.5
+India,4,8.13
+Ireland,1,7.0
+Israel,4,8.88
+Italy,30,7.92
+Japan,10,6.25
+Lithuania,1,8.0
+Luxembourg,1,8.8
+Malaysia,2,7.5
+Mexico,1,7.4
+Netherlands,18,7.81
+New Zealand,8,7.53
+Norway,10,8.48
+Philippines,1,2.0
+Poland,32,8.44
+Portugal,5,7.6
+Romania,2,9.05
+Slovenia,2,9.5
+South Africa,1,7.0
+South Korea,21,7.81
+Spain,49,8.11
+Sweden,20,8.13
+Switzerland,4,8.5
+Taiwan,13,8.15
+Thailand,1,8.0
+Ukraine,1,5.0
+USA,456,7.66
+Uruguay,1,9.0
+Venezuela,2,10.0
+Argentina,4,6.38
+Australia,40,6.81
+Austria,2,6.5
+Belgium,18,7.24
+Brazil,19,7.49
+Canada,134,6.93
+Chile,5,6.52
+China,4,5.5
+Colombia,1,6.5
+Denmark,10,6.08
+England,4,7.25
+Estonia,3,6.67
+Finland,29,6.39
+France,9,6.39
+Germany,55,7.16
+Greece,26,7.34
+Hungary,2,6.5
+Ireland,1,5.0
+Israel,6,6.25
+Italy,23,6.9
+Japan,5,5.6
+Latvia,1,6.75
+Lithuania,1,7.5
+Malaysia,2,7.25
+Mexico,3,6.17
+Netherlands,25,7.0
+New Zealand,5,7.2
+Norway,15,6.97
+Philippines,1,7.5
+Poland,15,6.6
+Portugal,10,6.51
+Russia,2,7.0
+Republic of Serbia,4,6.25
+South Korea,7,6.29
+Spain,34,6.74
+Sweden,22,6.68
+Switzerland,3,6.5
+Taiwan,7,7.11
+Thailand,3,8.33
+Ukraine,2,6.5
+USA,1080,6.91
+Venezuela,1,9.0
+Argentina,14,7.62
+Australia,56,7.61
+Austria,10,7.7
+Belarus,1,6.0
+Belgium,15,7.62
+Brazil,44,7.69
+Bulgaria,4,8.0
+Canada,136,7.3
+Chile,11,8.17
+China,14,7.79
+Colombia,6,6.92
+Croatia,5,7.48
+Czech Republic,7,8.0
+Denmark,7,6.86
+England,9,7.41
+Estonia,2,7.75
+Finland,15,7.62
+France,25,7.7
+Germany,122,7.31
+Greece,20,7.76
+Guatemala,1,8.0
+Hungary,15,7.23
+Iceland,1,6.0
+India,4,7.38
+Indonesia,2,9.0
+Ireland,3,8.5
+Israel,10,7.74
+Italy,32,7.45
+Japan,24,7.0
+Latvia,5,7.45
+Lithuania,9,6.5
+Luxembourg,3,6.67
+Malaysia,2,8.0
+Mexico,13,8.41
+Moldova,2,10.0
+Netherlands,17,7.42
+New Zealand,14,7.67
+Norway,7,6.71
+Peru,2,7.0
+Philippines,6,6.67
+Poland,32,7.05
+Portugal,15,7.27
+Qatar,1,5.8
+Romania,11,7.07
+Russia,9,7.44
+Saudi Arabia,2,5.5
+Republic of Serbia,5,8.2
+Slovakia,1,5.0
+Slovenia,4,8.0
+South Africa,1,9.0
+South Korea,20,6.91
+Spain,90,7.34
+Sri Lanka,1,7.0
+Sweden,25,7.08
+Switzerland,12,7.48
+Taiwan,18,7.85
+Thailand,7,7.64
+Turkey,1,7.0
+Ukraine,1,7.0
+USA,735,7.5
+Uruguay,1,8.0
+Venezuela,2,7.5
+Vietnam,2,7.38
+Zambia,1,4.0
+Argentina,4,7.13
+Australia,57,6.87
+Austria,2,6.5
+Belarus,1,7.0
+Belgium,19,7.14
+Bolivia,1,10.0
+Brazil,26,7.31
+Brunei,1,8.0
+Canada,113,6.86
+Chile,10,7.39
+China,6,6.83
+Colombia,2,6.5
+Croatia,3,8.0
+Czech Republic,5,6.0
+Denmark,10,6.4
+England,11,7.14
+Estonia,6,6.58
+Finland,19,6.95
+France,18,7.81
+Germany,60,7.06
+Greece,16,7.1
+Hungary,8,7.2
+Iceland,2,7.5
+India,5,7.2
+Indonesia,2,6.15
+Ireland,8,7.25
+Israel,5,6.62
+Italy,15,7.41
+Japan,29,6.92
+Latvia,3,6.83
+Lithuania,1,8.0
+Luxembourg,1,6.0
+Malaysia,5,7.4
+Mexico,6,7.08
+Moldova,1,10.0
+Netherlands,27,7.14
+New Zealand,11,6.96
+Norway,14,6.86
+Peru,1,7.0
+Philippines,3,7.33
+Poland,48,6.62
+Portugal,9,6.91
+Qatar,1,6.0
+Romania,6,8.23
+Russia,14,6.36
+Republic of Serbia,2,8.0
+Slovakia,1,5.0
+Slovenia,2,7.5
+South Africa,2,7.75
+South Korea,11,7.14
+Spain,76,6.98
+Sweden,21,6.43
+Switzerland,4,6.13
+Taiwan,9,6.89
+Thailand,5,6.62
+Turkey,1,7.0
+Ukraine,3,7.33
+USA,662,6.99
+Uruguay,1,7.5
+Vietnam,2,7.0
+Argentina,13,7.8
+Australia,53,7.3
+Austria,9,6.5
+The Bahamas,1,9.0
+Belarus,1,8.0
+Belgium,21,7.66
+Brazil,37,8.01
+Bulgaria,2,7.5
+Canada,155,7.45
+Chile,7,7.63
+China,17,7.43
+Colombia,3,8.5
+Croatia,3,9.0
+Czech Republic,5,8.0
+Denmark,9,6.2
+England,11,7.55
+Estonia,4,7.25
+Finland,12,6.5
+France,9,8.19
+Germany,82,7.53
+Greece,22,7.95
+Hungary,14,7.54
+India,4,8.0
+Indonesia,2,8.0
+Iran,2,8.5
+Ireland,7,7.71
+Israel,9,7.28
+Italy,32,7.76
+Japan,6,5.67
+Latvia,5,7.62
+Lithuania,2,7.0
+Luxembourg,3,7.33
+Malaysia,4,8.7
+Mexico,5,7.94
+Netherlands,29,7.19
+New Zealand,10,6.99
+Norway,8,6.78
+Peru,1,7.5
+Philippines,5,6.3
+Poland,70,7.46
+Portugal,18,7.81
+Qatar,1,6.2
+Romania,4,7.68
+Russia,10,7.63
+Republic of Serbia,3,7.87
+Slovakia,3,8.0
+Slovenia,2,9.5
+South Africa,4,7.25
+South Korea,10,7.25
+Spain,111,7.65
+Sweden,18,7.36
+Switzerland,7,8.29
+Taiwan,16,7.49
+Thailand,4,6.38
+Uganda,1,6.0
+Ukraine,4,8.75
+USA,854,7.49
+Uruguay,1,8.0
+Vietnam,1,5.25
+Argentina,3,7.33
+Australia,28,7.46
+Austria,12,6.38
+Belarus,1,9.5
+Belgium,17,7.61
+Brazil,30,7.96
+Bulgaria,1,7.0
+Canada,88,7.57
+Chile,12,8.17
+China,11,7.5
+Colombia,1,10.0
+Croatia,5,8.88
+Czech Republic,7,8.21
+Denmark,5,7.0
+England,8,7.88
+Estonia,2,9.0
+Finland,25,7.57
+France,13,7.69
+Germany,112,7.58
+Greece,21,7.79
+Guatemala,1,7.0
+Hungary,8,7.68
+India,1,8.0
+Indonesia,2,5.0
+Ireland,4,7.75
+Israel,3,8.4
+Italy,19,7.59
+Japan,17,7.46
+Latvia,8,7.38
+Lithuania,1,7.0
+Luxembourg,2,7.4
+Malaysia,3,6.83
+Mexico,5,7.3
+Moldova,2,9.5
+Netherlands,30,7.62
+New Zealand,10,7.16
+Norway,14,7.18
+Peru,1,7.0
+Philippines,3,7.33
+Poland,44,7.82
+Portugal,12,7.42
+Qatar,1,6.8
+Romania,4,8.63
+Russia,7,7.0
+Saudi Arabia,1,8.0
+Republic of Serbia,1,6.0
+Slovenia,5,8.6
+South Africa,3,7.33
+South Korea,18,7.61
+Spain,66,7.72
+Sweden,17,7.5
+Switzerland,4,8.25
+Taiwan,11,7.86
+Thailand,4,8.25
+Ukraine,1,8.0
+USA,705,7.52
+Argentina,9,8.66
+Australia,24,8.04
+Austria,9,8.33
+Belarus,1,7.0
+Belgium,19,7.95
+Brazil,35,8.17
+Bulgaria,2,8.25
+Canada,63,7.94
+Chile,5,7.96
+China,14,8.03
+Colombia,1,9.0
+Croatia,3,8.17
+Czech Republic,6,7.67
+Denmark,6,7.87
+England,7,7.25
+Estonia,2,8.5
+Finland,8,8.1
+France,9,7.99
+Germany,105,7.85
+Greece,14,8.44
+Guatemala,1,8.0
+Hungary,6,6.88
+Iceland,1,9.0
+India,5,8.7
+Indonesia,1,8.5
+Iran,1,8.0
+Ireland,4,8.13
+Israel,6,8.22
+Italy,29,7.76
+Japan,21,8.16
+Latvia,4,8.56
+Lithuania,4,7.25
+Luxembourg,1,7.0
+Malaysia,3,8.0
+Mexico,6,7.96
+Netherlands,34,8.01
+New Zealand,7,7.5
+Norway,7,7.86
+Peru,1,6.0
+Philippines,6,9.08
+Poland,25,7.88
+Portugal,9,8.77
+Qatar,1,3.4
+Romania,8,8.88
+Russia,7,8.07
+Saudi Arabia,1,9.0
+Republic of Serbia,4,8.5
+Slovakia,2,8.5
+Slovenia,2,8.5
+South Africa,2,8.5
+South Korea,8,8.0
+Spain,40,7.63
+Sweden,12,7.46
+Switzerland,12,7.92
+Taiwan,14,8.01
+Thailand,7,8.46
+Turkey,4,8.63
+Ukraine,2,9.5
+USA,408,7.94
+Venezuela,1,9.0
+Vietnam,2,7.5
+Argentina,13,8.38
+Australia,43,7.95
+Austria,6,7.08
+Belgium,11,8.08
+Bolivia,1,8.0
+Brazil,35,8.18
+Brunei,1,8.0
+Bulgaria,6,8.08
+Canada,131,7.79
+Chile,8,7.44
+China,14,7.94
+Colombia,2,7.0
+Croatia,2,7.75
+Czech Republic,4,7.75
+Denmark,8,6.96
+England,12,7.67
+Estonia,2,7.6
+Finland,16,7.35
+France,29,8.04
+Germany,54,7.45
+Greece,21,7.94
+Hungary,11,8.07
+Iceland,1,8.0
+India,4,9.63
+Indonesia,2,7.75
+Iran,1,10.0
+Ireland,5,6.9
+Israel,9,7.64
+Italy,20,7.93
+Japan,30,7.35
+Latvia,3,8.42
+Lithuania,2,9.0
+Malaysia,6,8.4
+Mexico,8,8.22
+Moldova,1,9.0
+Netherlands,19,7.55
+New Zealand,9,7.27
+Norway,8,7.43
+Peru,2,8.0
+Philippines,2,9.0
+Poland,42,7.82
+Portugal,14,7.83
+Romania,7,8.29
+Russia,15,7.7
+Saudi Arabia,2,7.5
+Republic of Serbia,4,7.38
+Slovakia,2,7.0
+Slovenia,3,8.67
+South Africa,3,8.0
+South Korea,10,7.95
+Spain,106,7.49
+Sweden,15,7.7
+Switzerland,8,7.81
+Taiwan,10,8.19
+Thailand,8,7.19
+Turkey,2,7.75
+Uganda,1,7.5
+Ukraine,8,7.68
+USA,607,7.82
+Uruguay,1,9.0
+Venezuela,1,4.0
+Vietnam,2,7.5
+Argentina,4,6.5
+Australia,24,5.98
+Austria,5,5.0
+Belarus,1,5.0
+Belgium,11,5.64
+Brazil,27,6.62
+Bulgaria,2,5.5
+Canada,59,5.53
+Chile,2,6.0
+China,3,5.67
+Croatia,4,5.5
+Czech Republic,5,6.1
+Denmark,2,7.5
+England,1,5.0
+Estonia,7,5.71
+Finland,10,5.67
+France,4,6.75
+Germany,58,6.12
+Greece,9,6.17
+Guatemala,1,6.0
+Hungary,6,6.25
+India,1,7.0
+Indonesia,1,7.0
+Ireland,2,6.5
+Israel,1,5.0
+Italy,22,6.75
+Japan,5,5.8
+Latvia,1,6.0
+Lithuania,4,6.0
+Malaysia,2,4.5
+Mexico,9,6.68
+Moldova,1,7.0
+Netherlands,17,6.21
+New Zealand,6,5.31
+Norway,5,5.4
+Peru,1,6.0
+Philippines,3,7.0
+Poland,38,6.31
+Portugal,5,6.12
+Romania,10,7.2
+Russia,13,5.83
+Slovakia,1,7.0
+Slovenia,2,5.5
+South Africa,3,4.67
+South Korea,18,5.26
+Spain,33,6.28
+Sri Lanka,1,7.0
+Sweden,10,5.7
+Switzerland,5,7.1
+Taiwan,2,5.5
+Turkey,1,5.0
+Ukraine,3,5.33
+USA,514,5.46
+Venezuela,1,6.0
+Vietnam,1,4.0
+Argentina,20,7.85
+Australia,80,7.54
+Austria,8,7.75
+Belarus,1,5.0
+Belgium,33,7.72
+Bolivia,2,8.5
+Brazil,57,8.05
+Bulgaria,9,7.5
+Canada,251,7.81
+Chile,12,7.05
+China,10,6.32
+Colombia,7,7.71
+Costa Rica,3,8.33
+Croatia,3,8.0
+Czech Republic,8,7.63
+Denmark,12,7.43
+England,7,7.07
+Estonia,1,9.0
+Finland,16,7.65
+France,34,7.53
+Germany,108,7.6
+Greece,24,7.89
+Guatemala,2,7.75
+Hungary,8,8.25
+Iceland,3,8.0
+India,4,7.75
+Indonesia,5,7.5
+Ireland,10,8.15
+Israel,15,7.61
+Italy,31,7.25
+Japan,27,6.95
+Latvia,7,7.29
+Lithuania,9,7.31
+Luxembourg,4,6.63
+Malaysia,6,7.88
+Mexico,26,8.07
+Moldova,2,9.0
+Netherlands,32,7.42
+New Zealand,14,7.74
+Norway,12,6.75
+Peru,4,8.25
+Philippines,9,8.61
+Poland,62,7.53
+Portugal,22,8.02
+Qatar,2,7.0
+Romania,13,7.69
+Russia,13,7.65
+Saudi Arabia,2,7.5
+Republic of Serbia,7,7.21
+Slovakia,3,7.67
+Slovenia,5,8.38
+South Africa,10,7.55
+South Korea,10,6.35
+Spain,121,7.2
+Sri Lanka,1,6.0
+Sweden,35,7.19
+Switzerland,11,7.29
+Taiwan,17,7.38
+Thailand,10,7.3
+Turkey,1,6.5
+Ukraine,8,8.31
+USA,1322,7.68
+Uruguay,2,8.25
+Venezuela,3,7.0
+Vietnam,2,6.88
+Argentina,6,7.83
+Australia,34,7.57
+Austria,11,8.23
+Belarus,1,8.0
+Belgium,17,7.01
+Brazil,15,7.04
+Brunei,1,8.5
+Bulgaria,3,8.0
+Canada,90,7.27
+Chile,4,7.88
+China,7,7.8
+Croatia,2,6.55
+Czech Republic,4,7.5
+Denmark,6,7.67
+England,9,7.35
+Estonia,1,8.0
+Finland,14,6.91
+France,17,7.57
+Germany,128,7.4
+Greece,14,8.08
+Guatemala,1,7.5
+Hungary,8,7.63
+Iceland,1,7.5
+India,1,7.0
+Ireland,7,7.57
+Israel,2,6.0
+Italy,17,6.69
+Japan,20,7.18
+Latvia,6,7.83
+Lithuania,2,6.5
+Luxembourg,1,6.0
+Malaysia,3,9.2
+Mexico,2,8.5
+Netherlands,16,7.52
+New Zealand,14,6.74
+Norway,5,7.16
+Philippines,1,5.0
+Poland,35,7.81
+Portugal,8,7.56
+Qatar,1,8.0
+Romania,5,6.7
+Russia,8,7.84
+Saudi Arabia,1,9.0
+Republic of Serbia,2,9.5
+South Africa,1,7.0
+South Korea,5,7.44
+Spain,35,7.49
+Sweden,23,7.53
+Switzerland,12,7.0
+Taiwan,6,7.2
+Thailand,3,7.83
+Ukraine,1,5.0
+USA,574,7.4
+Venezuela,2,8.0
+Argentina,9,8.11
+Australia,28,7.68
+Austria,7,7.36
+Belarus,1,5.0
+Belgium,12,8.03
+Brazil,21,7.84
+Bulgaria,5,8.7
+Canada,96,7.91
+Chile,4,8.25
+China,7,8.39
+Colombia,2,8.0
+Croatia,3,8.47
+Czech Republic,2,7.75
+Denmark,3,7.33
+England,5,7.6
+Finland,6,7.05
+France,21,8.07
+Germany,66,7.3
+Greece,12,8.08
+Hungary,10,7.95
+India,4,7.75
+Indonesia,1,7.0
+Iran,1,1.0
+Ireland,3,7.0
+Israel,6,7.62
+Italy,22,7.82
+Japan,17,7.05
+Latvia,5,7.7
+Lithuania,6,8.04
+Malaysia,1,6.5
+Mexico,8,8.29
+Netherlands,12,6.96
+New Zealand,7,7.64
+Norway,12,7.63
+Peru,4,8.0
+Philippines,2,6.5
+Poland,24,7.99
+Portugal,14,7.74
+Romania,4,8.9
+Russia,5,7.9
+Saudi Arabia,1,8.0
+Republic of Serbia,6,7.67
+Slovenia,1,10.0
+South Africa,4,8.0
+South Korea,12,7.62
+Spain,30,7.35
+Sweden,18,6.83
+Switzerland,7,7.07
+Taiwan,5,7.8
+Thailand,1,6.0
+Ukraine,3,8.0
+USA,437,7.7
+Venezuela,2,8.5
+Vietnam,1,6.75
+Argentina,2,7.4
+Australia,24,7.31
+Austria,6,8.5
+Belarus,2,7.0
+Belgium,11,7.59
+Brazil,28,8.38
+Bulgaria,1,6.0
+Canada,98,7.54
+Chile,4,8.0
+China,10,7.86
+Colombia,1,7.0
+Czech Republic,6,7.67
+Denmark,9,7.8
+England,7,7.24
+Finland,8,6.75
+France,17,7.6
+Germany,82,7.33
+Greece,22,7.78
+Hungary,3,7.63
+Iceland,1,8.0
+India,1,6.5
+Indonesia,3,7.68
+Ireland,4,8.25
+Israel,9,7.82
+Italy,50,7.7
+Japan,8,6.0
+Latvia,5,8.3
+Lithuania,6,7.23
+Luxembourg,1,8.0
+Mexico,4,6.5
+Netherlands,12,7.59
+New Zealand,7,7.29
+Norway,9,7.23
+Philippines,2,9.25
+Poland,19,7.45
+Portugal,1,7.0
+Qatar,1,7.0
+Romania,5,7.9
+Russia,15,7.49
+Republic of Serbia,1,7.0
+Slovakia,1,7.2
+South Africa,1,7.0
+South Korea,10,7.55
+Spain,56,7.72
+Sweden,23,7.5
+Switzerland,9,7.06
+Taiwan,15,7.47
+Thailand,4,8.0
+Ukraine,4,8.38
+USA,685,7.6
+Venezuela,2,9.0
+Argentina,7,7.93
+Australia,30,7.71
+Austria,8,8.88
+Belarus,2,8.0
+Belgium,28,7.94
+Bolivia,1,8.0
+Brazil,35,8.76
+Bulgaria,1,10.0
+Canada,122,8.31
+Chile,5,8.0
+China,10,7.92
+Colombia,3,8.0
+Costa Rica,1,9.0
+Croatia,1,8.8
+Czech Republic,16,8.28
+Denmark,10,7.3
+England,9,8.72
+Estonia,3,9.33
+Finland,14,8.16
+France,21,8.05
+Germany,114,8.06
+Greece,22,8.61
+Guatemala,1,7.0
+Hungary,5,7.58
+Iceland,1,9.0
+India,2,7.75
+Indonesia,1,8.0
+Ireland,6,8.35
+Israel,9,8.55
+Italy,45,7.64
+Japan,24,7.52
+Latvia,4,8.53
+Lithuania,6,8.5
+Luxembourg,2,9.7
+Malaysia,8,8.14
+Mexico,3,7.83
+Netherlands,29,7.64
+New Zealand,11,8.44
+Norway,13,8.25
+Peru,2,9.25
+Philippines,3,8.0
+Poland,55,8.28
+Portugal,6,8.4
+Qatar,1,9.0
+Romania,5,8.7
+Russia,9,6.94
+Republic of Serbia,3,8.33
+Slovakia,3,9.4
+Slovenia,1,10.0
+South Korea,25,8.23
+Spain,89,8.32
+Sweden,20,7.79
+Switzerland,7,7.07
+Taiwan,18,8.26
+Thailand,10,8.16
+Ukraine,3,7.67
+USA,653,7.98
+Uruguay,1,10.0
+Venezuela,2,10.0
+Vietnam,1,7.5
+Australia,33,7.4
+Austria,9,7.44
+Belgium,18,7.56
+Brazil,13,7.69
+Brunei,1,9.0
+Bulgaria,1,4.0
+Canada,94,7.08
+Chile,4,7.25
+Colombia,1,8.0
+Czech Republic,3,6.33
+Denmark,3,4.83
+England,6,5.92
+Estonia,3,4.33
+Finland,14,7.46
+France,18,7.65
+Germany,65,7.42
+Greece,11,7.61
+Guatemala,1,8.5
+Hungary,9,7.44
+Indonesia,2,6.5
+Ireland,3,7.5
+Israel,5,6.7
+Italy,29,7.94
+Japan,25,6.94
+Latvia,2,7.0
+Lithuania,3,7.0
+Luxembourg,1,8.0
+Malaysia,1,6.5
+Mexico,2,7.0
+Netherlands,22,7.36
+New Zealand,9,6.93
+Norway,8,6.69
+Peru,1,7.0
+Philippines,1,5.0
+Poland,13,7.43
+Portugal,5,6.82
+Romania,4,7.5
+Russia,5,6.4
+Saudi Arabia,2,7.5
+Republic of Serbia,2,6.0
+Slovakia,1,6.5
+South Africa,2,7.0
+South Korea,15,7.43
+Spain,22,7.21
+Sweden,21,6.93
+Switzerland,3,8.5
+Taiwan,4,7.63
+Thailand,3,5.5
+USA,585,7.16
+Vietnam,1,7.0
+Argentina,1,7.0
+Australia,37,6.72
+Austria,11,7.44
+Belgium,24,7.22
+Brazil,7,6.41
+Bulgaria,1,7.0
+Canada,82,7.36
+Chile,5,5.72
+Croatia,3,7.33
+Czech Republic,5,7.8
+Denmark,13,5.96
+England,10,6.81
+Estonia,1,8.0
+Finland,28,7.13
+France,13,7.52
+Germany,107,7.06
+Greece,16,7.48
+Hungary,10,6.57
+Iceland,1,7.0
+Ireland,6,6.82
+Italy,31,6.75
+Japan,18,6.05
+Luxembourg,1,7.0
+Malaysia,1,8.0
+Mexico,4,8.25
+Netherlands,37,6.77
+New Zealand,11,6.96
+Norway,15,6.4
+Peru,1,7.0
+Philippines,1,10.0
+Poland,11,7.14
+Portugal,5,6.8
+Romania,1,7.0
+Russia,1,6.0
+Republic of Serbia,1,6.0
+Slovenia,5,7.2
+South Africa,3,9.33
+South Korea,12,7.29
+Spain,51,6.92
+Sweden,35,6.52
+Switzerland,7,7.14
+Taiwan,1,8.0
+Trinidad and Tobago,1,8.0
+Ukraine,1,3.0
+USA,733,7.21
+Venezuela,1,7.0
+Argentina,12,8.35
+Australia,69,7.74
+Austria,5,8.4
+Belgium,10,8.38
+Brazil,53,8.62
+Bulgaria,5,7.9
+Canada,192,8.28
+Chile,11,8.46
+China,10,7.7
+Colombia,4,8.44
+Croatia,5,8.3
+Czech Republic,7,6.86
+Denmark,9,8.28
+England,9,8.0
+Estonia,3,9.03
+Finland,11,7.78
+France,4,9.0
+Germany,46,7.82
+Greece,19,8.73
+Guatemala,1,9.0
+Hungary,4,6.38
+Iceland,3,8.33
+India,5,8.08
+Indonesia,1,6.5
+Ireland,11,9.09
+Israel,11,7.74
+Italy,30,8.06
+Japan,5,6.5
+Latvia,7,7.89
+Lebanon,1,9.0
+Lithuania,5,7.6
+Luxembourg,2,7.5
+Macedonia,2,8.5
+Malaysia,2,8.75
+Mexico,10,8.53
+Netherlands,21,8.31
+New Zealand,10,7.0
+Norway,11,7.97
+Peru,3,8.17
+Philippines,9,8.44
+Poland,26,8.21
+Portugal,12,8.17
+Qatar,2,7.7
+Romania,5,8.6
+Russia,9,7.25
+Republic of Serbia,4,8.75
+Slovakia,1,9.5
+Slovenia,4,8.75
+South Africa,3,8.67
+South Korea,16,8.39
+Spain,58,7.9
+Sweden,29,8.17
+Switzerland,7,8.07
+Taiwan,14,8.32
+Thailand,5,8.0
+Turkey,1,8.5
+Ukraine,2,8.0
+USA,1133,8.17
+Uruguay,1,9.0
+Venezuela,2,10.0
+Vietnam,3,6.75
+Argentina,11,7.41
+Australia,66,7.74
+Austria,18,6.94
+Belarus,1,7.0
+Belgium,36,7.35
+Brazil,41,7.47
+Brunei,1,8.0
+Bulgaria,2,8.0
+Canada,230,7.47
+Chile,6,7.23
+China,17,7.52
+Colombia,2,7.5
+Costa Rica,1,8.0
+Croatia,4,7.25
+Czech Republic,14,6.39
+Denmark,19,7.15
+England,11,7.86
+Estonia,4,7.25
+Finland,36,7.31
+France,27,7.53
+Germany,135,7.56
+Greece,37,7.88
+Guatemala,1,9.0
+Hungary,14,7.72
+Iceland,1,7.0
+India,4,8.25
+Indonesia,3,6.6
+Iran,1,10.0
+Ireland,9,7.53
+Israel,7,7.21
+Italy,43,7.35
+Japan,28,7.2
+Latvia,5,7.6
+Lithuania,5,6.3
+Luxembourg,4,7.88
+Malaysia,5,7.7
+Mexico,8,8.1
+Moldova,1,8.0
+Netherlands,42,7.45
+New Zealand,21,7.55
+Norway,20,7.83
+Philippines,4,6.25
+Poland,68,7.33
+Portugal,18,7.51
+Qatar,1,7.0
+Romania,3,8.5
+Russia,18,7.18
+Saudi Arabia,1,9.0
+Republic of Serbia,7,6.0
+Slovenia,7,8.14
+South Africa,5,8.6
+South Korea,30,7.35
+Spain,109,7.39
+Sweden,38,7.33
+Switzerland,6,7.75
+Taiwan,26,7.3
+Thailand,4,8.0
+Turkey,1,7.0
+Uganda,1,6.0
+Ukraine,5,8.3
+USA,1623,7.59
+Uruguay,1,7.0
+Venezuela,2,7.0
+Vietnam,2,7.25
+Albania,1,7.0
+Argentina,16,7.69
+Australia,84,7.64
+Austria,11,7.73
+Belarus,2,6.5
+Belgium,28,7.69
+Brazil,49,7.6
+Brunei,1,9.0
+Bulgaria,7,7.5
+Canada,227,7.73
+Chile,14,7.46
+China,19,7.88
+Colombia,7,7.57
+Croatia,5,7.5
+Czech Republic,8,7.88
+Denmark,14,7.64
+England,9,7.54
+Estonia,3,7.37
+Finland,21,7.94
+France,24,7.8
+Germany,113,7.89
+Greece,29,7.49
+Guatemala,2,7.25
+Hungary,10,8.0
+Iceland,3,7.17
+India,7,7.14
+Indonesia,1,9.0
+Ireland,11,8.05
+Israel,10,7.14
+Italy,20,7.16
+Japan,39,7.48
+Latvia,8,8.06
+Lithuania,10,6.85
+Luxembourg,2,8.5
+Macedonia,2,8.5
+Malaysia,3,7.5
+Mexico,16,8.09
+Moldova,3,8.83
+Netherlands,34,7.35
+New Zealand,19,7.19
+Norway,12,6.83
+Peru,2,7.5
+Philippines,5,7.2
+Poland,67,7.56
+Portugal,19,7.53
+Qatar,2,8.3
+Romania,7,7.71
+Russia,13,7.77
+Saudi Arabia,2,7.0
+Republic of Serbia,7,6.86
+Slovakia,3,7.47
+Slovenia,3,7.67
+South Africa,7,7.64
+South Korea,23,7.51
+Spain,110,7.37
+Sweden,33,7.69
+Switzerland,13,7.5
+Taiwan,22,8.3
+Thailand,11,8.36
+Turkey,3,7.33
+Uganda,1,7.0
+Ukraine,6,8.37
+USA,1200,7.71
+Venezuela,2,7.5
+Vietnam,2,7.0
+Albania,1,8.0
+Argentina,7,7.56
+Australia,40,7.43
+Austria,8,7.25
+Belarus,1,9.0
+Belgium,17,6.82
+Brazil,9,8.41
+Canada,111,7.22
+Chile,4,6.1
+China,5,7.96
+Colombia,3,8.33
+Costa Rica,1,10.0
+Croatia,3,6.4
+Czech Republic,5,6.6
+Denmark,4,7.38
+England,4,8.05
+Finland,3,7.0
+France,16,7.62
+Germany,98,7.16
+Greece,8,7.84
+Hungary,2,6.5
+Iceland,1,7.0
+India,1,8.5
+Indonesia,1,8.0
+Ireland,4,7.0
+Israel,4,7.25
+Italy,14,7.29
+Japan,20,6.59
+Latvia,4,8.38
+Lithuania,1,9.0
+Luxembourg,1,8.0
+Malaysia,2,7.5
+Mexico,6,7.92
+Netherlands,31,7.48
+New Zealand,4,7.0
+Norway,3,5.33
+Peru,1,7.0
+Philippines,4,8.13
+Poland,16,7.31
+Qatar,1,7.4
+Romania,1,8.8
+Russia,10,7.23
+Saudi Arabia,1,8.0
+Republic of Serbia,1,8.0
+Slovakia,1,8.0
+Slovenia,1,9.0
+South Africa,4,6.75
+South Korea,14,7.54
+Spain,53,7.05
+Sweden,17,7.26
+Switzerland,6,7.75
+Taiwan,6,8.19
+Thailand,5,7.6
+Turkey,2,7.5
+Uganda,1,6.0
+Ukraine,4,7.5
+USA,608,7.09
+Uruguay,1,7.5
+Venezuela,2,7.5
+Vietnam,1,7.0
+Argentina,11,8.05
+Australia,46,7.51
+Austria,8,7.88
+Belarus,1,6.0
+Belgium,32,8.08
+Bolivia,1,9.0
+Brazil,40,7.9
+Bulgaria,2,8.5
+Canada,189,7.69
+Chile,13,6.96
+China,13,8.85
+Colombia,4,8.88
+Costa Rica,1,9.0
+Croatia,4,8.75
+Czech Republic,11,6.59
+Denmark,13,6.54
+England,7,7.14
+Estonia,3,7.0
+Finland,31,7.7
+France,17,7.94
+Germany,82,7.74
+Greece,26,8.0
+Hungary,3,6.67
+Iceland,1,7.0
+Indonesia,3,9.67
+Ireland,6,7.5
+Israel,4,8.75
+Italy,53,8.11
+Japan,13,6.85
+Latvia,6,7.17
+Lebanon,1,10.0
+Lithuania,4,7.25
+Luxembourg,2,8.5
+Macedonia,2,8.0
+Malaysia,2,8.75
+Mexico,7,8.29
+Moldova,1,8.0
+Netherlands,25,7.45
+New Zealand,9,5.71
+Norway,14,8.25
+Peru,2,8.5
+Philippines,2,9.5
+Poland,48,7.84
+Portugal,20,7.91
+Qatar,2,8.5
+Romania,8,8.5
+Russia,16,7.75
+Republic of Serbia,4,7.63
+Slovenia,3,8.33
+South Africa,5,7.0
+South Korea,13,7.65
+Spain,112,7.71
+Sweden,37,7.12
+Switzerland,7,8.86
+Taiwan,12,8.63
+Thailand,5,9.0
+Turkey,1,9.0
+Uganda,1,9.5
+Ukraine,2,4.45
+USA,1144,7.73
+Uruguay,1,8.5
+Venezuela,2,9.5
+Argentina,4,5.88
+Australia,44,7.85
+Austria,3,8.33
+Belarus,2,7.5
+Belgium,31,8.05
+Brazil,23,8.35
+Brunei,1,8.0
+Bulgaria,2,8.5
+Canada,172,7.85
+Chile,1,7.0
+China,9,7.74
+Colombia,1,8.5
+Croatia,5,9.4
+Czech Republic,10,7.4
+Denmark,15,8.61
+England,8,8.0
+Estonia,2,8.7
+Finland,24,7.56
+France,13,7.36
+Germany,54,7.55
+Greece,14,8.2
+Hungary,6,7.75
+Iceland,2,9.0
+India,4,7.88
+Indonesia,3,8.67
+Ireland,6,8.83
+Israel,4,8.75
+Italy,39,7.76
+Japan,8,5.88
+Latvia,3,8.33
+Lithuania,7,8.71
+Luxembourg,2,7.75
+Malaysia,8,7.68
+Mexico,1,8.0
+Netherlands,27,8.14
+New Zealand,12,7.54
+Norway,19,8.17
+Peru,1,8.0
+Philippines,3,6.67
+Poland,26,7.82
+Portugal,13,7.63
+Qatar,2,8.6
+Romania,7,9.0
+Russia,13,7.69
+Saudi Arabia,1,8.0
+Republic of Serbia,3,8.67
+Slovenia,3,9.0
+South Africa,10,7.85
+South Korea,10,6.95
+Spain,66,8.12
+Sweden,28,7.53
+Switzerland,7,8.07
+Taiwan,13,8.65
+Thailand,4,6.93
+Turkey,2,8.5
+Ukraine,4,8.5
+USA,988,7.81
+Argentina,4,6.63
+Australia,38,7.43
+Austria,10,7.6
+Belgium,14,8.04
+Brazil,38,8.06
+Canada,109,7.64
+Chile,1,6.8
+China,26,7.64
+Colombia,2,9.0
+Czech Republic,3,6.5
+Denmark,4,7.25
+Ecuador,1,8.0
+England,5,7.25
+Estonia,5,7.9
+Finland,44,7.58
+France,20,7.81
+Germany,75,7.44
+Greece,22,7.71
+Hungary,7,7.43
+India,2,7.75
+Indonesia,3,7.0
+Ireland,4,6.95
+Israel,5,8.4
+Italy,33,7.46
+Japan,40,8.02
+Latvia,2,7.25
+Lithuania,2,6.0
+Luxembourg,2,6.25
+Malaysia,5,7.2
+Mexico,6,8.33
+Moldova,1,7.0
+Netherlands,18,7.64
+New Zealand,10,7.85
+Norway,15,7.9
+Philippines,4,8.5
+Poland,30,7.46
+Portugal,11,7.97
+Qatar,1,7.8
+Russia,1,7.0
+Saudi Arabia,1,9.0
+Republic of Serbia,1,7.5
+Slovakia,1,7.0
+Slovenia,2,8.25
+South Africa,1,7.0
+South Korea,30,8.33
+Spain,57,7.56
+Sweden,18,7.36
+Switzerland,6,7.42
+Taiwan,31,7.92
+Thailand,4,8.0
+Ukraine,1,4.0
+USA,729,7.61
+Venezuela,1,9.0
+Albania,1,1.0
+Argentina,6,4.33
+Australia,76,4.53
+Austria,10,4.0
+Belgium,30,5.29
+Brazil,43,4.92
+Bulgaria,5,6.2
+Canada,218,4.94
+Chile,6,5.67
+China,9,5.78
+Colombia,3,5.0
+Costa Rica,1,6.0
+Croatia,7,4.71
+Czech Republic,4,4.88
+Denmark,17,4.5
+England,8,5.44
+Estonia,8,5.56
+Finland,40,4.65
+France,15,3.79
+Germany,107,4.59
+Greece,27,6.06
+Guatemala,1,1.0
+Honduras,1,7.0
+Hungary,11,5.18
+Indonesia,2,5.5
+Ireland,7,3.43
+Israel,7,3.57
+Italy,55,6.0
+Japan,15,5.47
+Latvia,3,5.67
+Lithuania,6,4.33
+Luxembourg,1,1.0
+Macedonia,2,6.5
+Malaysia,5,3.5
+Mexico,11,5.62
+Netherlands,59,5.51
+New Zealand,16,4.56
+Norway,17,4.47
+Peru,2,4.0
+Philippines,6,5.33
+Poland,41,4.52
+Portugal,21,5.58
+Qatar,2,4.3
+Romania,10,6.3
+Russia,9,5.14
+Saudi Arabia,1,7.0
+Republic of Serbia,4,4.25
+Slovenia,3,5.33
+South Africa,6,5.0
+South Korea,14,5.76
+Spain,66,5.14
+Sri Lanka,1,5.0
+Sweden,49,4.54
+Switzerland,4,4.75
+Taiwan,5,6.9
+Thailand,2,6.5
+Turkey,2,6.5
+Ukraine,2,6.0
+USA,1302,5.02
+Venezuela,1,8.0
+Vietnam,1,3.0
+Argentina,1,8.0
+Australia,31,7.43
+Austria,6,7.67
+Belgium,25,7.52
+Brazil,21,7.86
+Bulgaria,2,8.0
+Canada,90,7.4
+Chile,3,7.5
+China,22,7.63
+Colombia,1,7.5
+Croatia,1,7.0
+Czech Republic,4,7.25
+Denmark,6,6.5
+England,7,7.29
+Estonia,6,6.25
+Finland,15,7.23
+France,25,7.46
+Germany,56,7.04
+Greece,23,7.23
+Hungary,5,7.0
+India,1,7.0
+Indonesia,4,7.63
+Ireland,3,7.83
+Israel,6,7.42
+Italy,20,7.68
+Japan,9,6.67
+Latvia,5,6.04
+Lithuania,4,5.0
+Luxembourg,2,7.85
+Malaysia,4,6.75
+Mexico,2,9.0
+Moldova,1,10.0
+Netherlands,15,6.93
+New Zealand,6,7.5
+Norway,11,7.23
+Philippines,1,4.0
+Poland,26,7.34
+Portugal,11,7.07
+Qatar,1,5.2
+Romania,8,8.13
+Russia,11,7.09
+Saudi Arabia,1,7.0
+Republic of Serbia,1,8.0
+Slovenia,1,8.5
+South Korea,8,6.63
+Spain,64,7.69
+Sweden,14,7.05
+Switzerland,4,8.13
+Taiwan,15,7.73
+Thailand,7,6.64
+Turkey,2,8.0
+Ukraine,1,8.0
+USA,489,7.29
+Argentina,14,7.25
+Australia,70,6.33
+Austria,11,5.82
+Belarus,4,6.38
+Belgium,25,6.88
+Bolivia,1,7.0
+Brazil,69,7.52
+Bulgaria,4,6.0
+Canada,254,6.69
+Chile,10,7.33
+China,10,6.5
+Colombia,1,7.5
+Costa Rica,1,8.0
+Croatia,3,6.67
+Czech Republic,3,7.67
+Denmark,13,6.96
+England,8,7.0
+Estonia,3,6.33
+Finland,28,5.5
+France,20,6.14
+Germany,133,6.95
+Greece,46,6.89
+Hungary,13,6.27
+Indonesia,3,7.0
+Ireland,8,7.38
+Israel,16,5.96
+Italy,51,6.29
+Japan,4,4.0
+Latvia,3,5.67
+Lithuania,2,6.5
+Malaysia,3,7.3
+Mexico,11,8.0
+Netherlands,42,6.32
+New Zealand,8,6.31
+Norway,11,5.68
+Paraguay,1,6.0
+Peru,1,8.0
+Philippines,4,6.5
+Poland,60,6.95
+Portugal,8,7.63
+Qatar,2,6.0
+Romania,4,8.63
+Russia,22,6.73
+Republic of Serbia,3,7.17
+Slovakia,2,8.0
+Slovenia,1,6.0
+South Africa,3,7.33
+South Korea,3,5.0
+Spain,131,6.1
+Sweden,47,5.95
+Switzerland,7,7.86
+Taiwan,7,6.61
+Thailand,2,7.75
+Turkey,3,8.17
+Ukraine,10,7.2
+USA,1411,6.48
+Uruguay,1,9.0
+Argentina,6,8.33
+Australia,30,7.51
+Austria,7,7.14
+Belgium,18,7.68
+Brazil,20,7.68
+Bulgaria,8,6.81
+Canada,84,7.87
+Chile,4,8.25
+China,7,6.99
+Colombia,3,8.33
+Croatia,5,7.6
+Czech Republic,4,7.25
+Denmark,5,8.8
+England,5,6.6
+Finland,8,7.59
+France,18,7.78
+Germany,67,7.57
+Greece,24,8.06
+Hungary,2,5.5
+India,2,7.5
+Indonesia,1,9.0
+Ireland,3,8.33
+Israel,3,7.2
+Italy,7,7.21
+Japan,14,6.86
+Latvia,2,8.5
+Lithuania,4,6.75
+Luxembourg,2,8.25
+Macedonia,2,8.0
+Malaysia,2,6.0
+Mexico,9,8.17
+Moldova,1,7.0
+Netherlands,10,7.72
+New Zealand,3,8.0
+Norway,6,7.0
+Peru,1,9.0
+Philippines,3,6.67
+Poland,3,8.0
+Portugal,16,7.59
+Qatar,1,5.4
+Romania,9,8.46
+Russia,2,5.5
+Republic of Serbia,4,6.5
+Slovenia,2,9.0
+South Korea,4,7.6
+Spain,68,7.59
+Sweden,14,7.03
+Switzerland,6,6.67
+Taiwan,5,7.4
+Thailand,4,6.75
+Ukraine,1,8.9
+USA,462,7.53
+Venezuela,2,7.5
+Vietnam,1,8.25
+Argentina,4,5.75
+Australia,57,7.32
+Austria,6,6.83
+Belarus,1,3.0
+Belgium,14,6.91
+Brazil,18,7.27
+Brunei,1,9.0
+Canada,129,7.27
+Chile,5,6.78
+China,4,6.75
+Colombia,2,7.0
+Czech Republic,3,6.0
+Denmark,7,6.29
+England,7,6.79
+Estonia,2,7.0
+Finland,16,7.25
+France,18,6.97
+Germany,53,7.39
+Greece,16,6.72
+Guatemala,1,8.0
+Hungary,7,6.71
+Iceland,1,7.5
+India,3,6.67
+Indonesia,1,8.0
+Ireland,4,7.13
+Israel,3,7.33
+Italy,18,7.52
+Japan,29,6.87
+Latvia,4,7.25
+Lithuania,5,8.6
+Luxembourg,1,8.0
+Malaysia,5,7.36
+Mexico,3,5.67
+Netherlands,17,7.15
+New Zealand,16,7.27
+Norway,10,7.5
+Philippines,4,7.0
+Poland,16,7.61
+Portugal,8,7.43
+Romania,2,6.5
+Russia,6,7.75
+Saudi Arabia,1,7.0
+Republic of Serbia,6,8.33
+Slovenia,1,7.0
+South Africa,3,7.0
+South Korea,15,7.19
+Spain,59,7.14
+Sweden,20,7.85
+Switzerland,5,6.9
+Taiwan,9,7.72
+Thailand,9,7.94
+Ukraine,1,10.0
+USA,687,7.36
+Vietnam,1,7.0
+Argentina,1,9.0
+Australia,25,7.54
+Austria,7,7.71
+Belarus,1,7.0
+Belgium,20,8.09
+Brazil,23,7.88
+Brunei,1,8.0
+Canada,65,7.6
+Chile,2,8.75
+China,12,8.0
+Colombia,1,8.0
+Czech Republic,10,7.95
+Denmark,2,9.0
+England,5,7.3
+Estonia,2,9.0
+Finland,16,8.38
+France,17,7.64
+Germany,90,7.82
+Greece,20,7.99
+Hungary,6,7.5
+Iceland,1,8.0
+Ireland,3,6.5
+Israel,7,8.29
+Italy,36,7.59
+Japan,18,6.89
+Latvia,2,7.25
+Lithuania,1,7.0
+Luxembourg,1,9.0
+Malaysia,1,9.5
+Mexico,1,7.2
+Moldova,1,7.0
+Netherlands,13,7.74
+New Zealand,8,7.71
+Norway,9,7.47
+Peru,1,8.5
+Philippines,1,4.0
+Poland,22,7.61
+Portugal,7,6.84
+Qatar,1,7.0
+Romania,3,9.0
+Russia,4,7.76
+Slovakia,1,9.0
+South Africa,2,7.0
+South Korea,17,8.11
+Spain,48,8.03
+Sweden,14,7.46
+Switzerland,4,7.25
+Taiwan,19,8.13
+Thailand,5,7.42
+Ukraine,1,5.0
+USA,436,7.61
+Venezuela,2,10.0
+Albania,1,5.0
+Argentina,26,7.99
+Australia,138,7.95
+Austria,20,7.55
+Belarus,3,8.17
+Belgium,59,8.0
+Bolivia,1,10.0
+Brazil,101,8.28
+Bulgaria,12,7.42
+Canada,505,8.18
+Chile,21,8.54
+China,29,7.54
+Colombia,9,8.56
+Costa Rica,4,8.25
+Croatia,10,8.23
+Czech Republic,21,7.5
+Denmark,29,7.68
+England,18,7.86
+Estonia,10,8.8
+Finland,41,7.95
+France,39,7.82
+Germany,214,8.19
+Greece,54,7.8
+Guatemala,1,9.0
+Honduras,1,8.6
+Hungary,25,8.18
+Iceland,4,7.75
+India,3,9.0
+Indonesia,11,8.82
+Iraq,1,9.0
+Ireland,15,7.67
+Israel,20,8.28
+Italy,61,7.96
+Japan,51,7.71
+Latvia,6,7.42
+Lithuania,19,7.74
+Luxembourg,5,8.2
+Macedonia,2,7.5
+Malaysia,13,7.72
+Mexico,29,8.03
+Moldova,2,9.5
+Mongolia,1,8.0
+Netherlands,58,8.03
+New Zealand,33,7.38
+Norway,23,8.17
+Peru,6,7.75
+Philippines,12,7.83
+Poland,108,7.76
+Portugal,28,7.84
+Qatar,2,8.0
+Romania,21,8.44
+Russia,15,7.53
+Saudi Arabia,1,7.0
+Republic of Serbia,8,8.38
+Slovakia,5,7.6
+Slovenia,7,8.36
+South Africa,9,7.72
+South Korea,33,7.72
+Spain,182,7.8
+Sri Lanka,1,9.0
+Sweden,68,7.66
+Switzerland,22,8.07
+Taiwan,33,8.04
+Thailand,15,7.01
+Turkey,2,8.5
+Uganda,1,8.0
+Ukraine,10,8.53
+USA,2731,8.06
+Uruguay,3,8.43
+Vietnam,2,7.0
+Argentina,5,9.38
+Australia,37,9.12
+Austria,4,9.25
+Belarus,2,9.0
+Belgium,10,7.54
+Bolivia,1,1.0
+Brazil,29,9.17
+Bulgaria,2,7.5
+Canada,112,9.08
+Chile,3,8.67
+China,6,9.08
+Colombia,5,9.1
+Croatia,1,10.0
+Czech Republic,4,9.0
+Denmark,10,8.44
+Ecuador,1,9.0
+England,5,8.0
+Estonia,2,9.5
+Finland,9,8.88
+France,6,9.67
+Germany,82,8.92
+Greece,9,8.69
+Hungary,7,9.29
+India,1,10.0
+Indonesia,2,8.7
+Ireland,4,7.25
+Israel,4,8.25
+Italy,24,8.23
+Japan,11,6.68
+Latvia,3,8.33
+Lithuania,7,7.43
+Luxembourg,2,9.0
+Malaysia,2,7.3
+Mexico,7,7.9
+Moldova,1,10.0
+Netherlands,14,8.79
+New Zealand,7,8.79
+Norway,8,9.05
+Philippines,3,7.0
+Poland,25,8.8
+Portugal,7,9.0
+Qatar,1,9.2
+Romania,4,9.95
+Russia,7,8.71
+Republic of Serbia,1,9.0
+Slovakia,2,9.5
+Slovenia,1,10.0
+South Africa,3,9.33
+South Korea,6,9.65
+Spain,67,9.02
+Sweden,14,7.71
+Switzerland,6,8.25
+Taiwan,7,9.29
+Thailand,1,10.0
+Turkey,1,9.5
+Ukraine,2,10.0
+USA,670,8.84
+Venezuela,1,10.0
+Argentina,14,8.63
+Australia,47,8.04
+Austria,7,8.14
+Belarus,1,7.0
+Belgium,16,8.02
+Brazil,30,8.46
+Bulgaria,5,7.3
+Canada,134,7.78
+Chile,12,8.1
+China,15,8.29
+Colombia,1,10.0
+Croatia,3,9.0
+Czech Republic,8,8.5
+Denmark,13,8.08
+Ecuador,1,7.0
+England,11,8.18
+Estonia,3,7.37
+Finland,11,7.87
+France,19,8.14
+Germany,84,7.67
+Greece,26,8.06
+Hungary,11,7.68
+Iceland,2,8.25
+India,4,8.0
+Indonesia,2,8.5
+Ireland,7,8.5
+Israel,10,8.5
+Italy,37,8.09
+Japan,27,7.42
+Latvia,2,8.88
+Lithuania,8,7.88
+Luxembourg,1,8.0
+Malaysia,1,9.0
+Mexico,11,8.34
+Moldova,1,10.0
+Netherlands,31,7.72
+New Zealand,7,7.29
+Norway,11,7.83
+Peru,2,8.5
+Philippines,5,8.2
+Poland,57,8.03
+Portugal,11,8.02
+Romania,9,7.84
+Russia,12,7.83
+Saudi Arabia,2,6.5
+Republic of Serbia,5,8.26
+Slovakia,4,8.75
+Slovenia,1,7.0
+South Africa,4,7.98
+South Korea,18,7.94
+Spain,119,8.04
+Sweden,24,7.65
+Switzerland,5,6.7
+Taiwan,13,8.08
+Thailand,7,7.71
+Turkey,1,9.0
+Uganda,1,8.0
+Ukraine,6,8.47
+USA,569,7.92
+Uruguay,1,9.0
+Venezuela,1,9.0
+Vietnam,3,8.17
+Australia,29,7.26
+Austria,6,7.5
+Belgium,14,6.96
+Brazil,10,7.6
+Bulgaria,2,7.65
+Canada,93,7.08
+Chile,1,6.0
+China,3,6.17
+Croatia,2,8.75
+Czech Republic,3,6.67
+Denmark,7,7.36
+England,7,6.79
+Finland,26,7.16
+France,14,6.23
+Germany,49,6.84
+Greece,19,7.65
+Hungary,4,6.63
+India,1,6.0
+Ireland,2,7.63
+Israel,2,6.25
+Italy,18,7.75
+Japan,1,4.0
+Lithuania,1,7.0
+Malaysia,3,8.23
+Mexico,1,8.0
+Netherlands,13,6.81
+New Zealand,12,6.93
+Norway,5,7.2
+Philippines,1,8.0
+Poland,13,6.59
+Portugal,4,5.63
+Romania,1,9.0
+Russia,1,8.0
+Slovakia,1,7.0
+South Africa,4,6.0
+South Korea,6,6.67
+Spain,23,7.22
+Sweden,22,6.76
+Switzerland,3,7.67
+Taiwan,1,5.0
+Thailand,3,8.17
+USA,586,6.83
+Argentina,17,8.56
+Australia,100,8.11
+Austria,11,8.82
+Azerbaijan,1,9.0
+Belarus,2,9.0
+Belgium,57,8.59
+Bolivia,1,10.0
+Brazil,88,8.78
+Bulgaria,1,8.0
+Canada,366,8.16
+Chile,22,8.86
+China,36,8.32
+Colombia,6,7.97
+Croatia,6,7.83
+Czech Republic,17,8.24
+Denmark,24,8.47
+Ecuador,1,7.0
+England,16,8.48
+Estonia,11,8.33
+Finland,43,8.58
+France,27,8.71
+Germany,183,8.44
+Greece,42,8.4
+Guatemala,1,9.5
+Hungary,15,8.57
+Iceland,3,8.33
+India,6,9.08
+Indonesia,4,8.48
+Ireland,13,7.77
+Israel,16,8.05
+Italy,75,8.18
+Japan,31,7.45
+Latvia,6,7.5
+Lebanon,1,8.0
+Lithuania,16,8.41
+Luxembourg,3,8.9
+Macedonia,1,9.0
+Malaysia,12,8.66
+Mexico,18,8.63
+Moldova,1,10.0
+Mongolia,1,10.0
+Netherlands,50,8.34
+New Zealand,26,7.89
+Norway,24,8.48
+Panama,1,7.0
+Peru,3,8.0
+Philippines,8,8.06
+Poland,126,8.34
+Portugal,24,8.08
+Qatar,1,8.2
+Romania,21,8.3
+Russia,21,8.06
+Saudi Arabia,1,7.5
+Republic of Serbia,7,8.79
+Slovakia,4,8.5
+Slovenia,5,8.52
+South Africa,8,8.5
+South Korea,34,8.61
+Spain,179,8.38
+Sri Lanka,1,9.0
+Sweden,64,7.89
+Switzerland,15,8.9
+Taiwan,35,8.32
+Thailand,15,8.23
+Turkey,3,9.33
+Ukraine,9,8.68
+USA,1993,8.24
+Uruguay,1,6.0
+Venezuela,2,9.5
+Vietnam,3,8.58
+Argentina,19,8.64
+Australia,119,8.38
+Austria,18,9.45
+Belarus,2,7.75
+Belgium,69,8.95
+Bolivia,1,9.0
+Brazil,125,9.08
+Brunei,1,7.0
+Bulgaria,3,9.67
+Canada,421,8.49
+Chile,18,8.66
+China,40,9.09
+Colombia,9,8.44
+Croatia,11,8.85
+Czech Republic,25,8.87
+Denmark,30,8.75
+England,17,8.17
+Estonia,8,7.95
+Finland,63,8.71
+France,43,8.93
+Germany,218,9.01
+Greece,60,8.77
+Guatemala,1,10.0
+Honduras,1,8.8
+Hungary,19,8.99
+Iceland,2,8.0
+India,5,8.3
+Indonesia,6,8.67
+Ireland,13,8.6
+Israel,22,8.95
+Italy,109,8.92
+Japan,40,8.1
+Latvia,7,8.11
+Lithuania,12,8.77
+Luxembourg,3,9.0
+Malaysia,14,8.79
+Mexico,21,8.72
+Moldova,1,10.0
+Mongolia,1,9.0
+Netherlands,82,8.59
+New Zealand,42,8.74
+Norway,31,8.7
+Panama,1,9.0
+Peru,5,8.0
+Philippines,6,7.58
+Poland,141,8.62
+Portugal,30,8.5
+Qatar,1,8.8
+Romania,18,9.26
+Russia,16,8.38
+Republic of Serbia,12,8.17
+Slovakia,5,7.61
+Slovenia,6,9.0
+South Africa,9,8.91
+South Korea,51,8.95
+Spain,186,8.71
+Sweden,97,8.37
+Switzerland,16,8.78
+Taiwan,40,8.7
+Thailand,11,6.49
+Turkey,1,9.5
+Ukraine,9,7.44
+USA,2484,8.4
+Venezuela,3,9.0
+Vietnam,2,7.75
+Argentina,4,7.75
+Australia,34,7.31
+Austria,7,6.64
+Belarus,1,9.0
+Belgium,13,7.14
+Brazil,7,7.84
+Brunei,1,9.0
+Bulgaria,1,10.0
+Canada,76,7.11
+Chile,1,9.0
+China,3,6.5
+Colombia,1,10.0
+Croatia,2,7.4
+Denmark,5,5.2
+England,6,7.33
+Finland,8,7.23
+France,12,7.08
+Germany,91,6.92
+Greece,4,7.5
+Guatemala,1,8.0
+Hungary,12,7.78
+India,1,8.0
+Ireland,3,5.33
+Israel,2,5.5
+Italy,14,7.32
+Japan,16,6.06
+Luxembourg,1,9.0
+Mexico,5,8.41
+Netherlands,22,6.93
+New Zealand,9,7.03
+Norway,10,5.95
+Philippines,1,6.0
+Poland,19,7.58
+Portugal,4,7.75
+Romania,8,8.5
+Russia,1,10.0
+Saudi Arabia,1,9.0
+Slovenia,1,9.0
+South Africa,1,9.0
+South Korea,8,7.0
+Spain,19,7.14
+Sweden,6,5.83
+Switzerland,8,7.06
+Taiwan,10,7.08
+Thailand,2,8.15
+Ukraine,1,8.0
+USA,633,7.12
+Vietnam,1,7.0
+Argentina,6,7.42
+Australia,51,7.71
+Austria,11,8.0
+Belgium,23,7.73
+Brazil,27,8.06
+Bulgaria,1,7.0
+Canada,152,7.95
+Chile,2,5.9
+China,15,7.69
+Colombia,1,9.0
+Czech Republic,5,7.3
+Denmark,7,7.57
+England,9,7.13
+Estonia,4,7.55
+Finland,22,8.05
+France,14,7.57
+Germany,86,8.11
+Greece,11,7.28
+Hungary,9,8.22
+Iceland,1,7.5
+India,2,8.5
+Indonesia,2,5.5
+Ireland,3,7.17
+Israel,7,6.43
+Italy,32,8.06
+Japan,37,7.49
+Latvia,2,8.0
+Lithuania,4,6.5
+Malaysia,9,7.5
+Mexico,1,8.1
+Moldova,1,9.0
+Netherlands,32,7.61
+New Zealand,19,8.03
+Norway,11,8.59
+Philippines,1,10.0
+Poland,22,7.09
+Portugal,7,7.26
+Romania,1,9.5
+Russia,2,6.0
+Saudi Arabia,1,8.0
+Republic of Serbia,1,7.0
+Slovakia,1,3.0
+Slovenia,2,9.5
+South Africa,3,8.0
+South Korea,36,8.32
+Spain,56,7.88
+Sweden,20,7.9
+Switzerland,7,8.64
+Taiwan,21,8.19
+Thailand,5,7.0
+Ukraine,2,7.0
+USA,983,7.91
+Uruguay,1,9.0
+Venezuela,2,8.0
+Argentina,6,7.78
+Australia,63,8.08
+Austria,10,8.65
+Belarus,2,7.5
+Belgium,22,8.21
+Bolivia,2,9.25
+Brazil,63,7.97
+Bulgaria,3,9.0
+Canada,219,8.02
+Chile,5,7.96
+China,31,8.25
+Colombia,3,9.0
+Croatia,3,7.63
+Czech Republic,14,7.25
+Denmark,17,7.39
+England,8,8.64
+Estonia,7,6.31
+Finland,37,8.09
+France,35,8.45
+Germany,129,8.05
+Greece,25,8.0
+Guatemala,1,9.0
+Hungary,12,7.92
+Iceland,2,8.75
+India,2,7.5
+Indonesia,5,8.16
+Ireland,7,7.79
+Israel,11,7.89
+Italy,42,7.87
+Japan,24,7.04
+Latvia,4,7.05
+Lithuania,10,8.2
+Luxembourg,1,10.0
+Malaysia,11,8.03
+Mexico,5,6.88
+Netherlands,29,8.28
+New Zealand,21,7.97
+Norway,15,7.33
+Panama,1,8.5
+Peru,1,9.0
+Philippines,6,7.25
+Poland,75,8.34
+Portugal,11,8.22
+Qatar,1,6.2
+Romania,7,8.63
+Russia,20,7.93
+Republic of Serbia,7,7.71
+Slovakia,1,8.5
+Slovenia,2,9.0
+South Africa,6,7.75
+South Korea,27,7.29
+Spain,92,8.33
+Sweden,40,7.44
+Switzerland,15,8.56
+Taiwan,24,8.6
+Thailand,5,8.2
+Ukraine,7,8.79
+USA,1392,7.86
+Uruguay,1,10.0
+Venezuela,2,9.0
+Vietnam,1,5.5
+Australia,24,7.97
+Austria,10,8.7
+Belarus,1,9.0
+Belgium,16,8.52
+Brazil,9,8.54
+Brunei,1,8.0
+Canada,81,7.96
+Chile,2,8.25
+Croatia,1,9.0
+Czech Republic,4,6.75
+Denmark,11,8.36
+England,8,7.72
+Estonia,6,7.83
+Finland,18,7.74
+France,8,8.31
+Germany,68,7.91
+Greece,6,7.75
+Hungary,6,8.17
+India,2,9.5
+Indonesia,1,8.5
+Ireland,2,8.0
+Israel,2,10.0
+Italy,21,7.64
+Japan,6,4.5
+Latvia,3,8.57
+Lithuania,6,8.5
+Malaysia,7,8.36
+Mexico,2,9.6
+Netherlands,14,8.07
+New Zealand,12,7.96
+Norway,11,8.27
+Philippines,1,6.0
+Poland,18,8.11
+Portugal,5,7.5
+Romania,1,8.0
+Russia,2,7.5
+Slovakia,1,1.0
+Slovenia,1,9.0
+South Korea,1,7.0
+Spain,37,7.87
+Sweden,17,7.93
+Switzerland,7,8.94
+Taiwan,5,7.96
+Thailand,2,7.5
+Ukraine,1,6.0
+USA,510,7.96
+Uruguay,1,9.0
+Argentina,3,5.0
+Australia,71,5.94
+Austria,11,5.5
+The Bahamas,1,8.0
+Belgium,37,5.96
+Bolivia,1,7.0
+Brazil,18,5.43
+Bulgaria,3,8.33
+Canada,277,6.29
+Chile,12,6.54
+China,4,5.25
+Colombia,8,7.61
+Costa Rica,1,6.0
+Croatia,9,5.8
+Czech Republic,2,5.5
+Denmark,25,5.74
+England,9,6.69
+Estonia,4,5.88
+Fiji,1,6.0
+Finland,30,5.73
+France,20,6.31
+Germany,117,6.0
+Greece,29,6.77
+Guatemala,1,7.0
+Hungary,22,6.24
+Iceland,1,8.0
+India,2,5.5
+Indonesia,1,8.0
+Ireland,6,5.67
+Israel,6,5.75
+Italy,50,6.64
+Japan,6,5.5
+Latvia,5,5.7
+Lithuania,9,5.61
+Macedonia,1,6.0
+Malaysia,6,5.33
+Mexico,21,7.09
+Moldova,1,9.0
+Netherlands,64,6.16
+New Zealand,17,5.45
+Norway,25,6.08
+Paraguay,1,7.0
+Peru,3,6.67
+Philippines,4,4.5
+Poland,26,5.46
+Portugal,26,6.54
+Qatar,2,6.7
+Romania,8,7.15
+Russia,5,5.05
+Saudi Arabia,1,5.0
+Republic of Serbia,5,6.0
+Slovenia,6,6.25
+South Africa,5,5.8
+South Korea,4,6.75
+Spain,109,6.65
+Sweden,51,6.08
+Switzerland,10,6.45
+Taiwan,1,8.5
+Thailand,1,8.0
+Turkey,2,8.5
+USA,1476,6.14
+Venezuela,1,10.0
+Argentina,7,7.77
+Australia,26,7.63
+Austria,10,8.32
+Belarus,1,8.5
+Belgium,11,8.27
+Bolivia,1,9.0
+Brazil,31,8.64
+Bulgaria,3,9.33
+Canada,80,8.22
+Chile,1,10.0
+China,7,7.74
+Colombia,3,8.33
+Croatia,1,9.0
+Czech Republic,4,5.25
+Denmark,6,8.5
+England,6,8.17
+Estonia,3,7.33
+Finland,9,7.9
+France,10,8.2
+Germany,92,8.3
+Greece,15,8.64
+Hungary,4,7.13
+India,1,8.5
+Ireland,5,9.0
+Israel,3,7.37
+Italy,19,6.85
+Japan,5,5.2
+Latvia,4,7.9
+Lithuania,6,8.33
+Malaysia,2,7.75
+Mexico,1,10.0
+Moldova,1,9.0
+Netherlands,14,8.08
+New Zealand,7,7.07
+Norway,9,8.02
+Peru,1,9.0
+Philippines,5,7.7
+Poland,79,8.4
+Portugal,5,8.9
+Qatar,1,7.2
+Romania,6,9.42
+Russia,10,7.31
+Republic of Serbia,1,8.5
+Slovakia,1,10.0
+Slovenia,2,7.8
+South Africa,1,9.0
+South Korea,13,7.98
+Spain,56,7.92
+Sweden,14,7.7
+Switzerland,10,8.7
+Taiwan,7,8.26
+Thailand,3,8.5
+Ukraine,4,8.75
+USA,371,7.89
+Uruguay,1,9.5
+Venezuela,1,7.0
+Vietnam,2,8.0
+Argentina,3,6.67
+Australia,58,7.22
+Austria,11,7.27
+Belarus,1,8.0
+Belgium,28,7.34
+Brazil,21,7.92
+Bulgaria,1,9.0
+Canada,158,7.31
+Chile,3,8.13
+China,2,7.35
+Colombia,2,7.5
+Croatia,4,7.53
+Czech Republic,7,8.0
+Denmark,20,7.01
+England,10,7.75
+Estonia,3,8.6
+Finland,23,7.5
+France,17,7.7
+Germany,142,8.0
+Greece,22,7.98
+Hungary,4,8.0
+Iceland,1,10.0
+Ireland,4,6.88
+Israel,5,6.8
+Italy,36,7.44
+Japan,10,5.53
+Latvia,1,7.0
+Lithuania,2,7.0
+Luxembourg,3,8.67
+Malaysia,5,7.62
+Mexico,3,8.33
+Netherlands,39,7.87
+New Zealand,10,7.27
+Norway,18,7.59
+Philippines,2,6.5
+Poland,15,7.43
+Portugal,4,6.88
+Romania,2,8.6
+Russia,7,6.86
+Saudi Arabia,1,10.0
+Republic of Serbia,3,7.67
+Slovenia,1,8.0
+South Africa,3,5.83
+South Korea,11,7.64
+Spain,47,7.26
+Sweden,77,7.78
+Switzerland,11,7.86
+Taiwan,5,6.88
+Thailand,1,6.0
+Turkey,1,9.0
+Ukraine,6,7.0
+USA,1101,7.37
+Venezuela,2,9.9
+Argentina,1,8.0
+Australia,24,7.03
+Austria,6,6.65
+Belgium,11,7.7
+Brazil,10,6.89
+Brunei,1,7.0
+Bulgaria,1,8.0
+Canada,79,7.11
+Chile,2,7.25
+China,6,7.03
+Colombia,1,9.0
+Czech Republic,5,6.9
+Denmark,8,6.5
+England,3,6.63
+Estonia,3,6.33
+Finland,8,6.51
+France,15,7.68
+Germany,81,7.4
+Greece,7,8.27
+Hungary,2,6.5
+Iceland,1,7.5
+India,1,8.0
+Indonesia,2,7.75
+Ireland,3,7.83
+Israel,2,7.4
+Italy,13,6.77
+Japan,11,6.08
+Latvia,4,7.43
+Lithuania,1,7.0
+Luxembourg,1,6.0
+Malaysia,1,8.0
+Mexico,2,7.5
+Netherlands,17,7.31
+New Zealand,8,7.04
+Norway,12,7.28
+Philippines,1,6.0
+Poland,19,6.72
+Portugal,4,6.6
+Romania,3,8.07
+Russia,3,7.67
+Republic of Serbia,1,7.0
+Slovakia,1,8.0
+South Africa,1,7.0
+South Korea,11,7.11
+Spain,37,7.35
+Sweden,12,7.27
+Switzerland,3,7.67
+Taiwan,8,7.15
+Thailand,2,7.75
+Turkey,1,7.0
+USA,500,7.18
+Argentina,1,6.0
+Australia,29,5.85
+Austria,9,6.56
+The Bahamas,1,6.0
+Belgium,26,6.28
+Brazil,22,7.81
+Brunei,1,6.0
+Bulgaria,1,6.0
+Canada,68,6.59
+Chile,2,6.0
+China,9,6.76
+Colombia,3,8.0
+Costa Rica,1,8.0
+Croatia,1,9.0
+Czech Republic,1,5.0
+Denmark,6,6.08
+England,5,5.8
+Estonia,2,7.5
+Finland,13,6.18
+France,6,6.5
+Germany,59,6.39
+Greece,9,6.57
+Guatemala,1,7.0
+Hungary,6,6.75
+India,1,8.0
+Ireland,1,7.0
+Israel,5,6.22
+Italy,12,5.71
+Japan,27,7.81
+Latvia,2,6.0
+Lithuania,3,6.33
+Malaysia,3,6.67
+Mexico,5,8.95
+Netherlands,39,6.19
+New Zealand,8,6.69
+Norway,10,6.5
+Peru,2,8.0
+Philippines,1,8.0
+Poland,39,7.26
+Portugal,5,6.85
+Romania,4,6.75
+Russia,6,7.33
+Saudi Arabia,1,7.0
+Slovenia,1,6.0
+South Africa,3,6.0
+South Korea,26,7.92
+Spain,58,7.11
+Sweden,19,6.58
+Switzerland,5,7.0
+Taiwan,17,7.35
+Thailand,1,8.0
+Ukraine,1,6.0
+USA,479,6.37
+Venezuela,2,8.5
+Argentina,10,6.7
+Australia,47,6.9
+Austria,7,7.29
+Belarus,3,6.33
+Belgium,46,7.38
+Bolivia,1,6.5
+Brazil,48,7.62
+Brunei,1,8.0
+Bulgaria,8,7.31
+Canada,100,6.83
+Chile,6,6.83
+China,18,7.06
+Colombia,2,7.5
+Croatia,1,7.0
+Czech Republic,5,5.0
+Denmark,5,7.3
+England,5,7.36
+Estonia,13,7.4
+Finland,8,7.25
+France,28,6.7
+Germany,66,6.52
+Greece,38,7.08
+Hungary,21,7.07
+Iceland,1,6.0
+India,1,6.0
+Indonesia,8,8.09
+Ireland,4,7.75
+Israel,9,7.11
+Italy,30,6.75
+Japan,25,6.17
+Latvia,11,6.94
+Lithuania,16,7.55
+Luxembourg,2,7.0
+Malaysia,9,7.76
+Mexico,1,9.0
+Moldova,1,10.0
+Netherlands,40,6.69
+New Zealand,14,6.76
+Norway,6,6.67
+Peru,1,10.0
+Philippines,3,6.33
+Poland,86,7.25
+Portugal,13,7.19
+Romania,20,8.06
+Russia,8,6.63
+Saudi Arabia,1,8.0
+Republic of Serbia,3,8.33
+Slovakia,4,7.38
+Slovenia,2,6.5
+South Africa,2,7.0
+South Korea,13,6.98
+Spain,142,6.9
+Sri Lanka,1,9.0
+Sweden,13,7.15
+Switzerland,4,6.63
+Taiwan,32,7.22
+Thailand,7,6.86
+Turkey,2,7.25
+Ukraine,13,7.25
+USA,485,6.84
+Uruguay,2,8.25
+Venezuela,2,6.5
+Vietnam,1,6.0
+Argentina,5,7.9
+Australia,43,7.6
+Austria,11,7.5
+Belgium,26,7.72
+Brazil,21,7.61
+Brunei,1,7.0
+Bulgaria,1,8.0
+Canada,88,7.46
+Chile,2,9.95
+China,17,7.85
+Colombia,1,8.0
+Croatia,3,7.4
+Czech Republic,14,8.5
+Denmark,11,7.44
+England,9,7.5
+Estonia,3,8.3
+Finland,19,7.33
+France,18,8.42
+Germany,131,8.19
+Greece,18,8.0
+Hungary,11,7.94
+India,1,7.8
+Indonesia,3,7.67
+Ireland,2,8.5
+Israel,6,7.87
+Italy,38,7.76
+Japan,28,7.16
+Latvia,6,7.8
+Lithuania,5,8.2
+Luxembourg,2,4.25
+Malaysia,4,6.75
+Mexico,2,8.35
+Netherlands,28,7.74
+New Zealand,9,7.72
+Norway,13,7.85
+Philippines,1,2.0
+Poland,27,7.87
+Portugal,9,8.1
+Romania,3,8.0
+Russia,7,7.93
+Saudi Arabia,1,9.0
+Republic of Serbia,1,8.0
+Slovakia,3,8.17
+Slovenia,2,8.5
+South Africa,3,7.33
+South Korea,28,7.94
+Spain,56,8.12
+Sweden,20,7.19
+Switzerland,8,8.0
+Taiwan,21,8.2
+Thailand,4,8.63
+Ukraine,2,5.0
+USA,641,7.46
+Venezuela,2,7.0
+Argentina,4,8.13
+Australia,31,7.56
+Austria,6,8.17
+Belgium,22,7.51
+Bolivia,1,10.0
+Brazil,31,8.0
+Bulgaria,2,6.0
+Canada,102,7.71
+Chile,4,7.38
+China,14,7.08
+Colombia,1,7.5
+Croatia,3,8.67
+Czech Republic,3,7.17
+Denmark,10,7.65
+England,3,7.83
+Estonia,3,5.83
+Finland,33,7.82
+France,16,7.59
+Germany,76,7.64
+Greece,15,7.82
+Hungary,9,7.72
+India,4,8.3
+Indonesia,1,8.0
+Ireland,1,8.0
+Israel,6,7.78
+Italy,39,7.72
+Japan,16,6.96
+Latvia,2,8.5
+Lithuania,6,8.17
+Luxembourg,1,8.5
+Malaysia,6,7.92
+Mexico,3,8.95
+Moldova,1,10.0
+Netherlands,17,6.99
+New Zealand,10,7.05
+Norway,10,8.1
+Philippines,1,8.0
+Poland,43,7.69
+Portugal,10,7.8
+Russia,5,6.4
+Slovenia,2,8.75
+South Korea,28,7.14
+Spain,74,8.15
+Sweden,21,7.22
+Switzerland,5,8.0
+Taiwan,13,7.53
+Thailand,8,7.49
+Turkey,1,10.0
+Ukraine,2,8.0
+USA,645,7.65
+Venezuela,1,8.0
+Argentina,8,8.13
+Australia,47,7.72
+Austria,12,7.5
+Belgium,33,7.83
+Brazil,25,7.9
+Brunei,1,6.0
+Bulgaria,2,8.0
+Canada,148,7.8
+Chile,7,8.29
+China,18,7.22
+Colombia,4,6.88
+Croatia,1,8.5
+Czech Republic,15,7.7
+Denmark,9,7.22
+England,7,7.89
+Estonia,5,8.0
+Finland,27,7.7
+France,18,8.01
+Germany,165,7.87
+Greece,17,8.05
+Hungary,11,8.18
+India,3,9.0
+Indonesia,3,7.83
+Ireland,7,7.43
+Israel,6,7.88
+Italy,38,7.62
+Japan,34,7.23
+Latvia,2,7.0
+Lithuania,1,8.0
+Luxembourg,3,8.0
+Malaysia,6,7.83
+Mexico,3,7.23
+Netherlands,45,7.91
+New Zealand,20,7.36
+Norway,13,7.78
+Philippines,3,6.0
+Poland,21,7.49
+Portugal,11,7.5
+Qatar,1,8.0
+Romania,1,8.2
+Russia,3,7.67
+Republic of Serbia,1,8.3
+Slovakia,2,7.25
+Slovenia,2,8.75
+South Africa,2,9.0
+South Korea,30,7.42
+Spain,76,7.65
+Sweden,35,7.06
+Switzerland,10,7.65
+Taiwan,22,7.98
+Thailand,3,7.7
+Ukraine,2,5.5
+USA,1091,7.74
+Venezuela,2,8.5
+Argentina,1,6.0
+Australia,43,6.95
+Austria,13,7.0
+Belgium,23,6.59
+Brazil,36,6.73
+Brunei,1,8.0
+Bulgaria,1,6.0
+Canada,143,6.73
+Chile,3,7.17
+China,6,7.17
+Croatia,3,8.67
+Czech Republic,2,5.25
+Denmark,12,6.0
+England,3,7.33
+Estonia,3,7.33
+Finland,24,6.5
+France,11,6.12
+Germany,127,6.77
+Greece,13,6.45
+Hungary,9,7.64
+Iceland,2,6.5
+India,3,6.33
+Ireland,2,7.5
+Israel,5,6.21
+Italy,37,7.01
+Japan,25,6.39
+Kenya,1,3.5
+Latvia,3,6.0
+Lithuania,4,6.63
+Luxembourg,1,7.0
+Mexico,2,7.25
+Netherlands,21,7.26
+New Zealand,12,6.5
+Norway,12,5.88
+Poland,15,6.9
+Portugal,6,6.48
+Romania,2,7.75
+Russia,3,7.33
+Republic of Serbia,2,7.0
+Slovakia,1,8.0
+Slovenia,3,5.67
+South Africa,2,5.0
+South Korea,13,6.86
+Spain,10,7.65
+Sweden,21,6.38
+Switzerland,7,6.79
+Taiwan,8,7.13
+Thailand,1,8.5
+Ukraine,2,7.0
+USA,599,6.82
+Argentina,12,7.75
+Australia,70,6.88
+Austria,7,6.03
+The Bahamas,1,6.75
+Belgium,30,6.57
+Brazil,33,7.15
+Bulgaria,5,8.6
+Canada,255,6.83
+Chile,6,7.17
+China,2,7.5
+Colombia,2,8.0
+Costa Rica,1,6.0
+Croatia,3,7.0
+Czech Republic,4,6.38
+Denmark,13,6.81
+Ecuador,1,7.0
+England,9,6.94
+Estonia,10,7.35
+Finland,27,6.12
+France,15,6.45
+Germany,84,6.45
+Greece,27,6.96
+Guatemala,1,8.0
+Hungary,17,6.74
+Iceland,1,7.5
+India,2,7.0
+Indonesia,1,8.0
+Ireland,6,6.67
+Israel,6,7.36
+Italy,26,6.4
+Japan,6,7.0
+Latvia,6,7.0
+Lithuania,4,6.5
+Malaysia,4,7.18
+Mexico,15,7.41
+Moldova,1,8.0
+Netherlands,39,6.87
+New Zealand,15,6.72
+Norway,21,6.74
+Peru,2,6.0
+Philippines,3,7.67
+Poland,62,6.79
+Portugal,15,6.57
+Qatar,1,8.0
+Romania,5,7.5
+Russia,11,6.44
+Republic of Serbia,1,8.0
+Slovakia,2,7.0
+Slovenia,5,6.8
+South Africa,4,8.25
+South Korea,9,5.72
+Spain,76,6.93
+Sri Lanka,1,7.0
+Sweden,32,6.2
+Switzerland,3,7.33
+Taiwan,1,8.0
+Thailand,2,7.5
+Turkey,2,9.0
+USA,1385,6.79
+Venezuela,1,8.0
+Argentina,10,8.54
+Australia,39,8.35
+Austria,7,8.29
+Belarus,1,7.0
+Belgium,13,8.12
+Bolivia,1,1.0
+Brazil,31,8.75
+Bulgaria,2,8.5
+Canada,141,8.5
+Chile,10,8.25
+China,11,7.93
+Colombia,5,9.66
+Croatia,3,8.97
+Czech Republic,8,8.75
+Denmark,6,8.4
+England,7,8.71
+Estonia,2,9.75
+Finland,8,7.69
+France,21,8.33
+Germany,74,8.38
+Greece,18,8.84
+Hungary,4,7.63
+India,1,8.0
+Indonesia,2,9.0
+Iraq,1,9.0
+Ireland,5,8.4
+Israel,7,8.72
+Italy,32,8.11
+Japan,17,8.68
+Latvia,5,8.3
+Lebanon,1,8.0
+Lithuania,6,9.0
+Luxembourg,2,8.0
+Malaysia,2,8.5
+Mexico,10,7.73
+Netherlands,18,8.51
+New Zealand,10,7.77
+Norway,8,8.38
+Paraguay,1,10.0
+Peru,1,10.0
+Philippines,8,8.44
+Poland,35,8.58
+Portugal,14,9.08
+Qatar,1,6.8
+Romania,5,9.6
+Russia,8,8.28
+Republic of Serbia,4,9.0
+Slovakia,1,10.0
+South Africa,3,8.0
+South Korea,8,8.19
+Spain,74,8.63
+Sri Lanka,1,8.0
+Sweden,17,7.85
+Switzerland,10,8.75
+Taiwan,5,6.8
+Thailand,6,7.83
+Turkey,1,9.0
+Ukraine,8,9.25
+USA,654,8.48
+Uruguay,1,10.0
+Venezuela,2,9.5
+Vietnam,1,4.48
+Argentina,4,6.18
+Australia,54,7.16
+Austria,9,8.08
+Belgium,27,7.77
+Brazil,33,7.9
+Brunei,1,9.0
+Bulgaria,3,7.33
+Canada,206,7.65
+Chile,3,8.0
+China,8,7.29
+Colombia,2,9.25
+Costa Rica,1,7.0
+Croatia,2,2.65
+Czech Republic,5,7.0
+Denmark,11,7.55
+England,7,7.79
+Estonia,3,7.0
+Finland,22,7.59
+France,28,7.56
+Germany,93,7.38
+Greece,25,8.12
+Guatemala,1,8.0
+Hungary,4,6.0
+India,1,8.0
+Indonesia,2,7.6
+Ireland,2,7.0
+Israel,6,6.8
+Italy,35,7.48
+Japan,16,6.94
+Latvia,5,7.9
+Lithuania,4,7.5
+Luxembourg,1,8.4
+Macedonia,2,9.5
+Malaysia,8,6.94
+Mexico,3,7.67
+Moldova,1,9.0
+Mongolia,1,9.0
+Netherlands,22,7.59
+New Zealand,16,7.19
+Norway,12,7.83
+Peru,1,6.0
+Philippines,4,7.0
+Poland,24,7.2
+Portugal,9,7.64
+Qatar,1,6.4
+Romania,7,8.79
+Russia,8,6.38
+Republic of Serbia,1,4.0
+Slovenia,3,7.0
+South Africa,4,7.75
+South Korea,16,7.97
+Spain,28,7.18
+Sweden,23,7.68
+Switzerland,9,7.72
+Taiwan,10,7.9
+Thailand,2,7.5
+Ukraine,2,9.0
+USA,1105,7.43
+Uruguay,1,9.0
+Venezuela,1,5.0
+Vietnam,1,5.0
+Argentina,3,7.7
+Australia,48,7.52
+Austria,1,6.5
+Belarus,1,6.0
+Belgium,10,7.26
+Bolivia,2,5.0
+Brazil,20,8.24
+Bulgaria,4,7.5
+Canada,105,7.7
+Chile,3,6.33
+China,9,6.99
+Colombia,3,7.67
+Croatia,3,6.4
+Czech Republic,1,6.0
+Denmark,5,6.4
+Ecuador,1,7.0
+England,5,6.18
+Finland,5,7.7
+France,5,7.4
+Germany,24,6.77
+Greece,14,7.93
+Hungary,2,6.75
+India,4,8.0
+Indonesia,3,9.0
+Iran,1,8.0
+Ireland,4,8.25
+Israel,6,7.38
+Italy,6,7.73
+Japan,6,5.58
+Latvia,4,7.5
+Lithuania,6,8.38
+Macedonia,1,8.0
+Malaysia,3,8.83
+Mexico,12,8.36
+Moldova,1,8.0
+Netherlands,8,7.49
+New Zealand,3,7.83
+Norway,8,6.75
+Peru,1,7.0
+Philippines,5,8.0
+Poland,30,7.62
+Portugal,12,7.66
+Romania,11,8.28
+Russia,5,7.0
+Saudi Arabia,2,7.25
+Republic of Serbia,7,8.76
+Slovakia,2,7.95
+South Africa,4,6.13
+South Korea,4,7.63
+Spain,25,7.22
+Sweden,15,7.37
+Switzerland,2,7.0
+Taiwan,5,7.28
+Thailand,4,6.75
+Ukraine,2,7.5
+USA,634,7.44
+Uruguay,1,8.5
+Venezuela,1,4.0
+Vietnam,2,7.0
+Albania,1,6.0
+Argentina,17,7.83
+Australia,94,7.49
+Austria,12,7.08
+Belarus,3,8.67
+Belgium,49,8.1
+Bolivia,2,9.25
+Brazil,77,8.06
+Bulgaria,7,8.86
+Canada,332,7.77
+Chile,7,7.99
+China,27,7.87
+Colombia,4,7.5
+Costa Rica,2,8.0
+Croatia,10,7.31
+Czech Republic,13,8.0
+Denmark,27,7.46
+Ecuador,1,9.0
+England,17,7.92
+Estonia,5,7.0
+Finland,32,8.17
+France,42,7.79
+Germany,143,7.63
+Greece,24,7.89
+Guatemala,2,7.75
+Hungary,20,7.14
+Iceland,3,9.0
+India,1,8.0
+Indonesia,3,7.0
+Ireland,14,7.82
+Israel,9,7.32
+Italy,58,7.93
+Japan,26,6.62
+Latvia,8,7.75
+Lithuania,21,7.99
+Luxembourg,2,7.5
+Malaysia,9,7.31
+Mexico,22,8.0
+Moldova,1,7.0
+Mongolia,1,8.0
+Netherlands,44,7.77
+New Zealand,25,7.4
+Norway,16,7.97
+Peru,2,7.75
+Philippines,9,8.67
+Poland,126,7.77
+Portugal,16,7.83
+Qatar,1,10.0
+Romania,15,8.39
+Russia,22,8.11
+Republic of Serbia,7,8.14
+Slovakia,2,8.0
+Slovenia,3,8.83
+South Africa,7,8.07
+South Korea,17,7.37
+Spain,135,7.79
+Sri Lanka,1,7.0
+Sweden,69,7.71
+Switzerland,17,7.85
+Taiwan,25,7.69
+Thailand,16,8.28
+Ukraine,15,8.2
+USA,1834,7.72
+Uruguay,1,8.8
+Venezuela,1,7.0
+Vietnam,3,5.85
+Argentina,5,7.68
+Australia,32,7.09
+Austria,2,7.0
+Belarus,2,5.0
+Belgium,6,7.83
+Brazil,13,7.62
+Bulgaria,2,9.0
+Canada,97,7.42
+Chile,1,8.0
+China,7,7.31
+Czech Republic,2,7.0
+Denmark,4,6.0
+England,6,6.97
+Finland,2,8.25
+France,10,7.05
+Germany,36,6.41
+Greece,14,7.07
+Hungary,1,9.0
+Indonesia,2,9.0
+Ireland,5,7.3
+Israel,3,7.2
+Italy,9,7.61
+Japan,3,5.67
+Latvia,4,7.06
+Luxembourg,1,6.0
+Malaysia,2,6.4
+Mexico,7,8.26
+Netherlands,4,5.13
+New Zealand,5,6.3
+Norway,4,6.0
+Peru,1,8.0
+Philippines,6,7.83
+Poland,4,5.5
+Portugal,4,7.78
+Qatar,2,6.2
+Romania,2,8.25
+Russia,6,6.83
+Republic of Serbia,2,7.5
+Slovakia,1,8.0
+South Africa,2,7.5
+Spain,33,7.21
+Sweden,14,6.08
+Switzerland,4,7.0
+Taiwan,1,6.0
+Thailand,1,9.5
+Uganda,1,9.0
+Ukraine,2,7.75
+USA,641,7.06
+Uruguay,1,9.0
+Argentina,16,8.25
+Australia,80,7.8
+Austria,8,7.53
+Belgium,28,7.9
+Brazil,34,8.01
+Bulgaria,9,8.78
+Canada,171,8.07
+Chile,11,7.65
+China,17,7.57
+Colombia,6,8.62
+Costa Rica,1,8.0
+Croatia,4,8.08
+Czech Republic,7,6.64
+Denmark,8,5.98
+England,12,7.36
+Estonia,3,8.0
+Finland,21,7.85
+France,35,8.08
+Germany,89,7.39
+Greece,23,7.87
+Guatemala,1,9.0
+Hungary,13,7.23
+Iceland,1,8.5
+India,7,8.21
+Indonesia,6,9.25
+Iran,2,9.0
+Ireland,8,7.88
+Israel,8,7.6
+Italy,41,7.91
+Japan,30,7.63
+Kenya,1,8.0
+Latvia,7,8.18
+Lebanon,1,8.0
+Lithuania,8,8.19
+Luxembourg,2,7.5
+Macedonia,1,3.0
+Malaysia,5,7.8
+Mexico,23,8.45
+Moldova,1,8.0
+Netherlands,33,7.85
+New Zealand,11,7.0
+Norway,13,7.85
+Peru,6,8.67
+Philippines,9,8.06
+Poland,101,8.05
+Portugal,20,8.45
+Qatar,1,7.0
+Romania,12,9.01
+Russia,10,8.3
+Saudi Arabia,2,9.5
+Republic of Serbia,8,7.94
+Slovakia,3,7.92
+Slovenia,2,8.5
+South Africa,7,8.43
+South Korea,23,8.09
+Spain,77,7.7
+Sweden,34,7.59
+Switzerland,10,7.5
+Taiwan,20,8.06
+Thailand,15,8.77
+Turkey,2,8.0
+Uganda,1,5.0
+Ukraine,5,8.0
+USA,1212,8.0
+Venezuela,2,8.5
+Vietnam,3,8.42
+Argentina,11,8.6
+Australia,29,7.6
+Austria,5,8.0
+Belarus,2,9.0
+Belgium,7,8.86
+Brazil,18,8.39
+Bulgaria,1,10.0
+Canada,93,7.8
+Chile,11,8.68
+China,12,8.38
+Colombia,2,6.25
+Czech Republic,5,6.7
+Denmark,8,6.98
+Ecuador,1,7.0
+England,7,7.66
+Finland,9,7.28
+France,15,8.33
+Germany,44,7.85
+Greece,10,7.83
+Hungary,4,9.25
+India,1,9.0
+Indonesia,1,8.0
+Ireland,5,8.5
+Israel,5,8.4
+Italy,23,7.51
+Japan,1,1.0
+Latvia,2,7.0
+Lithuania,2,6.5
+Luxembourg,2,7.75
+Malaysia,4,5.85
+Mexico,11,7.82
+Netherlands,15,8.35
+New Zealand,5,7.21
+Norway,8,7.56
+Peru,1,10.0
+Philippines,3,8.5
+Poland,29,8.13
+Portugal,10,7.41
+Qatar,2,7.9
+Romania,7,8.79
+Russia,14,8.21
+Republic of Serbia,2,8.75
+Slovakia,2,8.0
+Slovenia,1,10.0
+South Africa,8,7.41
+South Korea,4,7.5
+Spain,68,8.05
+Sweden,20,7.22
+Switzerland,2,9.0
+Taiwan,6,8.05
+Thailand,4,7.88
+Turkey,1,8.5
+Ukraine,4,8.68
+USA,642,7.91
+Uruguay,4,8.25
+Venezuela,2,8.0
+Argentina,5,8.14
+Australia,32,8.01
+Austria,2,8.5
+Belarus,1,7.0
+Belgium,5,9.04
+Bolivia,1,9.0
+Brazil,36,8.03
+Canada,88,8.0
+Chile,1,7.0
+China,2,5.1
+Colombia,2,8.25
+Croatia,3,10.0
+Czech Republic,2,8.25
+Denmark,5,8.2
+England,2,9.0
+Finland,7,6.91
+France,9,7.44
+Germany,50,8.04
+Greece,7,8.86
+Guatemala,1,9.0
+Hungary,5,6.4
+Iceland,1,9.0
+Indonesia,1,9.0
+Ireland,5,8.4
+Israel,3,5.4
+Italy,14,7.18
+Japan,3,6.0
+Latvia,1,8.0
+Lithuania,6,7.67
+Luxembourg,1,8.0
+Malaysia,3,9.1
+Mexico,3,7.83
+Netherlands,6,8.55
+New Zealand,5,7.23
+Norway,5,7.7
+Philippines,1,10.0
+Poland,28,7.78
+Portugal,6,7.83
+Romania,1,8.0
+Russia,2,7.5
+Saudi Arabia,1,9.0
+Republic of Serbia,2,6.9
+Slovenia,3,10.0
+South Africa,4,7.75
+South Korea,6,7.42
+Spain,67,8.09
+Sweden,21,6.81
+Switzerland,4,6.38
+Taiwan,3,7.67
+Thailand,2,8.5
+Turkey,2,9.0
+Ukraine,2,7.25
+USA,573,8.05
+Uruguay,1,8.0
+Vietnam,1,2.5
+Argentina,20,8.22
+Australia,69,7.84
+Austria,17,8.74
+Azerbaijan,1,7.0
+Belarus,1,9.0
+Belgium,47,8.02
+Brazil,82,8.51
+Brunei,1,8.0
+Bulgaria,7,8.79
+Canada,232,8.12
+Chile,12,8.57
+China,26,8.02
+Colombia,4,7.88
+Croatia,2,7.25
+Czech Republic,19,8.21
+Denmark,20,8.21
+Ecuador,1,9.0
+England,13,8.28
+Estonia,5,6.4
+Finland,31,7.95
+France,41,8.32
+Germany,182,8.1
+Greece,43,8.4
+Guatemala,1,9.0
+Honduras,1,8.6
+Hungary,18,8.83
+Iceland,4,8.5
+India,5,8.2
+Indonesia,3,8.0
+Iran,1,10.0
+Ireland,8,7.94
+Israel,13,8.38
+Italy,67,7.98
+Japan,27,7.12
+Kenya,1,8.0
+Latvia,10,8.5
+Lithuania,10,7.8
+Luxembourg,3,7.27
+Malaysia,8,7.99
+Mexico,12,9.06
+Moldova,3,9.5
+Netherlands,46,7.96
+New Zealand,19,7.68
+Norway,19,8.09
+Paraguay,1,8.0
+Peru,4,7.63
+Philippines,6,8.08
+Poland,103,8.27
+Portugal,23,8.46
+Qatar,1,7.6
+Romania,18,8.78
+Russia,19,7.84
+Republic of Serbia,6,8.25
+Slovakia,5,8.61
+Slovenia,5,9.1
+South Africa,4,8.5
+South Korea,33,7.92
+Spain,142,8.34
+Sri Lanka,1,7.0
+Sweden,45,7.64
+Switzerland,12,8.13
+Taiwan,35,8.33
+Thailand,12,7.16
+Ukraine,11,8.65
+USA,1172,8.08
+Uruguay,2,9.0
+Venezuela,2,10.0
+Vietnam,3,7.42
+Argentina,3,5.83
+Australia,34,6.22
+Austria,1,7.0
+The Bahamas,1,7.0
+Belgium,19,5.63
+Bolivia,1,7.0
+Brazil,33,6.07
+Bulgaria,1,7.0
+Canada,92,6.39
+Chile,4,5.38
+Colombia,2,7.75
+Czech Republic,3,5.47
+Denmark,7,4.71
+England,1,6.0
+Estonia,3,5.0
+Finland,4,6.13
+France,5,5.58
+Germany,57,6.24
+Greece,18,6.94
+Guatemala,1,8.0
+Hungary,3,7.47
+India,1,6.2
+Ireland,5,7.1
+Israel,3,6.17
+Italy,30,6.6
+Latvia,1,7.0
+Lithuania,1,6.0
+Mexico,9,6.82
+Netherlands,44,6.42
+New Zealand,5,6.26
+Norway,16,5.56
+Peru,1,8.0
+Poland,11,6.41
+Portugal,5,6.6
+Qatar,1,8.0
+Russia,2,6.0
+Republic of Serbia,4,7.75
+Slovenia,1,4.0
+South Africa,1,7.0
+South Korea,7,6.57
+Spain,41,7.2
+Sweden,22,6.14
+Switzerland,7,6.32
+USA,811,6.26
+Argentina,5,7.56
+Australia,25,7.66
+Austria,3,7.33
+Belarus,1,7.0
+Belgium,7,8.07
+Brazil,26,8.66
+Bulgaria,2,8.0
+Canada,87,8.06
+Chile,1,7.2
+China,6,7.38
+Czech Republic,6,7.0
+Denmark,5,6.6
+England,7,7.57
+Estonia,2,8.5
+Finland,7,8.43
+France,9,7.61
+Germany,45,7.5
+Greece,7,8.21
+Hungary,2,8.75
+Iceland,1,8.5
+India,1,9.5
+Indonesia,1,6.5
+Ireland,6,8.08
+Israel,3,7.67
+Italy,29,7.14
+Japan,9,6.17
+Latvia,4,7.25
+Lithuania,4,7.0
+Malaysia,2,8.5
+Mexico,3,8.17
+Netherlands,12,7.76
+New Zealand,4,6.75
+Norway,5,7.72
+Philippines,5,8.18
+Poland,35,7.74
+Portugal,3,8.8
+Qatar,1,7.2
+Romania,5,8.57
+Russia,6,7.5
+Republic of Serbia,1,7.0
+Slovakia,1,6.0
+South Africa,2,9.5
+South Korea,9,7.33
+Spain,20,7.71
+Sweden,16,7.28
+Switzerland,4,7.5
+Taiwan,9,7.71
+Thailand,1,9.0
+Ukraine,2,8.0
+USA,502,7.84
+Venezuela,2,7.5
+Vietnam,1,7.77
+Argentina,6,7.68
+Australia,50,7.76
+Austria,1,6.0
+Belarus,1,8.0
+Belgium,10,8.38
+Brazil,32,8.0
+Bulgaria,1,10.0
+Canada,134,7.79
+Chile,8,7.88
+China,8,7.15
+Colombia,4,8.13
+Croatia,2,8.0
+Czech Republic,1,7.0
+Denmark,1,8.0
+England,2,7.0
+Finland,6,6.67
+France,14,8.03
+Germany,20,6.49
+Greece,9,7.36
+Honduras,1,8.3
+Hungary,1,5.0
+Indonesia,3,8.33
+Ireland,6,8.33
+Israel,3,8.17
+Italy,18,7.37
+Japan,15,6.93
+Latvia,3,6.33
+Lithuania,3,8.0
+Luxembourg,2,8.05
+Malaysia,3,7.83
+Mexico,11,8.45
+Netherlands,7,7.07
+New Zealand,6,8.18
+Norway,5,6.8
+Peru,1,7.0
+Philippines,2,8.0
+Poland,6,8.67
+Portugal,4,7.75
+Romania,3,8.33
+Russia,6,7.33
+Saudi Arabia,2,7.5
+Slovakia,1,10.0
+South Africa,1,8.0
+South Korea,10,7.45
+Spain,100,7.97
+Sweden,11,7.55
+Switzerland,1,7.0
+Taiwan,9,8.16
+Thailand,10,7.08
+Ukraine,3,8.33
+USA,684,7.55
+Uruguay,1,9.0
+Venezuela,1,8.0
+Vietnam,1,5.0
+Argentina,15,7.55
+Australia,54,7.43
+Austria,7,7.64
+Belarus,1,6.0
+Belgium,6,5.75
+Brazil,25,7.94
+Bulgaria,1,9.5
+Canada,134,7.45
+Chile,8,5.96
+China,8,7.13
+Colombia,3,7.17
+Czech Republic,1,8.0
+Denmark,5,6.92
+England,5,8.2
+Finland,4,7.5
+France,9,7.41
+Germany,26,7.21
+Greece,7,6.93
+Hungary,5,7.2
+Iceland,1,8.0
+India,3,7.83
+Indonesia,1,10.0
+Iran,1,5.0
+Ireland,4,8.48
+Israel,5,7.26
+Italy,19,7.49
+Japan,8,6.25
+Latvia,3,6.67
+Lithuania,2,7.5
+Luxembourg,1,9.0
+Malaysia,4,7.75
+Mexico,10,7.73
+Netherlands,21,7.09
+New Zealand,7,6.94
+Norway,4,6.63
+Peru,2,8.0
+Philippines,6,7.37
+Poland,16,7.09
+Portugal,15,7.53
+Romania,2,8.48
+Russia,2,7.5
+Republic of Serbia,5,7.3
+Slovakia,1,10.0
+Slovenia,1,8.0
+South Africa,6,7.92
+South Korea,12,7.42
+Spain,76,7.41
+Sweden,17,6.59
+Switzerland,4,6.63
+Taiwan,7,7.59
+Thailand,5,7.4
+Turkey,1,7.5
+Uganda,1,7.0
+Ukraine,1,6.0
+USA,705,7.49
+Uruguay,2,8.75
+Venezuela,2,7.0
+Vietnam,2,7.25
+Argentina,3,6.33
+Australia,32,6.56
+Austria,6,5.42
+Belgium,9,5.83
+Brazil,8,7.75
+Brunei,1,8.0
+Bulgaria,2,5.75
+Canada,86,6.47
+Chile,2,7.0
+China,1,8.0
+Croatia,2,5.4
+Denmark,2,5.5
+Finland,3,6.03
+France,9,6.63
+Germany,68,6.73
+Greece,27,6.68
+Hungary,4,6.25
+India,3,8.0
+Ireland,2,5.5
+Israel,1,8.0
+Italy,33,6.65
+Japan,3,6.67
+Malaysia,1,5.0
+Mexico,1,8.0
+Netherlands,4,6.75
+New Zealand,2,5.5
+Norway,3,6.0
+Paraguay,1,6.0
+Peru,1,6.0
+Philippines,2,5.5
+Poland,28,7.13
+Portugal,4,6.76
+Qatar,1,7.4
+Russia,2,6.5
+Slovenia,1,7.0
+South Africa,1,6.0
+South Korea,1,10.0
+Spain,32,6.08
+Sweden,5,7.8
+Switzerland,5,7.5
+Turkey,1,7.0
+USA,606,6.45
+Venezuela,1,8.0
+Argentina,15,7.93
+Australia,54,7.51
+Austria,3,8.0
+Belarus,1,4.0
+Belgium,23,7.89
+Brazil,47,8.12
+Bulgaria,4,8.0
+Canada,154,7.8
+Chile,10,7.37
+China,15,7.46
+Colombia,2,9.0
+Croatia,3,7.73
+Czech Republic,9,7.22
+Denmark,8,7.64
+England,11,7.69
+Estonia,2,7.5
+Finland,7,7.37
+France,23,7.18
+Germany,54,7.69
+Greece,20,7.9
+Guatemala,1,8.0
+Hungary,17,8.06
+Iceland,1,7.0
+India,3,8.17
+Indonesia,3,8.0
+Ireland,8,7.88
+Israel,9,7.42
+Italy,31,7.5
+Japan,11,6.31
+Latvia,3,7.5
+Lithuania,8,8.88
+Luxembourg,1,8.0
+Macedonia,3,8.33
+Malaysia,5,8.3
+Mexico,9,7.59
+Moldova,1,10.0
+Netherlands,17,7.28
+New Zealand,11,7.42
+Norway,7,6.74
+Peru,2,9.0
+Philippines,5,8.7
+Poland,50,7.7
+Portugal,14,8.27
+Qatar,1,6.8
+Romania,7,7.73
+Russia,6,8.33
+Republic of Serbia,3,6.83
+Slovakia,3,8.07
+Slovenia,1,9.0
+South Africa,5,8.6
+South Korea,10,6.75
+Spain,67,7.91
+Sweden,23,7.08
+Switzerland,5,7.6
+Taiwan,8,7.75
+Thailand,9,7.31
+Uganda,1,6.0
+Ukraine,3,8.63
+USA,655,7.61
+Uruguay,2,8.5
+Vietnam,2,7.1
+Argentina,7,8.39
+Australia,45,8.29
+Austria,5,8.5
+Azerbaijan,1,8.0
+Belarus,1,9.0
+Belgium,26,8.42
+Brazil,60,9.2
+Bulgaria,2,7.0
+Canada,150,8.44
+Chile,4,7.5
+China,20,8.55
+Colombia,5,9.64
+Croatia,3,9.07
+Czech Republic,8,9.19
+Denmark,9,8.11
+Ecuador,1,9.0
+England,7,8.34
+Estonia,1,8.6
+Finland,13,8.57
+France,24,8.63
+Germany,124,8.68
+Greece,16,8.86
+Honduras,1,8.8
+Hungary,7,8.36
+Iceland,1,8.0
+India,2,8.25
+Indonesia,1,10.0
+Ireland,6,8.0
+Israel,9,8.34
+Italy,48,8.62
+Japan,22,8.05
+Latvia,4,8.63
+Lebanon,1,9.0
+Lithuania,8,9.13
+Malaysia,3,9.0
+Mexico,8,8.88
+Netherlands,32,8.33
+New Zealand,10,8.18
+Norway,10,8.69
+Philippines,6,7.5
+Poland,59,8.47
+Portugal,10,7.99
+Qatar,1,7.2
+Romania,6,8.5
+Russia,12,7.94
+Republic of Serbia,4,9.23
+Slovakia,2,9.6
+Slovenia,2,9.5
+South Africa,2,9.0
+South Korea,16,8.48
+Spain,66,8.42
+Sweden,23,8.0
+Switzerland,8,7.35
+Taiwan,19,9.05
+Thailand,7,8.64
+Turkey,1,8.5
+Ukraine,7,7.71
+USA,642,8.23
+Venezuela,2,8.0
+Vietnam,2,7.5
+Argentina,7,8.83
+Australia,36,8.06
+Austria,6,8.5
+Belarus,1,10.0
+Belgium,22,8.36
+Bolivia,2,5.25
+Brazil,39,8.97
+Bulgaria,3,9.0
+Canada,123,8.66
+Chile,8,8.48
+China,10,8.85
+Colombia,7,8.71
+Croatia,2,8.8
+Czech Republic,10,8.95
+Denmark,8,8.58
+England,8,8.13
+Estonia,3,9.53
+Finland,15,8.05
+France,21,8.87
+Germany,108,8.64
+Greece,15,8.96
+Guatemala,1,10.0
+Hungary,15,8.87
+Iceland,2,8.5
+India,2,9.25
+Indonesia,2,10.0
+Ireland,5,8.92
+Israel,7,8.95
+Italy,31,8.38
+Japan,16,8.88
+Latvia,3,9.1
+Lebanon,1,10.0
+Lithuania,7,8.43
+Luxembourg,3,6.67
+Malaysia,1,10.0
+Mexico,7,8.95
+Netherlands,25,8.21
+New Zealand,9,8.53
+Norway,10,7.92
+Paraguay,1,9.0
+Peru,2,8.5
+Philippines,5,8.4
+Poland,63,8.89
+Portugal,6,8.08
+Qatar,1,7.8
+Romania,6,8.74
+Russia,9,8.32
+Republic of Serbia,3,9.1
+Slovakia,2,9.85
+Slovenia,1,9.0
+South Africa,2,8.0
+South Korea,16,8.49
+Spain,95,8.81
+Sweden,22,7.82
+Switzerland,8,8.63
+Taiwan,5,8.24
+Thailand,6,8.7
+Ukraine,9,8.17
+USA,626,8.51
+Uruguay,1,9.0
+Venezuela,1,8.0
+Argentina,15,8.63
+Australia,55,8.26
+Austria,9,9.17
+Belarus,2,8.0
+Belgium,20,8.27
+Bolivia,1,9.0
+Brazil,46,8.68
+Bulgaria,5,9.6
+Canada,137,8.28
+Chile,5,8.44
+China,21,8.79
+Colombia,5,8.5
+Croatia,2,8.2
+Czech Republic,10,8.3
+Denmark,8,8.24
+Ecuador,1,9.0
+England,14,8.46
+Estonia,2,9.35
+Finland,11,7.95
+France,20,8.53
+Germany,109,8.27
+Greece,21,8.65
+Guatemala,2,8.0
+Honduras,1,8.1
+Hungary,7,8.29
+Iceland,2,9.5
+India,3,8.83
+Indonesia,1,9.0
+Iran,1,9.0
+Ireland,6,8.58
+Israel,12,8.85
+Italy,41,8.23
+Japan,23,7.55
+Kenya,1,8.0
+Latvia,4,8.81
+Lithuania,6,6.83
+Luxembourg,3,6.83
+Malaysia,3,8.83
+Mexico,7,9.24
+Netherlands,20,8.15
+New Zealand,12,8.01
+Norway,11,8.49
+Peru,1,7.0
+Philippines,6,8.08
+Poland,65,8.73
+Portugal,10,8.42
+Qatar,1,9.0
+Romania,12,8.99
+Russia,13,9.02
+Republic of Serbia,2,9.5
+Slovakia,2,6.5
+Slovenia,1,8.0
+South Africa,4,8.5
+South Korea,23,8.35
+Spain,97,8.59
+Sweden,20,7.86
+Switzerland,10,7.45
+Taiwan,22,8.7
+Thailand,4,9.13
+Ukraine,5,9.5
+USA,931,8.38
+Venezuela,2,9.5
+Vietnam,2,10.0
+Argentina,6,7.58
+Australia,26,7.43
+Austria,13,7.85
+Belgium,45,7.92
+Bolivia,1,9.0
+Brazil,14,8.04
+Canada,113,7.77
+Chile,13,8.21
+China,4,8.78
+Colombia,4,8.0
+Croatia,2,7.5
+Czech Republic,17,7.29
+Denmark,8,7.0
+England,6,8.0
+Estonia,1,7.0
+Finland,19,6.78
+France,21,7.14
+Germany,150,7.86
+Greece,27,7.52
+Guatemala,1,10.0
+Hungary,8,8.75
+Iceland,1,8.0
+India,1,8.0
+Indonesia,1,7.5
+Ireland,4,8.56
+Israel,5,7.8
+Italy,41,7.42
+Japan,12,6.79
+Latvia,1,8.25
+Lithuania,3,6.3
+Luxembourg,2,9.5
+Malaysia,2,4.25
+Mexico,7,8.21
+Netherlands,27,7.54
+New Zealand,13,7.03
+Norway,13,8.08
+Peru,3,8.5
+Philippines,3,6.0
+Poland,55,7.59
+Portugal,8,7.06
+Romania,8,8.94
+Republic of Serbia,4,8.5
+Slovakia,1,7.0
+Slovenia,2,9.0
+South Africa,4,7.38
+South Korea,12,7.58
+Spain,96,7.57
+Sweden,21,7.6
+Switzerland,8,7.5
+Taiwan,6,7.95
+Thailand,2,7.5
+Trinidad and Tobago,1,9.0
+Ukraine,1,7.0
+USA,515,7.53
+Uruguay,1,9.2
+Venezuela,2,7.5
+Argentina,5,7.6
+Australia,36,7.48
+Austria,12,8.42
+Belgium,29,8.31
+Brazil,23,8.4
+Canada,151,7.95
+Chile,6,7.67
+China,12,8.07
+Colombia,2,8.0
+Croatia,6,8.7
+Czech Republic,2,7.5
+Denmark,6,7.0
+England,9,7.33
+Estonia,3,9.0
+Finland,28,7.85
+France,28,8.63
+Germany,101,8.24
+Greece,18,8.39
+Guatemala,1,9.0
+Hungary,9,8.89
+Iceland,1,8.0
+India,1,10.0
+Indonesia,1,7.0
+Iran,1,8.0
+Ireland,4,8.88
+Israel,7,8.57
+Italy,46,8.15
+Japan,10,6.3
+Lithuania,3,7.33
+Malaysia,3,5.93
+Mexico,4,8.38
+Moldova,1,7.0
+Netherlands,31,8.03
+New Zealand,16,7.69
+Norway,10,7.76
+Peru,2,8.25
+Philippines,3,5.0
+Poland,40,7.3
+Portugal,7,7.86
+Qatar,1,7.6
+Romania,2,8.9
+Russia,2,7.5
+Republic of Serbia,1,7.0
+Slovakia,1,4.0
+Slovenia,2,10.0
+South Africa,3,8.67
+South Korea,32,8.67
+Spain,64,7.95
+Sweden,20,7.68
+Switzerland,6,8.67
+Taiwan,20,7.82
+Thailand,4,7.93
+USA,738,7.88
+Venezuela,3,8.0
+Vietnam,1,8.0
+Argentina,13,8.0
+Australia,71,7.81
+Austria,4,7.75
+Belarus,2,6.5
+Belgium,21,7.53
+Brazil,46,8.26
+Bulgaria,6,7.33
+Canada,182,7.82
+Chile,7,7.89
+China,16,7.38
+Colombia,8,8.06
+Croatia,4,8.5
+Czech Republic,4,8.0
+Denmark,12,7.24
+England,4,7.08
+Estonia,2,6.5
+Finland,16,7.49
+France,15,7.77
+Germany,40,7.53
+Greece,16,7.86
+Guatemala,1,10.0
+Hungary,1,6.0
+India,2,8.25
+Indonesia,5,8.5
+Ireland,9,8.11
+Israel,5,7.9
+Italy,25,7.57
+Japan,15,5.93
+Latvia,3,8.83
+Lithuania,7,7.14
+Luxembourg,1,8.0
+Macedonia,1,7.0
+Malaysia,9,8.83
+Mexico,8,8.59
+Moldova,2,9.5
+Netherlands,20,7.13
+New Zealand,12,7.79
+Norway,5,7.6
+Peru,3,7.33
+Philippines,4,7.88
+Poland,40,7.18
+Portugal,9,7.64
+Puerto Rico,1,9.0
+Qatar,1,7.2
+Romania,9,7.33
+Russia,9,7.03
+Saudi Arabia,1,9.0
+Republic of Serbia,4,7.75
+Slovakia,1,8.6
+Slovenia,1,10.0
+South Africa,3,7.33
+South Korea,12,7.38
+Spain,84,7.39
+Sweden,31,7.26
+Switzerland,8,6.75
+Taiwan,9,7.68
+Thailand,5,6.8
+Turkey,2,8.75
+Uganda,1,8.0
+Ukraine,2,9.5
+USA,952,7.6
+Uruguay,2,8.75
+Venezuela,3,10.0
+Vietnam,1,8.0
+Argentina,7,8.19
+Australia,42,8.15
+Austria,5,7.9
+Belarus,2,7.25
+Belgium,11,7.78
+Brazil,30,8.36
+Bulgaria,5,7.0
+Canada,84,8.08
+Chile,4,7.7
+China,17,7.65
+Colombia,4,8.5
+Croatia,3,8.67
+Czech Republic,5,8.2
+Denmark,7,8.0
+England,6,8.28
+Estonia,1,7.9
+Finland,9,7.41
+France,6,8.08
+Germany,21,7.46
+Greece,23,8.22
+Hungary,3,7.67
+Iceland,1,10.0
+India,2,9.0
+Indonesia,5,9.1
+Ireland,2,8.0
+Israel,4,8.38
+Italy,20,7.93
+Japan,12,6.74
+Latvia,4,7.38
+Lithuania,4,6.0
+Malaysia,4,8.63
+Mexico,9,8.44
+Moldova,1,10.0
+Netherlands,9,7.89
+New Zealand,11,8.0
+Norway,6,7.58
+Philippines,6,9.17
+Poland,31,8.12
+Portugal,2,8.5
+Qatar,1,9.4
+Romania,2,8.85
+Russia,1,8.0
+Republic of Serbia,4,7.63
+Slovenia,1,7.2
+South Africa,1,9.0
+South Korea,14,7.64
+Spain,55,7.72
+Sweden,17,7.32
+Switzerland,7,8.14
+Taiwan,19,7.8
+Thailand,14,8.57
+Ukraine,4,9.0
+USA,466,7.86
+Uruguay,1,9.0
+Venezuela,2,8.0
+Vietnam,2,8.63
+Argentina,2,7.0
+Australia,24,7.4
+Austria,8,9.0
+Azerbaijan,1,10.0
+Belgium,10,8.75
+Brazil,21,8.89
+Canada,101,8.14
+Chile,1,7.0
+China,22,8.7
+Colombia,3,8.5
+Croatia,2,8.7
+Czech Republic,12,8.79
+Denmark,10,6.52
+England,4,7.75
+Estonia,3,6.67
+Finland,16,8.28
+France,18,8.55
+Germany,91,8.61
+Greece,23,9.0
+Hungary,5,5.8
+India,3,9.17
+Indonesia,3,7.9
+Ireland,2,9.5
+Israel,7,8.74
+Italy,24,8.73
+Japan,6,5.67
+Latvia,3,9.0
+Lithuania,6,9.17
+Malaysia,5,7.14
+Mexico,3,9.33
+Netherlands,17,7.56
+New Zealand,6,7.25
+Norway,6,7.25
+Peru,2,8.5
+Philippines,2,5.5
+Poland,61,8.38
+Portugal,3,8.0
+Qatar,1,9.4
+Romania,2,9.88
+Russia,6,7.29
+Republic of Serbia,3,8.67
+Slovakia,3,8.67
+South Africa,1,9.0
+South Korea,23,7.86
+Spain,70,8.7
+Sweden,20,8.2
+Switzerland,6,8.0
+Taiwan,12,8.25
+Thailand,4,5.75
+Ukraine,1,1.0
+USA,477,8.11
+Uruguay,1,8.5
+Venezuela,1,10.0
+Vietnam,1,10.0
+Argentina,1,7.0
+Australia,40,7.28
+Austria,8,6.44
+Belgium,16,7.94
+Bolivia,1,9.0
+Brazil,22,8.11
+Canada,107,7.22
+Chile,6,8.17
+China,6,6.08
+Croatia,1,9.0
+Czech Republic,7,7.07
+Denmark,6,6.17
+England,7,7.14
+Estonia,2,6.45
+Finland,28,7.0
+France,17,7.19
+Germany,79,7.28
+Greece,16,7.54
+Guatemala,1,5.0
+Hungary,8,7.38
+India,2,8.5
+Indonesia,1,6.0
+Ireland,5,7.6
+Israel,6,7.0
+Italy,26,7.36
+Japan,19,6.38
+Latvia,2,7.5
+Malaysia,7,7.2
+Mexico,3,8.33
+Netherlands,26,7.53
+New Zealand,11,6.86
+Norway,11,7.41
+Philippines,1,6.0
+Poland,29,7.06
+Portugal,8,7.0
+Romania,2,7.75
+Russia,1,6.0
+Saudi Arabia,1,8.0
+Republic of Serbia,1,6.9
+Slovakia,1,7.0
+Slovenia,2,8.75
+South Africa,2,7.5
+South Korea,7,7.5
+Spain,51,7.32
+Sweden,26,7.37
+Switzerland,4,8.25
+Taiwan,9,7.39
+Thailand,2,7.5
+Turkey,2,6.0
+Ukraine,2,5.5
+USA,707,7.43
+Uruguay,1,10.0
+Venezuela,1,8.0
+Argentina,13,7.69
+Australia,55,7.28
+Austria,15,7.3
+Belgium,29,7.4
+Brazil,33,8.23
+Canada,137,7.5
+Chile,4,7.55
+China,6,6.87
+Colombia,1,6.5
+Croatia,1,10.0
+Czech Republic,15,7.15
+Denmark,14,6.96
+England,9,7.69
+Estonia,5,7.04
+Finland,38,7.17
+France,19,7.34
+Germany,199,7.4
+Greece,25,7.84
+Hungary,12,7.97
+Iceland,1,7.0
+India,2,9.25
+Indonesia,1,7.0
+Ireland,2,7.75
+Israel,4,9.0
+Italy,54,7.63
+Japan,21,6.29
+Latvia,3,7.67
+Lithuania,4,7.0
+Malaysia,4,6.55
+Mexico,3,7.27
+Mongolia,1,7.0
+Netherlands,30,7.63
+New Zealand,11,6.79
+Norway,17,7.65
+Philippines,2,3.5
+Poland,56,7.76
+Portugal,11,7.26
+Qatar,1,6.0
+Romania,7,8.43
+Russia,9,8.02
+Saudi Arabia,1,7.0
+Republic of Serbia,3,7.9
+Slovakia,3,7.33
+Slovenia,2,8.25
+South Africa,2,6.0
+South Korea,15,7.73
+Spain,55,7.5
+Sweden,29,7.28
+Switzerland,13,7.46
+Taiwan,12,7.8
+Thailand,2,8.0
+Ukraine,4,7.5
+USA,710,7.6
+Uruguay,1,8.0
+Venezuela,2,9.0
+Argentina,3,6.33
+Australia,25,8.0
+Austria,6,8.5
+Belgium,15,7.9
+Brazil,18,8.29
+Bulgaria,1,8.0
+Canada,65,7.96
+Chile,2,8.0
+China,11,7.55
+Colombia,1,8.0
+Croatia,1,7.6
+Czech Republic,9,7.39
+Denmark,1,1.0
+England,4,7.0
+Estonia,1,9.0
+Finland,18,8.33
+France,7,9.14
+Germany,98,8.2
+Greece,39,8.12
+Guatemala,1,9.0
+Hungary,7,7.29
+Indonesia,1,5.0
+Ireland,1,9.0
+Israel,5,8.3
+Italy,23,7.28
+Japan,12,6.42
+Latvia,2,6.0
+Lithuania,2,8.5
+Luxembourg,1,6.0
+Malaysia,1,8.0
+Moldova,1,8.0
+Netherlands,24,7.92
+New Zealand,6,8.8
+Norway,7,6.36
+Philippines,2,8.5
+Poland,26,8.29
+Portugal,11,7.77
+Qatar,1,3.6
+Russia,3,7.0
+Republic of Serbia,2,8.0
+Slovakia,1,10.0
+Slovenia,1,9.5
+South Africa,1,10.0
+South Korea,29,7.98
+Spain,45,7.37
+Sweden,10,6.39
+Switzerland,5,8.2
+Taiwan,13,7.83
+Thailand,2,7.5
+Ukraine,1,7.0
+USA,479,7.87
+Albania,1,5.0
+Argentina,18,8.11
+Australia,135,7.94
+Austria,21,7.76
+The Bahamas,1,8.75
+Belarus,1,7.0
+Belgium,58,7.89
+Bosnia and Herzegovina,1,10.0
+Brazil,98,8.41
+Bulgaria,6,7.92
+Canada,457,8.08
+Chile,25,8.14
+China,22,7.6
+Colombia,3,9.33
+Costa Rica,2,10.0
+Croatia,8,8.38
+Czech Republic,16,8.22
+Denmark,22,7.46
+England,16,8.16
+Estonia,2,8.5
+Finland,55,7.82
+France,41,7.74
+Germany,200,7.79
+Greece,23,8.07
+Guatemala,2,9.5
+Hungary,20,8.18
+Iceland,4,8.0
+India,4,8.0
+Indonesia,7,8.06
+Ireland,17,7.83
+Israel,16,7.51
+Italy,67,7.98
+Japan,40,7.48
+Latvia,9,7.72
+Lebanon,1,8.0
+Lithuania,17,7.62
+Luxembourg,2,8.5
+Macedonia,2,9.5
+Malaysia,12,8.04
+Mexico,28,8.86
+Moldova,1,8.0
+Netherlands,50,7.88
+New Zealand,22,7.11
+Norway,27,7.99
+Peru,2,8.5
+Philippines,9,7.72
+Poland,60,7.73
+Portugal,18,8.26
+Qatar,1,3.0
+Romania,12,9.08
+Russia,23,8.2
+Saudi Arabia,2,7.5
+Republic of Serbia,8,7.94
+Slovakia,2,7.5
+Slovenia,2,8.0
+South Africa,10,8.4
+South Korea,36,7.93
+Spain,151,7.87
+Sweden,83,7.61
+Switzerland,15,8.67
+Taiwan,23,7.77
+Thailand,15,7.66
+Ukraine,4,8.25
+USA,3157,8.1
+Uruguay,1,8.5
+Venezuela,3,9.67
+Vietnam,2,7.5
+Argentina,18,8.29
+Australia,115,8.19
+Austria,16,7.51
+Belarus,4,8.88
+Belgium,64,8.02
+Bolivia,1,10.0
+Brazil,70,8.46
+Brunei,1,8.5
+Bulgaria,9,8.61
+Canada,311,8.18
+Chile,13,8.78
+China,21,7.71
+Colombia,9,8.57
+Costa Rica,4,9.5
+Croatia,7,8.94
+Czech Republic,12,8.38
+Denmark,29,7.99
+England,21,7.63
+Estonia,12,8.18
+Finland,41,7.77
+France,38,7.69
+Germany,158,7.81
+Greece,59,8.09
+Honduras,1,8.5
+Hungary,26,8.23
+Iceland,6,7.92
+India,4,8.25
+Indonesia,5,8.6
+Iran,4,9.13
+Ireland,16,8.0
+Israel,10,8.19
+Italy,67,7.95
+Japan,25,7.42
+Kenya,1,9.0
+Latvia,10,7.6
+Lithuania,18,8.17
+Luxembourg,3,8.0
+Macedonia,3,9.67
+Malaysia,10,8.4
+Mexico,15,8.3
+Netherlands,64,7.99
+New Zealand,25,7.59
+Norway,29,7.95
+Peru,3,8.0
+Philippines,8,9.13
+Poland,142,8.17
+Portugal,36,8.33
+Qatar,1,8.0
+Romania,27,8.76
+Russia,26,8.27
+Republic of Serbia,10,8.8
+Slovakia,4,8.53
+Slovenia,6,8.75
+South Africa,10,8.4
+South Korea,27,7.66
+Spain,173,8.16
+Sweden,68,7.73
+Switzerland,16,7.88
+Taiwan,19,8.4
+Thailand,8,8.81
+Turkey,2,8.5
+Uganda,1,7.0
+Ukraine,15,9.2
+USA,1486,8.02
+Uruguay,2,8.0
+Venezuela,1,8.0
+Vietnam,2,8.0
+Zambia,1,9.0
+Argentina,1,9.2
+Australia,24,7.73
+Austria,2,6.5
+Belgium,15,7.9
+Brazil,19,8.22
+Canada,92,7.68
+Chile,2,8.0
+China,4,6.88
+Colombia,1,9.0
+Czech Republic,3,9.0
+Denmark,9,6.89
+England,3,7.33
+Estonia,4,6.88
+Finland,9,7.94
+France,9,7.33
+Germany,46,7.57
+Greece,5,7.84
+Hungary,5,7.2
+Iceland,1,8.0
+India,2,8.5
+Indonesia,2,6.5
+Ireland,4,8.0
+Israel,4,8.0
+Italy,25,8.1
+Japan,17,7.53
+Latvia,1,7.0
+Luxembourg,1,7.5
+Malaysia,5,8.44
+Mexico,3,9.0
+Mongolia,1,8.0
+Netherlands,14,8.04
+New Zealand,6,8.0
+Norway,10,8.15
+Philippines,1,6.0
+Poland,22,7.98
+Portugal,3,7.0
+Romania,6,9.0
+Russia,6,8.17
+South Korea,4,7.75
+Spain,20,7.78
+Sweden,12,7.55
+Switzerland,3,9.33
+Taiwan,6,8.33
+Thailand,9,7.9
+Ukraine,1,9.0
+USA,514,7.73
+Argentina,4,8.3
+Australia,62,8.08
+Austria,16,8.34
+Belgium,37,8.26
+Bolivia,1,10.0
+Brazil,47,8.49
+Bulgaria,1,10.0
+Canada,184,8.02
+Chile,3,9.67
+China,20,8.23
+Colombia,3,9.5
+Croatia,3,8.83
+Czech Republic,11,8.0
+Denmark,16,7.94
+England,8,7.88
+Estonia,1,8.0
+Fiji,1,8.0
+Finland,38,8.22
+France,34,8.2
+Germany,126,8.06
+Greece,23,8.17
+Hungary,14,7.39
+Iceland,1,8.0
+India,1,10.0
+Indonesia,2,6.5
+Ireland,5,8.7
+Israel,10,8.06
+Italy,45,8.27
+Japan,29,8.02
+Latvia,3,7.33
+Lithuania,6,8.0
+Luxembourg,1,7.0
+Malaysia,8,7.94
+Mexico,7,8.06
+Netherlands,50,8.1
+New Zealand,18,7.31
+Norway,17,8.75
+Panama,1,8.0
+Peru,1,8.0
+Philippines,3,8.17
+Poland,55,7.72
+Portugal,15,8.37
+Qatar,1,7.8
+Russia,7,7.36
+Republic of Serbia,1,8.5
+Slovakia,2,5.0
+Slovenia,3,9.43
+South Africa,3,6.67
+South Korea,35,8.42
+Spain,91,8.32
+Sweden,35,7.8
+Switzerland,12,8.38
+Taiwan,20,8.33
+Thailand,4,7.25
+Turkey,1,10.0
+Ukraine,4,7.0
+USA,1119,8.05
+Uruguay,1,9.0
+Venezuela,2,8.0
+Vietnam,1,8.0
+Argentina,11,7.89
+Australia,38,7.36
+Austria,19,7.16
+Belarus,1,8.0
+Belgium,31,7.74
+Brazil,43,8.49
+Bulgaria,1,7.0
+Canada,140,7.58
+Chile,8,8.36
+China,7,7.14
+Colombia,3,8.5
+Croatia,1,7.0
+Czech Republic,14,8.14
+Denmark,9,7.44
+England,8,7.94
+Estonia,4,7.73
+Finland,25,7.7
+France,31,7.8
+Germany,156,7.36
+Greece,17,7.94
+Hungary,28,8.05
+Ireland,3,8.0
+Israel,5,7.5
+Italy,44,7.72
+Japan,22,7.24
+Lithuania,4,6.5
+Luxembourg,4,7.75
+Malaysia,3,6.9
+Mexico,6,8.62
+Netherlands,43,7.79
+New Zealand,17,7.04
+Norway,14,7.36
+Philippines,1,5.0
+Poland,46,7.88
+Portugal,5,7.69
+Qatar,1,7.0
+Romania,3,8.6
+Russia,5,7.6
+Saudi Arabia,1,9.0
+Republic of Serbia,1,8.0
+Slovakia,3,9.67
+Slovenia,4,7.5
+South Africa,3,7.67
+South Korea,26,7.5
+Spain,66,7.95
+Sweden,17,6.88
+Switzerland,14,7.07
+Taiwan,6,7.37
+Thailand,7,8.21
+Turkey,1,8.0
+Ukraine,2,5.0
+USA,793,7.53
+Venezuela,1,7.0
+Vietnam,1,9.0
+Argentina,5,8.2
+Australia,17,7.14
+Austria,16,7.13
+Belgium,21,7.57
+Brazil,21,8.22
+Canada,66,7.25
+Chile,9,8.47
+China,3,7.77
+Colombia,1,9.0
+Czech Republic,6,7.0
+Denmark,4,7.5
+England,4,7.88
+Estonia,3,4.67
+Finland,13,7.22
+France,15,7.58
+Germany,108,7.21
+Greece,8,7.44
+Hungary,4,8.0
+Indonesia,1,8.0
+Ireland,2,8.25
+Italy,22,7.05
+Japan,25,7.22
+Latvia,1,7.0
+Lithuania,2,7.5
+Malaysia,2,5.8
+Mexico,4,7.63
+Netherlands,16,8.17
+New Zealand,6,6.5
+Norway,6,6.33
+Poland,14,7.57
+Portugal,5,6.4
+Romania,1,10.0
+Saudi Arabia,1,8.0
+Republic of Serbia,1,8.0
+Slovenia,1,10.0
+South Africa,2,7.0
+South Korea,22,7.61
+Spain,35,8.11
+Sweden,12,7.75
+Switzerland,5,7.7
+Taiwan,9,7.94
+Thailand,2,7.75
+Ukraine,3,6.8
+USA,451,7.26
+Venezuela,1,10.0
+Argentina,9,7.22
+Australia,46,7.23
+Austria,4,6.75
+Belgium,7,7.43
+Brazil,31,7.62
+Brunei,1,9.0
+Bulgaria,1,9.0
+Canada,108,7.04
+Chile,6,7.58
+China,2,5.5
+Colombia,2,8.5
+Croatia,1,9.0
+Czech Republic,2,7.0
+Denmark,7,7.1
+England,8,6.94
+Estonia,1,7.0
+Finland,11,7.0
+France,8,6.5
+Germany,40,6.86
+Greece,16,6.53
+Hungary,2,7.5
+Iceland,1,8.0
+Ireland,4,7.75
+Israel,4,7.24
+Italy,9,6.76
+Japan,4,4.73
+Latvia,1,8.0
+Luxembourg,1,8.0
+Malaysia,2,7.75
+Mexico,10,7.54
+Netherlands,9,5.93
+New Zealand,5,6.22
+Norway,14,7.16
+Peru,3,6.67
+Philippines,2,8.0
+Poland,8,6.94
+Portugal,13,7.1
+Qatar,2,6.0
+Romania,3,8.13
+Russia,7,6.32
+Republic of Serbia,1,9.0
+Slovakia,1,10.0
+Slovenia,1,10.0
+South Korea,2,7.0
+Spain,29,6.59
+Sweden,19,7.34
+Switzerland,7,7.17
+Taiwan,2,6.0
+Thailand,3,7.5
+Ukraine,1,8.0
+USA,862,6.94
+Venezuela,1,7.0
+Argentina,3,8.5
+Australia,24,7.69
+Austria,4,8.75
+Belgium,5,7.9
+Brazil,25,8.71
+Canada,104,7.93
+Chile,4,8.65
+China,5,7.02
+Colombia,2,9.75
+Croatia,1,7.0
+Czech Republic,1,9.0
+Denmark,7,7.14
+England,2,7.0
+Estonia,2,8.5
+Finland,17,6.76
+France,8,7.84
+Germany,37,7.68
+Greece,10,8.5
+Hungary,3,6.33
+Iceland,1,9.0
+Indonesia,2,9.5
+Ireland,4,7.38
+Israel,6,6.42
+Italy,18,7.79
+Japan,2,4.0
+Latvia,2,6.9
+Lebanon,1,8.0
+Lithuania,5,8.0
+Malaysia,6,5.75
+Mexico,4,5.63
+Netherlands,7,7.8
+New Zealand,3,6.67
+Norway,10,6.9
+Peru,3,8.0
+Philippines,2,7.5
+Poland,13,7.88
+Portugal,5,8.0
+Qatar,1,7.0
+Romania,1,10.0
+Russia,7,7.71
+Republic of Serbia,2,7.75
+Slovakia,1,10.0
+Slovenia,1,9.0
+South Africa,2,7.0
+South Korea,5,7.5
+Spain,37,8.14
+Sweden,29,7.4
+Switzerland,3,9.0
+Taiwan,4,8.03
+Thailand,1,7.5
+Ukraine,4,6.63
+USA,548,7.68
+Venezuela,1,6.0
+Vietnam,1,10.0
+Argentina,12,8.89
+Australia,48,8.28
+Austria,7,9.43
+Azerbaijan,1,10.0
+Belarus,2,8.5
+Belgium,14,8.8
+Bolivia,1,10.0
+Brazil,31,9.25
+Bulgaria,1,10.0
+Canada,139,8.33
+Chile,11,8.95
+China,31,8.8
+Colombia,3,9.33
+Croatia,3,9.17
+Czech Republic,10,6.9
+Denmark,8,8.0
+England,6,8.5
+Estonia,6,8.65
+Finland,16,8.56
+France,13,8.74
+Germany,69,8.14
+Greece,17,8.45
+Hungary,5,5.3
+Iceland,2,8.0
+India,2,9.5
+Iran,1,9.0
+Ireland,11,9.05
+Israel,7,8.46
+Italy,53,8.51
+Japan,10,7.75
+Latvia,4,8.75
+Lithuania,9,9.06
+Luxembourg,1,4.0
+Malaysia,8,7.04
+Mexico,8,8.91
+Moldova,1,9.0
+Netherlands,14,8.38
+New Zealand,15,7.11
+Norway,11,8.4
+Peru,4,9.13
+Philippines,4,8.0
+Poland,68,8.52
+Portugal,13,8.81
+Qatar,1,8.0
+Romania,5,7.8
+Russia,9,8.94
+Republic of Serbia,2,7.5
+Slovakia,1,9.5
+Slovenia,1,8.5
+South Africa,3,6.17
+South Korea,22,8.5
+Spain,148,8.78
+Sweden,20,7.36
+Switzerland,4,8.58
+Taiwan,12,8.38
+Thailand,6,6.33
+Turkey,3,10.0
+Ukraine,6,7.33
+USA,812,8.37
+Uruguay,1,10.0
+Venezuela,1,2.0
+Argentina,7,8.36
+Australia,30,7.79
+Austria,5,7.7
+Belarus,2,9.0
+Belgium,24,8.22
+Bolivia,1,8.0
+Brazil,46,8.8
+Bulgaria,1,10.0
+Canada,84,8.44
+Chile,3,8.0
+China,12,8.66
+Colombia,2,9.0
+Croatia,2,8.1
+Czech Republic,8,8.63
+Denmark,7,8.21
+England,9,8.13
+Estonia,2,8.7
+Finland,9,7.98
+France,20,8.18
+Germany,80,8.33
+Greece,23,8.93
+Guatemala,1,9.0
+Honduras,1,9.2
+Hungary,9,8.28
+Iceland,1,8.0
+India,2,9.25
+Ireland,4,8.5
+Israel,9,8.33
+Italy,37,8.66
+Japan,19,7.99
+Latvia,5,8.8
+Lithuania,6,8.83
+Malaysia,2,9.0
+Mexico,7,8.66
+Netherlands,32,7.8
+New Zealand,11,8.27
+Norway,7,8.6
+Peru,1,9.5
+Philippines,3,5.0
+Poland,53,8.4
+Portugal,11,8.53
+Qatar,1,8.0
+Romania,14,8.86
+Russia,10,7.93
+Republic of Serbia,1,9.5
+Slovakia,2,9.53
+South Africa,2,8.5
+South Korea,18,7.69
+Spain,79,8.25
+Sweden,27,7.75
+Switzerland,10,8.1
+Taiwan,15,8.6
+Thailand,6,9.28
+Uganda,1,8.0
+Ukraine,5,8.38
+United Arab Emirates,1,7.0
+USA,517,7.98
+Venezuela,1,9.0
+Vietnam,1,7.25
+Argentina,15,6.63
+Australia,56,5.8
+Austria,8,5.33
+Belarus,1,8.0
+Belgium,22,6.23
+Bolivia,1,6.0
+Brazil,57,6.09
+Bulgaria,3,8.0
+Canada,128,5.81
+Chile,10,6.56
+China,12,6.23
+Colombia,3,7.33
+Croatia,5,6.4
+Czech Republic,1,4.0
+Denmark,8,5.75
+England,6,6.25
+Estonia,4,6.25
+Finland,27,5.51
+France,14,6.11
+Germany,88,5.87
+Greece,17,6.22
+Guatemala,2,7.25
+Honduras,1,6.8
+Hungary,8,6.31
+India,2,6.5
+Indonesia,2,6.5
+Ireland,2,6.0
+Israel,2,4.0
+Italy,32,5.91
+Japan,17,5.56
+Latvia,5,5.5
+Lithuania,11,5.73
+Luxembourg,1,4.0
+Macedonia,2,7.0
+Malaysia,3,5.5
+Mexico,5,6.36
+Moldova,1,7.0
+Netherlands,18,5.86
+New Zealand,6,4.82
+Norway,12,4.46
+Peru,3,6.0
+Philippines,3,5.33
+Poland,29,5.84
+Portugal,15,6.24
+Romania,4,6.05
+Russia,16,5.98
+Republic of Serbia,3,5.67
+Slovenia,4,4.63
+South Africa,2,6.0
+South Korea,11,5.53
+Spain,60,5.73
+Sweden,28,5.05
+Switzerland,7,6.93
+Taiwan,8,6.31
+Thailand,3,6.0
+Turkey,1,6.0
+Ukraine,5,6.4
+USA,865,5.56
+Uruguay,1,7.5
+Venezuela,1,7.0
+Argentina,4,8.2
+Australia,28,7.64
+Austria,11,7.75
+Belarus,1,7.0
+Belgium,24,8.16
+Brazil,35,8.69
+Bulgaria,5,7.7
+Canada,63,7.77
+Chile,4,7.0
+China,16,8.01
+Colombia,1,7.0
+Croatia,4,7.85
+Czech Republic,6,7.0
+Denmark,5,8.2
+England,7,8.3
+Estonia,4,8.33
+Finland,14,7.75
+France,18,7.69
+Germany,123,8.0
+Greece,21,8.12
+Hungary,10,8.1
+Iceland,2,8.0
+India,1,8.0
+Indonesia,1,8.5
+Ireland,4,8.63
+Israel,3,9.33
+Italy,33,7.83
+Japan,18,7.79
+Latvia,4,8.0
+Lithuania,9,6.94
+Luxembourg,2,7.5
+Malaysia,2,8.5
+Mexico,2,8.5
+Netherlands,28,7.72
+New Zealand,7,6.95
+Norway,5,7.34
+Philippines,2,6.0
+Poland,23,7.85
+Portugal,5,8.06
+Qatar,1,8.0
+Romania,5,8.09
+Russia,7,7.14
+Saudi Arabia,1,10.0
+Republic of Serbia,2,8.5
+Slovakia,1,7.0
+South Africa,1,7.0
+South Korea,14,7.54
+Spain,80,7.81
+Sweden,12,7.58
+Switzerland,8,8.25
+Taiwan,13,8.25
+Thailand,4,7.55
+Ukraine,4,8.78
+USA,367,7.64
+Uruguay,1,9.0
+Venezuela,2,8.5
+Argentina,2,6.0
+Australia,22,7.02
+Belgium,5,5.92
+Brazil,7,6.57
+Brunei,1,8.0
+Canada,98,7.3
+China,3,7.0
+Croatia,1,3.5
+Czech Republic,1,7.0
+Denmark,1,8.0
+England,4,6.65
+Estonia,1,9.0
+Finland,9,7.66
+France,1,8.0
+Germany,13,6.13
+Greece,10,7.59
+Hungary,1,6.0
+Iceland,1,7.5
+India,1,9.0
+Indonesia,1,8.0
+Ireland,3,7.92
+Israel,3,7.18
+Italy,3,7.17
+Japan,1,5.0
+Latvia,1,6.0
+Luxembourg,1,8.0
+Malaysia,3,7.5
+Mexico,2,8.4
+Netherlands,9,7.03
+New Zealand,7,7.43
+Norway,4,7.38
+Philippines,2,5.5
+Poland,5,6.96
+Portugal,4,6.75
+Romania,1,8.0
+Russia,4,7.75
+South Africa,1,7.0
+South Korea,3,7.0
+Spain,18,6.97
+Sweden,4,8.25
+Switzerland,1,5.0
+Taiwan,3,6.67
+Thailand,1,8.0
+USA,835,7.3
+Australia,27,5.56
+Austria,3,6.17
+Belgium,10,6.44
+Brazil,18,5.98
+Brunei,1,7.0
+Bulgaria,2,8.0
+Canada,109,5.55
+Chile,1,6.0
+China,2,5.0
+Costa Rica,1,5.0
+Croatia,1,4.0
+Czech Republic,2,6.5
+Denmark,4,3.88
+England,2,5.0
+Estonia,2,7.5
+Finland,19,5.45
+France,7,5.41
+Germany,51,5.21
+Greece,4,6.88
+Guatemala,1,8.0
+Hungary,1,5.0
+India,1,8.0
+Italy,8,6.6
+Japan,6,6.83
+Latvia,1,5.5
+Lithuania,5,6.2
+Macedonia,1,6.0
+Malaysia,1,4.0
+Mexico,3,7.0
+Netherlands,16,5.89
+New Zealand,7,6.0
+Norway,11,4.32
+Peru,1,6.0
+Philippines,1,5.0
+Poland,4,6.0
+Portugal,1,6.9
+Qatar,1,4.0
+Romania,3,5.0
+Russia,4,4.5
+Republic of Serbia,1,6.0
+Slovenia,1,6.0
+South Africa,1,4.0
+South Korea,8,6.81
+Spain,10,6.67
+Sweden,22,4.86
+Switzerland,3,6.67
+Turkey,1,7.0
+USA,734,5.54
+Venezuela,1,8.0
+Argentina,4,6.75
+Australia,22,6.42
+Austria,2,6.5
+Belgium,8,5.5
+Brazil,10,6.99
+Canada,124,6.6
+Chile,4,6.25
+Colombia,1,7.0
+Costa Rica,1,7.0
+Czech Republic,2,6.0
+Denmark,6,5.67
+England,7,6.86
+Estonia,2,8.0
+Finland,10,5.38
+France,7,5.73
+Germany,57,6.35
+Greece,12,6.42
+Iceland,1,6.0
+Ireland,4,5.5
+Israel,1,4.0
+Italy,23,6.09
+Japan,3,4.33
+Latvia,1,10.0
+Luxembourg,1,7.0
+Malaysia,3,5.67
+Mexico,5,6.16
+Netherlands,12,6.43
+New Zealand,2,4.5
+Norway,5,4.8
+Poland,5,5.3
+Portugal,1,5.0
+Qatar,1,5.0
+Russia,3,6.17
+Republic of Serbia,1,10.0
+Slovenia,1,6.0
+South Korea,2,5.0
+Spain,98,5.96
+Sweden,22,4.82
+Switzerland,3,7.0
+Taiwan,2,6.0
+Thailand,1,8.0
+USA,676,6.25
+Uruguay,1,8.0
+Argentina,3,7.33
+Australia,34,7.1
+Austria,12,7.75
+Belarus,1,7.5
+Belgium,17,7.33
+Brazil,15,7.5
+Brunei,1,9.0
+Bulgaria,1,7.0
+Canada,110,7.31
+Chile,8,7.26
+China,9,6.97
+Croatia,3,8.33
+Czech Republic,3,6.67
+Denmark,10,7.8
+England,5,7.6
+Estonia,4,8.55
+Finland,18,6.79
+France,23,7.66
+Germany,142,7.34
+Greece,15,7.56
+Hungary,12,6.44
+Iceland,1,8.0
+India,1,7.0
+Indonesia,2,7.25
+Ireland,4,7.13
+Israel,7,8.09
+Italy,29,7.4
+Japan,21,6.2
+Latvia,1,7.0
+Lithuania,4,6.25
+Luxembourg,3,7.17
+Malaysia,4,7.75
+Mexico,3,7.23
+Moldova,1,10.0
+Netherlands,21,7.59
+New Zealand,11,6.97
+Norway,8,7.06
+Peru,1,6.0
+Philippines,2,4.5
+Poland,25,6.99
+Portugal,8,6.84
+Romania,4,7.25
+Russia,8,7.22
+Saudi Arabia,1,7.0
+Republic of Serbia,1,5.0
+Slovakia,1,7.0
+Slovenia,1,10.0
+South Africa,1,8.0
+South Korea,13,7.04
+Spain,42,7.65
+Sweden,21,7.39
+Switzerland,10,8.34
+Taiwan,11,7.48
+Thailand,4,7.75
+Ukraine,2,8.1
+USA,650,7.17
+Venezuela,2,8.75
+Vietnam,1,7.2
